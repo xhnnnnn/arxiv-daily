@@ -8,3 +8,6 @@
 "Network Statistics":
   "Network Bootstrap": '"network bootstrap"ANDcat:"stat.*"'
   "Graph Neural Network": '"graph neural network"ANDcat:"stat.*"'
+  
+"Casual Inference":
+  "Casual Inference": '"causal"ANDcat:"stat.*"'
