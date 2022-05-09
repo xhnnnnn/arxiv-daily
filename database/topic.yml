@@ -10,4 +10,4 @@
   "Graph Neural Network": '"graph neural network"ANDcat:"stat.*"'
   
 "Casual Inference":
-  "Casual Inference": '"causal"ANDcat:"stat.*"'
+  "Casual Inference": '"causal "ANDcat:"stat.*"'
