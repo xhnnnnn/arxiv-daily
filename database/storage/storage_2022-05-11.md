@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-11 07:32:00 Asia/Shanghai
+ Automated deployment @ 2022-05-11 19:26:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v2](http://arxiv.org/abs/2205.00772v2)|[link](https://github.com/jokofa/jampr_plus)|
+|**2022-05-10**|**Flow Completion Network: Inferring the Fluid Dynamics from Incomplete Flow Information using Graph Neural Networks**|Xiaodong He et.al.|[2205.04739v1](http://arxiv.org/abs/2205.04739v1)|null|
+|**2022-05-10**|**SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures**|Yunjae Lee et.al.|[2205.04711v1](http://arxiv.org/abs/2205.04711v1)|null|
+|**2022-05-10**|**Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting**|Mingyang Chen et.al.|[2205.04692v1](http://arxiv.org/abs/2205.04692v1)|[link](https://github.com/zjukg/maker)|
 |**2022-05-09**|**Graph Neural Networks for Propositional Model Counting**|Gaia Saveri et.al.|[2205.04423v1](http://arxiv.org/abs/2205.04423v1)|null|
 |**2022-05-09**|**Joint learning of object graph and relation graph for visual question answering**|Hao Li et.al.|[2205.04188v1](http://arxiv.org/abs/2205.04188v1)|null|
 |**2021-04-03**|**Do We Need Anisotropic Graph Neural Networks?**|Shyam A. Tailor et.al.|[2104.01481v5](http://arxiv.org/abs/2104.01481v5)|[link](https://github.com/shyam196/egc)|
@@ -24,13 +28,30 @@
 |**2022-03-30**|**AdaGrid: Adaptive Grid Search for Link Prediction Training Objective**|Tim Poštuvan et.al.|[2203.16162v2](http://arxiv.org/abs/2203.16162v2)|[link](https://github.com/timpostuvan/adagrid)|
 |**2022-05-08**|**Data-Free Adversarial Knowledge Distillation for Graph Neural Networks**|Yuanxin Zhuang et.al.|[2205.03811v1](http://arxiv.org/abs/2205.03811v1)|null|
 |**2022-05-08**|**GRAPHCACHE: Message Passing as Caching for Sentence-Level Relation Extraction**|Yiwei Wang et.al.|[2205.03786v1](http://arxiv.org/abs/2205.03786v1)|null|
+|**2022-05-08**|**Adaptive Graph Convolutional Network Framework for Multidimensional Time Series Prediction**|Ning Wang et.al.|[2205.04885v1](http://arxiv.org/abs/2205.04885v1)|null|
 |**2021-05-25**|**Boosting-GNN: Boosting Algorithm for Graph Networks on Imbalanced Node Classification**|S. Shi et.al.|[2105.11625v2](http://arxiv.org/abs/2105.11625v2)|null|
 |**2021-03-31**|**Joint Deep Multi-Graph Matching and 3D Geometry Learning from Inhomogeneous 2D Image Collections**|Zhenzhang Ye et.al.|[2103.17229v2](http://arxiv.org/abs/2103.17229v2)|null|
-|**2022-05-07**|**BrainIB: Interpretable Brain Network-based Psychiatric Diagnosis with Graph Information Bottleneck**|Kaizhong Zheng et.al.|[2205.03612v1](http://arxiv.org/abs/2205.03612v1)|null|
-|**2022-02-05**|**Handling Distribution Shifts on Graphs: An Invariance Perspective**|Qitian Wu et.al.|[2202.02466v4](http://arxiv.org/abs/2202.02466v4)|[link](https://github.com/qitianwu/graphood-eerm)|
-|**2022-05-07**|**Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees**|Binghui Wang et.al.|[2205.03546v1](http://arxiv.org/abs/2205.03546v1)|[link](https://github.com/metaoblivion/bandit_gnn_attack)|
-|**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v2](http://arxiv.org/abs/2203.17149v2)|null|
-|**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v8](http://arxiv.org/abs/2201.07537v8)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-10**|**Bike Share's Impact on COVID-19 Transmission and Bike Share's Responses to COVID-19: A case study of Washington DC**|Pedram Beigi et.al.|[2205.05011v1](http://arxiv.org/abs/2205.05011v1)|null|
+|**2022-04-28**|**Mahalanobis balancing: a multivariate perspective on approximate covariate balancing**|Yimin Dai et.al.|[2204.13439v3](http://arxiv.org/abs/2204.13439v3)|null|
+|**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
+|**2022-05-09**|**Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information**|Abel Jansma et.al.|[2205.04440v1](http://arxiv.org/abs/2205.04440v1)|null|
+|**2022-05-05**|**Dynamic Bayesian Network Auxiliary ABC-SMC for Hybrid Model Bayesian Inference to Accelerate Biomanufacturing Process Mechanism Learning and Robust Control**|Wei Xie et.al.|[2205.02410v2](http://arxiv.org/abs/2205.02410v2)|null|
+|**2022-05-09**|**Time-Varying Causality Between Bitcoin and Attention to COVID-19 News: Cultural Grouping**|Huaxin Wang-Lu et.al.|[2205.04290v1](http://arxiv.org/abs/2205.04290v1)|null|
+|**2021-11-30**|**The Quantum Multiple-Access Channel with Cribbing Encoders**|Uzi Pereg et.al.|[2111.15589v2](http://arxiv.org/abs/2111.15589v2)|null|
+|**2022-04-26**|**Causal Reasoning Meets Visual Representation Learning: A Prospective Study**|Yang Liu et.al.|[2204.12037v4](http://arxiv.org/abs/2204.12037v4)|null|
+|**2019-12-09**|**Reinforcement Learning-based Visual Navigation with Information-Theoretic Regularization**|Qiaoyun Wu et.al.|[1912.04078v7](http://arxiv.org/abs/1912.04078v7)|null|
+|**2022-05-09**|**The Homogeneous Causal Action Principle on a Compact Domain in Momentum Space**|Felix Finster et.al.|[2205.04085v1](http://arxiv.org/abs/2205.04085v1)|null|
+|**2021-09-30**|**Causality in a qubit-based quantum switch**|Carlos Sabín et.al.|[2109.14951v2](http://arxiv.org/abs/2109.14951v2)|null|
+|**2021-03-24**|**Conditions and Assumptions for Constraint-based Causal Structure Learning**|Kayvan Sadeghi et.al.|[2103.13521v3](http://arxiv.org/abs/2103.13521v3)|null|
+|**2022-02-16**|**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**|Enyan Dai et.al.|[2202.07857v2](http://arxiv.org/abs/2202.07857v2)|[link](https://github.com/enyandai/ganf)|
+|**2022-05-08**|**Investigating Generalization by Controlling Normalized Margin**|Alexander Farhang et.al.|[2205.03940v1](http://arxiv.org/abs/2205.03940v1)|null|
+|**2022-05-08**|**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**|Yiwei Wang et.al.|[2205.03784v1](http://arxiv.org/abs/2205.03784v1)|[link](https://github.com/vanoracai/core)|
 
 ## Non-Euclidean Staistics
 
@@ -77,6 +98,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-10**|**Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures**|Yongji Wu et.al.|[2205.04713v1](http://arxiv.org/abs/2205.04713v1)|null|
+|**2022-02-25**|**Flexible variable selection in the presence of missing data**|B. D. Williamson et.al.|[2202.12989v2](http://arxiv.org/abs/2202.12989v2)|[link](https://github.com/bdwilliamson/flevr)|
 |**2022-05-09**|**Interpretable Machine Learning for Self-Service High-Risk Decision-Making**|Charles Recaido et.al.|[2205.04032v1](http://arxiv.org/abs/2205.04032v1)|null|
 |**2021-01-10**|**gwpcorMapper: an interactive mapping tool for exploring geographically weighted correlation and partial correlation in high-dimensional geospatial datasets**|Joseph Emile Honour Percival et.al.|[2101.03491v2](http://arxiv.org/abs/2101.03491v2)|null|
 |**2022-05-07**|**Determination of class-specific variables in nonparametric multiple-class classification**|Wan-Ping Nicole Chen et.al.|[2205.03623v1](http://arxiv.org/abs/2205.03623v1)|null|
@@ -90,26 +113,3 @@
 |**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v2](http://arxiv.org/abs/2204.13341v2)|null|
 |**2022-05-03**|**An R Package AZIAD for Analyzing Zero-Inflated and Zero-Altered Data**|Niloufar Dousti Mousavi et.al.|[2205.01294v1](http://arxiv.org/abs/2205.01294v1)|null|
 |**2022-05-03**|**Complementary Goodness of Fit Procedure for Crash Frequency Models**|Mohammadreza Hashemi et.al.|[2205.01279v1](http://arxiv.org/abs/2205.01279v1)|null|
-|**2017-06-24**|**High-dimensional Linear Regression for Dependent Data with Applications to Nowcasting**|Yuefeng Han et.al.|[1706.07899v3](http://arxiv.org/abs/1706.07899v3)|null|
-|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v1](http://arxiv.org/abs/2205.01016v1)|[link](https://github.com/sagarknk/graphical_evidence)|
-
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-09**|**Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information**|Abel Jansma et.al.|[2205.04440v1](http://arxiv.org/abs/2205.04440v1)|null|
-|**2022-05-05**|**Dynamic Bayesian Network Auxiliary ABC-SMC for Hybrid Model Bayesian Inference to Accelerate Biomanufacturing Process Mechanism Learning and Robust Control**|Wei Xie et.al.|[2205.02410v2](http://arxiv.org/abs/2205.02410v2)|null|
-|**2022-05-09**|**Time-Varying Causality Between Bitcoin and Attention to COVID-19 News: Cultural Grouping**|Huaxin Wang-Lu et.al.|[2205.04290v1](http://arxiv.org/abs/2205.04290v1)|null|
-|**2021-11-30**|**The Quantum Multiple-Access Channel with Cribbing Encoders**|Uzi Pereg et.al.|[2111.15589v2](http://arxiv.org/abs/2111.15589v2)|null|
-|**2022-04-26**|**Causal Reasoning Meets Visual Representation Learning: A Prospective Study**|Yang Liu et.al.|[2204.12037v4](http://arxiv.org/abs/2204.12037v4)|null|
-|**2019-12-09**|**Reinforcement Learning-based Visual Navigation with Information-Theoretic Regularization**|Qiaoyun Wu et.al.|[1912.04078v7](http://arxiv.org/abs/1912.04078v7)|null|
-|**2022-05-09**|**The Homogeneous Causal Action Principle on a Compact Domain in Momentum Space**|Felix Finster et.al.|[2205.04085v1](http://arxiv.org/abs/2205.04085v1)|null|
-|**2021-09-30**|**Causality in a qubit-based quantum switch**|Carlos Sabín et.al.|[2109.14951v2](http://arxiv.org/abs/2109.14951v2)|null|
-|**2021-03-24**|**Conditions and Assumptions for Constraint-based Causal Structure Learning**|Kayvan Sadeghi et.al.|[2103.13521v3](http://arxiv.org/abs/2103.13521v3)|null|
-|**2022-02-16**|**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**|Enyan Dai et.al.|[2202.07857v2](http://arxiv.org/abs/2202.07857v2)|[link](https://github.com/enyandai/ganf)|
-|**2022-05-08**|**Investigating Generalization by Controlling Normalized Margin**|Alexander Farhang et.al.|[2205.03940v1](http://arxiv.org/abs/2205.03940v1)|null|
-|**2022-05-08**|**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**|Yiwei Wang et.al.|[2205.03784v1](http://arxiv.org/abs/2205.03784v1)|[link](https://github.com/vanoracai/core)|
-|**2021-10-12**|**Modular Nuclearity and Entanglement measures**|Lorenzo Panebianco et.al.|[2110.05823v3](http://arxiv.org/abs/2110.05823v3)|null|
-|**2022-03-09**|**Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang**|Daphna Keidar et.al.|[2203.04651v2](http://arxiv.org/abs/2203.04651v2)|[link](https://github.com/andreasopedal/slangvolution)|
-|**2022-05-02**|**Neutral Utterances are Also Causes: Enhancing Conversational Causal Emotion Entailment with Social Commonsense Knowledge**|Jiangnan Li et.al.|[2205.00759v2](http://arxiv.org/abs/2205.00759v2)|[link](https://github.com/leqsnan/kec)|
