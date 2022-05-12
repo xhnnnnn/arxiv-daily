@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-12 07:32:27 Asia/Shanghai
+ Automated deployment @ 2022-05-12 19:27:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-03-02**|**Benchmarking Graph Neural Networks**|Vijay Prakash Dwivedi et.al.|[2003.00982v4](http://arxiv.org/abs/2003.00982v4)|[link](https://github.com/graphdeeplearning/benchmarking-gnns)|
+|**2022-05-11**|**Efficient prediction of density functional theory Hamiltonian with graph neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
+|**2022-05-11**|**NDGGNET-A Node Independent Gate based Graph Neural Networks**|Ye Tang et.al.|[2205.05348v1](http://arxiv.org/abs/2205.05348v1)|null|
+|**2022-05-11**|**Spatial-temporal associations representation and application for process monitoring using graph convolution neural network**|Hao Ren et.al.|[2205.05250v1](http://arxiv.org/abs/2205.05250v1)|null|
+|**2022-02-17**|**Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**|Juntao Tan et.al.|[2202.08816v3](http://arxiv.org/abs/2202.08816v3)|[link](https://github.com/chrisjtan/gnn_cff)|
 |**2022-05-02**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v2](http://arxiv.org/abs/2205.00772v2)|[link](https://github.com/jokofa/jampr_plus)|
 |**2022-05-10**|**Flow Completion Network: Inferring the Fluid Dynamics from Incomplete Flow Information using Graph Neural Networks**|Xiaodong He et.al.|[2205.04739v1](http://arxiv.org/abs/2205.04739v1)|null|
 |**2022-05-10**|**SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures**|Yunjae Lee et.al.|[2205.04711v1](http://arxiv.org/abs/2205.04711v1)|null|
@@ -26,53 +31,6 @@
 |**2021-08-24**|**Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**|Tianlong Chen et.al.|[2108.10521v2](http://arxiv.org/abs/2108.10521v2)|[link](https://github.com/VITA-Group/Deep_GCN_Benchmarking)|
 |**2021-09-15**|**Federated Learning of Molecular Properties with Graph Neural Networks in a Heterogeneous Setting**|Wei Zhu et.al.|[2109.07258v3](http://arxiv.org/abs/2109.07258v3)|null|
 |**2022-03-30**|**AdaGrid: Adaptive Grid Search for Link Prediction Training Objective**|Tim Poštuvan et.al.|[2203.16162v2](http://arxiv.org/abs/2203.16162v2)|[link](https://github.com/timpostuvan/adagrid)|
-|**2022-05-08**|**Data-Free Adversarial Knowledge Distillation for Graph Neural Networks**|Yuanxin Zhuang et.al.|[2205.03811v1](http://arxiv.org/abs/2205.03811v1)|null|
-|**2022-05-08**|**GRAPHCACHE: Message Passing as Caching for Sentence-Level Relation Extraction**|Yiwei Wang et.al.|[2205.03786v1](http://arxiv.org/abs/2205.03786v1)|null|
-|**2022-05-08**|**Adaptive Graph Convolutional Network Framework for Multidimensional Time Series Prediction**|Ning Wang et.al.|[2205.04885v1](http://arxiv.org/abs/2205.04885v1)|null|
-|**2021-05-25**|**Boosting-GNN: Boosting Algorithm for Graph Networks on Imbalanced Node Classification**|S. Shi et.al.|[2105.11625v2](http://arxiv.org/abs/2105.11625v2)|null|
-|**2021-03-31**|**Joint Deep Multi-Graph Matching and 3D Geometry Learning from Inhomogeneous 2D Image Collections**|Zhenzhang Ye et.al.|[2103.17229v2](http://arxiv.org/abs/2103.17229v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-10**|**Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures**|Yongji Wu et.al.|[2205.04713v1](http://arxiv.org/abs/2205.04713v1)|null|
-|**2022-02-25**|**Flexible variable selection in the presence of missing data**|B. D. Williamson et.al.|[2202.12989v2](http://arxiv.org/abs/2202.12989v2)|[link](https://github.com/bdwilliamson/flevr)|
-|**2022-05-09**|**Interpretable Machine Learning for Self-Service High-Risk Decision-Making**|Charles Recaido et.al.|[2205.04032v1](http://arxiv.org/abs/2205.04032v1)|null|
-|**2021-01-10**|**gwpcorMapper: an interactive mapping tool for exploring geographically weighted correlation and partial correlation in high-dimensional geospatial datasets**|Joseph Emile Honour Percival et.al.|[2101.03491v2](http://arxiv.org/abs/2101.03491v2)|null|
-|**2022-05-07**|**Determination of class-specific variables in nonparametric multiple-class classification**|Wan-Ping Nicole Chen et.al.|[2205.03623v1](http://arxiv.org/abs/2205.03623v1)|null|
-|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v1](http://arxiv.org/abs/2205.03014v1)|null|
-|**2021-10-04**|**Exact asymptotic solutions to nonlinear Hawkes processes: a systematic classification of the steady-state solutions**|Kiyoshi Kanazawa et.al.|[2110.01523v2](http://arxiv.org/abs/2110.01523v2)|null|
-|**2020-07-30**|**Solar: $L_0$ solution path averaging for fast and accurate variable selection in high-dimensional data**|Ning Xu et.al.|[2007.15707v3](http://arxiv.org/abs/2007.15707v3)|[link](https://github.com/isaac2math/solarpy)|
-|**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v3](http://arxiv.org/abs/2011.07131v3)|null|
-|**2021-10-01**|**Belief propagation for permutations, rankings, and partial orders**|George T. Cantwell et.al.|[2110.00513v2](http://arxiv.org/abs/2110.00513v2)|null|
-|**2019-06-28**|**Multiple Testing and Variable Selection along the path of the Least Angle Regression**|J. -M. Azaïs et.al.|[1906.12072v5](http://arxiv.org/abs/1906.12072v5)|[link](https://github.com/ydecastro/lar_testing)|
-|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v1](http://arxiv.org/abs/2205.01849v1)|null|
-|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v2](http://arxiv.org/abs/2204.13341v2)|null|
-|**2022-05-03**|**An R Package AZIAD for Analyzing Zero-Inflated and Zero-Altered Data**|Niloufar Dousti Mousavi et.al.|[2205.01294v1](http://arxiv.org/abs/2205.01294v1)|null|
-|**2022-05-03**|**Complementary Goodness of Fit Procedure for Crash Frequency Models**|Mohammadreza Hashemi et.al.|[2205.01279v1](http://arxiv.org/abs/2205.01279v1)|null|
-
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-10**|**Bike Share's Impact on COVID-19 Transmission and Bike Share's Responses to COVID-19: A case study of Washington DC**|Pedram Beigi et.al.|[2205.05011v1](http://arxiv.org/abs/2205.05011v1)|null|
-|**2022-04-28**|**Mahalanobis balancing: a multivariate perspective on approximate covariate balancing**|Yimin Dai et.al.|[2204.13439v3](http://arxiv.org/abs/2204.13439v3)|null|
-|**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
-|**2022-05-09**|**Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information**|Abel Jansma et.al.|[2205.04440v1](http://arxiv.org/abs/2205.04440v1)|null|
-|**2022-05-05**|**Dynamic Bayesian Network Auxiliary ABC-SMC for Hybrid Model Bayesian Inference to Accelerate Biomanufacturing Process Mechanism Learning and Robust Control**|Wei Xie et.al.|[2205.02410v2](http://arxiv.org/abs/2205.02410v2)|null|
-|**2022-05-09**|**Time-Varying Causality Between Bitcoin and Attention to COVID-19 News: Cultural Grouping**|Huaxin Wang-Lu et.al.|[2205.04290v1](http://arxiv.org/abs/2205.04290v1)|null|
-|**2021-11-30**|**The Quantum Multiple-Access Channel with Cribbing Encoders**|Uzi Pereg et.al.|[2111.15589v2](http://arxiv.org/abs/2111.15589v2)|null|
-|**2022-04-26**|**Causal Reasoning Meets Visual Representation Learning: A Prospective Study**|Yang Liu et.al.|[2204.12037v4](http://arxiv.org/abs/2204.12037v4)|null|
-|**2019-12-09**|**Reinforcement Learning-based Visual Navigation with Information-Theoretic Regularization**|Qiaoyun Wu et.al.|[1912.04078v7](http://arxiv.org/abs/1912.04078v7)|null|
-|**2022-05-09**|**The Homogeneous Causal Action Principle on a Compact Domain in Momentum Space**|Felix Finster et.al.|[2205.04085v1](http://arxiv.org/abs/2205.04085v1)|null|
-|**2021-09-30**|**Causality in a qubit-based quantum switch**|Carlos Sabín et.al.|[2109.14951v2](http://arxiv.org/abs/2109.14951v2)|null|
-|**2021-03-24**|**Conditions and Assumptions for Constraint-based Causal Structure Learning**|Kayvan Sadeghi et.al.|[2103.13521v3](http://arxiv.org/abs/2103.13521v3)|null|
-|**2022-02-16**|**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**|Enyan Dai et.al.|[2202.07857v2](http://arxiv.org/abs/2202.07857v2)|[link](https://github.com/enyandai/ganf)|
-|**2022-05-08**|**Investigating Generalization by Controlling Normalized Margin**|Alexander Farhang et.al.|[2205.03940v1](http://arxiv.org/abs/2205.03940v1)|null|
-|**2022-05-08**|**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**|Yiwei Wang et.al.|[2205.03784v1](http://arxiv.org/abs/2205.03784v1)|[link](https://github.com/vanoracai/core)|
 
 ## Non-Euclidean Staistics
 
@@ -113,3 +71,45 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-11**|**Tuning Parameter Selection for Penalized Estimation via R2**|Julia Holter et.al.|[2205.05654v1](http://arxiv.org/abs/2205.05654v1)|null|
+|**2022-05-11**|**A void in the Hubble tension? The end of the line for the Hubble bubble**|David Camarena et.al.|[2205.05422v1](http://arxiv.org/abs/2205.05422v1)|null|
+|**2022-05-10**|**Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures**|Yongji Wu et.al.|[2205.04713v1](http://arxiv.org/abs/2205.04713v1)|null|
+|**2022-02-25**|**Flexible variable selection in the presence of missing data**|B. D. Williamson et.al.|[2202.12989v2](http://arxiv.org/abs/2202.12989v2)|[link](https://github.com/bdwilliamson/flevr)|
+|**2022-05-09**|**Interpretable Machine Learning for Self-Service High-Risk Decision-Making**|Charles Recaido et.al.|[2205.04032v1](http://arxiv.org/abs/2205.04032v1)|null|
+|**2021-01-10**|**gwpcorMapper: an interactive mapping tool for exploring geographically weighted correlation and partial correlation in high-dimensional geospatial datasets**|Joseph Emile Honour Percival et.al.|[2101.03491v2](http://arxiv.org/abs/2101.03491v2)|null|
+|**2022-05-07**|**Determination of class-specific variables in nonparametric multiple-class classification**|Wan-Ping Nicole Chen et.al.|[2205.03623v1](http://arxiv.org/abs/2205.03623v1)|null|
+|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v1](http://arxiv.org/abs/2205.03014v1)|null|
+|**2021-10-04**|**Exact asymptotic solutions to nonlinear Hawkes processes: a systematic classification of the steady-state solutions**|Kiyoshi Kanazawa et.al.|[2110.01523v2](http://arxiv.org/abs/2110.01523v2)|null|
+|**2020-07-30**|**Solar: $L_0$ solution path averaging for fast and accurate variable selection in high-dimensional data**|Ning Xu et.al.|[2007.15707v3](http://arxiv.org/abs/2007.15707v3)|[link](https://github.com/isaac2math/solarpy)|
+|**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v3](http://arxiv.org/abs/2011.07131v3)|null|
+|**2021-10-01**|**Belief propagation for permutations, rankings, and partial orders**|George T. Cantwell et.al.|[2110.00513v2](http://arxiv.org/abs/2110.00513v2)|null|
+|**2019-06-28**|**Multiple Testing and Variable Selection along the path of the Least Angle Regression**|J. -M. Azaïs et.al.|[1906.12072v5](http://arxiv.org/abs/1906.12072v5)|[link](https://github.com/ydecastro/lar_testing)|
+|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v1](http://arxiv.org/abs/2205.01849v1)|null|
+|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v2](http://arxiv.org/abs/2204.13341v2)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-11**|**Leveraging baseline covariates to analyze small cluster-randomized trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
+|**2022-05-05**|**Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs with Applications**|Marcel Wienöbst et.al.|[2205.02654v2](http://arxiv.org/abs/2205.02654v2)|null|
+|**2022-05-11**|**Generalized Modeling and Fundamental Limits for Multiple-Access Integrated Sensing and Communication Systems**|Yao Liu et.al.|[2205.05328v1](http://arxiv.org/abs/2205.05328v1)|null|
+|**2022-05-11**|**What is Proxy Discrimination?**|Michael Carl Tschantz et.al.|[2205.05265v1](http://arxiv.org/abs/2205.05265v1)|null|
+|**2021-10-14**|**A More Efficient, Doubly Robust, Nonparametric Estimator of Treatment Effects in Multilevel Studies**|Chan Park et.al.|[2110.07740v4](http://arxiv.org/abs/2110.07740v4)|null|
+|**2021-07-19**|**Causal Inference Struggles with Agency on Online Platforms**|Smitha Milli et.al.|[2107.08995v2](http://arxiv.org/abs/2107.08995v2)|null|
+|**2022-02-17**|**Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**|Juntao Tan et.al.|[2202.08816v3](http://arxiv.org/abs/2202.08816v3)|[link](https://github.com/chrisjtan/gnn_cff)|
+|**2022-05-04**|**Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance**|Jingwei Ni et.al.|[2205.02293v2](http://arxiv.org/abs/2205.02293v2)|[link](https://github.com/edisonni-hku/causalmt)|
+|**2022-05-10**|**Bike Share's Impact on COVID-19 Transmission and Bike Share's Responses to COVID-19: A case study of Washington DC**|Pedram Beigi et.al.|[2205.05011v1](http://arxiv.org/abs/2205.05011v1)|null|
+|**2022-04-28**|**Mahalanobis balancing: a multivariate perspective on approximate covariate balancing**|Yimin Dai et.al.|[2204.13439v3](http://arxiv.org/abs/2204.13439v3)|null|
+|**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
+|**2022-05-09**|**Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information**|Abel Jansma et.al.|[2205.04440v1](http://arxiv.org/abs/2205.04440v1)|null|
+|**2022-05-05**|**Dynamic Bayesian Network Auxiliary ABC-SMC for Hybrid Model Bayesian Inference to Accelerate Biomanufacturing Process Mechanism Learning and Robust Control**|Wei Xie et.al.|[2205.02410v2](http://arxiv.org/abs/2205.02410v2)|null|
+|**2022-05-09**|**Time-Varying Causality Between Bitcoin and Attention to COVID-19 News: Cultural Grouping**|Huaxin Wang-Lu et.al.|[2205.04290v1](http://arxiv.org/abs/2205.04290v1)|null|
+|**2021-11-30**|**The Quantum Multiple-Access Channel with Cribbing Encoders**|Uzi Pereg et.al.|[2111.15589v2](http://arxiv.org/abs/2111.15589v2)|null|
