@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-14 07:33:26 Asia/Shanghai
+ Automated deployment @ 2022-05-14 19:26:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -72,27 +72,6 @@
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
 
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-12**|**Can counterfactual explanations of AI systems' predictions skew lay users' causal intuitions about the world? If so, can we correct for that?**|Marko Tesic et.al.|[2205.06241v1](http://arxiv.org/abs/2205.06241v1)|null|
-|**2022-05-12**|**Framework for inferring empirical causal graphs from binary data to support multidimensional poverty analysis**|Chainarong Amornbunchornvej et.al.|[2205.06131v1](http://arxiv.org/abs/2205.06131v1)|[link](https://github.com/darkeyes/bicausality)|
-|**2022-05-12**|**Retrocausal model for quantum measurement consistent with macroscopic realism**|Margaret D Reid et.al.|[2205.06070v1](http://arxiv.org/abs/2205.06070v1)|null|
-|**2021-06-08**|**A Perspective on Time towards Wireless 6G**|Petar Popovski et.al.|[2106.04314v2](http://arxiv.org/abs/2106.04314v2)|null|
-|**2022-05-11**|**Generalized Modeling and Fundamental Limits for Multiple-Access Integrated Sensing and Communication Systems**|Yao Liu et.al.|[2205.05328v2](http://arxiv.org/abs/2205.05328v2)|null|
-|**2021-09-05**|**Optimal transport weights for causal inference**|Eric Dunipace et.al.|[2109.01991v4](http://arxiv.org/abs/2109.01991v4)|[link](https://github.com/ericdunipace/causalot)|
-|**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|[link](https://github.com/waste-wood/e-care)|
-|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
-|**2022-05-11**|**Efficient estimation of modified treatment policy effects based on the generalized propensity score**|Nima S. Hejazi et.al.|[2205.05777v1](http://arxiv.org/abs/2205.05777v1)|null|
-|**2022-05-11**|**Causal discovery under a confounder blanket**|David Watson et.al.|[2205.05715v1](http://arxiv.org/abs/2205.05715v1)|[link](https://github.com/dswatson/many_ancestors)|
-|**2022-05-11**|**Leveraging baseline covariates to analyze small cluster-randomized trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
-|**2022-05-05**|**Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs with Applications**|Marcel Wienöbst et.al.|[2205.02654v2](http://arxiv.org/abs/2205.02654v2)|null|
-|**2022-05-11**|**What is Proxy Discrimination?**|Michael Carl Tschantz et.al.|[2205.05265v1](http://arxiv.org/abs/2205.05265v1)|null|
-|**2021-10-14**|**A More Efficient, Doubly Robust, Nonparametric Estimator of Treatment Effects in Multilevel Studies**|Chan Park et.al.|[2110.07740v4](http://arxiv.org/abs/2110.07740v4)|null|
-|**2021-07-19**|**Causal Inference Struggles with Agency on Online Platforms**|Smitha Milli et.al.|[2107.08995v2](http://arxiv.org/abs/2107.08995v2)|null|
-
 ## Variable Selection
 
 ### Variable selection
@@ -113,3 +92,24 @@
 |**2020-07-30**|**Solar: $L_0$ solution path averaging for fast and accurate variable selection in high-dimensional data**|Ning Xu et.al.|[2007.15707v3](http://arxiv.org/abs/2007.15707v3)|[link](https://github.com/isaac2math/solarpy)|
 |**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v3](http://arxiv.org/abs/2011.07131v3)|null|
 |**2021-10-01**|**Belief propagation for permutations, rankings, and partial orders**|George T. Cantwell et.al.|[2110.00513v2](http://arxiv.org/abs/2110.00513v2)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-12**|**Can counterfactual explanations of AI systems' predictions skew lay users' causal intuitions about the world? If so, can we correct for that?**|Marko Tesic et.al.|[2205.06241v1](http://arxiv.org/abs/2205.06241v1)|null|
+|**2022-05-12**|**Framework for inferring empirical causal graphs from binary data to support multidimensional poverty analysis**|Chainarong Amornbunchornvej et.al.|[2205.06131v1](http://arxiv.org/abs/2205.06131v1)|[link](https://github.com/darkeyes/bicausality)|
+|**2022-05-12**|**Retrocausal model for quantum measurement consistent with macroscopic realism**|Margaret D Reid et.al.|[2205.06070v1](http://arxiv.org/abs/2205.06070v1)|null|
+|**2021-06-08**|**A Perspective on Time towards Wireless 6G**|Petar Popovski et.al.|[2106.04314v2](http://arxiv.org/abs/2106.04314v2)|null|
+|**2022-05-11**|**Generalized Modeling and Fundamental Limits for Multiple-Access Integrated Sensing and Communication Systems**|Yao Liu et.al.|[2205.05328v2](http://arxiv.org/abs/2205.05328v2)|null|
+|**2021-09-05**|**Optimal transport weights for causal inference**|Eric Dunipace et.al.|[2109.01991v4](http://arxiv.org/abs/2109.01991v4)|[link](https://github.com/ericdunipace/causalot)|
+|**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|[link](https://github.com/waste-wood/e-care)|
+|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
+|**2022-05-11**|**Efficient estimation of modified treatment policy effects based on the generalized propensity score**|Nima S. Hejazi et.al.|[2205.05777v1](http://arxiv.org/abs/2205.05777v1)|null|
+|**2022-05-11**|**Causal discovery under a confounder blanket**|David Watson et.al.|[2205.05715v1](http://arxiv.org/abs/2205.05715v1)|[link](https://github.com/dswatson/many_ancestors)|
+|**2022-05-11**|**Leveraging baseline covariates to analyze small cluster-randomized trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
+|**2022-05-05**|**Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs with Applications**|Marcel Wienöbst et.al.|[2205.02654v2](http://arxiv.org/abs/2205.02654v2)|null|
+|**2022-05-11**|**What is Proxy Discrimination?**|Michael Carl Tschantz et.al.|[2205.05265v1](http://arxiv.org/abs/2205.05265v1)|null|
+|**2021-10-14**|**A More Efficient, Doubly Robust, Nonparametric Estimator of Treatment Effects in Multilevel Studies**|Chan Park et.al.|[2110.07740v4](http://arxiv.org/abs/2110.07740v4)|null|
+|**2021-07-19**|**Causal Inference Struggles with Agency on Online Platforms**|Smitha Milli et.al.|[2107.08995v2](http://arxiv.org/abs/2107.08995v2)|null|
