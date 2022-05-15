@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-15 07:30:24 Asia/Shanghai
+ Automated deployment @ 2022-05-15 19:27:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,47 +32,7 @@
 |**2022-05-10**|**SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures**|Yunjae Lee et.al.|[2205.04711v1](http://arxiv.org/abs/2205.04711v1)|null|
 |**2022-05-10**|**Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting**|Mingyang Chen et.al.|[2205.04692v1](http://arxiv.org/abs/2205.04692v1)|[link](https://github.com/zjukg/maker)|
 
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-12**|**Can counterfactual explanations of AI systems' predictions skew lay users' causal intuitions about the world? If so, can we correct for that?**|Marko Tesic et.al.|[2205.06241v1](http://arxiv.org/abs/2205.06241v1)|null|
-|**2022-05-12**|**Framework for inferring empirical causal graphs from binary data to support multidimensional poverty analysis**|Chainarong Amornbunchornvej et.al.|[2205.06131v1](http://arxiv.org/abs/2205.06131v1)|[link](https://github.com/darkeyes/bicausality)|
-|**2022-05-12**|**Retrocausal model for quantum measurement consistent with macroscopic realism**|Margaret D Reid et.al.|[2205.06070v1](http://arxiv.org/abs/2205.06070v1)|null|
-|**2021-06-08**|**A Perspective on Time towards Wireless 6G**|Petar Popovski et.al.|[2106.04314v2](http://arxiv.org/abs/2106.04314v2)|null|
-|**2022-05-11**|**Generalized Modeling and Fundamental Limits for Multiple-Access Integrated Sensing and Communication Systems**|Yao Liu et.al.|[2205.05328v2](http://arxiv.org/abs/2205.05328v2)|null|
-|**2021-09-05**|**Optimal transport weights for causal inference**|Eric Dunipace et.al.|[2109.01991v4](http://arxiv.org/abs/2109.01991v4)|[link](https://github.com/ericdunipace/causalot)|
-|**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|[link](https://github.com/waste-wood/e-care)|
-|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
-|**2022-05-11**|**Efficient estimation of modified treatment policy effects based on the generalized propensity score**|Nima S. Hejazi et.al.|[2205.05777v1](http://arxiv.org/abs/2205.05777v1)|null|
-|**2022-05-11**|**Causal discovery under a confounder blanket**|David Watson et.al.|[2205.05715v1](http://arxiv.org/abs/2205.05715v1)|[link](https://github.com/dswatson/many_ancestors)|
-|**2022-05-11**|**Leveraging baseline covariates to analyze small cluster-randomized trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
-|**2022-05-05**|**Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs with Applications**|Marcel Wienöbst et.al.|[2205.02654v2](http://arxiv.org/abs/2205.02654v2)|null|
-|**2022-05-11**|**What is Proxy Discrimination?**|Michael Carl Tschantz et.al.|[2205.05265v1](http://arxiv.org/abs/2205.05265v1)|null|
-|**2021-10-14**|**A More Efficient, Doubly Robust, Nonparametric Estimator of Treatment Effects in Multilevel Studies**|Chan Park et.al.|[2110.07740v4](http://arxiv.org/abs/2110.07740v4)|null|
-|**2021-07-19**|**Causal Inference Struggles with Agency on Online Platforms**|Smitha Milli et.al.|[2107.08995v2](http://arxiv.org/abs/2107.08995v2)|null|
-
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
-|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
-|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
-|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
-|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
-|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
-|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
-|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
-|**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
-|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v2](http://arxiv.org/abs/2112.13272v2)|null|
-|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
-|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
-|**2020-02-24**|**xAI-GAN: Enhancing Generative Adversarial Networks via Explainable AI Systems**|Vineel Nagisetty et.al.|[2002.10438v3](http://arxiv.org/abs/2002.10438v3)|null|
-|**2021-08-02**|**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**|Jeha Paul et.al.|[2108.00981v3](http://arxiv.org/abs/2108.00981v3)|[link](https://github.com/awslabs/gluon-ts)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,6 +52,25 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
+|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
+|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
+|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
+|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
+|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
+|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
+|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
+|**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
+|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v2](http://arxiv.org/abs/2112.13272v2)|null|
+|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
+|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
+|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
+|**2020-02-24**|**xAI-GAN: Enhancing Generative Adversarial Networks via Explainable AI Systems**|Vineel Nagisetty et.al.|[2002.10438v3](http://arxiv.org/abs/2002.10438v3)|null|
+|**2021-08-02**|**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**|Jeha Paul et.al.|[2108.00981v3](http://arxiv.org/abs/2108.00981v3)|[link](https://github.com/awslabs/gluon-ts)|
 
 ## Variable Selection
 
@@ -113,3 +92,24 @@
 |**2020-07-30**|**Solar: $L_0$ solution path averaging for fast and accurate variable selection in high-dimensional data**|Ning Xu et.al.|[2007.15707v3](http://arxiv.org/abs/2007.15707v3)|[link](https://github.com/isaac2math/solarpy)|
 |**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v3](http://arxiv.org/abs/2011.07131v3)|null|
 |**2021-10-01**|**Belief propagation for permutations, rankings, and partial orders**|George T. Cantwell et.al.|[2110.00513v2](http://arxiv.org/abs/2110.00513v2)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-12**|**Can counterfactual explanations of AI systems' predictions skew lay users' causal intuitions about the world? If so, can we correct for that?**|Marko Tesic et.al.|[2205.06241v1](http://arxiv.org/abs/2205.06241v1)|null|
+|**2022-05-12**|**Framework for inferring empirical causal graphs from binary data to support multidimensional poverty analysis**|Chainarong Amornbunchornvej et.al.|[2205.06131v1](http://arxiv.org/abs/2205.06131v1)|[link](https://github.com/darkeyes/bicausality)|
+|**2022-05-12**|**Retrocausal model for quantum measurement consistent with macroscopic realism**|Margaret D Reid et.al.|[2205.06070v1](http://arxiv.org/abs/2205.06070v1)|null|
+|**2021-06-08**|**A Perspective on Time towards Wireless 6G**|Petar Popovski et.al.|[2106.04314v2](http://arxiv.org/abs/2106.04314v2)|null|
+|**2022-05-11**|**Generalized Modeling and Fundamental Limits for Multiple-Access Integrated Sensing and Communication Systems**|Yao Liu et.al.|[2205.05328v2](http://arxiv.org/abs/2205.05328v2)|null|
+|**2021-09-05**|**Optimal transport weights for causal inference**|Eric Dunipace et.al.|[2109.01991v4](http://arxiv.org/abs/2109.01991v4)|[link](https://github.com/ericdunipace/causalot)|
+|**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|[link](https://github.com/waste-wood/e-care)|
+|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
+|**2022-05-11**|**Efficient estimation of modified treatment policy effects based on the generalized propensity score**|Nima S. Hejazi et.al.|[2205.05777v1](http://arxiv.org/abs/2205.05777v1)|null|
+|**2022-05-11**|**Causal discovery under a confounder blanket**|David Watson et.al.|[2205.05715v1](http://arxiv.org/abs/2205.05715v1)|[link](https://github.com/dswatson/many_ancestors)|
+|**2022-05-11**|**Leveraging baseline covariates to analyze small cluster-randomized trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
+|**2022-05-05**|**Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs with Applications**|Marcel Wienöbst et.al.|[2205.02654v2](http://arxiv.org/abs/2205.02654v2)|null|
+|**2022-05-11**|**What is Proxy Discrimination?**|Michael Carl Tschantz et.al.|[2205.05265v1](http://arxiv.org/abs/2205.05265v1)|null|
+|**2021-10-14**|**A More Efficient, Doubly Robust, Nonparametric Estimator of Treatment Effects in Multilevel Studies**|Chan Park et.al.|[2110.07740v4](http://arxiv.org/abs/2110.07740v4)|null|
+|**2021-07-19**|**Causal Inference Struggles with Agency on Online Platforms**|Smitha Milli et.al.|[2107.08995v2](http://arxiv.org/abs/2107.08995v2)|null|
