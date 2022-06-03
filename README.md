@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-03 07:28:40 Asia/Shanghai
+ Automated deployment @ 2022-06-03 19:25:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-02**|**Shortest Path Networks for Graph Property Prediction**|Ralph Abboud et.al.|[2206.01003v1](http://arxiv.org/abs/2206.01003v1)|null|
+|**2022-02-07**|**Graph Self-supervised Learning with Accurate Discrepancy Learning**|Dongki Kim et.al.|[2202.02989v4](http://arxiv.org/abs/2202.02989v4)|null|
+|**2021-10-05**|**ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning**|Jun Xia et.al.|[2110.02027v2](http://arxiv.org/abs/2110.02027v2)|[link](https://github.com/junxia97/progcl)|
+|**2021-06-30**|**Graph Signal Restoration Using Nested Deep Algorithm Unrolling**|Masatoshi Nagahama et.al.|[2106.15910v3](http://arxiv.org/abs/2106.15910v3)|null|
+|**2021-06-21**|**Boundary Graph Neural Networks for 3D Simulations**|Andreas Mayr et.al.|[2106.11299v3](http://arxiv.org/abs/2106.11299v3)|null|
+|**2022-06-01**|**Learning to Solve PDE-constrained Inverse Problems with Graph Networks**|Qingqing Zhao et.al.|[2206.00711v1](http://arxiv.org/abs/2206.00711v1)|null|
 |**2022-05-27**|**Bayesian Robust Graph Contrastive Learning**|Yancheng Wang et.al.|[2205.14109v2](http://arxiv.org/abs/2205.14109v2)|[link](https://github.com/brgcl-code/brgcl-code)|
 |**2022-06-01**|**Graph Neural Networks with Precomputed Node Features**|Beni Egressy et.al.|[2206.00637v1](http://arxiv.org/abs/2206.00637v1)|null|
 |**2022-06-01**|**Graph Machine Learning for Design of High-Octane Fuels**|Jan G. Rittig et.al.|[2206.00619v1](http://arxiv.org/abs/2206.00619v1)|null|
@@ -25,12 +31,6 @@
 |**2022-06-01**|**Augmenting Message Passing by Retrieving Similar Graphs**|Dingmin Wang et.al.|[2206.00362v1](http://arxiv.org/abs/2206.00362v1)|null|
 |**2022-06-01**|**Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions**|Moritz Thürlemann et.al.|[2206.00355v1](http://arxiv.org/abs/2206.00355v1)|null|
 |**2022-06-01**|**InducT-GCN: Inductive Graph Convolutional Networks for Text Classification**|Kunze Wang et.al.|[2206.00265v1](http://arxiv.org/abs/2206.00265v1)|null|
-|**2022-02-07**|**Graph Self-supervised Learning with Accurate Discrepancy Learning**|Dongki Kim et.al.|[2202.02989v3](http://arxiv.org/abs/2202.02989v3)|null|
-|**2022-05-30**|**Temporal Multiresolution Graph Neural Networks For Epidemic Prediction**|Truong Son Hy et.al.|[2205.14831v2](http://arxiv.org/abs/2205.14831v2)|null|
-|**2021-04-15**|**Convolutions for Spatial Interaction Modeling**|Zhaoen Su et.al.|[2104.07182v2](http://arxiv.org/abs/2104.07182v2)|null|
-|**2022-06-01**|**Lower and Upper Bounds for Numbers of Linear Regions of Graph Convolutional Networks**|Hao Chen et.al.|[2206.00228v1](http://arxiv.org/abs/2206.00228v1)|null|
-|**2022-05-31**|**Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization**|Zheng Chai et.al.|[2206.00057v1](http://arxiv.org/abs/2206.00057v1)|null|
-|**2022-05-31**|**Continuous Temporal Graph Networks for Event-Based Graph Data**|Jin Guo et.al.|[2205.15924v1](http://arxiv.org/abs/2205.15924v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -56,6 +56,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-02**|**Fixed sets and fixed points in $\Lim$--spaces]{Fixed sets and fixed points for mappings in generalized $\Lim$--spaces of Fréchet**|Vladyslav Babenko et.al.|[2206.01155v1](http://arxiv.org/abs/2206.01155v1)|null|
 |**2022-05-19**|**Non-Archimedean Fréchet Algebras and the Loop Space of a Hypersurface Complement**|Emile Bouaziz et.al.|[2205.09863v1](http://arxiv.org/abs/2205.09863v1)|null|
 |**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v3](http://arxiv.org/abs/2112.13272v3)|null|
 |**2021-09-28**|**Neural Networks in Fréchet spaces**|Fred Espen Benth et.al.|[2109.13512v4](http://arxiv.org/abs/2109.13512v4)|null|
@@ -70,13 +71,14 @@
 |**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
 |**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
-|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v2](http://arxiv.org/abs/2202.11678v2)|[link](https://github.com/sanaelotfi/bayesian_model_comparison)|
+|**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Maud Delattre et.al.|[2206.01012v1](http://arxiv.org/abs/2206.01012v1)|null|
 |**2019-05-25**|**Selective inference after feature selection via multiscale bootstrap**|Yoshikazu Terada et.al.|[1905.10573v5](http://arxiv.org/abs/1905.10573v5)|null|
 |**2020-06-11**|**Probabilistic Best Subset Selection via Gradient-Based Optimization**|Mingzhang Yin et.al.|[2006.06448v4](http://arxiv.org/abs/2006.06448v4)|[link](https://github.com/mingzhang-yin/Probabilistic-Best-Subset)|
 |**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v1](http://arxiv.org/abs/2205.15821v1)|[link](https://github.com/taldatech/deep-latent-particles-pytorch)|
@@ -90,26 +92,24 @@
 |**2022-05-26**|**Fast variable selection makes scalable Gaussian process BSS-ANOVA a speedy and accurate choice for tabular and time series regression**|David S. Mebane et.al.|[2205.13676v1](http://arxiv.org/abs/2205.13676v1)|null|
 |**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v1](http://arxiv.org/abs/2205.13609v1)|null|
 |**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v1](http://arxiv.org/abs/2205.13577v1)|[link](https://github.com/smaityumich/exponential-tilting)|
-|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v1](http://arxiv.org/abs/2205.13536v1)|null|
-|**2022-05-26**|**A proof of consistency and model-selection optimality on the empirical Bayes method**|Dye SK Sato et.al.|[2205.13224v1](http://arxiv.org/abs/2205.13224v1)|null|
 
 ## Casual Inference
 
 ### Casual Inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2017-05-23**|**Causal inference for social network data**|Elizabeth L. Ogburn et.al.|[1705.08527v6](http://arxiv.org/abs/1705.08527v6)|[link](https://github.com/osofr/Ogburn_etal_simulations)|
-|**2022-06-01**|**Feature Selection for Discovering Distributional Treatment Effect Modifiers**|Yoichi Chikahara et.al.|[2206.00516v1](http://arxiv.org/abs/2206.00516v1)|null|
-|**2022-06-01**|**Religiosity and Innovation Attitudes: An Instrumental Variables Analysis**|Duygu Buyukyazici et.al.|[2206.00509v1](http://arxiv.org/abs/2206.00509v1)|null|
-|**2022-05-12**|**Framework for inferring empirical causal graphs from binary data to support multidimensional poverty analysis**|Chainarong Amornbunchornvej et.al.|[2205.06131v2](http://arxiv.org/abs/2205.06131v2)|[link](https://github.com/darkeyes/bicausality)|
-|**2022-06-01**|**In the Eye of the Beholder: Robust Prediction with Causal User Modeling**|Amir Feder et.al.|[2206.00416v1](http://arxiv.org/abs/2206.00416v1)|null|
-|**2022-06-01**|**Time-Varying Multivariate Causal Processes**|Jiti Gao et.al.|[2206.00409v1](http://arxiv.org/abs/2206.00409v1)|null|
-|**2021-09-20**|**Algorithmic Fairness Verification with Graphical Models**|Bishwamittra Ghosh et.al.|[2109.09447v2](http://arxiv.org/abs/2109.09447v2)|[link](https://github.com/meelgroup/justicia)|
-|**2021-08-09**|**Zero-Error Feedback Capacity for Bounded Stabilization and Finite-State Additive Noise Channels**|Amir Saberi et.al.|[2108.03874v4](http://arxiv.org/abs/2108.03874v4)|null|
-|**2022-02-20**|**Analyzing Adaptive Scaffolds that Help Students Develop Self-Regulated Learning Behaviors**|Anabil Munshi et.al.|[2202.09698v2](http://arxiv.org/abs/2202.09698v2)|null|
-|**2021-07-16**|**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**|Krzysztof Choromanski et.al.|[2107.07999v4](http://arxiv.org/abs/2107.07999v4)|[link](https://github.com/hl-hanlin/gkat)|
-|**2022-06-01**|**The Subtype-Free Average Causal Effect for Heterogeneous Disease Etiology**|Amit Sasson et.al.|[2206.00209v1](http://arxiv.org/abs/2206.00209v1)|null|
-|**2022-05-31**|**Differentiable Invariant Causal Discovery**|Yu Wang et.al.|[2205.15638v2](http://arxiv.org/abs/2205.15638v2)|null|
-|**2019-10-20**|**Note on the Delta Method for Finite Population Inference with Applications to Causal Inference**|Nicole E. Pashley et.al.|[1910.09062v5](http://arxiv.org/abs/1910.09062v5)|null|
-|**2020-11-05**|**The causal foundations of applied probability and statistics**|Sander Greenland et.al.|[2011.02677v5](http://arxiv.org/abs/2011.02677v5)|null|
-|**2022-02-08**|**Generative multitask learning mitigates target-causing confounding**|Taro Makino et.al.|[2202.04136v2](http://arxiv.org/abs/2202.04136v2)|[link](https://github.com/nyukat/generative_multitask_learning)|
+|**2022-06-02**|**Uniqueness and Complexity of Inverse MDP Models**|Marcus Hutter et.al.|[2206.01192v1](http://arxiv.org/abs/2206.01192v1)|null|
+|**2022-06-02**|**Self-screening corrections beyond the random-phase approximation: Applications to band gaps of semiconductors**|Viktor Christiansson et.al.|[2206.01169v1](http://arxiv.org/abs/2206.01169v1)|null|
+|**2022-06-02**|**Causal Structure Learning: a Combinatorial Perspective**|Chandler Squires et.al.|[2206.01152v1](http://arxiv.org/abs/2206.01152v1)|null|
+|**2022-03-12**|**The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**|Jessica Hullman et.al.|[2203.06498v8](http://arxiv.org/abs/2203.06498v8)|null|
+|**2022-06-02**|**Soft calibration for selection bias problems under mixed-effects models**|Chenyin Gao et.al.|[2206.01084v1](http://arxiv.org/abs/2206.01084v1)|null|
+|**2022-06-02**|**Revisiting the General Identifiability Problem**|Yaroslav Kivva et.al.|[2206.01081v1](http://arxiv.org/abs/2206.01081v1)|null|
+|**2022-06-02**|**Learning Disentangled Representations for Counterfactual Regression via Mutual Information Minimization**|Mingyuan Cheng et.al.|[2206.01022v1](http://arxiv.org/abs/2206.01022v1)|null|
+|**2021-07-29**|**An Information-Theoretic Approach to Joint Sensing and Communication**|Mehrasa Ahmadipour et.al.|[2107.14264v2](http://arxiv.org/abs/2107.14264v2)|null|
+|**2022-06-02**|**Leveraging Systematic Knowledge of 2D Transformations**|Jiachen Kang et.al.|[2206.00893v1](http://arxiv.org/abs/2206.00893v1)|null|
+|**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v2](http://arxiv.org/abs/2112.08907v2)|null|
+|**2021-12-16**|**Knowledge-Augmented Language Models for Cause-Effect Relation Classification**|Pedram Hosseini et.al.|[2112.08615v3](http://arxiv.org/abs/2112.08615v3)|[link](https://github.com/phosseini/causal-reasoning)|
+|**2022-01-28**|**Conservative finite volume scheme for first-order viscous relativistic hydrodynamics**|Alex Pandya et.al.|[2201.12317v3](http://arxiv.org/abs/2201.12317v3)|null|
+|**2021-10-06**|**ABC: Attention with Bounded-memory Control**|Hao Peng et.al.|[2110.02488v2](http://arxiv.org/abs/2110.02488v2)|null|
+|**2022-06-01**|**Bayesian sample size determination for causal discovery**|Federico Castelletti et.al.|[2206.00755v1](http://arxiv.org/abs/2206.00755v1)|null|
+|**2022-02-10**|**Locating and Editing Factual Associations in GPT**|Kevin Meng et.al.|[2202.05262v3](http://arxiv.org/abs/2202.05262v3)|[link](https://github.com/kmeng01/rome)|
