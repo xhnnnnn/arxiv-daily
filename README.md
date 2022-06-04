@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-04 07:28:06 Asia/Shanghai
+ Automated deployment @ 2022-06-04 19:25:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -72,27 +72,6 @@
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
 
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-02**|**Uniqueness and Complexity of Inverse MDP Models**|Marcus Hutter et.al.|[2206.01192v1](http://arxiv.org/abs/2206.01192v1)|null|
-|**2022-06-02**|**Self-screening corrections beyond the random-phase approximation: Applications to band gaps of semiconductors**|Viktor Christiansson et.al.|[2206.01169v1](http://arxiv.org/abs/2206.01169v1)|null|
-|**2022-06-02**|**Causal Structure Learning: a Combinatorial Perspective**|Chandler Squires et.al.|[2206.01152v1](http://arxiv.org/abs/2206.01152v1)|null|
-|**2022-03-12**|**The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**|Jessica Hullman et.al.|[2203.06498v8](http://arxiv.org/abs/2203.06498v8)|null|
-|**2022-06-02**|**Soft calibration for selection bias problems under mixed-effects models**|Chenyin Gao et.al.|[2206.01084v1](http://arxiv.org/abs/2206.01084v1)|null|
-|**2022-06-02**|**Revisiting the General Identifiability Problem**|Yaroslav Kivva et.al.|[2206.01081v1](http://arxiv.org/abs/2206.01081v1)|null|
-|**2022-06-02**|**Learning Disentangled Representations for Counterfactual Regression via Mutual Information Minimization**|Mingyuan Cheng et.al.|[2206.01022v1](http://arxiv.org/abs/2206.01022v1)|null|
-|**2021-07-29**|**An Information-Theoretic Approach to Joint Sensing and Communication**|Mehrasa Ahmadipour et.al.|[2107.14264v2](http://arxiv.org/abs/2107.14264v2)|null|
-|**2022-06-02**|**Leveraging Systematic Knowledge of 2D Transformations**|Jiachen Kang et.al.|[2206.00893v1](http://arxiv.org/abs/2206.00893v1)|null|
-|**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v2](http://arxiv.org/abs/2112.08907v2)|null|
-|**2021-12-16**|**Knowledge-Augmented Language Models for Cause-Effect Relation Classification**|Pedram Hosseini et.al.|[2112.08615v3](http://arxiv.org/abs/2112.08615v3)|[link](https://github.com/phosseini/causal-reasoning)|
-|**2022-01-28**|**Conservative finite volume scheme for first-order viscous relativistic hydrodynamics**|Alex Pandya et.al.|[2201.12317v3](http://arxiv.org/abs/2201.12317v3)|null|
-|**2021-10-06**|**ABC: Attention with Bounded-memory Control**|Hao Peng et.al.|[2110.02488v2](http://arxiv.org/abs/2110.02488v2)|null|
-|**2022-06-01**|**Bayesian sample size determination for causal discovery**|Federico Castelletti et.al.|[2206.00755v1](http://arxiv.org/abs/2206.00755v1)|null|
-|**2022-02-10**|**Locating and Editing Factual Associations in GPT**|Kevin Meng et.al.|[2202.05262v3](http://arxiv.org/abs/2202.05262v3)|[link](https://github.com/kmeng01/rome)|
-
 ## Variable Selection
 
 ### Variable selection
@@ -113,3 +92,24 @@
 |**2022-05-26**|**Fast variable selection makes scalable Gaussian process BSS-ANOVA a speedy and accurate choice for tabular and time series regression**|David S. Mebane et.al.|[2205.13676v1](http://arxiv.org/abs/2205.13676v1)|null|
 |**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v1](http://arxiv.org/abs/2205.13609v1)|null|
 |**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v1](http://arxiv.org/abs/2205.13577v1)|[link](https://github.com/smaityumich/exponential-tilting)|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-02**|**Uniqueness and Complexity of Inverse MDP Models**|Marcus Hutter et.al.|[2206.01192v1](http://arxiv.org/abs/2206.01192v1)|null|
+|**2022-06-02**|**Self-screening corrections beyond the random-phase approximation: Applications to band gaps of semiconductors**|Viktor Christiansson et.al.|[2206.01169v1](http://arxiv.org/abs/2206.01169v1)|null|
+|**2022-06-02**|**Causal Structure Learning: a Combinatorial Perspective**|Chandler Squires et.al.|[2206.01152v1](http://arxiv.org/abs/2206.01152v1)|null|
+|**2022-03-12**|**The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**|Jessica Hullman et.al.|[2203.06498v8](http://arxiv.org/abs/2203.06498v8)|null|
+|**2022-06-02**|**Soft calibration for selection bias problems under mixed-effects models**|Chenyin Gao et.al.|[2206.01084v1](http://arxiv.org/abs/2206.01084v1)|null|
+|**2022-06-02**|**Revisiting the General Identifiability Problem**|Yaroslav Kivva et.al.|[2206.01081v1](http://arxiv.org/abs/2206.01081v1)|null|
+|**2022-06-02**|**Learning Disentangled Representations for Counterfactual Regression via Mutual Information Minimization**|Mingyuan Cheng et.al.|[2206.01022v1](http://arxiv.org/abs/2206.01022v1)|null|
+|**2021-07-29**|**An Information-Theoretic Approach to Joint Sensing and Communication**|Mehrasa Ahmadipour et.al.|[2107.14264v2](http://arxiv.org/abs/2107.14264v2)|null|
+|**2022-06-02**|**Leveraging Systematic Knowledge of 2D Transformations**|Jiachen Kang et.al.|[2206.00893v1](http://arxiv.org/abs/2206.00893v1)|null|
+|**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v2](http://arxiv.org/abs/2112.08907v2)|null|
+|**2021-12-16**|**Knowledge-Augmented Language Models for Cause-Effect Relation Classification**|Pedram Hosseini et.al.|[2112.08615v3](http://arxiv.org/abs/2112.08615v3)|[link](https://github.com/phosseini/causal-reasoning)|
+|**2022-01-28**|**Conservative finite volume scheme for first-order viscous relativistic hydrodynamics**|Alex Pandya et.al.|[2201.12317v3](http://arxiv.org/abs/2201.12317v3)|null|
+|**2021-10-06**|**ABC: Attention with Bounded-memory Control**|Hao Peng et.al.|[2110.02488v2](http://arxiv.org/abs/2110.02488v2)|null|
+|**2022-06-01**|**Bayesian sample size determination for causal discovery**|Federico Castelletti et.al.|[2206.00755v1](http://arxiv.org/abs/2206.00755v1)|null|
+|**2022-02-10**|**Locating and Editing Factual Associations in GPT**|Kevin Meng et.al.|[2202.05262v3](http://arxiv.org/abs/2202.05262v3)|[link](https://github.com/kmeng01/rome)|
