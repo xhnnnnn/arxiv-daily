@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-15 07:28:14 Asia/Shanghai
+ Automated deployment @ 2022-06-15 19:27:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Universally Expressive Communication in Multi-Agent Reinforcement Learning**|Matthew Morris et.al.|[2206.06758v1](http://arxiv.org/abs/2206.06758v1)|null|
+|**2022-06-14**|**RoSGAS: Adaptive Social Bot Detection with Reinforced Self-Supervised GNN Architecture Search**|Yingguang Yang et.al.|[2206.06757v1](http://arxiv.org/abs/2206.06757v1)|null|
+|**2022-05-30**|**OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs**|Yangze Zhou et.al.|[2205.15117v3](http://arxiv.org/abs/2205.15117v3)|null|
+|**2022-06-14**|**FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks**|Kaituo Feng et.al.|[2206.06561v1](http://arxiv.org/abs/2206.06561v1)|null|
+|**2021-10-05**|**ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning**|Jun Xia et.al.|[2110.02027v3](http://arxiv.org/abs/2110.02027v3)|[link](https://github.com/junxia97/progcl)|
 |**2022-06-13**|**Evaluating Graph Generative Models with Contrastively Learned Features**|Hamed Shirzad et.al.|[2206.06234v1](http://arxiv.org/abs/2206.06234v1)|[link](https://github.com/hamed1375/self-supervised-models-for-ggm-evaluation)|
 |**2021-12-30**|**Causal Attention for Interpretable and Generalizable Graph Classification**|Yongduo Sui et.al.|[2112.15089v2](http://arxiv.org/abs/2112.15089v2)|[link](https://github.com/yongduosui/cal)|
 |**2022-02-07**|**Structure-Aware Transformer for Graph Representation Learning**|Dexiong Chen et.al.|[2202.03036v3](http://arxiv.org/abs/2202.03036v3)|[link](https://github.com/borgwardtlab/sat)|
@@ -26,36 +31,55 @@
 |**2022-06-11**|**Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks**|Mingqi Yang et.al.|[2206.05499v1](http://arxiv.org/abs/2206.05499v1)|[link](https://github.com/qslim/soft-mask-gnn)|
 |**2022-06-11**|**ACMP: Allen-Cahn Message Passing for Graph Neural Networks with Particle Phase Transition**|Yuelin Wang et.al.|[2206.05437v1](http://arxiv.org/abs/2206.05437v1)|null|
 |**2021-06-14**|**How does Heterophily Impact Robustness of Graph Neural Networks? Theoretical Connections and Practical Implications**|Jiong Zhu et.al.|[2106.07767v3](http://arxiv.org/abs/2106.07767v3)|null|
-|**2022-06-10**|**Synthetic Over-sampling for Imbalanced Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2206.05335v1](http://arxiv.org/abs/2206.05335v1)|null|
-|**2021-12-15**|**Encoding protein dynamic information in graph representation for functional residue identification**|Yuan Chiang et.al.|[2112.12033v2](http://arxiv.org/abs/2112.12033v2)|[link](https://github.com/chiang-yuan/prodar)|
-|**2022-06-10**|**We Cannot Guarantee Safety: The Undecidability of Graph Neural Network Verification**|Marco Sälzer et.al.|[2206.05070v1](http://arxiv.org/abs/2206.05070v1)|null|
-|**2022-06-10**|**Scalable Deep Gaussian Markov Random Fields for General Graphs**|Joel Oskarsson et.al.|[2206.05032v1](http://arxiv.org/abs/2206.05032v1)|[link](https://github.com/joeloskarsson/graph-dgmrf)|
-|**2022-06-10**|**NAGphormer: Neighborhood Aggregation Graph Transformer for Node Classification in Large Graphs**|Jinsong Chen et.al.|[2206.04910v1](http://arxiv.org/abs/2206.04910v1)|null|
 
-## Non-Euclidean Staistics
+## Casual Inference
 
-### Frechet Mean
+### Casual Inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-09-20**|**Integrated Construction of Multimodal Atlases with Structural Connectomes in the Space of Riemannian Metrics**|Kristen M. Campbell et.al.|[2109.09808v2](http://arxiv.org/abs/2109.09808v2)|[link](https://github.com/aarentai/atlas-building-3d)|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
-|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
-|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
-|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
-|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
-|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
-|**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
-|**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+|**2022-05-20**|**Nonlinear Forecasts and Impulse Responses for Causal-Noncausal (S)VAR Models**|Christian Gourieroux et.al.|[2205.09922v2](http://arxiv.org/abs/2205.09922v2)|null|
+|**2022-06-14**|**Quantum Singularities**|Raphael Bousso et.al.|[2206.07001v1](http://arxiv.org/abs/2206.07001v1)|null|
+|**2022-02-15**|**General-purpose, long-context autoregressive modeling with Perceiver AR**|Curtis Hawthorne et.al.|[2202.07765v2](http://arxiv.org/abs/2202.07765v2)|[link](https://github.com/google-research/perceiver-ar)|
+|**2022-06-06**|**Fermi two-atom problem: non-perturbative approach via relativistic quantum information and algebraic quantum field theory**|Erickson Tjoa et.al.|[2206.02316v2](http://arxiv.org/abs/2206.02316v2)|null|
+|**2022-05-13**|**Formalization of the principles of brain Programming (Brain Principles Programming)**|E. E. Vityaev et.al.|[2206.03487v2](http://arxiv.org/abs/2206.03487v2)|null|
+|**2022-06-14**|**DoWhy-GCM: An extension of DoWhy for causal inference in graphical causal models**|Patrick Blöbaum et.al.|[2206.06821v1](http://arxiv.org/abs/2206.06821v1)|[link](https://github.com/py-why/dowhy)|
+|**2022-06-14**|**Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring**|Zhengquan Luo et.al.|[2206.06818v1](http://arxiv.org/abs/2206.06818v1)|null|
+|**2022-06-14**|**The Causal Structure of Semantic Ambiguities**|Daphne Wang et.al.|[2206.06807v1](http://arxiv.org/abs/2206.06807v1)|null|
+|**2022-06-14**|**Light trajectory and shadow shape in the rotating naked singularity**|Vishva Patel et.al.|[2206.06750v1](http://arxiv.org/abs/2206.06750v1)|null|
+|**2022-06-14**|**Interpretable Gait Recognition by Granger Causality**|Michal Balazia et.al.|[2206.06714v1](http://arxiv.org/abs/2206.06714v1)|null|
+|**2022-06-14**|**Generalizing experimental findings: identification beyond adjustments**|Juha Karvanen et.al.|[2206.06699v1](http://arxiv.org/abs/2206.06699v1)|null|
+|**2022-06-14**|**Causal Discovery for Fairness**|Rūta Binkytė-Sadauskienė et.al.|[2206.06685v1](http://arxiv.org/abs/2206.06685v1)|null|
+|**2022-03-11**|**Bogoliubov's causal perturbative QED and white noise. Interacting fields**|Jaroslaw Wawrzycki et.al.|[2203.05854v2](http://arxiv.org/abs/2203.05854v2)|null|
+|**2022-06-02**|**A General Framework for the Representation of Function and Affordance: A Cognitive, Causal, and Grounded Approach, and a Step Toward AGI**|Seng-Beng Ho et.al.|[2206.05273v2](http://arxiv.org/abs/2206.05273v2)|null|
+|**2022-06-14**|**On Finite-Sample Identifiability of Contrastive Learning-Based Nonlinear Independent Component Analysis**|Qi Lyu et.al.|[2206.06593v1](http://arxiv.org/abs/2206.06593v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Deep Reinforcement Learning for Exact Combinatorial Optimization: Learning to Branch**|Tianyu Zhang et.al.|[2206.06965v1](http://arxiv.org/abs/2206.06965v1)|null|
+|**2021-08-04**|**Bayesian forecast combination using time-varying features**|Li Li et.al.|[2108.02082v3](http://arxiv.org/abs/2108.02082v3)|null|
+|**2022-06-14**|**Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation**|Wenxuan Wang et.al.|[2206.06575v1](http://arxiv.org/abs/2206.06575v1)|null|
+|**2020-07-13**|**A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization**|Daniel Iong et.al.|[2007.06476v3](http://arxiv.org/abs/2007.06476v3)|null|
+|**2022-06-13**|**Sparse-group boosting -- Unbiased group and variable selection**|Fabian Obster et.al.|[2206.06344v1](http://arxiv.org/abs/2206.06344v1)|null|
+|**2022-06-13**|**Robust Knockoffs for Controlling False Discoveries With an Application to Bond Recovery Rates**|Konstantin Görgen et.al.|[2206.06026v1](http://arxiv.org/abs/2206.06026v1)|null|
+|**2021-03-21**|**A Powerful Subvector Anderson Rubin Test in Linear Instrumental Variables Regression with Conditional Heteroskedasticity**|Patrik Guggenberger et.al.|[2103.11371v3](http://arxiv.org/abs/2103.11371v3)|null|
+|**2022-06-12**|**Simple Robust Estimating Method for Generalized Linear Models and its Application to Propensity Score Estimation**|Shunichiro Orihara et.al.|[2206.05640v1](http://arxiv.org/abs/2206.05640v1)|null|
+|**2022-06-11**|**Discovery and density estimation of latent confounders in Bayesian networks with evidence lower bound**|Kiattikun Chobtham et.al.|[2206.05490v1](http://arxiv.org/abs/2206.05490v1)|null|
+|**2022-06-10**|**Structured variable selection: an application in identifying predictors of major bleeding among hospitalized hypertensive patients using oral anticoagulants for atrial fibrillation**|Guanbo Wang et.al.|[2206.05337v1](http://arxiv.org/abs/2206.05337v1)|null|
+|**2022-06-10**|**Debiased Semiparametric U-Statistics: Machine Learning Inference on Inequality of Opportunity**|Juan Carlos Escanciano et.al.|[2206.05235v1](http://arxiv.org/abs/2206.05235v1)|null|
+|**2022-06-10**|**On the safe use of prior densities for Bayesian model selection**|F. Llorente et.al.|[2206.05210v1](http://arxiv.org/abs/2206.05210v1)|null|
+|**2022-06-10**|**Empirical Likelihood Based Bayesian Variable Selection**|Yichen Cheng et.al.|[2206.05204v1](http://arxiv.org/abs/2206.05204v1)|null|
+|**2022-06-10**|**Causal Discovery in Hawkes Processes by Minimum Description Length**|Amirkasra Jalaldoust et.al.|[2206.06124v1](http://arxiv.org/abs/2206.06124v1)|null|
+|**2022-03-07**|**Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion**|Pieter Cawood et.al.|[2203.03279v2](http://arxiv.org/abs/2203.03279v2)|null|
+
+## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-08-17**|**Symmetry structures and brackets for adjoint-symmetries, and their applications I: Main results**|Stephen C. Anco et.al.|[2008.07476v4](http://arxiv.org/abs/2008.07476v4)|null|
 |**2022-06-02**|**Fixed sets and fixed points in $\Lim$--spaces]{Fixed sets and fixed points for mappings in generalized $\Lim$--spaces of Fréchet**|Vladyslav Babenko et.al.|[2206.01155v1](http://arxiv.org/abs/2206.01155v1)|null|
 |**2022-05-19**|**Non-Archimedean Fréchet Algebras and the Loop Space of a Hypersurface Complement**|Emile Bouaziz et.al.|[2205.09863v1](http://arxiv.org/abs/2205.09863v1)|null|
 |**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v3](http://arxiv.org/abs/2112.13272v3)|null|
@@ -70,46 +94,22 @@
 |**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
 |**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
 
-## Casual Inference
-
-### Casual Inference
+### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-13**|**Language Models are General-Purpose Interfaces**|Yaru Hao et.al.|[2206.06336v1](http://arxiv.org/abs/2206.06336v1)|[link](https://github.com/microsoft/unilm)|
-|**2022-06-09**|**To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden**|Cheng Lin et.al.|[2206.04773v2](http://arxiv.org/abs/2206.04773v2)|null|
-|**2018-09-28**|**Non-classical properties of the e.m. near field of an atom in spontaneous light emission**|Vincent Debierre et.al.|[1809.11070v2](http://arxiv.org/abs/1809.11070v2)|null|
-|**2022-06-13**|**Projective characterization of higher-order quantum transformations**|Timothée Hoffreumon et.al.|[2206.06206v1](http://arxiv.org/abs/2206.06206v1)|null|
-|**2021-12-21**|**On the Adversarial Robustness of Causal Algorithmic Recourse**|Ricardo Dominguez-Olmedo et.al.|[2112.11313v2](http://arxiv.org/abs/2112.11313v2)|[link](https://github.com/ricardodominguez/adversariallyrobustrecourse)|
-|**2022-06-13**|**iCITRIS: Causal Representation Learning for Instantaneous Temporal Effects**|Phillip Lippe et.al.|[2206.06169v1](http://arxiv.org/abs/2206.06169v1)|[link](https://github.com/phlippe/citris)|
-|**2022-03-03**|**Interventions, Where and How? Experimental Design for Causal Models at Scale**|Panagiotis Tigas et.al.|[2203.02016v2](http://arxiv.org/abs/2203.02016v2)|null|
-|**2021-12-30**|**Causal Attention for Interpretable and Generalizable Graph Classification**|Yongduo Sui et.al.|[2112.15089v2](http://arxiv.org/abs/2112.15089v2)|[link](https://github.com/yongduosui/cal)|
-|**2021-10-27**|**Distributed Asynchronous Games With Causal Memory are Undecidable**|Hugo Gimbert et.al.|[2110.14768v5](http://arxiv.org/abs/2110.14768v5)|null|
-|**2022-06-13**|**Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation**|Ruohan Zhan et.al.|[2206.06003v1](http://arxiv.org/abs/2206.06003v1)|null|
-|**2022-06-13**|**The singularity theorems of General Relativity and their low regularity extensions**|Roland Steinbauer et.al.|[2206.05939v1](http://arxiv.org/abs/2206.05939v1)|null|
-|**2022-06-01**|**Feature Selection for Discovering Distributional Treatment Effect Modifiers**|Yoichi Chikahara et.al.|[2206.00516v3](http://arxiv.org/abs/2206.00516v3)|null|
-|**2022-06-13**|**Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition**|Mingjie Li et.al.|[2206.05871v1](http://arxiv.org/abs/2206.05871v1)|[link](https://github.com/netmanaiops/circa)|
-|**2022-06-12**|**Tree-level unitarity, causality and higher-order Lorentz and CPT violation**|Justo Lopez-Sarrion et.al.|[2206.05784v1](http://arxiv.org/abs/2206.05784v1)|null|
-|**2022-06-12**|**Human Mobility Prediction with Causal and Spatial-constrained Multi-task Network**|Zongyuan Huang et.al.|[2206.05731v1](http://arxiv.org/abs/2206.05731v1)|[link](https://github.com/urbanmobility/cslsl)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-13**|**Sparse-group boosting -- Unbiased group and variable selection**|Fabian Obster et.al.|[2206.06344v1](http://arxiv.org/abs/2206.06344v1)|null|
-|**2022-06-13**|**Robust Knockoffs for Controlling False Discoveries With an Application to Bond Recovery Rates**|Konstantin Görgen et.al.|[2206.06026v1](http://arxiv.org/abs/2206.06026v1)|null|
-|**2021-03-21**|**A Powerful Subvector Anderson Rubin Test in Linear Instrumental Variables Regression with Conditional Heteroskedasticity**|Patrik Guggenberger et.al.|[2103.11371v3](http://arxiv.org/abs/2103.11371v3)|null|
-|**2022-06-12**|**Simple Robust Estimating Method for Generalized Linear Models and its Application to Propensity Score Estimation**|Shunichiro Orihara et.al.|[2206.05640v1](http://arxiv.org/abs/2206.05640v1)|null|
-|**2022-06-11**|**Discovery and density estimation of latent confounders in Bayesian networks with evidence lower bound**|Kiattikun Chobtham et.al.|[2206.05490v1](http://arxiv.org/abs/2206.05490v1)|null|
-|**2022-06-10**|**Structured variable selection: an application in identifying predictors of major bleeding among hospitalized hypertensive patients using oral anticoagulants for atrial fibrillation**|Guanbo Wang et.al.|[2206.05337v1](http://arxiv.org/abs/2206.05337v1)|null|
-|**2022-06-10**|**Debiased Semiparametric U-Statistics: Machine Learning Inference on Inequality of Opportunity**|Juan Carlos Escanciano et.al.|[2206.05235v1](http://arxiv.org/abs/2206.05235v1)|null|
-|**2022-06-10**|**On the safe use of prior densities for Bayesian model selection**|F. Llorente et.al.|[2206.05210v1](http://arxiv.org/abs/2206.05210v1)|null|
-|**2022-06-10**|**Empirical Likelihood Based Bayesian Variable Selection**|Yichen Cheng et.al.|[2206.05204v1](http://arxiv.org/abs/2206.05204v1)|null|
-|**2022-06-10**|**Causal Discovery in Hawkes Processes by Minimum Description Length**|Amirkasra Jalaldoust et.al.|[2206.06124v1](http://arxiv.org/abs/2206.06124v1)|null|
-|**2022-03-07**|**Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion**|Pieter Cawood et.al.|[2203.03279v2](http://arxiv.org/abs/2203.03279v2)|null|
-|**2021-03-10**|**Analyzing cross-talk between superimposed signals: Vector norm dependent hidden Markov models and applications**|Laura Jula Vanegas et.al.|[2103.06071v2](http://arxiv.org/abs/2103.06071v2)|null|
-|**2022-06-08**|**A simple data-driven method to optimise the penalty strengths of penalised models and its application to non-parametric smoothing**|Jens Thomas et.al.|[2206.04067v1](http://arxiv.org/abs/2206.04067v1)|null|
-|**2022-06-08**|**Model Selection and Inference in Variational Longitudinal Distributed Lag Models**|Mark J. Meyer et.al.|[2206.04012v1](http://arxiv.org/abs/2206.04012v1)|null|
-|**2022-06-07**|**Model selection for robust learning of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v1](http://arxiv.org/abs/2206.03257v1)|[link](https://github.com/martapelizzola/sigmos)|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
+|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
+|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
+|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
+|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
+|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
+|**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
+|**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+|**2020-09-18**|**The Stein Effect for Frechet Means**|Andrew McCormack et.al.|[2009.09101v1](http://arxiv.org/abs/2009.09101v1)|null|
