@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-21 07:28:32 Asia/Shanghai
+ Automated deployment @ 2022-06-21 19:26:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -72,27 +72,6 @@
 |**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
 
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v1](http://arxiv.org/abs/2206.08900v1)|null|
-|**2022-06-17**|**Robust Information Criterion for Model Selection in Sparse High-Dimensional Linear Regression Models**|Prakash B. Gohain et.al.|[2206.08731v1](http://arxiv.org/abs/2206.08731v1)|null|
-|**2022-02-24**|**Bayesian Model Averaging of Chain Event Graphs for Robust Explanatory Modelling**|Peter Strong et.al.|[2202.12352v2](http://arxiv.org/abs/2202.12352v2)|[link](https://github.com/peterrhysstrong/cegpy_BMA)|
-|**2021-06-09**|**Feature and Parameter Selection in Stochastic Linear Bandits**|Ahmadreza Moradipari et.al.|[2106.05378v3](http://arxiv.org/abs/2106.05378v3)|null|
-|**2022-06-16**|**Learning diffusion coefficients, kinetic parameters, and the number of underlying states from a multi-state diffusion process: robustness results and application to PDK1/PKC$α$, dynamics**|Lewis R. Baker et.al.|[2206.07999v2](http://arxiv.org/abs/2206.07999v2)|null|
-|**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v1](http://arxiv.org/abs/2206.08541v1)|[link](https://github.com/agi-lab/reserving-ensemble)|
-|**2021-10-19**|**abess: A Fast Best Subset Selection Library in Python and R**|Jin Zhu et.al.|[2110.09697v2](http://arxiv.org/abs/2110.09697v2)|[link](https://github.com/abess-team/abess)|
-|**2022-06-16**|**A new tool for clustered survival data and multiple treatments: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v1](http://arxiv.org/abs/2206.08271v1)|null|
-|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v1](http://arxiv.org/abs/2206.08235v1)|null|
-|**2022-06-11**|**Discovery and density estimation of latent confounders in Bayesian networks with evidence lower bound**|Kiattikun Chobtham et.al.|[2206.05490v2](http://arxiv.org/abs/2206.05490v2)|null|
-|**2022-06-15**|**Federated Data Analytics: A Study on Linear Models**|Xubo Yue et.al.|[2206.07786v1](http://arxiv.org/abs/2206.07786v1)|null|
-|**2022-06-15**|**HyperImpute: Generalized Iterative Imputation with Automatic Model Selection**|Daniel Jarrett et.al.|[2206.07769v1](http://arxiv.org/abs/2206.07769v1)|[link](https://github.com/vanderschaarlab/hyperimpute)|
-|**2022-06-15**|**Hyperparameter Sensitivity in Deep Outlier Detection: Analysis and a Scalable Hyper-Ensemble Solution**|Xueying Ding et.al.|[2206.07647v1](http://arxiv.org/abs/2206.07647v1)|null|
-|**2021-10-06**|**RieszNet and ForestRiesz: Automatic Debiased Machine Learning with Neural Nets and Random Forests**|Victor Chernozhukov et.al.|[2110.03031v3](http://arxiv.org/abs/2110.03031v3)|[link](https://github.com/victor5as/rieszlearning)|
-|**2022-06-14**|**Molecular Cloud Populations in the Context of Their Host Galaxy Environments: A Multiwavelength Perspective**|Jiayi Sun et.al.|[2206.07055v1](http://arxiv.org/abs/2206.07055v1)|[link](https://github.com/phangsteam/megatable)|
-
 ## Casual Inference
 
 ### Casual Inference
@@ -113,3 +92,24 @@
 |**2022-06-16**|**Towards Understanding How Machines Can Learn Causal Overhypotheses**|Eliza Kosoy et.al.|[2206.08353v1](http://arxiv.org/abs/2206.08353v1)|[link](https://github.com/cannylab/casual_overhypotheses)|
 |**2022-06-16**|**Continuous-Time Modeling of Counterfactual Outcomes Using Neural Controlled Differential Equations**|Nabeel Seedat et.al.|[2206.08311v1](http://arxiv.org/abs/2206.08311v1)|[link](https://github.com/seedatnabeel/te-cde)|
 |**2022-06-16**|**A new tool for clustered survival data and multiple treatments: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v1](http://arxiv.org/abs/2206.08271v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v1](http://arxiv.org/abs/2206.08900v1)|null|
+|**2022-06-17**|**Robust Information Criterion for Model Selection in Sparse High-Dimensional Linear Regression Models**|Prakash B. Gohain et.al.|[2206.08731v1](http://arxiv.org/abs/2206.08731v1)|null|
+|**2022-02-24**|**Bayesian Model Averaging of Chain Event Graphs for Robust Explanatory Modelling**|Peter Strong et.al.|[2202.12352v2](http://arxiv.org/abs/2202.12352v2)|[link](https://github.com/peterrhysstrong/cegpy_BMA)|
+|**2021-06-09**|**Feature and Parameter Selection in Stochastic Linear Bandits**|Ahmadreza Moradipari et.al.|[2106.05378v3](http://arxiv.org/abs/2106.05378v3)|null|
+|**2022-06-16**|**Learning diffusion coefficients, kinetic parameters, and the number of underlying states from a multi-state diffusion process: robustness results and application to PDK1/PKC$α$, dynamics**|Lewis R. Baker et.al.|[2206.07999v2](http://arxiv.org/abs/2206.07999v2)|null|
+|**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v1](http://arxiv.org/abs/2206.08541v1)|[link](https://github.com/agi-lab/reserving-ensemble)|
+|**2021-10-19**|**abess: A Fast Best Subset Selection Library in Python and R**|Jin Zhu et.al.|[2110.09697v2](http://arxiv.org/abs/2110.09697v2)|[link](https://github.com/abess-team/abess)|
+|**2022-06-16**|**A new tool for clustered survival data and multiple treatments: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v1](http://arxiv.org/abs/2206.08271v1)|null|
+|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v1](http://arxiv.org/abs/2206.08235v1)|null|
+|**2022-06-11**|**Discovery and density estimation of latent confounders in Bayesian networks with evidence lower bound**|Kiattikun Chobtham et.al.|[2206.05490v2](http://arxiv.org/abs/2206.05490v2)|null|
+|**2022-06-15**|**Federated Data Analytics: A Study on Linear Models**|Xubo Yue et.al.|[2206.07786v1](http://arxiv.org/abs/2206.07786v1)|null|
+|**2022-06-15**|**HyperImpute: Generalized Iterative Imputation with Automatic Model Selection**|Daniel Jarrett et.al.|[2206.07769v1](http://arxiv.org/abs/2206.07769v1)|[link](https://github.com/vanderschaarlab/hyperimpute)|
+|**2022-06-15**|**Hyperparameter Sensitivity in Deep Outlier Detection: Analysis and a Scalable Hyper-Ensemble Solution**|Xueying Ding et.al.|[2206.07647v1](http://arxiv.org/abs/2206.07647v1)|null|
+|**2021-10-06**|**RieszNet and ForestRiesz: Automatic Debiased Machine Learning with Neural Nets and Random Forests**|Victor Chernozhukov et.al.|[2110.03031v3](http://arxiv.org/abs/2110.03031v3)|[link](https://github.com/victor5as/rieszlearning)|
+|**2022-06-14**|**Molecular Cloud Populations in the Context of Their Host Galaxy Environments: A Multiwavelength Perspective**|Jiayi Sun et.al.|[2206.07055v1](http://arxiv.org/abs/2206.07055v1)|[link](https://github.com/phangsteam/megatable)|
