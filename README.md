@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-26 07:27:41 Asia/Shanghai
+ Automated deployment @ 2022-06-26 19:25:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -42,6 +42,7 @@
 |**2022-02-11**|**Inference of Multiscale Gaussian Graphical Model**|Do Edmond Sanou et.al.|[2202.05775v2](http://arxiv.org/abs/2202.05775v2)|null|
 |**2022-06-22**|**Diagnostic Tool for Out-of-Sample Model Evaluation**|Ludvig Hult et.al.|[2206.10982v1](http://arxiv.org/abs/2206.10982v1)|[link](https://github.com/el-hult/lal)|
 |**2022-06-22**|**Optimally Weighted Ensembles of Regression Models: Exact Weight Optimization and Applications**|Patrick Echtenbruck et.al.|[2206.11263v1](http://arxiv.org/abs/2206.11263v1)|null|
+|**2018-07-22**|**Finite mixtures of matrix-variate Poisson-log normal distributions for three-way count data**|Anjali Silva et.al.|[1807.08380v2](http://arxiv.org/abs/1807.08380v2)|[link](https://github.com/anjalisilva/mixMVPLN)|
 |**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v1](http://arxiv.org/abs/2206.10619v1)|null|
 |**2022-06-21**|**Photometric Redshift Uncertainties in Weak Gravitational Lensing Shear Analysis: Models and Marginalization**|Tianqing Zhang et.al.|[2206.10169v1](http://arxiv.org/abs/2206.10169v1)|null|
 |**2021-03-15**|**Sticky PDMP samplers for sparse and local inference problems**|Joris Bierkens et.al.|[2103.08478v3](http://arxiv.org/abs/2103.08478v3)|[link](https://github.com/mschauer/ZigZagBoomerang.jl)|
@@ -51,28 +52,8 @@
 |**2022-06-18**|**AutoGML: Fast Automatic Model Selection for Graph Machine Learning**|Namyong Park et.al.|[2206.09280v1](http://arxiv.org/abs/2206.09280v1)|null|
 |**2022-06-18**|**Application of a General Family of Bivariate Distributions in Modelling Dependent Competing Risks Data with Associated Model Selection**|Aakash Agrawal et.al.|[2206.09138v1](http://arxiv.org/abs/2206.09138v1)|null|
 |**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v1](http://arxiv.org/abs/2206.08900v1)|null|
-|**2022-06-17**|**Robust Information Criterion for Model Selection in Sparse High-Dimensional Linear Regression Models**|Prakash B. Gohain et.al.|[2206.08731v1](http://arxiv.org/abs/2206.08731v1)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
-|**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
-|**2022-06-21**|**Multifunctions admitting a measurable by seminorm selector in Frechet spaces**|Sokol Bush Kaliaj et.al.|[2206.10337v1](http://arxiv.org/abs/2206.10337v1)|null|
-|**2020-08-17**|**Symmetry structures and brackets for adjoint-symmetries, and their applications I: Main results**|Stephen C. Anco et.al.|[2008.07476v4](http://arxiv.org/abs/2008.07476v4)|null|
-|**2022-06-02**|**Fixed sets and fixed points in $\Lim$--spaces]{Fixed sets and fixed points for mappings in generalized $\Lim$--spaces of Fréchet**|Vladyslav Babenko et.al.|[2206.01155v1](http://arxiv.org/abs/2206.01155v1)|null|
-|**2022-05-19**|**Non-Archimedean Fréchet Algebras and the Loop Space of a Hypersurface Complement**|Emile Bouaziz et.al.|[2205.09863v1](http://arxiv.org/abs/2205.09863v1)|null|
-|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v3](http://arxiv.org/abs/2112.13272v3)|null|
-|**2021-09-28**|**Neural Networks in Fréchet spaces**|Fred Espen Benth et.al.|[2109.13512v4](http://arxiv.org/abs/2109.13512v4)|null|
-|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
-|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
-|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
-|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
-|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
-|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
-|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,6 +73,25 @@
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
 |**2020-09-18**|**The Stein Effect for Frechet Means**|Andrew McCormack et.al.|[2009.09101v1](http://arxiv.org/abs/2009.09101v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
+|**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
+|**2022-06-21**|**Multifunctions admitting a measurable by seminorm selector in Frechet spaces**|Sokol Bush Kaliaj et.al.|[2206.10337v1](http://arxiv.org/abs/2206.10337v1)|null|
+|**2020-08-17**|**Symmetry structures and brackets for adjoint-symmetries, and their applications I: Main results**|Stephen C. Anco et.al.|[2008.07476v4](http://arxiv.org/abs/2008.07476v4)|null|
+|**2022-06-02**|**Fixed sets and fixed points in $\Lim$--spaces]{Fixed sets and fixed points for mappings in generalized $\Lim$--spaces of Fréchet**|Vladyslav Babenko et.al.|[2206.01155v1](http://arxiv.org/abs/2206.01155v1)|null|
+|**2022-05-19**|**Non-Archimedean Fréchet Algebras and the Loop Space of a Hypersurface Complement**|Emile Bouaziz et.al.|[2205.09863v1](http://arxiv.org/abs/2205.09863v1)|null|
+|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v3](http://arxiv.org/abs/2112.13272v3)|null|
+|**2021-09-28**|**Neural Networks in Fréchet spaces**|Fred Espen Benth et.al.|[2109.13512v4](http://arxiv.org/abs/2109.13512v4)|null|
+|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
+|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
+|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
+|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
+|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
+|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
+|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
 
 ## Casual Inference
 
