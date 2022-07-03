@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-03 07:27:32 Asia/Shanghai
+ Automated deployment @ 2022-07-03 19:25:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -31,6 +31,27 @@
 |**2022-06-28**|**Unraveling intricate processes of glassy dynamics from static structure by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v1](http://arxiv.org/abs/2206.14024v1)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
 |**2022-06-28**|**BAGEL: A Benchmark for Assessing Graph Neural Network Explanations**|Mandeep Rathee et.al.|[2206.13983v1](http://arxiv.org/abs/2206.13983v1)|[link](https://github.com/mandeep-rathee/bagel-benchmark)|
 |**2022-06-28**|**RAW-GNN: RAndom Walk Aggregation based Graph Neural Network**|Di Jin et.al.|[2206.13953v1](http://arxiv.org/abs/2206.13953v1)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v1](http://arxiv.org/abs/2206.15475v1)|null|
+|**2022-06-30**|**Bayesian Causal Inference: A Critical Review**|Fan Li et.al.|[2206.15460v1](http://arxiv.org/abs/2206.15460v1)|null|
+|**2022-06-30**|**The Complete Barrett-Crane Model and its Causal Structure**|Alexander F. Jercher et.al.|[2206.15442v1](http://arxiv.org/abs/2206.15442v1)|null|
+|**2022-03-16**|**Counterfactual Inference of Second Opinions**|Nina L. Corvelo Benz et.al.|[2203.08653v2](http://arxiv.org/abs/2203.08653v2)|[link](https://github.com/networks-learning/cfact-inference-second-opinions)|
+|**2022-06-30**|**Verification and search algorithms for causal DAGs**|Davin Choo et.al.|[2206.15374v1](http://arxiv.org/abs/2206.15374v1)|null|
+|**2022-06-30**|**Targeted learning in observational studies with multi-level treatments: An evaluation of antipsychotic drug treatment safety for patients with serious mental illnesses**|Jason Poulos et.al.|[2206.15367v1](http://arxiv.org/abs/2206.15367v1)|null|
+|**2022-02-19**|**A comment on Bell's Theorem Logical Consistency**|Marian Kupczynski et.al.|[2202.09639v2](http://arxiv.org/abs/2202.09639v2)|null|
+|**2022-06-30**|**Sonification as a Reliable Alternative to Conventional Visual Surgical Navigation**|Sasan Matinfar et.al.|[2206.15291v1](http://arxiv.org/abs/2206.15291v1)|null|
+|**2021-05-04**|**Business analytics meets artificial intelligence: Assessing the demand effects of discounts on Swiss train tickets**|Martin Huber et.al.|[2105.01426v4](http://arxiv.org/abs/2105.01426v4)|null|
+|**2022-06-03**|**D'ARTAGNAN: Counterfactual Video Generation**|Hadrien Reynaud et.al.|[2206.01651v2](http://arxiv.org/abs/2206.01651v2)|[link](https://github.com/hreynaud/dartagnan)|
+|**2019-12-30**|**A Positive Mass Theorem for Static Causal Fermion Systems**|Felix Finster et.al.|[1912.12995v2](http://arxiv.org/abs/1912.12995v2)|null|
+|**2022-04-15**|**Quantum chaos in 2D gravity**|Alexander Altland et.al.|[2204.07583v2](http://arxiv.org/abs/2204.07583v2)|null|
+|**2022-06-30**|**Causality-Based Multivariate Time Series Anomaly Detection**|Wenzhuo Yang et.al.|[2206.15033v1](http://arxiv.org/abs/2206.15033v1)|null|
+|**2021-11-10**|**A Mechanism of Baryogenesis for Causal Fermion Systems**|Felix Finster et.al.|[2111.05556v2](http://arxiv.org/abs/2111.05556v2)|null|
+|**2021-07-16**|**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**|Krzysztof Choromanski et.al.|[2107.07999v5](http://arxiv.org/abs/2107.07999v5)|[link](https://github.com/hl-hanlin/gkat)|
 
 ## Variable Selection
 
@@ -92,24 +113,3 @@
 |**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
 |**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
 |**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
-
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-30**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v1](http://arxiv.org/abs/2206.15475v1)|null|
-|**2022-06-30**|**Bayesian Causal Inference: A Critical Review**|Fan Li et.al.|[2206.15460v1](http://arxiv.org/abs/2206.15460v1)|null|
-|**2022-06-30**|**The Complete Barrett-Crane Model and its Causal Structure**|Alexander F. Jercher et.al.|[2206.15442v1](http://arxiv.org/abs/2206.15442v1)|null|
-|**2022-03-16**|**Counterfactual Inference of Second Opinions**|Nina L. Corvelo Benz et.al.|[2203.08653v2](http://arxiv.org/abs/2203.08653v2)|[link](https://github.com/networks-learning/cfact-inference-second-opinions)|
-|**2022-06-30**|**Verification and search algorithms for causal DAGs**|Davin Choo et.al.|[2206.15374v1](http://arxiv.org/abs/2206.15374v1)|null|
-|**2022-06-30**|**Targeted learning in observational studies with multi-level treatments: An evaluation of antipsychotic drug treatment safety for patients with serious mental illnesses**|Jason Poulos et.al.|[2206.15367v1](http://arxiv.org/abs/2206.15367v1)|null|
-|**2022-02-19**|**A comment on Bell's Theorem Logical Consistency**|Marian Kupczynski et.al.|[2202.09639v2](http://arxiv.org/abs/2202.09639v2)|null|
-|**2022-06-30**|**Sonification as a Reliable Alternative to Conventional Visual Surgical Navigation**|Sasan Matinfar et.al.|[2206.15291v1](http://arxiv.org/abs/2206.15291v1)|null|
-|**2021-05-04**|**Business analytics meets artificial intelligence: Assessing the demand effects of discounts on Swiss train tickets**|Martin Huber et.al.|[2105.01426v4](http://arxiv.org/abs/2105.01426v4)|null|
-|**2022-06-03**|**D'ARTAGNAN: Counterfactual Video Generation**|Hadrien Reynaud et.al.|[2206.01651v2](http://arxiv.org/abs/2206.01651v2)|[link](https://github.com/hreynaud/dartagnan)|
-|**2019-12-30**|**A Positive Mass Theorem for Static Causal Fermion Systems**|Felix Finster et.al.|[1912.12995v2](http://arxiv.org/abs/1912.12995v2)|null|
-|**2022-04-15**|**Quantum chaos in 2D gravity**|Alexander Altland et.al.|[2204.07583v2](http://arxiv.org/abs/2204.07583v2)|null|
-|**2022-06-30**|**Causality-Based Multivariate Time Series Anomaly Detection**|Wenzhuo Yang et.al.|[2206.15033v1](http://arxiv.org/abs/2206.15033v1)|null|
-|**2021-11-10**|**A Mechanism of Baryogenesis for Causal Fermion Systems**|Felix Finster et.al.|[2111.05556v2](http://arxiv.org/abs/2111.05556v2)|null|
-|**2021-07-16**|**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**|Krzysztof Choromanski et.al.|[2107.07999v5](http://arxiv.org/abs/2107.07999v5)|[link](https://github.com/hl-hanlin/gkat)|
