@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-23 07:30:09 Asia/Shanghai
+ Automated deployment @ 2022-07-23 19:26:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -31,27 +31,6 @@
 |**2022-03-02**|**GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation**|Sina Sajadmanesh et.al.|[2203.00949v2](http://arxiv.org/abs/2203.00949v2)|null|
 |**2022-07-19**|**SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization**|Ningyi Liao et.al.|[2207.09179v1](http://arxiv.org/abs/2207.09179v1)|[link](https://github.com/gdmnl/scara-ppr)|
 |**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v1](http://arxiv.org/abs/2207.09088v1)|null|
-
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-30**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v2](http://arxiv.org/abs/2206.15475v2)|null|
-|**2022-03-03**|**Who pays for gifts to physicians? Heterogeneous effects of industry payments on drug costs**|Melissa Newham et.al.|[2203.01778v2](http://arxiv.org/abs/2203.01778v2)|null|
-|**2021-10-13**|**Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions**|David Deuber et.al.|[2110.06627v2](http://arxiv.org/abs/2110.06627v2)|[link](https://github.com/ddeuber/extremal-qte-heavy-tailed)|
-|**2021-04-01**|**Repeated measurements with unintended feedback: The Dutch new herring scandals**|Fengnan Gao et.al.|[2104.00333v4](http://arxiv.org/abs/2104.00333v4)|null|
-|**2022-07-21**|**Detecting and Preventing Shortcut Learning for Fair Medical AI using Shortcut Testing (ShorT)**|Alexander Brown et.al.|[2207.10384v1](http://arxiv.org/abs/2207.10384v1)|null|
-|**2022-07-21**|**UAV Trajectory, User Association and Power Control for Multi-UAV Enabled Energy Harvesting Communications: Offline Design and Online Reinforcement Learning**|Chien-Wei Fu et.al.|[2207.10371v1](http://arxiv.org/abs/2207.10371v1)|null|
-|**2021-12-21**|**CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution**|Di Yao et.al.|[2201.00689v2](http://arxiv.org/abs/2201.00689v2)|null|
-|**2022-07-20**|**The tropical geometry of causal inference for extremes**|Ngoc M Tran et.al.|[2207.10227v1](http://arxiv.org/abs/2207.10227v1)|null|
-|**2022-07-20**|**Building Human Values into Recommender Systems: An Interdisciplinary Synthesis**|Jonathan Stray et.al.|[2207.10192v1](http://arxiv.org/abs/2207.10192v1)|null|
-|**2022-07-20**|**Structural Causal 3D Reconstruction**|Weiyang Liu et.al.|[2207.10156v1](http://arxiv.org/abs/2207.10156v1)|null|
-|**2021-12-01**|**Inducing Causal Structure for Interpretable Neural Networks**|Atticus Geiger et.al.|[2112.00826v2](http://arxiv.org/abs/2112.00826v2)|[link](https://github.com/frankaging/interchange-intervention-training)|
-|**2021-04-23**|**Simple Bulk Reconstruction in AdS/CFT Correspondence**|Seiji Terashima et.al.|[2104.11743v5](http://arxiv.org/abs/2104.11743v5)|null|
-|**2022-07-20**|**Causal Models, Prediction, and Extrapolation in Cell Line Perturbation Experiments**|James P. Long et.al.|[2207.09991v1](http://arxiv.org/abs/2207.09991v1)|[link](https://github.com/longjp/causal-pred-drug-code)|
-|**2022-07-20**|**Global sensitivity analysis for studies extending inferences from a randomized trial to a target population**|Issa J. Dahabreh et.al.|[2207.09982v1](http://arxiv.org/abs/2207.09982v1)|null|
-|**2022-07-20**|**Causal nonseparability and its implications for spatiotemporal relations**|Laurie Letertre et.al.|[2207.09973v1](http://arxiv.org/abs/2207.09973v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -92,6 +71,27 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v2](http://arxiv.org/abs/2206.15475v2)|null|
+|**2022-03-03**|**Who pays for gifts to physicians? Heterogeneous effects of industry payments on drug costs**|Melissa Newham et.al.|[2203.01778v2](http://arxiv.org/abs/2203.01778v2)|null|
+|**2021-10-13**|**Estimation and Inference of Extremal Quantile Treatment Effects for Heavy-Tailed Distributions**|David Deuber et.al.|[2110.06627v2](http://arxiv.org/abs/2110.06627v2)|[link](https://github.com/ddeuber/extremal-qte-heavy-tailed)|
+|**2021-04-01**|**Repeated measurements with unintended feedback: The Dutch new herring scandals**|Fengnan Gao et.al.|[2104.00333v4](http://arxiv.org/abs/2104.00333v4)|null|
+|**2022-07-21**|**Detecting and Preventing Shortcut Learning for Fair Medical AI using Shortcut Testing (ShorT)**|Alexander Brown et.al.|[2207.10384v1](http://arxiv.org/abs/2207.10384v1)|null|
+|**2022-07-21**|**UAV Trajectory, User Association and Power Control for Multi-UAV Enabled Energy Harvesting Communications: Offline Design and Online Reinforcement Learning**|Chien-Wei Fu et.al.|[2207.10371v1](http://arxiv.org/abs/2207.10371v1)|null|
+|**2021-12-21**|**CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution**|Di Yao et.al.|[2201.00689v2](http://arxiv.org/abs/2201.00689v2)|null|
+|**2022-07-20**|**The tropical geometry of causal inference for extremes**|Ngoc M Tran et.al.|[2207.10227v1](http://arxiv.org/abs/2207.10227v1)|null|
+|**2022-07-20**|**Building Human Values into Recommender Systems: An Interdisciplinary Synthesis**|Jonathan Stray et.al.|[2207.10192v1](http://arxiv.org/abs/2207.10192v1)|null|
+|**2022-07-20**|**Structural Causal 3D Reconstruction**|Weiyang Liu et.al.|[2207.10156v1](http://arxiv.org/abs/2207.10156v1)|null|
+|**2021-12-01**|**Inducing Causal Structure for Interpretable Neural Networks**|Atticus Geiger et.al.|[2112.00826v2](http://arxiv.org/abs/2112.00826v2)|[link](https://github.com/frankaging/interchange-intervention-training)|
+|**2021-04-23**|**Simple Bulk Reconstruction in AdS/CFT Correspondence**|Seiji Terashima et.al.|[2104.11743v5](http://arxiv.org/abs/2104.11743v5)|null|
+|**2022-07-20**|**Causal Models, Prediction, and Extrapolation in Cell Line Perturbation Experiments**|James P. Long et.al.|[2207.09991v1](http://arxiv.org/abs/2207.09991v1)|[link](https://github.com/longjp/causal-pred-drug-code)|
+|**2022-07-20**|**Global sensitivity analysis for studies extending inferences from a randomized trial to a target population**|Issa J. Dahabreh et.al.|[2207.09982v1](http://arxiv.org/abs/2207.09982v1)|null|
+|**2022-07-20**|**Causal nonseparability and its implications for spatiotemporal relations**|Laurie Letertre et.al.|[2207.09973v1](http://arxiv.org/abs/2207.09973v1)|null|
 
 ## Variable Selection
 
