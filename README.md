@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-31 07:28:38 Asia/Shanghai
+ Automated deployment @ 2022-07-31 19:26:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -31,27 +31,6 @@
 |**2022-07-26**|**Planning and Learning: A Review of Methods involving Path-Planning for Autonomous Vehicles**|Kevin Osanlou et.al.|[2207.13181v1](http://arxiv.org/abs/2207.13181v1)|null|
 |**2022-07-26**|**Contextualizing Online Conversational Networks**|Thomas Magelinski et.al.|[2207.13055v1](http://arxiv.org/abs/2207.13055v1)|null|
 |**2022-02-23**|**Cooperative Behavior Planning for Automated Driving using Graph Neural Networks**|Marvin Klimke et.al.|[2202.11376v2](http://arxiv.org/abs/2202.11376v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2020-07-28**|**The Minimum Description Length Principle for Pattern Mining: A Survey**|Esther Galbrun et.al.|[2007.14009v5](http://arxiv.org/abs/2007.14009v5)|null|
-|**2022-04-05**|**Pareto-optimal clustering with the primal deterministic information bottleneck**|Andrew K. Tan et.al.|[2204.02489v2](http://arxiv.org/abs/2204.02489v2)|[link](https://github.com/andrewktan/pareto_dib)|
-|**2022-07-27**|**The Lauritzen-Chen Likelihood For Graphical Models**|Ilya Shpitser et.al.|[2207.13794v1](http://arxiv.org/abs/2207.13794v1)|null|
-|**2022-07-27**|**Label-Only Membership Inference Attack against Node-Level Graph Neural Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
-|**2022-07-27**|**Dissecting kinetically coupled quintessence: phenomenology and observational tests**|Elsa M. Teixeira et.al.|[2207.13682v1](http://arxiv.org/abs/2207.13682v1)|null|
-|**2022-05-19**|**Time Series Anomaly Detection via Reinforcement Learning-Based Model Selection**|Jiuqi Elise Zhang et.al.|[2205.09884v4](http://arxiv.org/abs/2205.09884v4)|[link](https://github.com/elisejiuqizhang/RLMSAD)|
-|**2022-07-27**|**Robust Prediction Error Estimation with Monte-Carlo Methodology**|Kimia Vahdat et.al.|[2207.13612v1](http://arxiv.org/abs/2207.13612v1)|null|
-|**2022-07-27**|**Long-term temporal evolution of extreme temperature in a warming Earth**|Justus Contzen et.al.|[2207.13512v1](http://arxiv.org/abs/2207.13512v1)|null|
-|**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v1](http://arxiv.org/abs/2207.13330v1)|null|
-|**2022-07-26**|**A Bayesian hierarchical framework for emulating a complex crop yield simulator**|Muhammad Mahmudul Hasan et.al.|[2207.12999v1](http://arxiv.org/abs/2207.12999v1)|null|
-|**2022-07-26**|**Branch Ranking for Efficient Mixed-Integer Programming via Offline Ranking-based Policy Learning**|Zeren Huang et.al.|[2207.13701v1](http://arxiv.org/abs/2207.13701v1)|null|
-|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v1](http://arxiv.org/abs/2207.12956v1)|[link](https://github.com/d09948011/identifying-clusters)|
-|**2022-07-05**|**Bayesian model selection for multilevel models using marginal likelihoods**|Tom Edinburgh et.al.|[2207.02144v2](http://arxiv.org/abs/2207.02144v2)|[link](https://github.com/tedinburgh/model-evidence-with-marginal)|
-|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v2](http://arxiv.org/abs/2205.15821v2)|[link](https://github.com/taldatech/deep-latent-particles-pytorch)|
-|**2022-07-26**|**An exhaustive variable selection study for linear models of soundscape emotions: rankings and Gibbs analysis**|R. San Millán-Castillo et.al.|[2207.12743v1](http://arxiv.org/abs/2207.12743v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -113,3 +92,24 @@
 |**2022-07-27**|**Coincidence postselection for genuine multipartite nonlocality: Causal diagrams and threshold efficiencies**|Valentin Gebhart et.al.|[2207.13579v1](http://arxiv.org/abs/2207.13579v1)|null|
 |**2022-07-26**|**XInsight: eXplainable Data Analysis Through The Lens of Causality**|Pingchuan Ma et.al.|[2207.12718v2](http://arxiv.org/abs/2207.12718v2)|null|
 |**2022-07-26**|**Entangled Quantum States of Causal Fermion Systems and Unitary Group Integrals**|Felix Finster et.al.|[2207.13157v1](http://arxiv.org/abs/2207.13157v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-07-28**|**The Minimum Description Length Principle for Pattern Mining: A Survey**|Esther Galbrun et.al.|[2007.14009v5](http://arxiv.org/abs/2007.14009v5)|null|
+|**2022-04-05**|**Pareto-optimal clustering with the primal deterministic information bottleneck**|Andrew K. Tan et.al.|[2204.02489v2](http://arxiv.org/abs/2204.02489v2)|[link](https://github.com/andrewktan/pareto_dib)|
+|**2022-07-27**|**The Lauritzen-Chen Likelihood For Graphical Models**|Ilya Shpitser et.al.|[2207.13794v1](http://arxiv.org/abs/2207.13794v1)|null|
+|**2022-07-27**|**Label-Only Membership Inference Attack against Node-Level Graph Neural Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
+|**2022-07-27**|**Dissecting kinetically coupled quintessence: phenomenology and observational tests**|Elsa M. Teixeira et.al.|[2207.13682v1](http://arxiv.org/abs/2207.13682v1)|null|
+|**2022-05-19**|**Time Series Anomaly Detection via Reinforcement Learning-Based Model Selection**|Jiuqi Elise Zhang et.al.|[2205.09884v4](http://arxiv.org/abs/2205.09884v4)|[link](https://github.com/elisejiuqizhang/RLMSAD)|
+|**2022-07-27**|**Robust Prediction Error Estimation with Monte-Carlo Methodology**|Kimia Vahdat et.al.|[2207.13612v1](http://arxiv.org/abs/2207.13612v1)|null|
+|**2022-07-27**|**Long-term temporal evolution of extreme temperature in a warming Earth**|Justus Contzen et.al.|[2207.13512v1](http://arxiv.org/abs/2207.13512v1)|null|
+|**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v1](http://arxiv.org/abs/2207.13330v1)|null|
+|**2022-07-26**|**A Bayesian hierarchical framework for emulating a complex crop yield simulator**|Muhammad Mahmudul Hasan et.al.|[2207.12999v1](http://arxiv.org/abs/2207.12999v1)|null|
+|**2022-07-26**|**Branch Ranking for Efficient Mixed-Integer Programming via Offline Ranking-based Policy Learning**|Zeren Huang et.al.|[2207.13701v1](http://arxiv.org/abs/2207.13701v1)|null|
+|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v1](http://arxiv.org/abs/2207.12956v1)|[link](https://github.com/d09948011/identifying-clusters)|
+|**2022-07-05**|**Bayesian model selection for multilevel models using marginal likelihoods**|Tom Edinburgh et.al.|[2207.02144v2](http://arxiv.org/abs/2207.02144v2)|[link](https://github.com/tedinburgh/model-evidence-with-marginal)|
+|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v2](http://arxiv.org/abs/2205.15821v2)|[link](https://github.com/taldatech/deep-latent-particles-pytorch)|
+|**2022-07-26**|**An exhaustive variable selection study for linear models of soundscape emotions: rankings and Gibbs analysis**|R. San Millán-Castillo et.al.|[2207.12743v1](http://arxiv.org/abs/2207.12743v1)|null|
