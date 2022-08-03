@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-03 07:31:02 Asia/Shanghai
+ Automated deployment @ 2022-08-03 19:27:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,7 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-09-22**|**ENERO: Efficient Real-Time WAN Routing Optimization with Deep Reinforcement Learning**|Paul Almasan et.al.|[2109.10883v3](http://arxiv.org/abs/2109.10883v3)|[link](https://github.com/BNN-UPC/ENERO)|
 |**2022-08-01**|**Learning to Navigate using Visual Sensor Networks**|Jan Blumenkamp et.al.|[2208.00759v1](http://arxiv.org/abs/2208.00759v1)|null|
 |**2022-08-01**|**Graph Neural Network with Local Frame for Molecular Potential Energy Surface**|Xiyuan Wang et.al.|[2208.00716v1](http://arxiv.org/abs/2208.00716v1)|null|
 |**2022-08-01**|**Dress Well via Fashion Cognitive Learning**|Kaicheng Pang et.al.|[2208.00639v1](http://arxiv.org/abs/2208.00639v1)|null|
@@ -25,12 +26,11 @@
 |**2021-09-12**|**A Joint Graph and Image Convolution Network for Automatic Brain Tumor Segmentation**|Camillo Saueressig et.al.|[2109.05580v2](http://arxiv.org/abs/2109.05580v2)|[link](https://github.com/rsinghlab/gnn-tumor-seg)|
 |**2021-11-02**|**Trajectory Prediction with Graph-based Dual-scale Context Fusion**|Lu Zhang et.al.|[2111.01592v2](http://arxiv.org/abs/2111.01592v2)|[link](https://github.com/hkust-aerial-robotics/dsp)|
 |**2022-07-30**|**Prediction and mitigation of nonlocal cascading failures using graph neural networks**|Bukyoung Jhun et.al.|[2208.00133v1](http://arxiv.org/abs/2208.00133v1)|null|
+|**2022-07-29**|**Face-to-Face Contrastive Learning for Social Intelligence Question-Answering**|Alex Wilf et.al.|[2208.01036v1](http://arxiv.org/abs/2208.01036v1)|null|
 |**2020-10-04**|**Learning Latent Interactions for Event classification via Graph Neural Networks and PMU Data**|Yuxuan Yuan et.al.|[2010.01616v4](http://arxiv.org/abs/2010.01616v4)|null|
 |**2022-07-29**|**Graph Neural Networks for Channel Decoding**|Sebastian Cammerer et.al.|[2207.14742v1](http://arxiv.org/abs/2207.14742v1)|null|
 |**2022-07-29**|**BiFeat: Supercharge GNN Training via Graph Feature Quantization**|Yuxin Ma et.al.|[2207.14696v1](http://arxiv.org/abs/2207.14696v1)|[link](https://github.com/bifeat/bifeat)|
 |**2022-07-29**|**Neural-Guided RuntimePrediction of Planners for Improved Motion and Task Planning with Graph Neural Networks**|Simon Odense et.al.|[2207.14422v1](http://arxiv.org/abs/2207.14422v1)|null|
-|**2021-04-23**|**Deep Learning for Bayesian Optimization of Scientific Problems with High-Dimensional Structure**|Samuel Kim et.al.|[2104.11667v3](http://arxiv.org/abs/2104.11667v3)|[link](https://github.com/samuelkim314/DeepBO)|
-|**2022-07-28**|**Self-Supervised Hypergraph Transformer for Recommender Systems**|Lianghao Xia et.al.|[2207.14338v1](http://arxiv.org/abs/2207.14338v1)|[link](https://github.com/akaxlh/sht)|
 
 ## Non-Euclidean Staistics
 
@@ -77,27 +77,28 @@
 ### Casual Inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02**|**CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking Causal Discovery methods**|Giovanni Menegozzo et.al.|[2208.01529v1](http://arxiv.org/abs/2208.01529v1)|[link](https://github.com/giovannimen/cpcad-bench)|
+|**2021-11-24**|**Optimal Robust Exact Differentiation via Linear Adaptive Techniques**|Richard Seeber et.al.|[2111.12638v2](http://arxiv.org/abs/2111.12638v2)|null|
+|**2022-03-16**|**Context-Aware Drift Detection**|Oliver Cobb et.al.|[2203.08644v2](http://arxiv.org/abs/2203.08644v2)|[link](https://github.com/SeldonIO/alibi-detect)|
+|**2022-08-02**|**AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model**|Saleh Soltan et.al.|[2208.01448v1](http://arxiv.org/abs/2208.01448v1)|null|
+|**2022-08-02**|**The Face of Affective Disorders**|Christian S. Pilz et.al.|[2208.01369v1](http://arxiv.org/abs/2208.01369v1)|null|
+|**2022-08-02**|**Joint Learning-based Causal Relation Extraction from Biomedical Literature**|Dongling Li et.al.|[2208.01316v1](http://arxiv.org/abs/2208.01316v1)|null|
+|**2022-08-01**|**Model-Twin Randomization (MoTR): A Monte Carlo Method for Estimating the Within-Individual Average Treatment Effect Using Wearable Sensors**|Eric J. Daza et.al.|[2208.00739v2](http://arxiv.org/abs/2208.00739v2)|null|
+|**2022-04-26**|**Causal Reasoning Meets Visual Representation Learning: A Prospective Study**|Yang Liu et.al.|[2204.12037v6](http://arxiv.org/abs/2204.12037v6)|null|
+|**2022-08-02**|**Doubly Robust Proximal Causal Inference under Confounded Outcome-Dependent Sampling**|Kendrick Qijun Li et.al.|[2208.01237v1](http://arxiv.org/abs/2208.01237v1)|null|
+|**2022-08-01**|**Towards R-learner of conditional average treatment effects with a continuous treatment: T-identification, estimation, and inference**|Yichi Zhang et.al.|[2208.00872v2](http://arxiv.org/abs/2208.00872v2)|null|
+|**2022-08-01**|**Amplitudes within causal loop-tree duality**|Sascha Kromin et.al.|[2208.01060v1](http://arxiv.org/abs/2208.01060v1)|null|
+|**2022-08-01**|**Modular Fluctuations from Shockwave Geometries**|Erik Verlinde et.al.|[2208.01059v1](http://arxiv.org/abs/2208.01059v1)|null|
 |**2022-08-01**|**Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification**|Xulin Li et.al.|[2208.00967v1](http://arxiv.org/abs/2208.00967v1)|null|
 |**2022-08-01**|**Maximal Extractable Value (MEV) Protection on a DAG**|Dahlia Malkhi et.al.|[2208.00940v1](http://arxiv.org/abs/2208.00940v1)|null|
 |**2022-08-01**|**Salinity-induced limits to Mangrove canopy height and diversity**|Saverio Perri et.al.|[2208.00900v1](http://arxiv.org/abs/2208.00900v1)|null|
-|**2022-08-01**|**Towards Computing an Optimal Abstraction for Structural Causal Models**|Fabio Massimo Zennaro et.al.|[2208.00894v1](http://arxiv.org/abs/2208.00894v1)|[link](https://github.com/FMZennaro/CategoricalCausalAbstraction)|
-|**2022-08-01**|**Towards R-learner of conditional average treatment effects with a continuous treatment: T-identification, estimation, and inference**|Yichi Zhang et.al.|[2208.00872v1](http://arxiv.org/abs/2208.00872v1)|null|
-|**2022-08-01**|**Learning from flowsheets: A generative transformer model for autocompletion of flowsheets**|Gabriel Vogel et.al.|[2208.00859v1](http://arxiv.org/abs/2208.00859v1)|null|
-|**2022-08-01**|**Model-Twin Randomization (MoTR): A Monte Carlo Method for Estimating the Within-Individual Average Treatment Effect Using Wearable Sensors**|Eric J. Daza et.al.|[2208.00739v1](http://arxiv.org/abs/2208.00739v1)|null|
-|**2022-08-01**|**Device-independent certification of indefinite causal order in the quantum switch**|Tein van der Lugt et.al.|[2208.00719v1](http://arxiv.org/abs/2208.00719v1)|null|
-|**2022-03-31**|**Controlled Discovery and Localization of Signals via Bayesian Linear Programming**|Asher Spector et.al.|[2203.17208v3](http://arxiv.org/abs/2203.17208v3)|[link](https://github.com/amspector100/pyblip)|
-|**2019-12-30**|**Causal Diamonds, Cluster Polytopes and Scattering Amplitudes**|Nima Arkani-Hamed et.al.|[1912.12948v3](http://arxiv.org/abs/1912.12948v3)|null|
-|**2022-07-31**|**$\hbar ω$ versus $\hbar \boldsymbol{k}$: Dispersion and Energy Constraints on Time-Varying Photonic Materials and Time Crystals**|Zeki Hayran et.al.|[2208.00459v1](http://arxiv.org/abs/2208.00459v1)|null|
-|**2022-07-31**|**Towards Intercultural Affect Recognition: Audio-Visual Affect Recognition in the Wild Across Six Cultures**|Leena Mathur et.al.|[2208.00344v1](http://arxiv.org/abs/2208.00344v1)|null|
-|**2022-05-16**|**Wedge domains in non-compactly causal symmetric spaces**|Karl-Hermann Neeb et.al.|[2205.07685v2](http://arxiv.org/abs/2205.07685v2)|null|
-|**2021-09-02**|**Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond**|Amir Feder et.al.|[2109.00725v2](http://arxiv.org/abs/2109.00725v2)|null|
-|**2022-07-29**|**Bias Formulas for Violations of Proximal Identification Assumptions**|Raluca Cobzaru et.al.|[2208.00105v1](http://arxiv.org/abs/2208.00105v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02**|**Bayesian Variable Selection in a Million Dimensions**|Martin Jankowiak et.al.|[2208.01180v1](http://arxiv.org/abs/2208.01180v1)|null|
 |**2021-06-15**|**Machine learning-based conditional mean filter: a generalization of the ensemble Kalman filter for nonlinear data assimilation**|Truong-Vinh Hoang et.al.|[2106.07908v2](http://arxiv.org/abs/2106.07908v2)|null|
 |**2012-10-17**|**Mixture model for designs in high dimensional regression and the LASSO**|Mohamed Ibrahim Assoweh et.al.|[1210.4762v2](http://arxiv.org/abs/1210.4762v2)|null|
 |**2022-07-30**|**Outcome Adaptive Propensity Score Methods for Handling Censoring and High-Dimensionality: Application to Insurance Claims**|Youfei Yu et.al.|[2208.00114v1](http://arxiv.org/abs/2208.00114v1)|null|
@@ -112,4 +113,3 @@
 |**2022-07-27**|**Robust Prediction Error Estimation with Monte-Carlo Methodology**|Kimia Vahdat et.al.|[2207.13612v1](http://arxiv.org/abs/2207.13612v1)|null|
 |**2022-07-27**|**Long-term temporal evolution of extreme temperature in a warming Earth**|Justus Contzen et.al.|[2207.13512v1](http://arxiv.org/abs/2207.13512v1)|null|
 |**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v1](http://arxiv.org/abs/2207.13330v1)|null|
-|**2022-07-26**|**A Bayesian hierarchical framework for emulating a complex crop yield simulator**|Muhammad Mahmudul Hasan et.al.|[2207.12999v1](http://arxiv.org/abs/2207.12999v1)|null|
