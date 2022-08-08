@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-08 07:28:43 Asia/Shanghai
+ Automated deployment @ 2022-08-08 19:26:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05**|**Accelerating discrete dislocation dynamics simulations with graph neural networks**|Nicolas Bertin et.al.|[2208.03296v1](http://arxiv.org/abs/2208.03296v1)|null|
+|**2022-08-05**|**A Gaze into the Internal Logic of Graph Neural Networks, with Logic**|Paul Tarau et.al.|[2208.03093v1](http://arxiv.org/abs/2208.03093v1)|null|
+|**2022-08-05**|**PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes**|Tien-Cuong Bui et.al.|[2208.03075v1](http://arxiv.org/abs/2208.03075v1)|null|
+|**2022-08-01**|**Learning to Navigate using Visual Sensor Networks**|Jan Blumenkamp et.al.|[2208.00759v2](http://arxiv.org/abs/2208.00759v2)|null|
+|**2022-05-23**|**Revisiting the role of heterophily in graph representation learning: An edge classification perspective**|Jincheng Huang et.al.|[2205.11322v2](http://arxiv.org/abs/2205.11322v2)|null|
+|**2022-08-02**|**Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation**|Haolun Wu et.al.|[2208.01709v2](http://arxiv.org/abs/2208.01709v2)|null|
+|**2022-08-04**|**GNN4REL: Graph Neural Networks for Predicting Circuit Reliability Degradation**|Lilas Alrahis et.al.|[2208.02868v1](http://arxiv.org/abs/2208.02868v1)|null|
 |**2022-08-04**|**Explaining Classifiers Trained on Raw Hierarchical Multiple-Instance Data**|Tomáš Pevný et.al.|[2208.02694v1](http://arxiv.org/abs/2208.02694v1)|null|
 |**2022-08-04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v1](http://arxiv.org/abs/2208.02613v1)|[link](https://github.com/kyle-one/signa)|
 |**2022-08-04**|**Neuro-symbolic computing with spiking neural networks**|Dominik Dold et.al.|[2208.02576v1](http://arxiv.org/abs/2208.02576v1)|null|
@@ -25,34 +32,6 @@
 |**2022-08-03**|**GROWN+UP: A Graph Representation Of a Webpage Network Utilizing Pre-training**|Benedict Yeoh et.al.|[2208.02252v1](http://arxiv.org/abs/2208.02252v1)|null|
 |**2022-08-03**|**PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?**|Aleksandr Kim et.al.|[2208.01957v1](http://arxiv.org/abs/2208.01957v1)|null|
 |**2021-09-10**|**ProcK: Machine Learning for Knowledge-Intensive Processes**|Tobias Jacobs et.al.|[2109.04881v2](http://arxiv.org/abs/2109.04881v2)|null|
-|**2022-08-03**|**Robust Graph Neural Networks using Weighted Graph Laplacian**|Bharat Runwal et.al.|[2208.01853v1](http://arxiv.org/abs/2208.01853v1)|[link](https://github.com/bharat-runwal/rwl-gnn)|
-|**2022-02-14**|**Laplacian Features for Learning with Hyperbolic Space**|Tao Yu et.al.|[2202.06854v2](http://arxiv.org/abs/2202.06854v2)|[link](https://github.com/ydtydr/hyla)|
-|**2022-08-03**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v1](http://arxiv.org/abs/2208.01819v1)|null|
-|**2022-05-19**|**Spatial Autoregressive Coding for Graph Neural Recommendation**|Jiayi Zheng et.al.|[2205.09489v2](http://arxiv.org/abs/2205.09489v2)|null|
-|**2022-06-20**|**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks**|Kenza Amara et.al.|[2206.09677v3](http://arxiv.org/abs/2206.09677v3)|null|
-|**2022-08-02**|**Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation**|Haolun Wu et.al.|[2208.01709v1](http://arxiv.org/abs/2208.01709v1)|null|
-|**2022-08-02**|**Curvature-informed multi-task learning for graph networks**|Alexander New et.al.|[2208.01684v1](http://arxiv.org/abs/2208.01684v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-08-19**|**Bayesian Semiparametric Hidden Markov Tensor Partition Models for Longitudinal Data with Local Variable Selection**|Giorgio Paulon et.al.|[2108.08439v2](http://arxiv.org/abs/2108.08439v2)|null|
-|**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v2](http://arxiv.org/abs/2203.13787v2)|null|
-|**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v2](http://arxiv.org/abs/2207.14372v2)|null|
-|**2022-05-10**|**Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures**|Yongji Wu et.al.|[2205.04713v2](http://arxiv.org/abs/2205.04713v2)|null|
-|**2022-08-03**|**An Optimal Likelihood Free Method for Biological Model Selection**|Vincent D. Zaballa et.al.|[2208.02344v1](http://arxiv.org/abs/2208.02344v1)|null|
-|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v7](http://arxiv.org/abs/2110.08633v7)|[link](https://github.com/knagrecha/hydra)|
-|**2022-08-02**|**Bayesian Variable Selection in a Million Dimensions**|Martin Jankowiak et.al.|[2208.01180v1](http://arxiv.org/abs/2208.01180v1)|[link](https://github.com/basisresearch/millipede)|
-|**2021-06-15**|**Machine learning-based conditional mean filter: a generalization of the ensemble Kalman filter for nonlinear data assimilation**|Truong-Vinh Hoang et.al.|[2106.07908v2](http://arxiv.org/abs/2106.07908v2)|null|
-|**2012-10-17**|**Mixture model for designs in high dimensional regression and the LASSO**|Mohamed Ibrahim Assoweh et.al.|[1210.4762v2](http://arxiv.org/abs/1210.4762v2)|null|
-|**2022-07-30**|**Outcome Adaptive Propensity Score Methods for Handling Censoring and High-Dimensionality: Application to Insurance Claims**|Youfei Yu et.al.|[2208.00114v1](http://arxiv.org/abs/2208.00114v1)|null|
-|**2022-07-29**|**Accelerating Multi-Model Bayesian Inference, Model Selection and Systematic Studies for Gravitational Wave Astronomy**|Charlie Hoy et.al.|[2208.00106v1](http://arxiv.org/abs/2208.00106v1)|null|
-|**2022-07-27**|**The Lauritzen-Chen Likelihood For Graphical Models**|Ilya Shpitser et.al.|[2207.13794v2](http://arxiv.org/abs/2207.13794v2)|null|
-|**2020-07-28**|**The Minimum Description Length Principle for Pattern Mining: A Survey**|Esther Galbrun et.al.|[2007.14009v5](http://arxiv.org/abs/2007.14009v5)|null|
-|**2022-04-05**|**Pareto-optimal clustering with the primal deterministic information bottleneck**|Andrew K. Tan et.al.|[2204.02489v2](http://arxiv.org/abs/2204.02489v2)|[link](https://github.com/andrewktan/pareto_dib)|
-|**2022-07-27**|**Label-Only Membership Inference Attack against Node-Level Graph Neural Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -94,11 +73,36 @@
 |**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
 |**2022-06-21**|**Multifunctions admitting a measurable by seminorm selector in Frechet spaces**|Sokol Bush Kaliaj et.al.|[2206.10337v1](http://arxiv.org/abs/2206.10337v1)|null|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05**|**On concordance indices for models with time-varying risk**|A. Gandy et.al.|[2208.03213v1](http://arxiv.org/abs/2208.03213v1)|null|
+|**2021-08-19**|**Bayesian Semiparametric Hidden Markov Tensor Partition Models for Longitudinal Data with Local Variable Selection**|Giorgio Paulon et.al.|[2108.08439v2](http://arxiv.org/abs/2108.08439v2)|null|
+|**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v2](http://arxiv.org/abs/2203.13787v2)|null|
+|**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v2](http://arxiv.org/abs/2207.14372v2)|null|
+|**2022-05-10**|**Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures**|Yongji Wu et.al.|[2205.04713v2](http://arxiv.org/abs/2205.04713v2)|null|
+|**2022-08-03**|**An Optimal Likelihood Free Method for Biological Model Selection**|Vincent D. Zaballa et.al.|[2208.02344v1](http://arxiv.org/abs/2208.02344v1)|null|
+|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v7](http://arxiv.org/abs/2110.08633v7)|[link](https://github.com/knagrecha/hydra)|
+|**2022-08-02**|**Bayesian Variable Selection in a Million Dimensions**|Martin Jankowiak et.al.|[2208.01180v1](http://arxiv.org/abs/2208.01180v1)|[link](https://github.com/basisresearch/millipede)|
+|**2021-06-15**|**Machine learning-based conditional mean filter: a generalization of the ensemble Kalman filter for nonlinear data assimilation**|Truong-Vinh Hoang et.al.|[2106.07908v2](http://arxiv.org/abs/2106.07908v2)|null|
+|**2012-10-17**|**Mixture model for designs in high dimensional regression and the LASSO**|Mohamed Ibrahim Assoweh et.al.|[1210.4762v2](http://arxiv.org/abs/1210.4762v2)|null|
+|**2022-07-30**|**Outcome Adaptive Propensity Score Methods for Handling Censoring and High-Dimensionality: Application to Insurance Claims**|Youfei Yu et.al.|[2208.00114v1](http://arxiv.org/abs/2208.00114v1)|null|
+|**2022-07-29**|**Accelerating Multi-Model Bayesian Inference, Model Selection and Systematic Studies for Gravitational Wave Astronomy**|Charlie Hoy et.al.|[2208.00106v1](http://arxiv.org/abs/2208.00106v1)|null|
+|**2022-07-27**|**The Lauritzen-Chen Likelihood For Graphical Models**|Ilya Shpitser et.al.|[2207.13794v2](http://arxiv.org/abs/2207.13794v2)|null|
+|**2020-07-28**|**The Minimum Description Length Principle for Pattern Mining: A Survey**|Esther Galbrun et.al.|[2007.14009v5](http://arxiv.org/abs/2007.14009v5)|null|
+|**2022-04-05**|**Pareto-optimal clustering with the primal deterministic information bottleneck**|Andrew K. Tan et.al.|[2204.02489v2](http://arxiv.org/abs/2204.02489v2)|[link](https://github.com/andrewktan/pareto_dib)|
+
 ## Casual Inference
 
 ### Casual Inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-25**|**Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation**|Alex Andrew et.al.|[2207.12355v2](http://arxiv.org/abs/2207.12355v2)|[link](https://github.com/dstl/yawning-titan)|
+|**2022-08-05**|**Indefinite causal order is not always a resource for thermodynamic processes**|Matheus Capela et.al.|[2208.03205v1](http://arxiv.org/abs/2208.03205v1)|null|
+|**2022-07-26**|**Confinement in thermal Yang-Mills theories with imaginary and real rotation**|Shi Chen et.al.|[2207.12665v2](http://arxiv.org/abs/2207.12665v2)|null|
+|**2022-07-26**|**XInsight: eXplainable Data Analysis Through The Lens of Causality**|Pingchuan Ma et.al.|[2207.12718v3](http://arxiv.org/abs/2207.12718v3)|null|
 |**2019-02-18**|**Bulk Locality and Asymptotic Causal Diamonds**|Chethan Krishnan et.al.|[1902.06709v3](http://arxiv.org/abs/1902.06709v3)|null|
 |**2022-08-04**|**Is There Causation in Fundamental Physics? New Insights from Process Matrices and Quantum Causal Modelling**|Emily Adlam et.al.|[2208.02721v1](http://arxiv.org/abs/2208.02721v1)|null|
 |**2019-07-27**|**Selective Machine Learning of the Average Treatment Effect with an Invalid Instrumental Variable**|Baoluo Sun et.al.|[1907.11882v6](http://arxiv.org/abs/1907.11882v6)|null|
@@ -110,7 +114,3 @@
 |**2022-08-04**|**Impact of the Consistency Model on Checkpointing of Distributed Shared Memory**|Sandeep Kulkarni et.al.|[2208.02411v1](http://arxiv.org/abs/2208.02411v1)|null|
 |**2022-08-04**|**Suppression of Spontaneous Defect Formation in Inhomogeneous Bose Gases**|Myeonghyeon Kim et.al.|[2208.02395v1](http://arxiv.org/abs/2208.02395v1)|null|
 |**2022-03-02**|**Experimental demonstration of genuine tripartite nonlocality under strict locality conditions**|Liang Huang et.al.|[2203.00889v2](http://arxiv.org/abs/2203.00889v2)|null|
-|**2022-08-03**|**A violation of the Tsirelson bound in the pre-quantum theory of trace dynamics**|Rabsan G. Ahmed et.al.|[2208.02209v1](http://arxiv.org/abs/2208.02209v1)|null|
-|**2022-06-04**|**Combinatorial Causal Bandits**|Shi Feng et.al.|[2206.01995v2](http://arxiv.org/abs/2206.01995v2)|[link](https://github.com/fengtony686/CCB)|
-|**2022-08-03**|**Conv-NILM-Net, a causal and multi-appliance model for energy source separation**|Mohamed Alami C. et.al.|[2208.02173v1](http://arxiv.org/abs/2208.02173v1)|null|
-|**2022-02-22**|**Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms**|Shikai Luo et.al.|[2202.10887v2](http://arxiv.org/abs/2202.10887v2)|null|
