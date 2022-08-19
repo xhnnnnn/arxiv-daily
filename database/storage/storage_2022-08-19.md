@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-19 07:30:06 Asia/Shanghai
+ Automated deployment @ 2022-08-19 19:27:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -8,8 +8,8 @@
 ### Network Bootstrap
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-02**|**improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise**|Li Meng et.al.|[2203.01004v2](http://arxiv.org/abs/2203.01004v2)|null|
 |**2022-08-03**|**One Node at a Time: Node-Level Network Classification**|Saray Shai et.al.|[2208.02162v1](http://arxiv.org/abs/2208.02162v1)|null|
-|**2022-03-02**|**Improving the Diversity of Bootstrapped DQN via Noisy Priors**|Li Meng et.al.|[2203.01004v1](http://arxiv.org/abs/2203.01004v1)|null|
 |**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
 |**2020-12-01**|**Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes**|Damien Bouchabou et.al.|[2012.02300v1](http://arxiv.org/abs/2012.02300v1)|[link](https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes)|
 |**2013-03-18**|**Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**|Gregory Norcie et.al.|[1303.4155v2](http://arxiv.org/abs/1303.4155v2)|null|
@@ -17,6 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18**|**Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems**|Minseok Kim et.al.|[2208.08847v1](http://arxiv.org/abs/2208.08847v1)|null|
+|**2021-09-08**|**X-GOAL: Multiplex Heterogeneous Graph Prototypical Contrastive Learning**|Baoyu Jing et.al.|[2109.03560v3](http://arxiv.org/abs/2109.03560v3)|null|
+|**2022-08-18**|**AoI-based Temporal Attention Graph Neural Network for Popularity Prediction and Content Caching**|Jianhang Zhu et.al.|[2208.08606v1](http://arxiv.org/abs/2208.08606v1)|null|
+|**2022-08-18**|**Robust Causal Graph Representation Learning against Confounding Effects**|Hang Gao et.al.|[2208.08584v1](http://arxiv.org/abs/2208.08584v1)|null|
+|**2022-08-17**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
+|**2022-02-03**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v2](http://arxiv.org/abs/2202.01606v2)|[link](https://github.com/amazon-research/gcp-with-gnns-example)|
 |**2022-08-17**|**Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
 |**2022-05-31**|**Learning to Represent Programs with Code Hierarchies**|Minh H. Nguyen et.al.|[2205.15479v2](http://arxiv.org/abs/2205.15479v2)|null|
 |**2020-05-14**|**CoSimGNN: Towards Large-scale Graph Similarity Computation**|Haoyan Xu et.al.|[2005.07115v7](http://arxiv.org/abs/2005.07115v7)|null|
@@ -26,12 +32,6 @@
 |**2022-06-18**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**|Zezhi Shao et.al.|[2206.09112v3](http://arxiv.org/abs/2206.09112v3)|[link](https://github.com/zezhishao/d2stgnn)|
 |**2022-06-18**|**Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2206.09113v2](http://arxiv.org/abs/2206.09113v2)|[link](https://github.com/zezhishao/step)|
 |**2022-08-15**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
-|**2022-07-29**|**Face-to-Face Contrastive Learning for Social Intelligence Question-Answering**|Alex Wilf et.al.|[2208.01036v2](http://arxiv.org/abs/2208.01036v2)|null|
-|**2022-08-15**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
-|**2022-08-15**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
-|**2022-06-22**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v2](http://arxiv.org/abs/2206.10991v2)|null|
-|**2022-08-15**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
-|**2022-05-24**|**Accelerating hydrodynamic simulations of urban drainage systems with physics-guided machine learning**|Rocco Palmitessa et.al.|[2206.01538v2](http://arxiv.org/abs/2206.01538v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,14 @@
 ### Casual Inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18**|**Old Ideas for New Physicists:1**|T. Banks et.al.|[2208.08959v1](http://arxiv.org/abs/2208.08959v1)|null|
+|**2022-08-18**|**Estimating Driver Response Rates to Variable Message Signage at Seattle-Tacoma International Airport**|Soumya Vasisht et.al.|[2208.08941v1](http://arxiv.org/abs/2208.08941v1)|null|
+|**2021-10-07**|**Resource theory of causal connection**|Simon Milz et.al.|[2110.03233v2](http://arxiv.org/abs/2110.03233v2)|null|
+|**2022-08-18**|**Network inference via process motifs for lagged correlation in linear stochastic processes**|Alice C. Schwarze et.al.|[2208.08871v1](http://arxiv.org/abs/2208.08871v1)|null|
+|**2022-08-15**|**Dynamical synchronization and the horizon problem**|Spiros Cotsakis et.al.|[2208.07104v2](http://arxiv.org/abs/2208.07104v2)|null|
+|**2022-02-02**|**Softly higher-derivative massive gravity**|C. A. S. Almeida et.al.|[2202.01154v3](http://arxiv.org/abs/2202.01154v3)|null|
+|**2022-04-26**|**Causal Reasoning Meets Visual Representation Learning: A Prospective Study**|Yang Liu et.al.|[2204.12037v7](http://arxiv.org/abs/2204.12037v7)|null|
+|**2022-08-18**|**Robust Causal Graph Representation Learning against Confounding Effects**|Hang Gao et.al.|[2208.08584v1](http://arxiv.org/abs/2208.08584v1)|null|
 |**2022-06-09**|**To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden**|Cheng Lin et.al.|[2206.04773v3](http://arxiv.org/abs/2206.04773v3)|null|
 |**2022-08-17**|**Computationally Efficient Robust Model Predictive Control for Uncertain System Using Causal State-Feedback Parameterization**|Anastasis Georgiou et.al.|[2208.08431v1](http://arxiv.org/abs/2208.08431v1)|null|
 |**2022-08-17**|**The Counterfactual-Shapley Value: Attributing Change in System Metrics**|Amit Sharma et.al.|[2208.08399v1](http://arxiv.org/abs/2208.08399v1)|null|
@@ -85,20 +93,14 @@
 |**2022-08-17**|**Discovering Agents**|Zachary Kenton et.al.|[2208.08345v1](http://arxiv.org/abs/2208.08345v1)|null|
 |**2019-12-30**|**Localized Debiased Machine Learning: Efficient Inference on Quantile Treatment Effects and Beyond**|Nathan Kallus et.al.|[1912.12945v5](http://arxiv.org/abs/1912.12945v5)|[link](https://github.com/CausalML/LocalizedDebiasedMachineLearning)|
 |**2022-08-17**|**Debiased Inference on Identified Linear Functionals of Underidentified Nuisances via Penalized Minimax Estimation**|Nathan Kallus et.al.|[2208.08291v1](http://arxiv.org/abs/2208.08291v1)|null|
-|**2022-08-17**|**Energy backflow in unidirectional spatiotemporally localized wavepackets**|Ioannis Besieris et.al.|[2208.08251v1](http://arxiv.org/abs/2208.08251v1)|null|
-|**2022-08-17**|**Domain Knowledge in A*-Based Causal Discovery**|Steven Kleinegesse et.al.|[2208.08247v1](http://arxiv.org/abs/2208.08247v1)|null|
-|**2022-01-20**|**Using Machine Learning to Test Causal Hypotheses in Conjoint Analysis**|Dae Woong Ham et.al.|[2201.08343v2](http://arxiv.org/abs/2201.08343v2)|[link](https://github.com/daewoongham97/CRT)|
-|**2022-08-17**|**Revisiting the propensity score's central role: Towards bridging balance and efficiency in the era of causal machine learning**|Nima S. Hejazi et.al.|[2208.08065v1](http://arxiv.org/abs/2208.08065v1)|null|
-|**2022-06-02**|**A General Framework for the Representation of Function and Affordance: A Cognitive, Causal, and Grounded Approach, and a Step Toward AGI**|Seng-Beng Ho et.al.|[2206.05273v3](http://arxiv.org/abs/2206.05273v3)|null|
-|**2022-08-17**|**What Artificial Neural Networks Can Tell Us About Human Language Acquisition**|Alex Warstadt et.al.|[2208.07998v1](http://arxiv.org/abs/2208.07998v1)|null|
-|**2021-02-02**|**Efficient Estimation for Staggered Rollout Designs**|Jonathan Roth et.al.|[2102.01291v5](http://arxiv.org/abs/2102.01291v5)|[link](https://github.com/jonathandroth/staggered)|
-|**2022-08-16**|**Collaborative causal inference on distributed data**|Yuji Kawamata et.al.|[2208.07898v1](http://arxiv.org/abs/2208.07898v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18**|**The Atacama Cosmology Telescope: limits on dark matter-baryon interactions from DR4 power spectra**|Zack Li et.al.|[2208.08985v1](http://arxiv.org/abs/2208.08985v1)|null|
+|**2022-08-17**|**A deep, multi-epoch Chandra HETG study of the ionized outflow from NGC 4051**|A. Ogorzalek et.al.|[2208.08457v1](http://arxiv.org/abs/2208.08457v1)|null|
 |**2021-10-14**|**Quasars with Periodic Variability: Capabilities and Limitations of Bayesian Searches for Supermassive Black Hole Binaries in Time-Domain Surveys**|Caitlin A. Witt et.al.|[2110.07465v3](http://arxiv.org/abs/2110.07465v3)|null|
 |**2022-08-17**|**Two-Stage Robust and Sparse Distributed Statistical Inference for Large-Scale Data**|Emadaldin Mozafari-Majd et.al.|[2208.08230v1](http://arxiv.org/abs/2208.08230v1)|null|
 |**2022-08-17**|**Semi-supervised Learning with Deterministic Labeling and Large Margin Projection**|Ji Xu et.al.|[2208.08058v1](http://arxiv.org/abs/2208.08058v1)|[link](https://github.com/alanxuji/delala)|
@@ -112,5 +114,3 @@
 |**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v3](http://arxiv.org/abs/2010.11114v3)|null|
 |**2022-08-10**|**Adaptive LASSO estimation for functional hidden dynamic geostatistical model**|Paolo Maranzano et.al.|[2208.05528v1](http://arxiv.org/abs/2208.05528v1)|null|
 |**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
-|**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: ALQR Approach**|Rui Fan et.al.|[2101.11568v3](http://arxiv.org/abs/2101.11568v3)|null|
-|**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v3](http://arxiv.org/abs/2207.14372v3)|null|
