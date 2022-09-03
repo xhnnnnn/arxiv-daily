@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-03 07:30:58 Asia/Shanghai
+ Automated deployment @ 2022-09-03 19:26:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2021-09-27**|**A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions**|Chen Gao et.al.|[2109.12843v2](http://arxiv.org/abs/2109.12843v2)|[link](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems)|
 |**2022-08-30**|**Designing novel protein structures using sequence generator and AlphaFold2**|Xeerak Agha et.al.|[2208.14526v1](http://arxiv.org/abs/2208.14526v1)|null|
 |**2022-05-12**|**Graph Neural Network Modeling of Grain-scale Anisotropic Elastic Behavior using Simulated and Measured Microscale Data**|Darren C. Pagan et.al.|[2205.06324v2](http://arxiv.org/abs/2205.06324v2)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-12-18**|**Kernel Methods for Unobserved Confounding: Negative Controls, Proxies, and Instruments**|Rahul Singh et.al.|[2012.10315v3](http://arxiv.org/abs/2012.10315v3)|null|
+|**2022-04-28**|**CKH: Causal Knowledge Hierarchy for Estimating Structural Causal Models from Data and Priors**|Riddhiman Adib et.al.|[2204.13775v2](http://arxiv.org/abs/2204.13775v2)|null|
+|**2022-09-01**|**Comment on "Damping of neutrino oscillations, decoherence and the lengths of neutrino wave packets''**|B. J. P. Jones et.al.|[2209.00561v1](http://arxiv.org/abs/2209.00561v1)|null|
+|**2022-01-27**|**On generally covariant mathematical formulation of Feynman integral in Lorentz signature**|Andras Laszlo et.al.|[2201.11408v3](http://arxiv.org/abs/2201.11408v3)|null|
+|**2022-09-01**|**On the gravitization of quantum mechanics and wave function reduction in Bohmian quantum mechanics**|Faramarz Rahmani et.al.|[2209.00513v1](http://arxiv.org/abs/2209.00513v1)|null|
+|**2021-03-05**|**Greedy Causal Discovery is Geometric**|Svante Linusson et.al.|[2103.03771v2](http://arxiv.org/abs/2103.03771v2)|null|
+|**2022-09-01**|**The Impact of the #MeToo Movement on Language at Court -- A text-based causal inference approach**|Henrika Langen et.al.|[2209.00409v1](http://arxiv.org/abs/2209.00409v1)|null|
+|**2022-09-01**|**Testing Causality in Scientific Modelling Software**|Andrew G. Clark et.al.|[2209.00357v1](http://arxiv.org/abs/2209.00357v1)|null|
+|**2022-09-01**|**Path integral suppression of badly behaved causal sets**|P. Carlip et.al.|[2209.00327v1](http://arxiv.org/abs/2209.00327v1)|null|
+|**2021-10-29**|**Context-independent mapping and free choice are equivalent**|Ehtibar N. Dzhafarov et.al.|[2110.15910v6](http://arxiv.org/abs/2110.15910v6)|null|
+|**2022-08-31**|**Partial Counterfactual Identification for Infinite Horizon Partially Observable Markov Decision Process**|Aditya Kelvianto Sidharta et.al.|[2209.00137v1](http://arxiv.org/abs/2209.00137v1)|null|
+|**2022-08-31**|**An evaluation framework for comparing causal inference models**|Niki Kiriakidou et.al.|[2209.00115v1](http://arxiv.org/abs/2209.00115v1)|null|
+|**2021-05-10**|**Causal Inference under Network Interference with Noise**|Wenrui Li et.al.|[2105.04518v2](http://arxiv.org/abs/2105.04518v2)|[link](https://github.com/KolaczykResearch/CausInfNoisyNet)|
+|**2022-08-17**|**NeurIPS Competition Instructions and Guide: Causal Insights for Learning Paths in Education**|Wenbo Gong et.al.|[2208.12610v2](http://arxiv.org/abs/2208.12610v2)|null|
+|**2022-08-31**|**Multiscale Non-stationary Causal Structure Learning from Time Series Data**|Gabriele D'Acunto et.al.|[2208.14989v1](http://arxiv.org/abs/2208.14989v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,24 +114,3 @@
 |**2022-08-27**|**Impact of Loss Model Selection on Power Semiconductor Lifetime Prediction in Electric Vehicles**|Hongjian Xia et.al.|[2208.13019v1](http://arxiv.org/abs/2208.13019v1)|null|
 |**2020-03-19**|**Structural-constrained Methods for the Identification of Unobservable False Data Injection Attacks in Power Systems**|Gal Morgenstern et.al.|[2003.08715v4](http://arxiv.org/abs/2003.08715v4)|null|
 |**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v1](http://arxiv.org/abs/2208.12585v1)|null|
-
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2020-12-18**|**Kernel Methods for Unobserved Confounding: Negative Controls, Proxies, and Instruments**|Rahul Singh et.al.|[2012.10315v3](http://arxiv.org/abs/2012.10315v3)|null|
-|**2022-04-28**|**CKH: Causal Knowledge Hierarchy for Estimating Structural Causal Models from Data and Priors**|Riddhiman Adib et.al.|[2204.13775v2](http://arxiv.org/abs/2204.13775v2)|null|
-|**2022-09-01**|**Comment on "Damping of neutrino oscillations, decoherence and the lengths of neutrino wave packets''**|B. J. P. Jones et.al.|[2209.00561v1](http://arxiv.org/abs/2209.00561v1)|null|
-|**2022-01-27**|**On generally covariant mathematical formulation of Feynman integral in Lorentz signature**|Andras Laszlo et.al.|[2201.11408v3](http://arxiv.org/abs/2201.11408v3)|null|
-|**2022-09-01**|**On the gravitization of quantum mechanics and wave function reduction in Bohmian quantum mechanics**|Faramarz Rahmani et.al.|[2209.00513v1](http://arxiv.org/abs/2209.00513v1)|null|
-|**2021-03-05**|**Greedy Causal Discovery is Geometric**|Svante Linusson et.al.|[2103.03771v2](http://arxiv.org/abs/2103.03771v2)|null|
-|**2022-09-01**|**The Impact of the #MeToo Movement on Language at Court -- A text-based causal inference approach**|Henrika Langen et.al.|[2209.00409v1](http://arxiv.org/abs/2209.00409v1)|null|
-|**2022-09-01**|**Testing Causality in Scientific Modelling Software**|Andrew G. Clark et.al.|[2209.00357v1](http://arxiv.org/abs/2209.00357v1)|null|
-|**2022-09-01**|**Path integral suppression of badly behaved causal sets**|P. Carlip et.al.|[2209.00327v1](http://arxiv.org/abs/2209.00327v1)|null|
-|**2021-10-29**|**Context-independent mapping and free choice are equivalent**|Ehtibar N. Dzhafarov et.al.|[2110.15910v6](http://arxiv.org/abs/2110.15910v6)|null|
-|**2022-08-31**|**Partial Counterfactual Identification for Infinite Horizon Partially Observable Markov Decision Process**|Aditya Kelvianto Sidharta et.al.|[2209.00137v1](http://arxiv.org/abs/2209.00137v1)|null|
-|**2022-08-31**|**An evaluation framework for comparing causal inference models**|Niki Kiriakidou et.al.|[2209.00115v1](http://arxiv.org/abs/2209.00115v1)|null|
-|**2021-05-10**|**Causal Inference under Network Interference with Noise**|Wenrui Li et.al.|[2105.04518v2](http://arxiv.org/abs/2105.04518v2)|[link](https://github.com/KolaczykResearch/CausInfNoisyNet)|
-|**2022-08-17**|**NeurIPS Competition Instructions and Guide: Causal Insights for Learning Paths in Education**|Wenbo Gong et.al.|[2208.12610v2](http://arxiv.org/abs/2208.12610v2)|null|
-|**2022-08-31**|**Multiscale Non-stationary Causal Structure Learning from Time Series Data**|Gabriele D'Acunto et.al.|[2208.14989v1](http://arxiv.org/abs/2208.14989v1)|null|
