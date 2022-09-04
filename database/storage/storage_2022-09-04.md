@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-04 07:30:05 Asia/Shanghai
+ Automated deployment @ 2022-09-04 19:26:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2021-09-27**|**A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions**|Chen Gao et.al.|[2109.12843v2](http://arxiv.org/abs/2109.12843v2)|[link](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems)|
 |**2022-08-30**|**Designing novel protein structures using sequence generator and AlphaFold2**|Xeerak Agha et.al.|[2208.14526v1](http://arxiv.org/abs/2208.14526v1)|null|
 |**2022-05-12**|**Graph Neural Network Modeling of Grain-scale Anisotropic Elastic Behavior using Simulated and Measured Microscale Data**|Darren C. Pagan et.al.|[2205.06324v2](http://arxiv.org/abs/2205.06324v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-01**|**Variable selection for varying multi-index coefficients models with applications to synergistic GxE interactions**|Shunjie Guan et.al.|[2209.00541v1](http://arxiv.org/abs/2209.00541v1)|null|
-|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v2](http://arxiv.org/abs/2208.14111v2)|null|
-|**2022-09-01**|**Understanding the dynamic impact of COVID-19 through competing risk modeling with bivariate varying coefficients**|Wenbo Wu et.al.|[2209.00181v1](http://arxiv.org/abs/2209.00181v1)|null|
-|**2020-06-11**|**What Drives Inflation and How: Evidence from Additive Mixed Models Selected by cAIC**|Philipp F. M. Baumann et.al.|[2006.06274v4](http://arxiv.org/abs/2006.06274v4)|null|
-|**2022-08-02**|**Bayesian Variable Selection in a Million Dimensions**|Martin Jankowiak et.al.|[2208.01180v2](http://arxiv.org/abs/2208.01180v2)|[link](https://github.com/basisresearch/millipede)|
-|**2022-08-31**|**Variable selection in sparse multivariate GLARMA models: Application to germination control by environment**|M. Gomtsyan et.al.|[2208.14721v1](http://arxiv.org/abs/2208.14721v1)|null|
-|**2022-07-23**|**Exploration in Linear Bandits with Rich Action Sets and its Implications for Inference**|Debangshu Banerjee et.al.|[2207.11597v2](http://arxiv.org/abs/2207.11597v2)|null|
-|**2022-08-30**|**Early versus Phantom Dark Energy, Self-Interacting, Extra, or Massive Neutrinos, Primordial Magnetic Fields, or a Curved Universe: An Exploration of Possible Solutions to the $H_0$ and $σ_8$ Problems**|Helena García Escudero et.al.|[2208.14435v1](http://arxiv.org/abs/2208.14435v1)|null|
-|**2022-08-30**|**Variable selection in sparse GLARMA models**|Marina Gomtsyan et.al.|[2208.14168v1](http://arxiv.org/abs/2208.14168v1)|null|
-|**2021-05-18**|**Achieving Fairness with a Simple Ridge Penalty**|Marco Scutari et.al.|[2105.13817v3](http://arxiv.org/abs/2105.13817v3)|null|
-|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v4](http://arxiv.org/abs/2010.11114v4)|null|
-|**2022-08-29**|**On the Lasso for Graphical Continuous Lyapunov Models**|Philipp Dettling et.al.|[2208.13572v1](http://arxiv.org/abs/2208.13572v1)|null|
-|**2022-08-27**|**Impact of Loss Model Selection on Power Semiconductor Lifetime Prediction in Electric Vehicles**|Hongjian Xia et.al.|[2208.13019v1](http://arxiv.org/abs/2208.13019v1)|null|
-|**2020-03-19**|**Structural-constrained Methods for the Identification of Unobservable False Data Injection Attacks in Power Systems**|Gal Morgenstern et.al.|[2003.08715v4](http://arxiv.org/abs/2003.08715v4)|null|
-|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v1](http://arxiv.org/abs/2208.12585v1)|null|
 
 ## Casual Inference
 
@@ -114,3 +93,24 @@
 |**2021-10-14**|**Integrating Fréchet distance and AI reveals the evolutionary trajectory and origin of SARS-CoV-2**|Anyou Wang et.al.|[2110.07696v2](http://arxiv.org/abs/2110.07696v2)|null|
 |**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v1](http://arxiv.org/abs/2207.07809v1)|null|
 |**2022-03-17**|**deepNIR: Datasets for generating synthetic NIR images and improved fruit detection system using deep learning techniques**|Inkyu Sa et.al.|[2203.09091v2](http://arxiv.org/abs/2203.09091v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-01**|**Variable selection for varying multi-index coefficients models with applications to synergistic GxE interactions**|Shunjie Guan et.al.|[2209.00541v1](http://arxiv.org/abs/2209.00541v1)|null|
+|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v2](http://arxiv.org/abs/2208.14111v2)|null|
+|**2022-09-01**|**Understanding the dynamic impact of COVID-19 through competing risk modeling with bivariate varying coefficients**|Wenbo Wu et.al.|[2209.00181v1](http://arxiv.org/abs/2209.00181v1)|null|
+|**2020-06-11**|**What Drives Inflation and How: Evidence from Additive Mixed Models Selected by cAIC**|Philipp F. M. Baumann et.al.|[2006.06274v4](http://arxiv.org/abs/2006.06274v4)|null|
+|**2022-08-02**|**Bayesian Variable Selection in a Million Dimensions**|Martin Jankowiak et.al.|[2208.01180v2](http://arxiv.org/abs/2208.01180v2)|[link](https://github.com/basisresearch/millipede)|
+|**2022-08-31**|**Variable selection in sparse multivariate GLARMA models: Application to germination control by environment**|M. Gomtsyan et.al.|[2208.14721v1](http://arxiv.org/abs/2208.14721v1)|null|
+|**2022-07-23**|**Exploration in Linear Bandits with Rich Action Sets and its Implications for Inference**|Debangshu Banerjee et.al.|[2207.11597v2](http://arxiv.org/abs/2207.11597v2)|null|
+|**2022-08-30**|**Early versus Phantom Dark Energy, Self-Interacting, Extra, or Massive Neutrinos, Primordial Magnetic Fields, or a Curved Universe: An Exploration of Possible Solutions to the $H_0$ and $σ_8$ Problems**|Helena García Escudero et.al.|[2208.14435v1](http://arxiv.org/abs/2208.14435v1)|null|
+|**2022-08-30**|**Variable selection in sparse GLARMA models**|Marina Gomtsyan et.al.|[2208.14168v1](http://arxiv.org/abs/2208.14168v1)|null|
+|**2021-05-18**|**Achieving Fairness with a Simple Ridge Penalty**|Marco Scutari et.al.|[2105.13817v3](http://arxiv.org/abs/2105.13817v3)|null|
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v4](http://arxiv.org/abs/2010.11114v4)|null|
+|**2022-08-29**|**On the Lasso for Graphical Continuous Lyapunov Models**|Philipp Dettling et.al.|[2208.13572v1](http://arxiv.org/abs/2208.13572v1)|null|
+|**2022-08-27**|**Impact of Loss Model Selection on Power Semiconductor Lifetime Prediction in Electric Vehicles**|Hongjian Xia et.al.|[2208.13019v1](http://arxiv.org/abs/2208.13019v1)|null|
+|**2020-03-19**|**Structural-constrained Methods for the Identification of Unobservable False Data Injection Attacks in Power Systems**|Gal Morgenstern et.al.|[2003.08715v4](http://arxiv.org/abs/2003.08715v4)|null|
+|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v1](http://arxiv.org/abs/2208.12585v1)|null|
