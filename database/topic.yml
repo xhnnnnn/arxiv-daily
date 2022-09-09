@@ -1,7 +1,3 @@
-"Non-Euclidean Staistics":
-  "Frechet Mean": '"frechet mean"ANDcat:"stat.*"'
-  "Non Eculidean": '"frechet"ANDcat:"stat.*"'
-  
 "Variable Selection":
   "Variable selection": '("model selection"OR"variable selection")ANDcat:"stat.*"'
   
