@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-09 07:34:21 Asia/Shanghai
+ Automated deployment @ 2022-09-09 19:29:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|null|
+|**2022-09-08**|**Simpler is better: Multilevel Abstraction with Graph Convolutional Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
+|**2022-09-08**|**Hierarchical Graph Pooling is an Effective Citywide Traffic Condition Prediction Model**|Shilin Pu et.al.|[2209.03629v1](http://arxiv.org/abs/2209.03629v1)|null|
+|**2022-07-23**|**Distributed Nonlinear State Estimation in Electric Power Systems using Graph Neural Networks**|Ognjen Kundacina et.al.|[2207.11465v2](http://arxiv.org/abs/2207.11465v2)|null|
+|**2022-08-22**|**LTE4G: Long-Tail Experts for Graph Neural Networks**|Sukwon Yun et.al.|[2208.10205v2](http://arxiv.org/abs/2208.10205v2)|[link](https://github.com/SukwonYun/LTE4G)|
 |**2022-06-28**|**Predicting the entire glassy dynamics from static structure by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v4](http://arxiv.org/abs/2206.14024v4)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
 |**2022-09-07**|**Graph Neural Networks for Low-Energy Event Classification & Reconstruction in IceCube**|R. Abbasi et.al.|[2209.03042v1](http://arxiv.org/abs/2209.03042v1)|null|
 |**2022-09-07**|**Hardware Acceleration of Sampling Algorithms in Sample and Aggregate Graph Neural Networks**|Yuchen Gui et.al.|[2209.02916v1](http://arxiv.org/abs/2209.02916v1)|null|
@@ -27,32 +32,6 @@
 |**2022-09-06**|**Being Automated or Not? Risk Identification of Occupations with Graph Neural Networks**|Dawei Xu et.al.|[2209.02182v1](http://arxiv.org/abs/2209.02182v1)|null|
 |**2022-09-05**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
 |**2022-05-26**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v2](http://arxiv.org/abs/2205.13328v2)|[link](https://github.com/JiaruiFeng/KP-GNN)|
-|**2022-07-11**|**Boosting Heterogeneous Catalyst Discovery by Structurally Constrained Deep Learning Models**|Alexey N. Korovin et.al.|[2207.05013v2](http://arxiv.org/abs/2207.05013v2)|null|
-|**2022-08-11**|**Partition Pooling for Convolutional Graph Network Applications in Particle Physics**|M. Bachlechner et.al.|[2208.05952v2](http://arxiv.org/abs/2208.05952v2)|null|
-|**2022-06-18**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**|Zezhi Shao et.al.|[2206.09112v4](http://arxiv.org/abs/2206.09112v4)|[link](https://github.com/zezhishao/d2stgnn)|
-|**2021-11-25**|**Learning to Search in Task and Motion Planning with Streams**|Mohamed Khodeir et.al.|[2111.13144v3](http://arxiv.org/abs/2111.13144v3)|null|
-|**2022-09-04**|**Reinforced Continual Learning for Graphs**|Appan Rakaraddi et.al.|[2209.01556v1](http://arxiv.org/abs/2209.01556v1)|null|
-
-## Casual Inference
-
-### Casual Inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-06**|**Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy**|Paul-Christian Bürkner et.al.|[2209.02439v2](http://arxiv.org/abs/2209.02439v2)|null|
-|**2022-09-07**|**Minimum-entropy causal inference and its application in brain network analysis**|Lipeng Ning et.al.|[2209.03329v1](http://arxiv.org/abs/2209.03329v1)|null|
-|**2022-09-07**|**UV/IR Mixing, Causal Diamonds and the Electroweak Hierarchy Problem**|Thomas W. Kephart et.al.|[2209.03305v1](http://arxiv.org/abs/2209.03305v1)|null|
-|**2022-09-07**|**Analyzing Population-Level Trials as N-of-1 Trials: an Application to Gait**|Lin Zhou et.al.|[2209.03253v1](http://arxiv.org/abs/2209.03253v1)|null|
-|**2021-10-27**|**Distributed Asynchronous Games With Causal Memory are Undecidable**|Hugo Gimbert et.al.|[2110.14768v6](http://arxiv.org/abs/2110.14768v6)|null|
-|**2022-09-07**|**Quantitative probing: Validating causal models using quantitative domain knowledge**|Daniel Grünbaum et.al.|[2209.03013v1](http://arxiv.org/abs/2209.03013v1)|[link](https://github.com/MLResearchAtOSRAM/cause2e)|
-|**2020-11-25**|**Experimental Realization of a Quantum Refrigerator Driven by Indefinite Causal Orders**|Xinfang Nie et.al.|[2011.12580v2](http://arxiv.org/abs/2011.12580v2)|null|
-|**2022-09-07**|**Foundations of probability-raising causality in Markov decision processes**|Christel Baier et.al.|[2209.02973v1](http://arxiv.org/abs/2209.02973v1)|null|
-|**2022-09-07**|**On the Sparse DAG Structure Learning Based on Adaptive Lasso**|Danru Xu et.al.|[2209.02946v1](http://arxiv.org/abs/2209.02946v1)|null|
-|**2022-09-07**|**Reflections on Software Failure Analysis**|Paschal C. Amusuo et.al.|[2209.02930v1](http://arxiv.org/abs/2209.02930v1)|null|
-|**2022-03-14**|**Snowmass White Paper: UV Constraints on IR Physics**|Claudia de Rham et.al.|[2203.06805v2](http://arxiv.org/abs/2203.06805v2)|null|
-|**2022-09-06**|**Identifying the Effect of Parenthood on Labor Force Participation: A Gender Comparison**|Seyyed Ali Zeytoon Nejad Moosavian et.al.|[2209.02743v1](http://arxiv.org/abs/2209.02743v1)|null|
-|**2022-08-25**|**Long-term forcing of Sun's coronal field, open flux and cosmic ray modulation potential during grand minima, maxima and regular activity phases by the solar dynamo mechanism**|Soumyaranjan Dash et.al.|[2208.12103v2](http://arxiv.org/abs/2208.12103v2)|null|
-|**2022-07-15**|**Treatment Heterogeneity for Survival Outcomes**|Yizhe Xu et.al.|[2207.07758v2](http://arxiv.org/abs/2207.07758v2)|[link](https://github.com/som-shahlab/survlearners)|
-|**2022-09-06**|**CausalRCA: Causal Inference based Precise Fine-grained Root Cause Localization for Microservice Applications**|Ruyue Xin et.al.|[2209.02500v1](http://arxiv.org/abs/2209.02500v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -99,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|null|
+|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
+|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|null|
 |**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
 |**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
 |**2021-07-14**|**Correlation scenarios and correlation stress testing**|N. Packham et.al.|[2107.06839v2](http://arxiv.org/abs/2107.06839v2)|null|
@@ -111,6 +93,24 @@
 |**2022-09-04**|**Copula Entropy based Variable Selection for Survival Analysis**|Jian Ma et.al.|[2209.01561v1](http://arxiv.org/abs/2209.01561v1)|[link](https://github.com/majianthu/survival)|
 |**2021-02-22**|**Bridging factor and sparse models**|Jianqing Fan et.al.|[2102.11341v4](http://arxiv.org/abs/2102.11341v4)|null|
 |**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v1](http://arxiv.org/abs/2209.01460v1)|null|
-|**2022-09-02**|**A Two-step Metropolis Hastings Method for Bayesian Empirical Likelihood Computation with Application to Bayesian Model Selection**|Sanjay Chaudhuri et.al.|[2209.01269v1](http://arxiv.org/abs/2209.01269v1)|null|
-|**2022-09-02**|**When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development**|Nghia Duong-Trung et.al.|[2209.01083v1](http://arxiv.org/abs/2209.01083v1)|null|
-|**2021-01-19**|**Cost-based feature selection for network model choice**|Louis Raynal et.al.|[2101.07766v3](http://arxiv.org/abs/2101.07766v3)|null|
+
+## Casual Inference
+
+### Casual Inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-21**|**Bayesian Tensor Factorized Mixed Vector Autoregressive Models for Inferring Granger Causality Patterns from High-Dimensional Multi-subject Panel Neuroimaging Data**|Jingjing Fan et.al.|[2206.10757v3](http://arxiv.org/abs/2206.10757v3)|null|
+|**2022-09-08**|**IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach**|Sergio Burdisso et.al.|[2209.03895v1](http://arxiv.org/abs/2209.03895v1)|null|
+|**2022-09-08**|**IDIAPers @ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model**|Martin Fajcik et.al.|[2209.03891v1](http://arxiv.org/abs/2209.03891v1)|null|
+|**2021-11-18**|**Causal Forecasting:Generalization Bounds for Autoregressive Models**|Leena Chennuru Vankadara et.al.|[2111.09831v2](http://arxiv.org/abs/2111.09831v2)|null|
+|**2022-04-21**|**Causal structure in the presence of sectorial constraints, with application to the quantum switch**|Nick Ormrod et.al.|[2204.10273v2](http://arxiv.org/abs/2204.10273v2)|null|
+|**2022-09-08**|**Modified Causal Forest**|Michael Lechner et.al.|[2209.03744v1](http://arxiv.org/abs/2209.03744v1)|null|
+|**2022-09-08**|**Accessible Computation of Tight Symbolic Bounds on Causal Effects using an Intuitive Graphical Interface**|Gustav Jonzon et.al.|[2209.03657v1](http://arxiv.org/abs/2209.03657v1)|null|
+|**2022-06-12**|**Simple Robust Estimating Method for Propensity Score Models and its Application to Some Causal Estimands**|Shunichiro Orihara et.al.|[2206.05640v2](http://arxiv.org/abs/2206.05640v2)|null|
+|**2022-09-08**|**Towards a Likelihood Ratio Approach for Bloodstain Pattern Analysis**|Tong Zou et.al.|[2209.03562v1](http://arxiv.org/abs/2209.03562v1)|null|
+|**2022-09-08**|**Using propensity scores for racial disparities analysis**|Fan Li et.al.|[2209.03533v1](http://arxiv.org/abs/2209.03533v1)|null|
+|**2021-02-08**|**Meta Discovery: Learning to Discover Novel Classes given Very Limited Data**|Haoang Chi et.al.|[2102.04002v4](http://arxiv.org/abs/2102.04002v4)|[link](https://github.com/haoang97/medi)|
+|**2022-02-12**|**scpi: Uncertainty Quantification for Synthetic Control Estimators**|Matias D. Cattaneo et.al.|[2202.05984v2](http://arxiv.org/abs/2202.05984v2)|null|
+|**2022-09-07**|**Cold dense quark matter with phenomenological medium effects: a self-consistent formulation of the quark-mass density-dependent model**|G. Lugones et.al.|[2209.03455v1](http://arxiv.org/abs/2209.03455v1)|null|
+|**2022-09-07**|**Causal discovery for time series with latent confounders**|Christian Reiser et.al.|[2209.03427v1](http://arxiv.org/abs/2209.03427v1)|null|
+|**2021-09-24**|**A general framework for cyclic and fine-tuned causal models and their compatibility with space-time**|V. Vilasini et.al.|[2109.12128v3](http://arxiv.org/abs/2109.12128v3)|null|
