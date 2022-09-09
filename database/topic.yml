@@ -12,8 +12,7 @@
 "Graph Model":
   "Graphon": "graphon "ANDcat:"stat.*"'
   "Hypergraph": "hypergraph "ANDcat:"stat.*"'
-  "Hypergraph": "hypergraph "ANDcat:"stat.*"'
-  
+  "Graph Embedding": "graph embedding"ANDcat:"stat.*"'
  
 "Embedding":
   "Embedding Learning": "embedding learning"ANDcat:"stat.*"'
