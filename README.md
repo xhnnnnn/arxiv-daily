@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-11 07:32:11 Asia/Shanghai
+ Automated deployment @ 2022-09-11 19:28:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,65 @@
 |**2022-09-06**|**Being Automated or Not? Risk Identification of Occupations with Graph Neural Networks**|Dawei Xu et.al.|[2209.02182v1](http://arxiv.org/abs/2209.02182v1)|null|
 |**2022-09-05**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
 |**2022-05-26**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v2](http://arxiv.org/abs/2205.13328v2)|[link](https://github.com/JiaruiFeng/KP-GNN)|
+
+## Graph Model
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-03-30**|**Matroid stratifications of hypergraph varieties, their realization spaces, and discrete conditional independence models**|Oliver Clarke et.al.|[2103.16550v3](http://arxiv.org/abs/2103.16550v3)|null|
+|**2022-09-08**|**All eigenvalues of the power hypergraph and signed subgraphs of a graph**|Lixiang Chen et.al.|[2209.03709v1](http://arxiv.org/abs/2209.03709v1)|null|
+|**2022-09-08**|**Quasi-Random Influences of Boolean Functions**|Fan Chung et.al.|[2209.03573v1](http://arxiv.org/abs/2209.03573v1)|null|
+|**2022-09-07**|**Planted matching problems on random hypergraphs**|Urte Adomaityte et.al.|[2209.03423v1](http://arxiv.org/abs/2209.03423v1)|null|
+|**2022-09-07**|**Counting arcs in $\mathbb F_q^2$**|Krishnendu Bhowmick et.al.|[2209.03064v1](http://arxiv.org/abs/2209.03064v1)|null|
+|**2022-07-24**|**Metric hypergraphs and metric-line equivalences**|Vašek Chvátal et.al.|[2207.11811v2](http://arxiv.org/abs/2207.11811v2)|null|
+|**2022-04-04**|**Multi-Modal Hypergraph Diffusion Network with Dual Prior for Alzheimer Classification**|Angelica I. Aviles-Rivero et.al.|[2204.02399v3](http://arxiv.org/abs/2204.02399v3)|null|
+|**2019-08-29**|**PageRank algorithm for Directed Hypergraph**|Loc Tran et.al.|[1909.01132v3](http://arxiv.org/abs/1909.01132v3)|null|
+|**2022-02-25**|**Measuring dynamical systems on directed hyper-graphs**|Mauro Faccin et.al.|[2202.12810v3](http://arxiv.org/abs/2202.12810v3)|null|
+|**2022-09-05**|**Long running time for hypergraph bootstrap percolation**|Alberto Espuny Díaz et.al.|[2209.02015v1](http://arxiv.org/abs/2209.02015v1)|null|
+|**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v2](http://arxiv.org/abs/2206.04739v2)|[link](https://github.com/wooner49/tricl)|
+|**2022-01-28**|**HEAT: Hyperedge Attention Networks**|Dobrik Georgiev et.al.|[2201.12113v2](http://arxiv.org/abs/2201.12113v2)|null|
+|**2022-04-27**|**Nonbacktracking spectral clustering of nonuniform hypergraphs**|Philip Chodrow et.al.|[2204.13586v2](http://arxiv.org/abs/2204.13586v2)|[link](https://github.com/jamiehadd/hypergraphspectralclustering)|
+|**2020-06-13**|**Balanced Allocation on Hypergraphs**|Catherine Greenhill et.al.|[2006.07588v3](http://arxiv.org/abs/2006.07588v3)|null|
+|**2022-09-03**|**Hypergraph convolutional neural network-based clustering technique**|Loc H. Tran et.al.|[2209.01391v1](http://arxiv.org/abs/2209.01391v1)|null|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Mean Field Games on Weighted and Directed Graphs via Colored Digraphons**|Christian Fabian et.al.|[2209.03887v1](http://arxiv.org/abs/2209.03887v1)|null|
+|**2022-09-08**|**Learning Sparse Graphon Mean Field Games**|Christian Fabian et.al.|[2209.03880v1](http://arxiv.org/abs/2209.03880v1)|null|
+|**2022-09-07**|**Master equation of discrete-time Stackelberg mean field games with multiple leaders**|Deepanshu Vasal et.al.|[2209.03186v1](http://arxiv.org/abs/2209.03186v1)|null|
+|**2022-09-04**|**Graphon-valued processes with vertex-level fluctuations**|Peter Braunsteins et.al.|[2209.01544v1](http://arxiv.org/abs/2209.01544v1)|null|
+|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v1](http://arxiv.org/abs/2208.14899v1)|null|
+|**2020-10-07**|**The large deviation principle for inhomogeneous Erdős-Rényi random graphs**|Maarten Markering et.al.|[2010.03504v2](http://arxiv.org/abs/2010.03504v2)|null|
+|**2020-08-13**|**Remarks on power-law random graphs**|Mei Yin et.al.|[2008.05625v2](http://arxiv.org/abs/2008.05625v2)|null|
+|**2022-08-16**|**A Graph-Based Modelling of Epidemics]{A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v1](http://arxiv.org/abs/2208.07559v1)|null|
+|**2022-07-25**|**Undecidability of polynomial inequalities in weighted graph homomorphism densities**|Grigoriy Blekherman et.al.|[2207.12378v1](http://arxiv.org/abs/2207.12378v1)|null|
+|**2021-03-16**|**On a question of Vera T. Sós about size forcing of graphons**|Oliver Cooley et.al.|[2103.09114v2](http://arxiv.org/abs/2103.09114v2)|null|
+|**2022-07-22**|**Stationary Cost Nodes in Infinite Horizon LQG-GMFGs**|Rinel Foguen Tchuendom et.al.|[2207.11343v1](http://arxiv.org/abs/2207.11343v1)|null|
+|**2020-05-02**|**Fluctuations in Mean-Field Ising models**|Nabarun Deb et.al.|[2005.00710v3](http://arxiv.org/abs/2005.00710v3)|null|
+|**2021-06-07**|**Learning by Transference: Training Graph Neural Networks on Growing Graphs**|Juan Cervino et.al.|[2106.03693v3](http://arxiv.org/abs/2106.03693v3)|null|
+|**2021-09-21**|**Transferability of Graph Neural Networks: an Extended Graphon Approach**|Sohir Maskey et.al.|[2109.10096v2](http://arxiv.org/abs/2109.10096v2)|null|
+|**2022-06-23**|**Prescribed graphon symmetries and flavors of rigidity**|Alexandru Chirvasitu et.al.|[2206.11997v1](http://arxiv.org/abs/2206.11997v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Geolocation of Cultural Heritage using Multi-View Knowledge Graph Embedding**|Hebatallah A. Mohamed et.al.|[2209.03638v1](http://arxiv.org/abs/2209.03638v1)|[link](https://github.com/memexproject/memex-kg)|
+|**2022-08-28**|**MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities**|Hoang H. Nguyen et.al.|[2208.13252v2](http://arxiv.org/abs/2208.13252v2)|[link](https://github.com/mando-project/ge-sc)|
+|**2022-09-06**|**On the prescribed negative Gauss curvature problem for graphs**|Alessio Figalli et.al.|[2209.02326v1](http://arxiv.org/abs/2209.02326v1)|null|
+|**2022-02-11**|**TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation**|Ahmed El-Kishky et.al.|[2202.05387v2](http://arxiv.org/abs/2202.05387v2)|null|
+|**2022-03-18**|**Bayesian Low-rank Matrix Completion with Dual-graph Embedding: Prior Analysis and Tuning-free Inference**|Yangge Chen et.al.|[2203.10044v2](http://arxiv.org/abs/2203.10044v2)|null|
+|**2022-09-01**|**Visibility Representations of Toroidal and Klein-bottle Graphs**|Therese Biedl et.al.|[2209.00576v2](http://arxiv.org/abs/2209.00576v2)|null|
+|**2022-09-01**|**Spherical Graph Drawing by Multi-dimensional Scaling**|Jacob Miller et.al.|[2209.00191v1](http://arxiv.org/abs/2209.00191v1)|[link](https://github.com/mickey253/spherical-mds)|
+|**2022-08-21**|**I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning**|Yang Liu et.al.|[2208.09828v2](http://arxiv.org/abs/2208.09828v2)|[link](https://github.com/nju-websoft/cole)|
+|**2022-08-18**|**Memory and Capacity of Graph Embedding Methods**|Frank Qiu et.al.|[2208.08769v2](http://arxiv.org/abs/2208.08769v2)|null|
+|**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v2](http://arxiv.org/abs/2208.10917v2)|null|
+|**2020-11-16**|**Neural graph embeddings as explicit low-rank matrix factorization for link prediction**|Asan Agibetov et.al.|[2011.09907v3](http://arxiv.org/abs/2011.09907v3)|null|
+|**2022-08-25**|**Local Intrinsic Dimensionality Measures for Graphs, with Applications to Graph Embeddings**|Miloš Savić et.al.|[2208.11986v1](http://arxiv.org/abs/2208.11986v1)|null|
+|**2021-09-27**|**One-Hot Graph Encoder Embedding**|Cencheng Shen et.al.|[2109.13098v2](http://arxiv.org/abs/2109.13098v2)|[link](https://github.com/cshen6/graphnn)|
+|**2021-04-29**|**Graph-Embedded Subspace Support Vector Data Description**|Fahad Sohrab et.al.|[2104.14370v2](http://arxiv.org/abs/2104.14370v2)|null|
+|**2022-08-22**|**Repurposing Knowledge Graph Embeddings for Triple Representation via Weak Supervision**|Alexander Kalinowski et.al.|[2208.10328v1](http://arxiv.org/abs/2208.10328v1)|[link](https://github.com/yur7nd/ptss)|
 
 ## Embedding
 
@@ -72,65 +131,6 @@
 |**2021-09-27**|**One-Hot Graph Encoder Embedding**|Cencheng Shen et.al.|[2109.13098v2](http://arxiv.org/abs/2109.13098v2)|[link](https://github.com/cshen6/graphnn)|
 |**2021-04-29**|**Graph-Embedded Subspace Support Vector Data Description**|Fahad Sohrab et.al.|[2104.14370v2](http://arxiv.org/abs/2104.14370v2)|null|
 |**2022-08-22**|**Repurposing Knowledge Graph Embeddings for Triple Representation via Weak Supervision**|Alexander Kalinowski et.al.|[2208.10328v1](http://arxiv.org/abs/2208.10328v1)|[link](https://github.com/yur7nd/ptss)|
-
-## Graph Model
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**Geolocation of Cultural Heritage using Multi-View Knowledge Graph Embedding**|Hebatallah A. Mohamed et.al.|[2209.03638v1](http://arxiv.org/abs/2209.03638v1)|[link](https://github.com/memexproject/memex-kg)|
-|**2022-08-28**|**MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities**|Hoang H. Nguyen et.al.|[2208.13252v2](http://arxiv.org/abs/2208.13252v2)|[link](https://github.com/mando-project/ge-sc)|
-|**2022-09-06**|**On the prescribed negative Gauss curvature problem for graphs**|Alessio Figalli et.al.|[2209.02326v1](http://arxiv.org/abs/2209.02326v1)|null|
-|**2022-02-11**|**TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation**|Ahmed El-Kishky et.al.|[2202.05387v2](http://arxiv.org/abs/2202.05387v2)|null|
-|**2022-03-18**|**Bayesian Low-rank Matrix Completion with Dual-graph Embedding: Prior Analysis and Tuning-free Inference**|Yangge Chen et.al.|[2203.10044v2](http://arxiv.org/abs/2203.10044v2)|null|
-|**2022-09-01**|**Visibility Representations of Toroidal and Klein-bottle Graphs**|Therese Biedl et.al.|[2209.00576v2](http://arxiv.org/abs/2209.00576v2)|null|
-|**2022-09-01**|**Spherical Graph Drawing by Multi-dimensional Scaling**|Jacob Miller et.al.|[2209.00191v1](http://arxiv.org/abs/2209.00191v1)|[link](https://github.com/mickey253/spherical-mds)|
-|**2022-08-21**|**I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning**|Yang Liu et.al.|[2208.09828v2](http://arxiv.org/abs/2208.09828v2)|[link](https://github.com/nju-websoft/cole)|
-|**2022-08-18**|**Memory and Capacity of Graph Embedding Methods**|Frank Qiu et.al.|[2208.08769v2](http://arxiv.org/abs/2208.08769v2)|null|
-|**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v2](http://arxiv.org/abs/2208.10917v2)|null|
-|**2020-11-16**|**Neural graph embeddings as explicit low-rank matrix factorization for link prediction**|Asan Agibetov et.al.|[2011.09907v3](http://arxiv.org/abs/2011.09907v3)|null|
-|**2022-08-25**|**Local Intrinsic Dimensionality Measures for Graphs, with Applications to Graph Embeddings**|Miloš Savić et.al.|[2208.11986v1](http://arxiv.org/abs/2208.11986v1)|null|
-|**2021-09-27**|**One-Hot Graph Encoder Embedding**|Cencheng Shen et.al.|[2109.13098v2](http://arxiv.org/abs/2109.13098v2)|[link](https://github.com/cshen6/graphnn)|
-|**2021-04-29**|**Graph-Embedded Subspace Support Vector Data Description**|Fahad Sohrab et.al.|[2104.14370v2](http://arxiv.org/abs/2104.14370v2)|null|
-|**2022-08-22**|**Repurposing Knowledge Graph Embeddings for Triple Representation via Weak Supervision**|Alexander Kalinowski et.al.|[2208.10328v1](http://arxiv.org/abs/2208.10328v1)|[link](https://github.com/yur7nd/ptss)|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-03-30**|**Matroid stratifications of hypergraph varieties, their realization spaces, and discrete conditional independence models**|Oliver Clarke et.al.|[2103.16550v3](http://arxiv.org/abs/2103.16550v3)|null|
-|**2022-09-08**|**All eigenvalues of the power hypergraph and signed subgraphs of a graph**|Lixiang Chen et.al.|[2209.03709v1](http://arxiv.org/abs/2209.03709v1)|null|
-|**2022-09-08**|**Quasi-Random Influences of Boolean Functions**|Fan Chung et.al.|[2209.03573v1](http://arxiv.org/abs/2209.03573v1)|null|
-|**2022-09-07**|**Planted matching problems on random hypergraphs**|Urte Adomaityte et.al.|[2209.03423v1](http://arxiv.org/abs/2209.03423v1)|null|
-|**2022-09-07**|**Counting arcs in $\mathbb F_q^2$**|Krishnendu Bhowmick et.al.|[2209.03064v1](http://arxiv.org/abs/2209.03064v1)|null|
-|**2022-07-24**|**Metric hypergraphs and metric-line equivalences**|Vašek Chvátal et.al.|[2207.11811v2](http://arxiv.org/abs/2207.11811v2)|null|
-|**2022-04-04**|**Multi-Modal Hypergraph Diffusion Network with Dual Prior for Alzheimer Classification**|Angelica I. Aviles-Rivero et.al.|[2204.02399v3](http://arxiv.org/abs/2204.02399v3)|null|
-|**2019-08-29**|**PageRank algorithm for Directed Hypergraph**|Loc Tran et.al.|[1909.01132v3](http://arxiv.org/abs/1909.01132v3)|null|
-|**2022-02-25**|**Measuring dynamical systems on directed hyper-graphs**|Mauro Faccin et.al.|[2202.12810v3](http://arxiv.org/abs/2202.12810v3)|null|
-|**2022-09-05**|**Long running time for hypergraph bootstrap percolation**|Alberto Espuny Díaz et.al.|[2209.02015v1](http://arxiv.org/abs/2209.02015v1)|null|
-|**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v2](http://arxiv.org/abs/2206.04739v2)|[link](https://github.com/wooner49/tricl)|
-|**2022-01-28**|**HEAT: Hyperedge Attention Networks**|Dobrik Georgiev et.al.|[2201.12113v2](http://arxiv.org/abs/2201.12113v2)|null|
-|**2022-04-27**|**Nonbacktracking spectral clustering of nonuniform hypergraphs**|Philip Chodrow et.al.|[2204.13586v2](http://arxiv.org/abs/2204.13586v2)|[link](https://github.com/jamiehadd/hypergraphspectralclustering)|
-|**2020-06-13**|**Balanced Allocation on Hypergraphs**|Catherine Greenhill et.al.|[2006.07588v3](http://arxiv.org/abs/2006.07588v3)|null|
-|**2022-09-03**|**Hypergraph convolutional neural network-based clustering technique**|Loc H. Tran et.al.|[2209.01391v1](http://arxiv.org/abs/2209.01391v1)|null|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**Mean Field Games on Weighted and Directed Graphs via Colored Digraphons**|Christian Fabian et.al.|[2209.03887v1](http://arxiv.org/abs/2209.03887v1)|null|
-|**2022-09-08**|**Learning Sparse Graphon Mean Field Games**|Christian Fabian et.al.|[2209.03880v1](http://arxiv.org/abs/2209.03880v1)|null|
-|**2022-09-07**|**Master equation of discrete-time Stackelberg mean field games with multiple leaders**|Deepanshu Vasal et.al.|[2209.03186v1](http://arxiv.org/abs/2209.03186v1)|null|
-|**2022-09-04**|**Graphon-valued processes with vertex-level fluctuations**|Peter Braunsteins et.al.|[2209.01544v1](http://arxiv.org/abs/2209.01544v1)|null|
-|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v1](http://arxiv.org/abs/2208.14899v1)|null|
-|**2020-10-07**|**The large deviation principle for inhomogeneous Erdős-Rényi random graphs**|Maarten Markering et.al.|[2010.03504v2](http://arxiv.org/abs/2010.03504v2)|null|
-|**2020-08-13**|**Remarks on power-law random graphs**|Mei Yin et.al.|[2008.05625v2](http://arxiv.org/abs/2008.05625v2)|null|
-|**2022-08-16**|**A Graph-Based Modelling of Epidemics]{A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v1](http://arxiv.org/abs/2208.07559v1)|null|
-|**2022-07-25**|**Undecidability of polynomial inequalities in weighted graph homomorphism densities**|Grigoriy Blekherman et.al.|[2207.12378v1](http://arxiv.org/abs/2207.12378v1)|null|
-|**2021-03-16**|**On a question of Vera T. Sós about size forcing of graphons**|Oliver Cooley et.al.|[2103.09114v2](http://arxiv.org/abs/2103.09114v2)|null|
-|**2022-07-22**|**Stationary Cost Nodes in Infinite Horizon LQG-GMFGs**|Rinel Foguen Tchuendom et.al.|[2207.11343v1](http://arxiv.org/abs/2207.11343v1)|null|
-|**2020-05-02**|**Fluctuations in Mean-Field Ising models**|Nabarun Deb et.al.|[2005.00710v3](http://arxiv.org/abs/2005.00710v3)|null|
-|**2021-06-07**|**Learning by Transference: Training Graph Neural Networks on Growing Graphs**|Juan Cervino et.al.|[2106.03693v3](http://arxiv.org/abs/2106.03693v3)|null|
-|**2021-09-21**|**Transferability of Graph Neural Networks: an Extended Graphon Approach**|Sohir Maskey et.al.|[2109.10096v2](http://arxiv.org/abs/2109.10096v2)|null|
-|**2022-06-23**|**Prescribed graphon symmetries and flavors of rigidity**|Alexandru Chirvasitu et.al.|[2206.11997v1](http://arxiv.org/abs/2206.11997v1)|null|
 
 ## Variable Selection
 
