@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-12 07:32:59 Asia/Shanghai
+ Automated deployment @ 2022-09-12 19:29:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[link](https://github.com/rsalganik1123/facctrec2022)|
+|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v2](http://arxiv.org/abs/2209.03904v2)|[link](https://github.com/rsalganik1123/facctrec2022)|
+|**2022-09-09**|**Self-supervised Learning for Heterogeneous Graph via Structure Information based on Metapath**|Shuai Ma et.al.|[2209.04218v1](http://arxiv.org/abs/2209.04218v1)|null|
+|**2022-09-09**|**Simple and Powerful Architecture for Inductive Recommendation Using Knowledge Graph Convolutions**|Theis E. Jendal et.al.|[2209.04185v1](http://arxiv.org/abs/2209.04185v1)|null|
+|**2022-08-29**|**FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs**|Taolin Zhang et.al.|[2208.13685v2](http://arxiv.org/abs/2208.13685v2)|[link](https://github.com/fedego/fedego)|
+|**2021-07-03**|**On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs**|Hejie Cui et.al.|[2107.01495v2](http://arxiv.org/abs/2107.01495v2)|[link](https://github.com/zjzijielu/gnn-positional-structural-node-features)|
+|**2022-08-07**|**Are Gradients on Graph Structure Reliable in Gray-box Attacks?**|Zihan Liu et.al.|[2208.05514v2](http://arxiv.org/abs/2208.05514v2)|[link](https://github.com/zihan-liu-00/atkse)|
 |**2022-09-08**|**Simpler is better: Multilevel Abstraction with Graph Convolutional Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
 |**2022-09-08**|**Hierarchical Graph Pooling is an Effective Citywide Traffic Condition Prediction Model**|Shilin Pu et.al.|[2209.03629v1](http://arxiv.org/abs/2209.03629v1)|null|
 |**2022-07-23**|**Distributed Nonlinear State Estimation in Electric Power Systems using Graph Neural Networks**|Ognjen Kundacina et.al.|[2207.11465v2](http://arxiv.org/abs/2207.11465v2)|null|
@@ -27,11 +32,27 @@
 |**2022-09-07**|**Hardware Acceleration of Sampling Algorithms in Sample and Aggregate Graph Neural Networks**|Yuchen Gui et.al.|[2209.02916v1](http://arxiv.org/abs/2209.02916v1)|null|
 |**2022-05-16**|**Neural-Symbolic Models for Logical Queries on Knowledge Graphs**|Zhaocheng Zhu et.al.|[2205.10128v2](http://arxiv.org/abs/2205.10128v2)|[link](https://github.com/DeepGraphLearning/GNN-QE)|
 |**2022-09-06**|**Graph-PHPA: Graph-based Proactive Horizontal Pod Autoscaling for Microservices using LSTM-GNN**|Hoa X. Nguyen et.al.|[2209.02551v1](http://arxiv.org/abs/2209.02551v1)|null|
-|**2022-04-21**|**SoftEdge: Regularizing Graph Classification with Random Soft Edges**|Hongyu Guo et.al.|[2204.10390v2](http://arxiv.org/abs/2204.10390v2)|null|
-|**2021-06-15**|**Query Embedding on Hyper-relational Knowledge Graphs**|Dimitrios Alivanistos et.al.|[2106.08166v3](http://arxiv.org/abs/2106.08166v3)|[link](https://github.com/DimitrisAlivas/StarQE)|
-|**2022-09-06**|**Being Automated or Not? Risk Identification of Occupations with Graph Neural Networks**|Dawei Xu et.al.|[2209.02182v1](http://arxiv.org/abs/2209.02182v1)|null|
-|**2022-09-05**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
-|**2022-05-26**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v2](http://arxiv.org/abs/2205.13328v2)|[link](https://github.com/JiaruiFeng/KP-GNN)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-06-07**|**Proximal nested sampling for high-dimensional Bayesian model selection**|Xiaohao Cai et.al.|[2106.03646v3](http://arxiv.org/abs/2106.03646v3)|null|
+|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|[link](https://github.com/of2/clusterbma)|
+|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
+|**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
+|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
+|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
+|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
+|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
+|**2021-07-14**|**Correlation scenarios and correlation stress testing**|N. Packham et.al.|[2107.06839v2](http://arxiv.org/abs/2107.06839v2)|null|
+|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v2](http://arxiv.org/abs/2207.12956v2)|[link](https://github.com/d09948011/identifying-clusters)|
+|**2022-09-05**|**Using leave-one-out cross-validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale**|Swen Kuh et.al.|[2209.01773v1](http://arxiv.org/abs/2209.01773v1)|null|
+|**2022-09-05**|**Towards Deep Learning-aided Wireless Channel Estimation and Channel State Information Feedback for 6G**|Wonjun Kim et.al.|[2209.01724v1](http://arxiv.org/abs/2209.01724v1)|null|
+|**2021-10-14**|**UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning**|Yuning Mao et.al.|[2110.07577v3](http://arxiv.org/abs/2110.07577v3)|[link](https://github.com/morningmoni/unipelt)|
+|**2021-04-06**|**A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts models**|TrungTin Nguyen et.al.|[2104.02640v3](http://arxiv.org/abs/2104.02640v3)|[link](https://github.com/Trung-TinNGUYEN/NamsGLoME-Simulation)|
+|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v2](http://arxiv.org/abs/2208.11169v2)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
 
 ## Graph Model
 
@@ -57,6 +78,8 @@
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-04-16**|**Hcore-Init: Neural Network Initialization based on Graph Degeneracy**|Stratis Limnios et.al.|[2004.07636v2](http://arxiv.org/abs/2004.07636v2)|null|
+|**2021-05-11**|**Exact Recovery in the General Hypergraph Stochastic Block Model**|Qiaosheng Zhang et.al.|[2105.04770v2](http://arxiv.org/abs/2105.04770v2)|null|
 |**2021-03-30**|**Matroid stratifications of hypergraph varieties, their realization spaces, and discrete conditional independence models**|Oliver Clarke et.al.|[2103.16550v3](http://arxiv.org/abs/2103.16550v3)|null|
 |**2022-09-08**|**All eigenvalues of the power hypergraph and signed subgraphs of a graph**|Lixiang Chen et.al.|[2209.03709v1](http://arxiv.org/abs/2209.03709v1)|null|
 |**2022-09-08**|**Quasi-Random Influences of Boolean Functions**|Fan Chung et.al.|[2209.03573v1](http://arxiv.org/abs/2209.03573v1)|null|
@@ -70,8 +93,6 @@
 |**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v2](http://arxiv.org/abs/2206.04739v2)|[link](https://github.com/wooner49/tricl)|
 |**2022-01-28**|**HEAT: Hyperedge Attention Networks**|Dobrik Georgiev et.al.|[2201.12113v2](http://arxiv.org/abs/2201.12113v2)|null|
 |**2022-04-27**|**Nonbacktracking spectral clustering of nonuniform hypergraphs**|Philip Chodrow et.al.|[2204.13586v2](http://arxiv.org/abs/2204.13586v2)|[link](https://github.com/jamiehadd/hypergraphspectralclustering)|
-|**2020-06-13**|**Balanced Allocation on Hypergraphs**|Catherine Greenhill et.al.|[2006.07588v3](http://arxiv.org/abs/2006.07588v3)|null|
-|**2022-09-03**|**Hypergraph convolutional neural network-based clustering technique**|Loc H. Tran et.al.|[2209.01391v1](http://arxiv.org/abs/2209.01391v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -91,27 +112,6 @@
 |**2021-09-27**|**One-Hot Graph Encoder Embedding**|Cencheng Shen et.al.|[2109.13098v2](http://arxiv.org/abs/2109.13098v2)|[link](https://github.com/cshen6/graphnn)|
 |**2021-04-29**|**Graph-Embedded Subspace Support Vector Data Description**|Fahad Sohrab et.al.|[2104.14370v2](http://arxiv.org/abs/2104.14370v2)|null|
 |**2022-08-22**|**Repurposing Knowledge Graph Embeddings for Triple Representation via Weak Supervision**|Alexander Kalinowski et.al.|[2208.10328v1](http://arxiv.org/abs/2208.10328v1)|[link](https://github.com/yur7nd/ptss)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
-|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
-|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
-|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
-|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
-|**2021-07-14**|**Correlation scenarios and correlation stress testing**|N. Packham et.al.|[2107.06839v2](http://arxiv.org/abs/2107.06839v2)|null|
-|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v2](http://arxiv.org/abs/2207.12956v2)|[link](https://github.com/d09948011/identifying-clusters)|
-|**2022-09-05**|**Using leave-one-out cross-validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale**|Swen Kuh et.al.|[2209.01773v1](http://arxiv.org/abs/2209.01773v1)|null|
-|**2022-09-05**|**Towards Deep Learning-aided Wireless Channel Estimation and Channel State Information Feedback for 6G**|Wonjun Kim et.al.|[2209.01724v1](http://arxiv.org/abs/2209.01724v1)|null|
-|**2021-10-14**|**UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning**|Yuning Mao et.al.|[2110.07577v3](http://arxiv.org/abs/2110.07577v3)|[link](https://github.com/morningmoni/unipelt)|
-|**2021-04-06**|**A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts models**|TrungTin Nguyen et.al.|[2104.02640v3](http://arxiv.org/abs/2104.02640v3)|[link](https://github.com/Trung-TinNGUYEN/NamsGLoME-Simulation)|
-|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v2](http://arxiv.org/abs/2208.11169v2)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
-|**2022-09-04**|**Copula Entropy based Variable Selection for Survival Analysis**|Jian Ma et.al.|[2209.01561v1](http://arxiv.org/abs/2209.01561v1)|[link](https://github.com/majianthu/survival)|
-|**2021-02-22**|**Bridging factor and sparse models**|Jianqing Fan et.al.|[2102.11341v4](http://arxiv.org/abs/2102.11341v4)|null|
-|**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v1](http://arxiv.org/abs/2209.01460v1)|null|
 
 ## Embedding
 
