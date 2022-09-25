@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-25 07:34:15 Asia/Shanghai
+ Automated deployment @ 2022-09-25 19:29:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -56,25 +56,6 @@
 
 ## Graph Model
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-22**|**Solving the General Case of Rank-3 Maker-Breaker Games in Polynomial Time**|Lear Bahack et.al.|[2209.11202v1](http://arxiv.org/abs/2209.11202v1)|null|
-|**2022-09-21**|**Chaining, Group Leverage Score Overestimates, and Fast Spectral Hypergraph Sparsification**|Arun Jambulapati et.al.|[2209.10539v1](http://arxiv.org/abs/2209.10539v1)|null|
-|**2022-09-21**|**Exact and Sampling Methods for Mining Higher-Order Motifs in Large Hypergraphs**|Quintino Francesco Lotito et.al.|[2209.10241v1](http://arxiv.org/abs/2209.10241v1)|[link](https://github.com/fralotito/sampling-motifs)|
-|**2020-01-09**|**Improved Bound on Vertex Degree Version of Erdős Matching Conjecture**|Mingyang Guo et.al.|[2001.02820v4](http://arxiv.org/abs/2001.02820v4)|null|
-|**2022-07-12**|**Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation**|Yuhao Yang et.al.|[2207.05584v2](http://arxiv.org/abs/2207.05584v2)|[link](https://github.com/yuh-yang/mbht-kdd22)|
-|**2022-02-28**|**The XP Stabiliser Formalism: a Generalisation of the Pauli Stabiliser Formalism with Arbitrary Phases**|Mark A. Webster et.al.|[2203.00103v3](http://arxiv.org/abs/2203.00103v3)|[link](https://github.com/m-webster/xpfpackage)|
-|**2021-06-02**|**On the hat guessing number of a planar graph class**|Peter Bradshaw et.al.|[2106.01480v2](http://arxiv.org/abs/2106.01480v2)|null|
-|**2022-09-19**|**A general approach to transversal versions of Dirac-type theorems**|Pranshu Gupta et.al.|[2209.09289v1](http://arxiv.org/abs/2209.09289v1)|null|
-|**2022-09-19**|**Ryser Type Conditions for Extending Colorings of Triples**|Amin Bahmanian et.al.|[2209.09100v1](http://arxiv.org/abs/2209.09100v1)|null|
-|**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v3](http://arxiv.org/abs/2206.04739v3)|[link](https://github.com/wooner49/tricl)|
-|**2022-04-03**|**An Algebraic Hypergraph Regularity Lemma**|Alexis Chevalier et.al.|[2204.01158v2](http://arxiv.org/abs/2204.01158v2)|null|
-|**2022-09-16**|**The Turán density of tight cycles in three-uniform hypergraphs**|Nina Kamčev et.al.|[2209.08134v1](http://arxiv.org/abs/2209.08134v1)|null|
-|**2022-09-09**|**Spectral hypergraph sparsification via chaining**|James R. Lee et.al.|[2209.04539v2](http://arxiv.org/abs/2209.04539v2)|null|
-|**2022-09-15**|**Complex hypergraphs**|Alexei Vazquez et.al.|[2209.07331v1](http://arxiv.org/abs/2209.07331v1)|null|
-|**2022-09-14**|**Embedding Irregular Colorings into Connected Factorizations**|Amin Bahmanian et.al.|[2209.06402v1](http://arxiv.org/abs/2209.06402v1)|null|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -93,6 +74,25 @@
 |**2022-07-25**|**Undecidability of polynomial inequalities in weighted graph homomorphism densities**|Grigoriy Blekherman et.al.|[2207.12378v1](http://arxiv.org/abs/2207.12378v1)|null|
 |**2021-03-16**|**On a question of Vera T. Sós about size forcing of graphons**|Oliver Cooley et.al.|[2103.09114v2](http://arxiv.org/abs/2103.09114v2)|null|
 |**2022-07-22**|**Stationary Cost Nodes in Infinite Horizon LQG-GMFGs**|Rinel Foguen Tchuendom et.al.|[2207.11343v1](http://arxiv.org/abs/2207.11343v1)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Solving the General Case of Rank-3 Maker-Breaker Games in Polynomial Time**|Lear Bahack et.al.|[2209.11202v1](http://arxiv.org/abs/2209.11202v1)|null|
+|**2022-09-21**|**Chaining, Group Leverage Score Overestimates, and Fast Spectral Hypergraph Sparsification**|Arun Jambulapati et.al.|[2209.10539v1](http://arxiv.org/abs/2209.10539v1)|null|
+|**2022-09-21**|**Exact and Sampling Methods for Mining Higher-Order Motifs in Large Hypergraphs**|Quintino Francesco Lotito et.al.|[2209.10241v1](http://arxiv.org/abs/2209.10241v1)|[link](https://github.com/fralotito/sampling-motifs)|
+|**2020-01-09**|**Improved Bound on Vertex Degree Version of Erdős Matching Conjecture**|Mingyang Guo et.al.|[2001.02820v4](http://arxiv.org/abs/2001.02820v4)|null|
+|**2022-07-12**|**Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation**|Yuhao Yang et.al.|[2207.05584v2](http://arxiv.org/abs/2207.05584v2)|[link](https://github.com/yuh-yang/mbht-kdd22)|
+|**2022-02-28**|**The XP Stabiliser Formalism: a Generalisation of the Pauli Stabiliser Formalism with Arbitrary Phases**|Mark A. Webster et.al.|[2203.00103v3](http://arxiv.org/abs/2203.00103v3)|[link](https://github.com/m-webster/xpfpackage)|
+|**2021-06-02**|**On the hat guessing number of a planar graph class**|Peter Bradshaw et.al.|[2106.01480v2](http://arxiv.org/abs/2106.01480v2)|null|
+|**2022-09-19**|**A general approach to transversal versions of Dirac-type theorems**|Pranshu Gupta et.al.|[2209.09289v1](http://arxiv.org/abs/2209.09289v1)|null|
+|**2022-09-19**|**Ryser Type Conditions for Extending Colorings of Triples**|Amin Bahmanian et.al.|[2209.09100v1](http://arxiv.org/abs/2209.09100v1)|null|
+|**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v3](http://arxiv.org/abs/2206.04739v3)|[link](https://github.com/wooner49/tricl)|
+|**2022-04-03**|**An Algebraic Hypergraph Regularity Lemma**|Alexis Chevalier et.al.|[2204.01158v2](http://arxiv.org/abs/2204.01158v2)|null|
+|**2022-09-16**|**The Turán density of tight cycles in three-uniform hypergraphs**|Nina Kamčev et.al.|[2209.08134v1](http://arxiv.org/abs/2209.08134v1)|null|
+|**2022-09-09**|**Spectral hypergraph sparsification via chaining**|James R. Lee et.al.|[2209.04539v2](http://arxiv.org/abs/2209.04539v2)|null|
+|**2022-09-15**|**Complex hypergraphs**|Alexei Vazquez et.al.|[2209.07331v1](http://arxiv.org/abs/2209.07331v1)|null|
+|**2022-09-14**|**Embedding Irregular Colorings into Connected Factorizations**|Amin Bahmanian et.al.|[2209.06402v1](http://arxiv.org/abs/2209.06402v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -115,25 +115,6 @@
 
 ## Embedding
 
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-22**|**An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning**|Shaobin Chen et.al.|[2209.10951v1](http://arxiv.org/abs/2209.10951v1)|[link](https://github.com/bin199/informin-cl)|
-|**2022-04-25**|**Tac2Pose: Tactile Object Pose Estimation from the First Touch**|Maria Bauza et.al.|[2204.11701v2](http://arxiv.org/abs/2204.11701v2)|null|
-|**2022-09-06**|**Fun2Vec:a Contrastive Learning Framework of Function-level Representation for Binary**|Sun RuiJin et.al.|[2209.02442v1](http://arxiv.org/abs/2209.02442v1)|null|
-|**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v1](http://arxiv.org/abs/2209.01847v1)|[link](https://github.com/qdin4048/CPL-OT)|
-|**2022-09-02**|**Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images**|Min Shi et.al.|[2209.00773v1](http://arxiv.org/abs/2209.00773v1)|[link](https://github.com/codesharea/eyelearn)|
-|**2022-08-03**|**Large scale analysis of gender bias and sexism in song lyrics**|Lorenzo Betti et.al.|[2208.02052v2](http://arxiv.org/abs/2208.02052v2)|null|
-|**2022-08-22**|**Self-Supervised Pretraining of Graph Neural Network for the Retrieval of Related Mathematical Expressions in Scientific Articles**|Lukas Pfahler et.al.|[2209.00446v1](http://arxiv.org/abs/2209.00446v1)|null|
-|**2022-08-20**|**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**|Ujjal Kr Dutta et.al.|[2208.09698v1](http://arxiv.org/abs/2208.09698v1)|null|
-|**2022-08-19**|**Learning filtered discretization operators: non-intrusive versus intrusive approaches**|Syver Døving Agdestein et.al.|[2208.09363v1](http://arxiv.org/abs/2208.09363v1)|[link](https://github.com/agdestein/discretefiltering.jl)|
-|**2022-08-10**|**Neural Embedding: Learning the Embedding of the Manifold of Physics Data**|Sang Eon Park et.al.|[2208.05484v2](http://arxiv.org/abs/2208.05484v2)|null|
-|**2022-08-12**|**AutoShard: Automated Embedding Table Sharding for Recommender Systems**|Daochen Zha et.al.|[2208.06399v1](http://arxiv.org/abs/2208.06399v1)|[link](https://github.com/daochenzha/autoshard)|
-|**2022-08-06**|**LFGCF: Light Folksonomy Graph Collaborative Filtering for Tag-Aware Recommendation**|Yin Zhang et.al.|[2208.03454v1](http://arxiv.org/abs/2208.03454v1)|null|
-|**2022-08-02**|**Optimal Rates for Regularized Conditional Mean Embedding Learning**|Zhu Li et.al.|[2208.01711v1](http://arxiv.org/abs/2208.01711v1)|null|
-|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v2](http://arxiv.org/abs/2207.13979v2)|null|
-|**2022-04-24**|**Knowledge-aware Document Summarization: A Survey of Knowledge, Embedding Methods and Architectures**|Yutong Qu et.al.|[2204.11190v2](http://arxiv.org/abs/2204.11190v2)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -152,3 +133,22 @@
 |**2022-08-28**|**MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities**|Hoang H. Nguyen et.al.|[2208.13252v2](http://arxiv.org/abs/2208.13252v2)|[link](https://github.com/mando-project/ge-sc)|
 |**2022-09-06**|**On the prescribed negative Gauss curvature problem for graphs**|Alessio Figalli et.al.|[2209.02326v1](http://arxiv.org/abs/2209.02326v1)|null|
 |**2022-02-11**|**TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation**|Ahmed El-Kishky et.al.|[2202.05387v2](http://arxiv.org/abs/2202.05387v2)|null|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning**|Shaobin Chen et.al.|[2209.10951v1](http://arxiv.org/abs/2209.10951v1)|[link](https://github.com/bin199/informin-cl)|
+|**2022-04-25**|**Tac2Pose: Tactile Object Pose Estimation from the First Touch**|Maria Bauza et.al.|[2204.11701v2](http://arxiv.org/abs/2204.11701v2)|null|
+|**2022-09-06**|**Fun2Vec:a Contrastive Learning Framework of Function-level Representation for Binary**|Sun RuiJin et.al.|[2209.02442v1](http://arxiv.org/abs/2209.02442v1)|null|
+|**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v1](http://arxiv.org/abs/2209.01847v1)|[link](https://github.com/qdin4048/CPL-OT)|
+|**2022-09-02**|**Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images**|Min Shi et.al.|[2209.00773v1](http://arxiv.org/abs/2209.00773v1)|[link](https://github.com/codesharea/eyelearn)|
+|**2022-08-03**|**Large scale analysis of gender bias and sexism in song lyrics**|Lorenzo Betti et.al.|[2208.02052v2](http://arxiv.org/abs/2208.02052v2)|null|
+|**2022-08-22**|**Self-Supervised Pretraining of Graph Neural Network for the Retrieval of Related Mathematical Expressions in Scientific Articles**|Lukas Pfahler et.al.|[2209.00446v1](http://arxiv.org/abs/2209.00446v1)|null|
+|**2022-08-20**|**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**|Ujjal Kr Dutta et.al.|[2208.09698v1](http://arxiv.org/abs/2208.09698v1)|null|
+|**2022-08-19**|**Learning filtered discretization operators: non-intrusive versus intrusive approaches**|Syver Døving Agdestein et.al.|[2208.09363v1](http://arxiv.org/abs/2208.09363v1)|[link](https://github.com/agdestein/discretefiltering.jl)|
+|**2022-08-10**|**Neural Embedding: Learning the Embedding of the Manifold of Physics Data**|Sang Eon Park et.al.|[2208.05484v2](http://arxiv.org/abs/2208.05484v2)|null|
+|**2022-08-12**|**AutoShard: Automated Embedding Table Sharding for Recommender Systems**|Daochen Zha et.al.|[2208.06399v1](http://arxiv.org/abs/2208.06399v1)|[link](https://github.com/daochenzha/autoshard)|
+|**2022-08-06**|**LFGCF: Light Folksonomy Graph Collaborative Filtering for Tag-Aware Recommendation**|Yin Zhang et.al.|[2208.03454v1](http://arxiv.org/abs/2208.03454v1)|null|
+|**2022-08-02**|**Optimal Rates for Regularized Conditional Mean Embedding Learning**|Zhu Li et.al.|[2208.01711v1](http://arxiv.org/abs/2208.01711v1)|null|
+|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v2](http://arxiv.org/abs/2207.13979v2)|null|
+|**2022-04-24**|**Knowledge-aware Document Summarization: A Survey of Knowledge, Embedding Methods and Architectures**|Yutong Qu et.al.|[2204.11190v2](http://arxiv.org/abs/2204.11190v2)|null|
