@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-23 07:40:20 Asia/Shanghai
+ Automated deployment @ 2022-10-23 19:31:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -54,6 +54,25 @@
 |**2022-10-13**|**Beeping Shortest Paths via Hypergraph Bipartite Decomposition**|Fabien Dufoulon et.al.|[2210.06882v1](http://arxiv.org/abs/2210.06882v1)|null|
 |**2022-10-13**|**Codes from incidence matrices of hypergraphs**|Sudipta Mallik et.al.|[2210.06733v1](http://arxiv.org/abs/2210.06733v1)|null|
 
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-14**|**Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings**|Malte Ostendorff et.al.|[2202.06671v2](http://arxiv.org/abs/2202.06671v2)|[link](https://github.com/malteos/scincl)|
+|**2021-10-27**|**GenURL: A General Framework for Unsupervised Representation Learning**|Siyuan Li et.al.|[2110.14553v3](http://arxiv.org/abs/2110.14553v3)|[link](https://github.com/Westlake-AI/openmixup)|
+|**2022-10-17**|**CS-MLGCN : Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks**|Ali Behrouz et.al.|[2210.08811v1](http://arxiv.org/abs/2210.08811v1)|null|
+|**2022-10-13**|**Brain Network Transformer**|Xuan Kan et.al.|[2210.06681v2](http://arxiv.org/abs/2210.06681v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
+|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v2](http://arxiv.org/abs/2201.05575v2)|[link](https://github.com/zjunlp/knn-kg)|
+|**2022-03-09**|**LEMON: LanguagE ModeL for Negative Sampling of Knowledge Graph Embeddings**|Md Rashad Al Hasan Rony et.al.|[2203.04703v3](http://arxiv.org/abs/2203.04703v3)|null|
+|**2022-10-15**|**Parameter-free Dynamic Graph Embedding for Link Prediction**|Jiahao Liu et.al.|[2210.08189v1](http://arxiv.org/abs/2210.08189v1)|[link](https://github.com/fudancisl/freegem)|
+|**2022-10-15**|**Attention Regularized Laplace Graph for Domain Adaptation**|Lingkun Luo et.al.|[2210.08170v1](http://arxiv.org/abs/2210.08170v1)|null|
+|**2022-10-14**|**GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals**|Weipeng Zhuo et.al.|[2210.07895v1](http://arxiv.org/abs/2210.07895v1)|[link](https://github.com/robertflame/floors)|
+|**2022-10-14**|**Shadfa 0.1: The Iranian Movie Knowledge Graph and Graph-Embedding-Based Recommender System**|Rayhane Pouyan et.al.|[2210.07822v1](http://arxiv.org/abs/2210.07822v1)|null|
+|**2022-10-14**|**MetaFill: Text Infilling for Meta-Path Generation on Heterogeneous Information Networks**|Zequn Liu et.al.|[2210.07488v1](http://arxiv.org/abs/2210.07488v1)|[link](https://github.com/zequnl/metafill)|
+|**2022-10-14**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v1](http://arxiv.org/abs/2210.07453v1)|null|
+|**2022-10-13**|**Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**|Tan Yu et.al.|[2210.07232v1](http://arxiv.org/abs/2210.07232v1)|null|
+|**2022-10-13**|**Variational Graph Generator for Multi-View Graph Clustering**|Jianpeng Chen et.al.|[2210.07011v1](http://arxiv.org/abs/2210.07011v1)|null|
+|**2022-10-13**|**Behavioral graph fraud detection in E-commerce**|Hang Yin et.al.|[2210.06968v1](http://arxiv.org/abs/2210.06968v1)|null|
+
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -73,45 +92,7 @@
 |**2022-09-11**|**Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning**|Yuanquan Hu et.al.|[2209.04808v1](http://arxiv.org/abs/2209.04808v1)|null|
 |**2022-09-08**|**Mean Field Games on Weighted and Directed Graphs via Colored Digraphons**|Christian Fabian et.al.|[2209.03887v1](http://arxiv.org/abs/2209.03887v1)|null|
 
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-14**|**Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings**|Malte Ostendorff et.al.|[2202.06671v2](http://arxiv.org/abs/2202.06671v2)|[link](https://github.com/malteos/scincl)|
-|**2021-10-27**|**GenURL: A General Framework for Unsupervised Representation Learning**|Siyuan Li et.al.|[2110.14553v3](http://arxiv.org/abs/2110.14553v3)|[link](https://github.com/Westlake-AI/openmixup)|
-|**2022-10-17**|**CS-MLGCN : Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks**|Ali Behrouz et.al.|[2210.08811v1](http://arxiv.org/abs/2210.08811v1)|null|
-|**2022-10-13**|**Brain Network Transformer**|Xuan Kan et.al.|[2210.06681v2](http://arxiv.org/abs/2210.06681v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
-|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v2](http://arxiv.org/abs/2201.05575v2)|[link](https://github.com/zjunlp/knn-kg)|
-|**2022-03-09**|**LEMON: LanguagE ModeL for Negative Sampling of Knowledge Graph Embeddings**|Md Rashad Al Hasan Rony et.al.|[2203.04703v3](http://arxiv.org/abs/2203.04703v3)|null|
-|**2022-10-15**|**Parameter-free Dynamic Graph Embedding for Link Prediction**|Jiahao Liu et.al.|[2210.08189v1](http://arxiv.org/abs/2210.08189v1)|[link](https://github.com/fudancisl/freegem)|
-|**2022-10-15**|**Attention Regularized Laplace Graph for Domain Adaptation**|Lingkun Luo et.al.|[2210.08170v1](http://arxiv.org/abs/2210.08170v1)|null|
-|**2022-10-14**|**GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals**|Weipeng Zhuo et.al.|[2210.07895v1](http://arxiv.org/abs/2210.07895v1)|[link](https://github.com/robertflame/floors)|
-|**2022-10-14**|**Shadfa 0.1: The Iranian Movie Knowledge Graph and Graph-Embedding-Based Recommender System**|Rayhane Pouyan et.al.|[2210.07822v1](http://arxiv.org/abs/2210.07822v1)|null|
-|**2022-10-14**|**MetaFill: Text Infilling for Meta-Path Generation on Heterogeneous Information Networks**|Zequn Liu et.al.|[2210.07488v1](http://arxiv.org/abs/2210.07488v1)|[link](https://github.com/zequnl/metafill)|
-|**2022-10-14**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v1](http://arxiv.org/abs/2210.07453v1)|null|
-|**2022-10-13**|**Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**|Tan Yu et.al.|[2210.07232v1](http://arxiv.org/abs/2210.07232v1)|null|
-|**2022-10-13**|**Variational Graph Generator for Multi-View Graph Clustering**|Jianpeng Chen et.al.|[2210.07011v1](http://arxiv.org/abs/2210.07011v1)|null|
-|**2022-10-13**|**Behavioral graph fraud detection in E-commerce**|Hang Yin et.al.|[2210.06968v1](http://arxiv.org/abs/2210.06968v1)|null|
-
 ## Embedding
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-14**|**Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings**|Malte Ostendorff et.al.|[2202.06671v2](http://arxiv.org/abs/2202.06671v2)|[link](https://github.com/malteos/scincl)|
-|**2021-10-27**|**GenURL: A General Framework for Unsupervised Representation Learning**|Siyuan Li et.al.|[2110.14553v3](http://arxiv.org/abs/2110.14553v3)|[link](https://github.com/Westlake-AI/openmixup)|
-|**2022-10-17**|**CS-MLGCN : Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks**|Ali Behrouz et.al.|[2210.08811v1](http://arxiv.org/abs/2210.08811v1)|null|
-|**2022-10-13**|**Brain Network Transformer**|Xuan Kan et.al.|[2210.06681v2](http://arxiv.org/abs/2210.06681v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
-|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v2](http://arxiv.org/abs/2201.05575v2)|[link](https://github.com/zjunlp/knn-kg)|
-|**2022-03-09**|**LEMON: LanguagE ModeL for Negative Sampling of Knowledge Graph Embeddings**|Md Rashad Al Hasan Rony et.al.|[2203.04703v3](http://arxiv.org/abs/2203.04703v3)|null|
-|**2022-10-15**|**Parameter-free Dynamic Graph Embedding for Link Prediction**|Jiahao Liu et.al.|[2210.08189v1](http://arxiv.org/abs/2210.08189v1)|[link](https://github.com/fudancisl/freegem)|
-|**2022-10-15**|**Attention Regularized Laplace Graph for Domain Adaptation**|Lingkun Luo et.al.|[2210.08170v1](http://arxiv.org/abs/2210.08170v1)|null|
-|**2022-10-14**|**GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals**|Weipeng Zhuo et.al.|[2210.07895v1](http://arxiv.org/abs/2210.07895v1)|[link](https://github.com/robertflame/floors)|
-|**2022-10-14**|**Shadfa 0.1: The Iranian Movie Knowledge Graph and Graph-Embedding-Based Recommender System**|Rayhane Pouyan et.al.|[2210.07822v1](http://arxiv.org/abs/2210.07822v1)|null|
-|**2022-10-14**|**MetaFill: Text Infilling for Meta-Path Generation on Heterogeneous Information Networks**|Zequn Liu et.al.|[2210.07488v1](http://arxiv.org/abs/2210.07488v1)|[link](https://github.com/zequnl/metafill)|
-|**2022-10-14**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v1](http://arxiv.org/abs/2210.07453v1)|null|
-|**2022-10-13**|**Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**|Tan Yu et.al.|[2210.07232v1](http://arxiv.org/abs/2210.07232v1)|null|
-|**2022-10-13**|**Variational Graph Generator for Multi-View Graph Clustering**|Jianpeng Chen et.al.|[2210.07011v1](http://arxiv.org/abs/2210.07011v1)|null|
-|**2022-10-13**|**Behavioral graph fraud detection in E-commerce**|Hang Yin et.al.|[2210.06968v1](http://arxiv.org/abs/2210.06968v1)|null|
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -132,6 +113,25 @@
 |**2022-08-03**|**Large scale analysis of gender bias and sexism in song lyrics**|Lorenzo Betti et.al.|[2208.02052v2](http://arxiv.org/abs/2208.02052v2)|null|
 |**2022-08-22**|**Self-Supervised Pretraining of Graph Neural Network for the Retrieval of Related Mathematical Expressions in Scientific Articles**|Lukas Pfahler et.al.|[2209.00446v1](http://arxiv.org/abs/2209.00446v1)|null|
 
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-14**|**Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings**|Malte Ostendorff et.al.|[2202.06671v2](http://arxiv.org/abs/2202.06671v2)|[link](https://github.com/malteos/scincl)|
+|**2021-10-27**|**GenURL: A General Framework for Unsupervised Representation Learning**|Siyuan Li et.al.|[2110.14553v3](http://arxiv.org/abs/2110.14553v3)|[link](https://github.com/Westlake-AI/openmixup)|
+|**2022-10-17**|**CS-MLGCN : Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks**|Ali Behrouz et.al.|[2210.08811v1](http://arxiv.org/abs/2210.08811v1)|null|
+|**2022-10-13**|**Brain Network Transformer**|Xuan Kan et.al.|[2210.06681v2](http://arxiv.org/abs/2210.06681v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
+|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v2](http://arxiv.org/abs/2201.05575v2)|[link](https://github.com/zjunlp/knn-kg)|
+|**2022-03-09**|**LEMON: LanguagE ModeL for Negative Sampling of Knowledge Graph Embeddings**|Md Rashad Al Hasan Rony et.al.|[2203.04703v3](http://arxiv.org/abs/2203.04703v3)|null|
+|**2022-10-15**|**Parameter-free Dynamic Graph Embedding for Link Prediction**|Jiahao Liu et.al.|[2210.08189v1](http://arxiv.org/abs/2210.08189v1)|[link](https://github.com/fudancisl/freegem)|
+|**2022-10-15**|**Attention Regularized Laplace Graph for Domain Adaptation**|Lingkun Luo et.al.|[2210.08170v1](http://arxiv.org/abs/2210.08170v1)|null|
+|**2022-10-14**|**GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals**|Weipeng Zhuo et.al.|[2210.07895v1](http://arxiv.org/abs/2210.07895v1)|[link](https://github.com/robertflame/floors)|
+|**2022-10-14**|**Shadfa 0.1: The Iranian Movie Knowledge Graph and Graph-Embedding-Based Recommender System**|Rayhane Pouyan et.al.|[2210.07822v1](http://arxiv.org/abs/2210.07822v1)|null|
+|**2022-10-14**|**MetaFill: Text Infilling for Meta-Path Generation on Heterogeneous Information Networks**|Zequn Liu et.al.|[2210.07488v1](http://arxiv.org/abs/2210.07488v1)|[link](https://github.com/zequnl/metafill)|
+|**2022-10-14**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v1](http://arxiv.org/abs/2210.07453v1)|null|
+|**2022-10-13**|**Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**|Tan Yu et.al.|[2210.07232v1](http://arxiv.org/abs/2210.07232v1)|null|
+|**2022-10-13**|**Variational Graph Generator for Multi-View Graph Clustering**|Jianpeng Chen et.al.|[2210.07011v1](http://arxiv.org/abs/2210.07011v1)|null|
+|**2022-10-13**|**Behavioral graph fraud detection in E-commerce**|Hang Yin et.al.|[2210.06968v1](http://arxiv.org/abs/2210.06968v1)|null|
+
 ## Variable Selection
 
 ### Variable selection
@@ -139,7 +139,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
 |**2022-10-20**|**Bayesian Tensor-on-Tensor Regression with Efficient Computation**|Kunbo Wang et.al.|[2210.11363v1](http://arxiv.org/abs/2210.11363v1)|null|
-|**2022-10-20**|**Vine copula based knockoff generation for high-dimensional controlled variable selection**|Malte S. Kurz et.al.|[2210.11196v1](http://arxiv.org/abs/2210.11196v1)|null|
+|**2022-10-20**|**Vine copula based knockoff generation for high-dimensional controlled variable selection**|Malte S. Kurz et.al.|[2210.11196v1](http://arxiv.org/abs/2210.11196v1)|[link](https://github.com/maltekurz/vineknockoffs)|
 |**2022-10-20**|**Scalable Bayesian Transformed Gaussian Processes**|Xinran Zhu et.al.|[2210.10973v1](http://arxiv.org/abs/2210.10973v1)|null|
 |**2022-10-20**|**Adaptive greedy forward variable selection for linear regression models with incomplete data using multiple imputation**|Yong-Shiuan Lee et.al.|[2210.10967v1](http://arxiv.org/abs/2210.10967v1)|null|
 |**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v3](http://arxiv.org/abs/2209.08139v3)|null|
