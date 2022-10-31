@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-31 07:33:58 Asia/Shanghai
+ Automated deployment @ 2022-10-31 19:30:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-28**|**Learning Modular Simulations for Homogeneous Systems**|Jayesh K. Gupta et.al.|[2210.16294v1](http://arxiv.org/abs/2210.16294v1)|null|
+|**2022-10-28**|**Space-Time Graph Neural Networks with Stochastic Graph Perturbations**|Samar Hadou et.al.|[2210.16270v1](http://arxiv.org/abs/2210.16270v1)|null|
+|**2022-06-10**|**Towards predicting dynamic stability of power grids with Graph Neural Networks**|Christian Nauck et.al.|[2206.06369v2](http://arxiv.org/abs/2206.06369v2)|[link](https://github.com/pik-icone/dynamic_stability_datasets_gnn_paper-companion)|
+|**2022-10-14**|**Not All Neighbors Are Worth Attending to: Graph Selective Attention Networks for Semi-supervised Learning**|Tiantian He et.al.|[2210.07715v2](http://arxiv.org/abs/2210.07715v2)|null|
+|**2021-10-21**|**Watermarking Graph Neural Networks based on Backdoor Attacks**|Jing Xu et.al.|[2110.11024v4](http://arxiv.org/abs/2110.11024v4)|null|
+|**2022-10-28**|**Generalized Laplacian Positional Encoding for Graph Representation Learning**|Sohir Maskey et.al.|[2210.15956v1](http://arxiv.org/abs/2210.15956v1)|null|
 |**2022-07-20**|**ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective**|Yihong Chen et.al.|[2207.09980v3](http://arxiv.org/abs/2207.09980v3)|null|
 |**2022-07-29**|**Face-to-Face Contrastive Learning for Social Intelligence Question-Answering**|Alex Wilf et.al.|[2208.01036v3](http://arxiv.org/abs/2208.01036v3)|null|
 |**2022-10-27**|**A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware Learning on Graphs**|Hans Hao-Hsun Hsu et.al.|[2210.15575v1](http://arxiv.org/abs/2210.15575v1)|[link](https://github.com/hans66hsu/structured_uncertainty_metrics)|
@@ -26,33 +32,8 @@
 |**2021-11-04**|**Graph neural network initialisation of quantum approximate optimisation**|Nishant Jain et.al.|[2111.03016v2](http://arxiv.org/abs/2111.03016v2)|null|
 |**2022-10-27**|**End-to-End Pareto Set Prediction with Graph Neural Networks for Multi-objective Facility Location**|Shiqing Liu et.al.|[2210.15220v1](http://arxiv.org/abs/2210.15220v1)|null|
 |**2022-10-27**|**Spatial-Temporal Recurrent Graph Neural Networks for Fault Diagnostics in Power Distribution Systems**|Bang Nguyen et.al.|[2210.15177v1](http://arxiv.org/abs/2210.15177v1)|null|
-|**2022-08-23**|**FlexER: Flexible Entity Resolution for Multiple Intents**|Bar Genossar et.al.|[2209.07569v2](http://arxiv.org/abs/2209.07569v2)|[link](https://github.com/bargenossar/flexer)|
-|**2022-10-26**|**TuneUp: A Training Strategy for Improving Generalization of Graph Neural Networks**|Weihua Hu et.al.|[2210.14843v1](http://arxiv.org/abs/2210.14843v1)|null|
-|**2022-10-26**|**Learning on Large-scale Text-attributed Graphs via Variational Inference**|Jianan Zhao et.al.|[2210.14709v1](http://arxiv.org/abs/2210.14709v1)|[link](https://github.com/andyjzhao/glem)|
-|**2020-09-08**|**Hierarchical Message-Passing Graph Neural Networks**|Zhiqiang Zhong et.al.|[2009.03717v3](http://arxiv.org/abs/2009.03717v3)|[link](https://github.com/zhiqiangzhongddu/hc-gnn)|
-|**2022-10-26**|**Discourse-Aware Emotion Cause Extraction in Conversations**|Dexin Kong et.al.|[2210.14419v1](http://arxiv.org/abs/2210.14419v1)|null|
-|**2022-10-25**|**Fusing Modalities by Multiplexed Graph Neural Networks for Outcome Prediction in Tuberculosis**|Niharika S. D'Souza et.al.|[2210.14377v1](http://arxiv.org/abs/2210.14377v1)|null|
 
 ## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-27**|**Training Graph Neural Networks on Growing Stochastic Graphs**|Juan Cervino et.al.|[2210.15567v1](http://arxiv.org/abs/2210.15567v1)|null|
-|**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v1](http://arxiv.org/abs/2210.14097v1)|null|
-|**2022-08-16**|**A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v2](http://arxiv.org/abs/2208.07559v2)|null|
-|**2021-05-23**|**Graphon particle system: Uniform-in-time concentration bounds**|Erhan Bayraktar et.al.|[2105.11040v2](http://arxiv.org/abs/2105.11040v2)|null|
-|**2022-10-19**|**Limits of action convergent graph sequences with unbounded $(p,q)$-norms**|Aranka Hrušková et.al.|[2210.10720v1](http://arxiv.org/abs/2210.10720v1)|null|
-|**2021-10-26**|**Pattern Formation in Random Networks Using Graphons**|Jason Bramburger et.al.|[2110.14018v2](http://arxiv.org/abs/2110.14018v2)|null|
-|**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v3](http://arxiv.org/abs/2112.04629v3)|null|
-|**2021-11-06**|**Consensus Formation in First-Order Graphon Models with Time-Varying Topologies**|Benoît Bonnet et.al.|[2111.03900v2](http://arxiv.org/abs/2111.03900v2)|null|
-|**2020-03-30**|**Graphon mean field systems**|Erhan Bayraktar et.al.|[2003.13180v4](http://arxiv.org/abs/2003.13180v4)|null|
-|**2021-07-09**|**Breaking of ensemble equivalence for dense random graphs under a single constraint**|Frank den Hollander et.al.|[2107.04351v3](http://arxiv.org/abs/2107.04351v3)|null|
-|**2022-10-03**|**Extended commonality of paths and cycles via Schur convexity**|Jang Soo Kim et.al.|[2210.00977v1](http://arxiv.org/abs/2210.00977v1)|null|
-|**2022-10-02**|**Stochastic optimization on matrices and a graphon McKean-Vlasov limit**|Zaid Harchaoui et.al.|[2210.00422v1](http://arxiv.org/abs/2210.00422v1)|null|
-|**2019-06-13**|**Characteristic Power Series of Graph Limits**|Joshua N. Cooper et.al.|[1906.05778v4](http://arxiv.org/abs/1906.05778v4)|null|
-|**2022-09-18**|**Weak randomness in graphons and theons**|Leonardo N. Coregliano et.al.|[2209.08638v1](http://arxiv.org/abs/2209.08638v1)|null|
-|**2022-09-17**|**Joint Network Topology Inference via a Shared Graphon Model**|Madeline Navarro et.al.|[2209.08223v1](http://arxiv.org/abs/2209.08223v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,9 +54,32 @@
 |**2022-10-17**|**CS-MLGCN : Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks**|Ali Behrouz et.al.|[2210.08811v1](http://arxiv.org/abs/2210.08811v1)|null|
 |**2022-10-13**|**Brain Network Transformer**|Xuan Kan et.al.|[2210.06681v2](http://arxiv.org/abs/2210.06681v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
 
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-27**|**GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering**|Madeline Navarro et.al.|[2210.15721v1](http://arxiv.org/abs/2210.15721v1)|[link](https://github.com/mn51/graphmad)|
+|**2022-10-27**|**Training Graph Neural Networks on Growing Stochastic Graphs**|Juan Cervino et.al.|[2210.15567v1](http://arxiv.org/abs/2210.15567v1)|null|
+|**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v1](http://arxiv.org/abs/2210.14097v1)|null|
+|**2022-08-16**|**A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v2](http://arxiv.org/abs/2208.07559v2)|null|
+|**2021-05-23**|**Graphon particle system: Uniform-in-time concentration bounds**|Erhan Bayraktar et.al.|[2105.11040v2](http://arxiv.org/abs/2105.11040v2)|null|
+|**2022-10-19**|**Limits of action convergent graph sequences with unbounded $(p,q)$-norms**|Aranka Hrušková et.al.|[2210.10720v1](http://arxiv.org/abs/2210.10720v1)|null|
+|**2021-10-26**|**Pattern Formation in Random Networks Using Graphons**|Jason Bramburger et.al.|[2110.14018v2](http://arxiv.org/abs/2110.14018v2)|null|
+|**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v3](http://arxiv.org/abs/2112.04629v3)|null|
+|**2021-11-06**|**Consensus Formation in First-Order Graphon Models with Time-Varying Topologies**|Benoît Bonnet et.al.|[2111.03900v2](http://arxiv.org/abs/2111.03900v2)|null|
+|**2020-03-30**|**Graphon mean field systems**|Erhan Bayraktar et.al.|[2003.13180v4](http://arxiv.org/abs/2003.13180v4)|null|
+|**2021-07-09**|**Breaking of ensemble equivalence for dense random graphs under a single constraint**|Frank den Hollander et.al.|[2107.04351v3](http://arxiv.org/abs/2107.04351v3)|null|
+|**2022-10-03**|**Extended commonality of paths and cycles via Schur convexity**|Jang Soo Kim et.al.|[2210.00977v1](http://arxiv.org/abs/2210.00977v1)|null|
+|**2022-10-02**|**Stochastic optimization on matrices and a graphon McKean-Vlasov limit**|Zaid Harchaoui et.al.|[2210.00422v1](http://arxiv.org/abs/2210.00422v1)|null|
+|**2019-06-13**|**Characteristic Power Series of Graph Limits**|Joshua N. Cooper et.al.|[1906.05778v4](http://arxiv.org/abs/1906.05778v4)|null|
+|**2022-09-18**|**Weak randomness in graphons and theons**|Leonardo N. Coregliano et.al.|[2209.08638v1](http://arxiv.org/abs/2209.08638v1)|null|
+
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-28**|**Set systems without a simplex, Helly hypergraphs and union-efficient families**|Stijn Cambie et.al.|[2210.16211v1](http://arxiv.org/abs/2210.16211v1)|null|
+|**2022-06-27**|**Successive vertex orderings of fully regular graphs**|Lixing Fang et.al.|[2206.13592v3](http://arxiv.org/abs/2206.13592v3)|null|
+|**2022-02-09**|**On the Keevash-Knox-Mycroft Conjecture**|Luyining Gan et.al.|[2202.04246v3](http://arxiv.org/abs/2202.04246v3)|null|
+|**2022-10-28**|**Incorporating Interactive Facts for Stock Selection via Neural Recursive ODEs**|Qiang Gao et.al.|[2210.15925v1](http://arxiv.org/abs/2210.15925v1)|null|
 |**2022-10-23**|**A class of models for random hypergraphs**|Marc Barthelemy et.al.|[2210.12698v2](http://arxiv.org/abs/2210.12698v2)|null|
 |**2022-03-30**|**Hypergraphon Mean Field Games**|Kai Cui et.al.|[2203.16223v3](http://arxiv.org/abs/2203.16223v3)|null|
 |**2022-10-26**|**Hypergraph Artificial Benchmark for Community Detection (h-ABCD)**|Bogumił Kamiński et.al.|[2210.15009v1](http://arxiv.org/abs/2210.15009v1)|null|
@@ -87,10 +91,6 @@
 |**2022-09-05**|**Long running times for hypergraph bootstrap percolation**|Alberto Espuny Díaz et.al.|[2209.02015v2](http://arxiv.org/abs/2209.02015v2)|null|
 |**2022-10-23**|**A Trustless Architecture of Blockchain-enabled Metaverse**|Minghui Xu et.al.|[2210.12655v1](http://arxiv.org/abs/2210.12655v1)|null|
 |**2022-10-23**|**Finding matchings in dense hypergraphs**|Jie Han et.al.|[2210.12643v1](http://arxiv.org/abs/2210.12643v1)|null|
-|**2022-10-21**|**Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework**|Corinna Coupette et.al.|[2210.12048v1](http://arxiv.org/abs/2210.12048v1)|null|
-|**2022-10-20**|**Degenerate Turán densities of sparse hypergraphs II: a solution to the Brown-Erdős-Sós problem for every uniformity**|Chong Shangguan et.al.|[2210.11338v1](http://arxiv.org/abs/2210.11338v1)|null|
-|**2022-10-20**|**Data analysis and the metric evolution of hypergraphs**|Dalma Bilbao et.al.|[2210.11206v1](http://arxiv.org/abs/2210.11206v1)|null|
-|**2022-10-20**|**Improved bounds concerning the maximum degree of intersecting hypergraphs**|Peter Frankl et.al.|[2210.11172v1](http://arxiv.org/abs/2210.11172v1)|null|
 
 ## Embedding
 
