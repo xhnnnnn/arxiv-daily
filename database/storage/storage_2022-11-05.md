@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-05 07:33:09 Asia/Shanghai
+ Automated deployment @ 2022-11-05 19:25:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -19,12 +19,12 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-11-03**|**Optimal transport for a global event description at high-intensity hadron colliders**|Loukas Gouskos et.al.|[2211.02029v1](http://arxiv.org/abs/2211.02029v1)|null|
 |**2022-11-03**|**Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing**|Aditay Tripathi et.al.|[2211.01969v1](http://arxiv.org/abs/2211.01969v1)|null|
-|**2022-11-03**|**Augmenting photometric redshift estimates using spectroscopic nearest neighbours**|F. Tosone et.al.|[2211.01901v1](http://arxiv.org/abs/2211.01901v1)|null|
+|**2022-11-03**|**Augmenting photometric redshift estimates using spectroscopic nearest neighbours**|F. Tosone et.al.|[2211.01901v1](http://arxiv.org/abs/2211.01901v1)|[link](https://github.com/tos-1/neznet)|
 |**2022-10-29**|**Clenshaw Graph Neural Networks**|Yuhe Guo et.al.|[2210.16508v2](http://arxiv.org/abs/2210.16508v2)|null|
 |**2022-09-24**|**From Local to Global: Spectral-Inspired Graph Neural Networks**|Ningyuan Huang et.al.|[2209.12054v2](http://arxiv.org/abs/2209.12054v2)|[link](https://github.com/nhuang37/spectral-inspired-gnn)|
 |**2022-11-03**|**Exploring Explainability Methods for Graph Neural Networks**|Harsh Patel et.al.|[2211.01770v1](http://arxiv.org/abs/2211.01770v1)|null|
 |**2022-11-02**|**Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning**|Jong-whi Lee et.al.|[2211.01214v2](http://arxiv.org/abs/2211.01214v2)|null|
-|**2022-11-03**|**INGREX: An Interactive Explanation Framework for Graph Neural Networks**|Tien-Cuong Bui et.al.|[2211.01548v1](http://arxiv.org/abs/2211.01548v1)|null|
+|**2022-11-03**|**INGREX: An Interactive Explanation Framework for Graph Neural Networks**|Tien-Cuong Bui et.al.|[2211.01548v1](http://arxiv.org/abs/2211.01548v1)|[link](https://github.com/alexbui91/ingrex)|
 |**2022-10-18**|**A Practical, Progressively-Expressive GNN**|Lingxiao Zhao et.al.|[2210.09521v3](http://arxiv.org/abs/2210.09521v3)|[link](https://github.com/lingxiaoshawn/kcsetgnn)|
 |**2020-08-20**|**Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks**|Sitao Luan et.al.|[2008.08844v4](http://arxiv.org/abs/2008.08844v4)|null|
 |**2022-05-31**|**coVariance Neural Networks**|Saurabh Sihag et.al.|[2205.15856v3](http://arxiv.org/abs/2205.15856v3)|[link](https://github.com/pennbindlab/vnn)|
@@ -34,25 +34,6 @@
 |**2022-07-25**|**Analysis and Optimization of GNN-Based Recommender Systems on Persistent Memory**|Yuwei Hu et.al.|[2207.11918v2](http://arxiv.org/abs/2207.11918v2)|null|
 
 ## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-03**|**Distributed Maximal Matching and Maximal Independent Set on Hypergraphs**|Alkida Balliu et.al.|[2211.01945v1](http://arxiv.org/abs/2211.01945v1)|null|
-|**2022-11-03**|**Learning Hypergraphs From Signals With Dual Smoothness Prior**|Bohan Tang et.al.|[2211.01717v1](http://arxiv.org/abs/2211.01717v1)|null|
-|**2022-11-03**|**Rainbow copies of $F$ in families of $H$**|Dániel Gerbner et.al.|[2211.01565v1](http://arxiv.org/abs/2211.01565v1)|null|
-|**2022-11-02**|**Perfect matchings in random sparsifications of Dirac hypergraphs**|Dong Yeap Kang et.al.|[2211.01325v1](http://arxiv.org/abs/2211.01325v1)|null|
-|**2022-10-06**|**A Toolkit for Robust Thresholds**|Huy Tuan Pham et.al.|[2210.03064v2](http://arxiv.org/abs/2210.03064v2)|null|
-|**2022-11-02**|**Hypergraph Convolutional Network based Weakly Supervised Point Cloud Semantic Segmentation with Scene-Level Annotations**|Zhuheng Lu et.al.|[2211.01174v1](http://arxiv.org/abs/2211.01174v1)|null|
-|**2022-11-02**|**Existential Closure in Line Graphs**|Andrea C. Burgess et.al.|[2211.01168v1](http://arxiv.org/abs/2211.01168v1)|null|
-|**2022-03-31**|**Preventing Over-Smoothing for Hypergraph Neural Networks**|Guanzi Chen et.al.|[2203.17159v2](http://arxiv.org/abs/2203.17159v2)|null|
-|**2022-11-02**|**Incidence, a Scoring Positional Game on Graphs**|Guillaume Bagan et.al.|[2211.01083v1](http://arxiv.org/abs/2211.01083v1)|null|
-|**2022-04-12**|**Linearly ordered colourings of hypergraphs**|Tamio-Vesa Nakajima et.al.|[2204.05628v3](http://arxiv.org/abs/2204.05628v3)|null|
-|**2022-11-01**|**Alternative polynomial-time algorithm for Bipartite Matching**|Sylvain Guillemot et.al.|[2211.00711v1](http://arxiv.org/abs/2211.00711v1)|null|
-|**2022-11-01**|**TOE: A Grid-Tagging Discontinuous NER Model Enhanced by Embedding Tag/Word Relations and More Fine-Grained Tags**|Jiang Liu et.al.|[2211.00684v1](http://arxiv.org/abs/2211.00684v1)|null|
-|**2022-11-01**|**Volume rigidity and algebraic shifting**|Denys Bulavka et.al.|[2211.00574v1](http://arxiv.org/abs/2211.00574v1)|null|
-|**2022-11-01**|**On the zeroes of hypergraph independence polynomials**|David Galvin et.al.|[2211.00464v1](http://arxiv.org/abs/2211.00464v1)|null|
-|**2022-10-30**|**A Simple Hypergraph Kernel Convolution based on Discounted Markov Diffusion Process**|Fuyang Li et.al.|[2210.16884v1](http://arxiv.org/abs/2210.16884v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,6 +54,25 @@
 |**2022-04-27**|**TranSHER: Translating Knowledge Graph Embedding with Hyper-Ellipsoidal Restriction**|Yizhi Li et.al.|[2204.13221v2](http://arxiv.org/abs/2204.13221v2)|null|
 |**2022-10-10**|**SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction**|Miao Peng et.al.|[2210.04870v2](http://arxiv.org/abs/2210.04870v2)|[link](https://github.com/gknl/smile)|
 
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-03**|**Distributed Maximal Matching and Maximal Independent Set on Hypergraphs**|Alkida Balliu et.al.|[2211.01945v1](http://arxiv.org/abs/2211.01945v1)|null|
+|**2022-11-03**|**Learning Hypergraphs From Signals With Dual Smoothness Prior**|Bohan Tang et.al.|[2211.01717v1](http://arxiv.org/abs/2211.01717v1)|null|
+|**2022-11-03**|**Rainbow copies of $F$ in families of $H$**|Dániel Gerbner et.al.|[2211.01565v1](http://arxiv.org/abs/2211.01565v1)|null|
+|**2022-11-02**|**Perfect matchings in random sparsifications of Dirac hypergraphs**|Dong Yeap Kang et.al.|[2211.01325v1](http://arxiv.org/abs/2211.01325v1)|null|
+|**2022-10-06**|**A Toolkit for Robust Thresholds**|Huy Tuan Pham et.al.|[2210.03064v2](http://arxiv.org/abs/2210.03064v2)|null|
+|**2022-11-02**|**Hypergraph Convolutional Network based Weakly Supervised Point Cloud Semantic Segmentation with Scene-Level Annotations**|Zhuheng Lu et.al.|[2211.01174v1](http://arxiv.org/abs/2211.01174v1)|null|
+|**2022-11-02**|**Existential Closure in Line Graphs**|Andrea C. Burgess et.al.|[2211.01168v1](http://arxiv.org/abs/2211.01168v1)|null|
+|**2022-03-31**|**Preventing Over-Smoothing for Hypergraph Neural Networks**|Guanzi Chen et.al.|[2203.17159v2](http://arxiv.org/abs/2203.17159v2)|null|
+|**2022-11-02**|**Incidence, a Scoring Positional Game on Graphs**|Guillaume Bagan et.al.|[2211.01083v1](http://arxiv.org/abs/2211.01083v1)|null|
+|**2022-04-12**|**Linearly ordered colourings of hypergraphs**|Tamio-Vesa Nakajima et.al.|[2204.05628v3](http://arxiv.org/abs/2204.05628v3)|null|
+|**2022-11-01**|**Alternative polynomial-time algorithm for Bipartite Matching**|Sylvain Guillemot et.al.|[2211.00711v1](http://arxiv.org/abs/2211.00711v1)|null|
+|**2022-11-01**|**TOE: A Grid-Tagging Discontinuous NER Model Enhanced by Embedding Tag/Word Relations and More Fine-Grained Tags**|Jiang Liu et.al.|[2211.00684v1](http://arxiv.org/abs/2211.00684v1)|null|
+|**2022-11-01**|**Volume rigidity and algebraic shifting**|Denys Bulavka et.al.|[2211.00574v1](http://arxiv.org/abs/2211.00574v1)|null|
+|**2022-11-01**|**On the zeroes of hypergraph independence polynomials**|David Galvin et.al.|[2211.00464v1](http://arxiv.org/abs/2211.00464v1)|null|
+|**2022-10-30**|**A Simple Hypergraph Kernel Convolution based on Discounted Markov Diffusion Process**|Fuyang Li et.al.|[2210.16884v1](http://arxiv.org/abs/2210.16884v1)|null|
+
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -91,6 +91,27 @@
 |**2022-10-03**|**Extended commonality of paths and cycles via Schur convexity**|Jang Soo Kim et.al.|[2210.00977v1](http://arxiv.org/abs/2210.00977v1)|null|
 |**2022-10-02**|**Stochastic optimization on matrices and a graphon McKean-Vlasov limit**|Zaid Harchaoui et.al.|[2210.00422v1](http://arxiv.org/abs/2210.00422v1)|null|
 |**2019-06-13**|**Characteristic Power Series of Graph Limits**|Joshua N. Cooper et.al.|[1906.05778v4](http://arxiv.org/abs/1906.05778v4)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-03**|**Oracle Inequalities for Model Selection in Offline Reinforcement Learning**|Jonathan N. Lee et.al.|[2211.02016v1](http://arxiv.org/abs/2211.02016v1)|null|
+|**2022-11-03**|**Empirical Analysis of Model Selection for Heterogenous Causal Effect Estimation**|Divyat Mahajan et.al.|[2211.01939v1](http://arxiv.org/abs/2211.01939v1)|[link](https://github.com/divyat09/cate-estimator-selection)|
+|**2022-11-03**|**Toward Unsupervised Outlier Model Selection**|Yue Zhao et.al.|[2211.01834v1](http://arxiv.org/abs/2211.01834v1)|[link](https://github.com/yzhao062/elect)|
+|**2022-11-02**|**Inferring independent sets of Gaussian variables after thresholding correlations**|Arkajyoti Saha et.al.|[2211.01521v1](http://arxiv.org/abs/2211.01521v1)|null|
+|**2022-11-02**|**Fast, effective, and coherent time series modeling using the sparsity-ranked lasso**|Ryan Peterson et.al.|[2211.01492v1](http://arxiv.org/abs/2211.01492v1)|null|
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v6](http://arxiv.org/abs/2010.11114v6)|null|
+|**2021-10-25**|**mlr3spatiotempcv: Spatiotemporal resampling methods for machine learning in R**|Patrick Schratz et.al.|[2110.12674v2](http://arxiv.org/abs/2110.12674v2)|[link](https://github.com/mlr-org/mlr3spatiotempcv)|
+|**2022-11-02**|**An Information-Theoretic Approach for Estimating Scenario Generalization in Crowd Motion Prediction**|Gang Qiao et.al.|[2211.00817v1](http://arxiv.org/abs/2211.00817v1)|null|
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v2](http://arxiv.org/abs/2210.17299v2)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|**2022-09-02**|**When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development**|Nghia Duong-Trung et.al.|[2209.01083v2](http://arxiv.org/abs/2209.01083v2)|null|
+|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v2](http://arxiv.org/abs/2209.14509v2)|null|
+|**2022-06-07**|**Model selection and robust inference of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v2](http://arxiv.org/abs/2206.03257v2)|[link](https://github.com/martapelizzola/sigmos)|
+|**2022-11-01**|**Bayesian Structural Identification using Gaussian Process Discrepancy Models**|Antonina M. Kosikova et.al.|[2211.00204v1](http://arxiv.org/abs/2211.00204v1)|null|
+|**2022-10-31**|**Variable Selection for Multiply-imputed Data: A Bayesian Framework**|Jungang Zou et.al.|[2211.00114v1](http://arxiv.org/abs/2211.00114v1)|[link](https://github.com/zjg540066169/bmiselect)|
+|**2022-10-27**|**Exhuming nonnegative garrote from oblivion using suitable initial estimates- illustration in low and high-dimensional real data**|Edwin Kipruto et.al.|[2210.15592v1](http://arxiv.org/abs/2210.15592v1)|null|
 
 ## Embedding
 
@@ -131,24 +152,3 @@
 |**2022-09-06**|**Fun2Vec:a Contrastive Learning Framework of Function-level Representation for Binary**|Sun RuiJin et.al.|[2209.02442v1](http://arxiv.org/abs/2209.02442v1)|null|
 |**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v1](http://arxiv.org/abs/2209.01847v1)|[link](https://github.com/qdin4048/CPL-OT)|
 |**2022-09-02**|**Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images**|Min Shi et.al.|[2209.00773v1](http://arxiv.org/abs/2209.00773v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-03**|**Oracle Inequalities for Model Selection in Offline Reinforcement Learning**|Jonathan N. Lee et.al.|[2211.02016v1](http://arxiv.org/abs/2211.02016v1)|null|
-|**2022-11-03**|**Empirical Analysis of Model Selection for Heterogenous Causal Effect Estimation**|Divyat Mahajan et.al.|[2211.01939v1](http://arxiv.org/abs/2211.01939v1)|null|
-|**2022-11-03**|**Toward Unsupervised Outlier Model Selection**|Yue Zhao et.al.|[2211.01834v1](http://arxiv.org/abs/2211.01834v1)|[link](https://github.com/yzhao062/elect)|
-|**2022-11-02**|**Inferring independent sets of Gaussian variables after thresholding correlations**|Arkajyoti Saha et.al.|[2211.01521v1](http://arxiv.org/abs/2211.01521v1)|null|
-|**2022-11-02**|**Fast, effective, and coherent time series modeling using the sparsity-ranked lasso**|Ryan Peterson et.al.|[2211.01492v1](http://arxiv.org/abs/2211.01492v1)|null|
-|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v6](http://arxiv.org/abs/2010.11114v6)|null|
-|**2021-10-25**|**mlr3spatiotempcv: Spatiotemporal resampling methods for machine learning in R**|Patrick Schratz et.al.|[2110.12674v2](http://arxiv.org/abs/2110.12674v2)|[link](https://github.com/mlr-org/mlr3spatiotempcv)|
-|**2022-11-02**|**An Information-Theoretic Approach for Estimating Scenario Generalization in Crowd Motion Prediction**|Gang Qiao et.al.|[2211.00817v1](http://arxiv.org/abs/2211.00817v1)|null|
-|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v2](http://arxiv.org/abs/2210.17299v2)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
-|**2022-09-02**|**When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development**|Nghia Duong-Trung et.al.|[2209.01083v2](http://arxiv.org/abs/2209.01083v2)|null|
-|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v2](http://arxiv.org/abs/2209.14509v2)|null|
-|**2022-06-07**|**Model selection and robust inference of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v2](http://arxiv.org/abs/2206.03257v2)|[link](https://github.com/martapelizzola/sigmos)|
-|**2022-11-01**|**Bayesian Structural Identification using Gaussian Process Discrepancy Models**|Antonina M. Kosikova et.al.|[2211.00204v1](http://arxiv.org/abs/2211.00204v1)|null|
-|**2022-10-31**|**Variable Selection for Multiply-imputed Data: A Bayesian Framework**|Jungang Zou et.al.|[2211.00114v1](http://arxiv.org/abs/2211.00114v1)|[link](https://github.com/zjg540066169/bmiselect)|
-|**2022-10-27**|**Exhuming nonnegative garrote from oblivion using suitable initial estimates- illustration in low and high-dimensional real data**|Edwin Kipruto et.al.|[2210.15592v1](http://arxiv.org/abs/2210.15592v1)|null|
