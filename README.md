@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-12 07:31:50 Asia/Shanghai
+ Automated deployment @ 2022-11-12 19:26:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-10**|**Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks**|Khang Tran et.al.|[2211.05766v1](http://arxiv.org/abs/2211.05766v1)|null|
+|**2022-11-10**|**Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks**|Khang Tran et.al.|[2211.05766v1](http://arxiv.org/abs/2211.05766v1)|[link](https://github.com/khangtran2020/dpgnn)|
 |**2022-11-06**|**Graph Neural Networks for Community Detection on Sparse Graphs**|Luana Ruiz et.al.|[2211.03231v2](http://arxiv.org/abs/2211.03231v2)|[link](https://github.com/nhuang37/gnn_community_detection)|
 |**2022-03-08**|**Few-Sample Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v2](http://arxiv.org/abs/2203.03965v2)|[link](https://github.com/mingxilii/localegn)|
 |**2022-11-10**|**GREENER: Graph Neural Networks for News Media Profiling**|Panayot Panayotov et.al.|[2211.05533v1](http://arxiv.org/abs/2211.05533v1)|null|
@@ -80,7 +80,47 @@
 |**2022-11-10**|**Biomedical Multi-hop Question Answering Using Knowledge Graph Embeddings and Language Models**|Dattaraj J. Rao et.al.|[2211.05351v1](http://arxiv.org/abs/2211.05351v1)|null|
 |**2022-11-09**|**Combining Contrastive Learning and Knowledge Graph Embeddings to develop medical word embeddings for the Italian language**|Denys Amore Bondarenko et.al.|[2211.05035v1](http://arxiv.org/abs/2211.05035v1)|null|
 |**2022-11-09**|**Unsupervised Extractive Summarization with Heterogeneous Graph Embeddings for Chinese Document**|Chen Lin et.al.|[2211.04698v1](http://arxiv.org/abs/2211.04698v1)|null|
-|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|null|
+|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
+|**2022-11-07**|**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**|Huiru Xiao et.al.|[2211.03635v1](http://arxiv.org/abs/2211.03635v1)|[link](https://github.com/hkust-knowcomp/complexhyperbolickge)|
+|**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
+|**2022-11-06**|**KGTN-ens: Few-Shot Image Classification with Knowledge Graph Ensembles**|Dominik Filipiak et.al.|[2211.03199v1](http://arxiv.org/abs/2211.03199v1)|null|
+|**2022-09-24**|**From Local to Global: Spectral-Inspired Graph Neural Networks**|Ningyuan Huang et.al.|[2209.12054v3](http://arxiv.org/abs/2209.12054v3)|[link](https://github.com/nhuang37/spectral-inspired-gnn)|
+|**2022-10-06**|**Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning**|Xiong Junwu et.al.|[2210.10638v4](http://arxiv.org/abs/2210.10638v4)|null|
+|**2022-11-04**|**Collaborative Bi-Aggregation for Directed Graph Embedding**|Linsong Liu et.al.|[2211.02232v1](http://arxiv.org/abs/2211.02232v1)|null|
+|**2022-11-03**|**Enhancing Patent Retrieval using Text and Knowledge Graph Embeddings: A Technical Note**|L Siddharth et.al.|[2211.01976v1](http://arxiv.org/abs/2211.01976v1)|null|
+|**2022-11-03**|**Embedding Knowledge Graph of Patent Metadata to Measure Knowledge Proximity**|Guangtong Li et.al.|[2211.01768v1](http://arxiv.org/abs/2211.01768v1)|null|
+|**2019-09-17**|**Exploring Scholarly Data by Semantic Query on Knowledge Graph Embedding Space**|Hung Nghiep Tran et.al.|[1909.08191v2](http://arxiv.org/abs/1909.08191v2)|[link](https://github.com/tranhungnghiep/KG20C)|
+|**2022-11-02**|**Hierarchies over Vector Space: Orienting Word and Graph Embeddings**|Xingzhi Guo et.al.|[2211.01430v1](http://arxiv.org/abs/2211.01430v1)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-31**|**Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit**|Hongji Wang et.al.|[2210.17016v2](http://arxiv.org/abs/2210.17016v2)|[link](https://github.com/wenet-e2e/wespeaker)|
+|**2022-10-25**|**Minutiae-Guided Fingerprint Embeddings via Vision Transformers**|Steven A. Grosz et.al.|[2210.13994v2](http://arxiv.org/abs/2210.13994v2)|null|
+|**2022-10-18**|**No Pairs Left Behind: Improving Metric Learning with Regularized Triplet Objective**|A. Ali Heydari et.al.|[2210.09506v1](http://arxiv.org/abs/2210.09506v1)|null|
+|**2022-10-08**|**InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings**|Xing Wu et.al.|[2210.06432v3](http://arxiv.org/abs/2210.06432v3)|[link](https://github.com/caskcsg/sentemb)|
+|**2022-10-13**|**Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**|Tan Yu et.al.|[2210.07232v1](http://arxiv.org/abs/2210.07232v1)|null|
+|**2020-12-12**|**Periocular Embedding Learning with Consistent Knowledge Distillation from Face**|Yoon Gyo Jung et.al.|[2012.06746v2](http://arxiv.org/abs/2012.06746v2)|null|
+|**2022-04-03**|**Exemplar Learning for Medical Image Segmentation**|Qing En et.al.|[2204.01713v2](http://arxiv.org/abs/2204.01713v2)|null|
+|**2022-05-19**|**Gender Bias in Meta-Embeddings**|Masahiro Kaneko et.al.|[2205.09867v3](http://arxiv.org/abs/2205.09867v3)|null|
+|**2022-10-03**|**Learning Equivariant Segmentation with Instance-Unique Querying**|Wenguan Wang et.al.|[2210.00911v1](http://arxiv.org/abs/2210.00911v1)|[link](https://github.com/jamesliang819/instance_unique_querying)|
+|**2022-09-23**|**Multi-Granularity Graph Pooling for Video-based Person Re-Identification**|Honghu Pan et.al.|[2209.11584v1](http://arxiv.org/abs/2209.11584v1)|null|
+|**2022-09-22**|**An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning**|Shaobin Chen et.al.|[2209.10951v1](http://arxiv.org/abs/2209.10951v1)|[link](https://github.com/bin199/informin-cl)|
+|**2022-04-25**|**Tac2Pose: Tactile Object Pose Estimation from the First Touch**|Maria Bauza et.al.|[2204.11701v2](http://arxiv.org/abs/2204.11701v2)|null|
+|**2022-09-06**|**Fun2Vec:a Contrastive Learning Framework of Function-level Representation for Binary**|Sun RuiJin et.al.|[2209.02442v1](http://arxiv.org/abs/2209.02442v1)|null|
+|**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v1](http://arxiv.org/abs/2209.01847v1)|[link](https://github.com/qdin4048/CPL-OT)|
+|**2022-09-02**|**Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images**|Min Shi et.al.|[2209.00773v1](http://arxiv.org/abs/2209.00773v1)|[link](https://github.com/codesharea/eyelearn)|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**Upper Embeddablity of Graphs and Products of Transpositions Associated with Edges**|Shuhei Tsujie et.al.|[2211.05422v1](http://arxiv.org/abs/2211.05422v1)|null|
+|**2022-11-10**|**Biomedical Multi-hop Question Answering Using Knowledge Graph Embeddings and Language Models**|Dattaraj J. Rao et.al.|[2211.05351v1](http://arxiv.org/abs/2211.05351v1)|null|
+|**2022-11-09**|**Combining Contrastive Learning and Knowledge Graph Embeddings to develop medical word embeddings for the Italian language**|Denys Amore Bondarenko et.al.|[2211.05035v1](http://arxiv.org/abs/2211.05035v1)|null|
+|**2022-11-09**|**Unsupervised Extractive Summarization with Heterogeneous Graph Embeddings for Chinese Document**|Chen Lin et.al.|[2211.04698v1](http://arxiv.org/abs/2211.04698v1)|null|
+|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
 |**2022-11-07**|**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**|Huiru Xiao et.al.|[2211.03635v1](http://arxiv.org/abs/2211.03635v1)|[link](https://github.com/hkust-knowcomp/complexhyperbolickge)|
 |**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
 |**2022-11-06**|**KGTN-ens: Few-Shot Image Classification with Knowledge Graph Ensembles**|Dominik Filipiak et.al.|[2211.03199v1](http://arxiv.org/abs/2211.03199v1)|null|
@@ -112,43 +152,3 @@
 |**2022-11-06**|**Iterative variable selection for high-dimensional data with binary outcomes**|Nilotpal Sanyal et.al.|[2211.03190v1](http://arxiv.org/abs/2211.03190v1)|null|
 |**2022-11-06**|**Collaborative Video Analytics on Distributed Edges with Multiagent Deep Reinforcement Learning**|Yuqi Dong et.al.|[2211.03102v1](http://arxiv.org/abs/2211.03102v1)|null|
 |**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v3](http://arxiv.org/abs/2203.08410v3)|[link](https://github.com/dki-lab/few-shot-bioie)|
-
-## Embedding
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-10**|**Upper Embeddablity of Graphs and Products of Transpositions Associated with Edges**|Shuhei Tsujie et.al.|[2211.05422v1](http://arxiv.org/abs/2211.05422v1)|null|
-|**2022-11-10**|**Biomedical Multi-hop Question Answering Using Knowledge Graph Embeddings and Language Models**|Dattaraj J. Rao et.al.|[2211.05351v1](http://arxiv.org/abs/2211.05351v1)|null|
-|**2022-11-09**|**Combining Contrastive Learning and Knowledge Graph Embeddings to develop medical word embeddings for the Italian language**|Denys Amore Bondarenko et.al.|[2211.05035v1](http://arxiv.org/abs/2211.05035v1)|null|
-|**2022-11-09**|**Unsupervised Extractive Summarization with Heterogeneous Graph Embeddings for Chinese Document**|Chen Lin et.al.|[2211.04698v1](http://arxiv.org/abs/2211.04698v1)|null|
-|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|null|
-|**2022-11-07**|**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**|Huiru Xiao et.al.|[2211.03635v1](http://arxiv.org/abs/2211.03635v1)|[link](https://github.com/hkust-knowcomp/complexhyperbolickge)|
-|**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
-|**2022-11-06**|**KGTN-ens: Few-Shot Image Classification with Knowledge Graph Ensembles**|Dominik Filipiak et.al.|[2211.03199v1](http://arxiv.org/abs/2211.03199v1)|null|
-|**2022-09-24**|**From Local to Global: Spectral-Inspired Graph Neural Networks**|Ningyuan Huang et.al.|[2209.12054v3](http://arxiv.org/abs/2209.12054v3)|[link](https://github.com/nhuang37/spectral-inspired-gnn)|
-|**2022-10-06**|**Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning**|Xiong Junwu et.al.|[2210.10638v4](http://arxiv.org/abs/2210.10638v4)|null|
-|**2022-11-04**|**Collaborative Bi-Aggregation for Directed Graph Embedding**|Linsong Liu et.al.|[2211.02232v1](http://arxiv.org/abs/2211.02232v1)|null|
-|**2022-11-03**|**Enhancing Patent Retrieval using Text and Knowledge Graph Embeddings: A Technical Note**|L Siddharth et.al.|[2211.01976v1](http://arxiv.org/abs/2211.01976v1)|null|
-|**2022-11-03**|**Embedding Knowledge Graph of Patent Metadata to Measure Knowledge Proximity**|Guangtong Li et.al.|[2211.01768v1](http://arxiv.org/abs/2211.01768v1)|null|
-|**2019-09-17**|**Exploring Scholarly Data by Semantic Query on Knowledge Graph Embedding Space**|Hung Nghiep Tran et.al.|[1909.08191v2](http://arxiv.org/abs/1909.08191v2)|[link](https://github.com/tranhungnghiep/KG20C)|
-|**2022-11-02**|**Hierarchies over Vector Space: Orienting Word and Graph Embeddings**|Xingzhi Guo et.al.|[2211.01430v1](http://arxiv.org/abs/2211.01430v1)|null|
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-31**|**Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit**|Hongji Wang et.al.|[2210.17016v2](http://arxiv.org/abs/2210.17016v2)|[link](https://github.com/wenet-e2e/wespeaker)|
-|**2022-10-25**|**Minutiae-Guided Fingerprint Embeddings via Vision Transformers**|Steven A. Grosz et.al.|[2210.13994v2](http://arxiv.org/abs/2210.13994v2)|null|
-|**2022-10-18**|**No Pairs Left Behind: Improving Metric Learning with Regularized Triplet Objective**|A. Ali Heydari et.al.|[2210.09506v1](http://arxiv.org/abs/2210.09506v1)|null|
-|**2022-10-08**|**InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings**|Xing Wu et.al.|[2210.06432v3](http://arxiv.org/abs/2210.06432v3)|[link](https://github.com/caskcsg/sentemb)|
-|**2022-10-13**|**Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**|Tan Yu et.al.|[2210.07232v1](http://arxiv.org/abs/2210.07232v1)|null|
-|**2020-12-12**|**Periocular Embedding Learning with Consistent Knowledge Distillation from Face**|Yoon Gyo Jung et.al.|[2012.06746v2](http://arxiv.org/abs/2012.06746v2)|null|
-|**2022-04-03**|**Exemplar Learning for Medical Image Segmentation**|Qing En et.al.|[2204.01713v2](http://arxiv.org/abs/2204.01713v2)|null|
-|**2022-05-19**|**Gender Bias in Meta-Embeddings**|Masahiro Kaneko et.al.|[2205.09867v3](http://arxiv.org/abs/2205.09867v3)|null|
-|**2022-10-03**|**Learning Equivariant Segmentation with Instance-Unique Querying**|Wenguan Wang et.al.|[2210.00911v1](http://arxiv.org/abs/2210.00911v1)|[link](https://github.com/jamesliang819/instance_unique_querying)|
-|**2022-09-23**|**Multi-Granularity Graph Pooling for Video-based Person Re-Identification**|Honghu Pan et.al.|[2209.11584v1](http://arxiv.org/abs/2209.11584v1)|null|
-|**2022-09-22**|**An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning**|Shaobin Chen et.al.|[2209.10951v1](http://arxiv.org/abs/2209.10951v1)|[link](https://github.com/bin199/informin-cl)|
-|**2022-04-25**|**Tac2Pose: Tactile Object Pose Estimation from the First Touch**|Maria Bauza et.al.|[2204.11701v2](http://arxiv.org/abs/2204.11701v2)|null|
-|**2022-09-06**|**Fun2Vec:a Contrastive Learning Framework of Function-level Representation for Binary**|Sun RuiJin et.al.|[2209.02442v1](http://arxiv.org/abs/2209.02442v1)|null|
-|**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v1](http://arxiv.org/abs/2209.01847v1)|[link](https://github.com/qdin4048/CPL-OT)|
-|**2022-09-02**|**Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images**|Min Shi et.al.|[2209.00773v1](http://arxiv.org/abs/2209.00773v1)|null|
