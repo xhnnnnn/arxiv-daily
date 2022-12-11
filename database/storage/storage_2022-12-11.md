@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-11 07:25:42 Asia/Shanghai
+ Automated deployment @ 2022-12-11 19:22:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -92,27 +92,6 @@
 |**2022-01-29**|**Linear Turán numbers of acyclic quadruple systems**|Lin-Peng Zhang et.al.|[2202.08764v2](http://arxiv.org/abs/2202.08764v2)|null|
 |**2022-12-02**|**Regarding Equitable Colorability Defect of Hypergraphs**|Saeed Shaebani et.al.|[2212.01358v1](http://arxiv.org/abs/2212.01358v1)|null|
 
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v2](http://arxiv.org/abs/2206.08900v2)|null|
-|**2022-12-08**|**Optimal Model Selection in RDD and Related Settings Using Placebo Zones**|Nathan Kettlewell et.al.|[2212.04043v1](http://arxiv.org/abs/2212.04043v1)|null|
-|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v2](http://arxiv.org/abs/2204.03887v2)|null|
-|**2022-12-07**|**Stochastic Rising Bandits**|Alberto Maria Metelli et.al.|[2212.03798v1](http://arxiv.org/abs/2212.03798v1)|[link](https://github.com/albertometelli/stochastic-rising-bandits)|
-|**2022-06-20**|**Double soft-thresholded model for multi-group scalar on vector-valued image regression**|Arkaprava Roy et.al.|[2206.09819v3](http://arxiv.org/abs/2206.09819v3)|null|
-|**2022-12-07**|**General multi-fidelity surrogate models: Framework and active learning strategies for efficient rare event simulation**|Promit Chakroborty et.al.|[2212.03375v1](http://arxiv.org/abs/2212.03375v1)|null|
-|**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Luigi Riso et.al.|[2211.07267v2](http://arxiv.org/abs/2211.07267v2)|null|
-|**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v1](http://arxiv.org/abs/2212.03114v1)|null|
-|**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Biagini Luigi et.al.|[2212.03092v1](http://arxiv.org/abs/2212.03092v1)|null|
-|**2020-01-05**|**Intrinsic regularization effect in Bayesian nonlinear regression scaled by observed data**|Satoru Tokuda et.al.|[2001.01335v2](http://arxiv.org/abs/2001.01335v2)|null|
-|**2022-12-06**|**Measuring Intangible Assets Using Parametric and Machine Learning Approaches**|Atika Nashirah Hasyyati et.al.|[2212.03025v1](http://arxiv.org/abs/2212.03025v1)|null|
-|**2022-06-05**|**Rotation to Sparse Loadings using $L^p$ Losses and Related Inference Problems**|Xinyi Liu et.al.|[2206.02263v2](http://arxiv.org/abs/2206.02263v2)|null|
-|**2022-12-05**|**Multifold Cross-Validation Model Averaging for Generalized Additive Partial Linear Models**|Ze Chen et.al.|[2212.02381v1](http://arxiv.org/abs/2212.02381v1)|null|
-|**2022-07-27**|**Dissecting kinetically coupled quintessence: phenomenology and observational tests**|Elsa M. Teixeira et.al.|[2207.13682v2](http://arxiv.org/abs/2207.13682v2)|null|
-|**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v1](http://arxiv.org/abs/2212.02203v1)|null|
-
 ## Embedding
 
 ### Graph Embedding
@@ -152,3 +131,24 @@
 |**2020-12-12**|**Periocular Embedding Learning with Consistent Knowledge Distillation from Face**|Yoon Gyo Jung et.al.|[2012.06746v2](http://arxiv.org/abs/2012.06746v2)|null|
 |**2022-04-03**|**Exemplar Learning for Medical Image Segmentation**|Qing En et.al.|[2204.01713v2](http://arxiv.org/abs/2204.01713v2)|null|
 |**2022-05-19**|**Gender Bias in Meta-Embeddings**|Masahiro Kaneko et.al.|[2205.09867v3](http://arxiv.org/abs/2205.09867v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v2](http://arxiv.org/abs/2206.08900v2)|null|
+|**2022-12-08**|**Optimal Model Selection in RDD and Related Settings Using Placebo Zones**|Nathan Kettlewell et.al.|[2212.04043v1](http://arxiv.org/abs/2212.04043v1)|null|
+|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v2](http://arxiv.org/abs/2204.03887v2)|null|
+|**2022-12-07**|**Stochastic Rising Bandits**|Alberto Maria Metelli et.al.|[2212.03798v1](http://arxiv.org/abs/2212.03798v1)|[link](https://github.com/albertometelli/stochastic-rising-bandits)|
+|**2022-06-20**|**Double soft-thresholded model for multi-group scalar on vector-valued image regression**|Arkaprava Roy et.al.|[2206.09819v3](http://arxiv.org/abs/2206.09819v3)|null|
+|**2022-12-07**|**General multi-fidelity surrogate models: Framework and active learning strategies for efficient rare event simulation**|Promit Chakroborty et.al.|[2212.03375v1](http://arxiv.org/abs/2212.03375v1)|null|
+|**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Luigi Riso et.al.|[2211.07267v2](http://arxiv.org/abs/2211.07267v2)|null|
+|**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v1](http://arxiv.org/abs/2212.03114v1)|null|
+|**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Biagini Luigi et.al.|[2212.03092v1](http://arxiv.org/abs/2212.03092v1)|null|
+|**2020-01-05**|**Intrinsic regularization effect in Bayesian nonlinear regression scaled by observed data**|Satoru Tokuda et.al.|[2001.01335v2](http://arxiv.org/abs/2001.01335v2)|null|
+|**2022-12-06**|**Measuring Intangible Assets Using Parametric and Machine Learning Approaches**|Atika Nashirah Hasyyati et.al.|[2212.03025v1](http://arxiv.org/abs/2212.03025v1)|null|
+|**2022-06-05**|**Rotation to Sparse Loadings using $L^p$ Losses and Related Inference Problems**|Xinyi Liu et.al.|[2206.02263v2](http://arxiv.org/abs/2206.02263v2)|null|
+|**2022-12-05**|**Multifold Cross-Validation Model Averaging for Generalized Additive Partial Linear Models**|Ze Chen et.al.|[2212.02381v1](http://arxiv.org/abs/2212.02381v1)|null|
+|**2022-07-27**|**Dissecting kinetically coupled quintessence: phenomenology and observational tests**|Elsa M. Teixeira et.al.|[2207.13682v2](http://arxiv.org/abs/2207.13682v2)|null|
+|**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v1](http://arxiv.org/abs/2212.02203v1)|null|
