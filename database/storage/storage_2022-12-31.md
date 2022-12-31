@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-31 07:24:15 Asia/Shanghai
+ Automated deployment @ 2022-12-31 19:20:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -54,25 +54,6 @@
 |**2022-12-22**|**Self-supervised Hypergraph Representation Learning for Sociological Analysis**|Xiangguo Sun et.al.|[2212.11440v1](http://arxiv.org/abs/2212.11440v1)|null|
 |**2022-12-21**|**Spectrum of $3$-uniform $6$- and $9$-cycle systems over $K_v^{(3)}-I$**|Anita Keszler et.al.|[2212.11058v1](http://arxiv.org/abs/2212.11058v1)|null|
 
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-15**|**Parameter-free Dynamic Graph Embedding for Link Prediction**|Jiahao Liu et.al.|[2210.08189v2](http://arxiv.org/abs/2210.08189v2)|[link](https://github.com/fudancisl/freegem)|
-|**2022-12-25**|**Move-reduced graphs on a torus**|Pavel Galashin et.al.|[2212.12962v1](http://arxiv.org/abs/2212.12962v1)|null|
-|**2022-02-10**|**InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities**|Baoxin Wang et.al.|[2202.04897v2](http://arxiv.org/abs/2202.04897v2)|null|
-|**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v1](http://arxiv.org/abs/2212.12200v1)|null|
-|**2022-12-22**|**Graph Learning with Localized Neighborhood Fairness**|April Chen et.al.|[2212.12040v1](http://arxiv.org/abs/2212.12040v1)|null|
-|**2022-12-21**|**Irreducibility of the Tutte polynomial of an embedded graph**|Joanna A. Ellis-Monaghan et.al.|[2212.10920v1](http://arxiv.org/abs/2212.10920v1)|null|
-|**2021-12-16**|**Two-view Graph Neural Networks for Knowledge Graph Completion**|Vinh Tong et.al.|[2112.09231v3](http://arxiv.org/abs/2112.09231v3)|null|
-|**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v3](http://arxiv.org/abs/2212.05767v3)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
-|**2020-07-24**|**Improving the dilation of a metric graph by adding edges**|Joachim Gudmundsson et.al.|[2007.12350v4](http://arxiv.org/abs/2007.12350v4)|null|
-|**2022-10-13**|**Variational Graph Generator for Multi-View Graph Clustering**|Jianpeng Chen et.al.|[2210.07011v2](http://arxiv.org/abs/2210.07011v2)|null|
-|**2022-10-23**|**DyCSC: Modeling the Evolutionary Process of Dynamic Networks Based on Cluster Structure**|Shanfan Zhang et.al.|[2210.12690v2](http://arxiv.org/abs/2210.12690v2)|[link](https://github.com/ZINUX1998/DyCSC)|
-|**2022-11-19**|**Relational Symmetry based Knowledge Graph Contrastive Learning**|Ke Liang et.al.|[2211.10738v3](http://arxiv.org/abs/2211.10738v3)|null|
-|**2022-11-03**|**Embedding Knowledge Graph of Patent Metadata to Measure Knowledge Proximity**|Guangtong Li et.al.|[2211.01768v2](http://arxiv.org/abs/2211.01768v2)|null|
-|**2022-12-09**|**Multi-view Graph Convolutional Networks with Differentiable Node Selection**|Zhaoliang Chen et.al.|[2212.05124v1](http://arxiv.org/abs/2212.05124v1)|null|
-|**2022-12-07**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v1](http://arxiv.org/abs/2212.03978v1)|null|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -92,26 +73,24 @@
 |**2022-08-16**|**A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v2](http://arxiv.org/abs/2208.07559v2)|null|
 |**2021-05-23**|**Graphon particle system: Uniform-in-time concentration bounds**|Erhan Bayraktar et.al.|[2105.11040v2](http://arxiv.org/abs/2105.11040v2)|null|
 
-## Variable Selection
-
-### Variable selection
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-12-28**|**Building Segmentation on Satellite Images and Performance of Post-Processing Methods**|Metehan Yalçın et.al.|[2212.13712v1](http://arxiv.org/abs/2212.13712v1)|null|
-|**2022-12-27**|**Fast and fully-automated histograms for large-scale data sets**|Valentina Zelaya Mendizábal et.al.|[2212.13524v1](http://arxiv.org/abs/2212.13524v1)|null|
-|**2021-10-27**|**Doubly Robust Criterion for Causal Inference**|Takamichi Baba et.al.|[2110.14525v3](http://arxiv.org/abs/2110.14525v3)|null|
-|**2022-01-04**|**Towards Transferable Unrestricted Adversarial Examples with Minimum Changes**|Fangcheng Liu et.al.|[2201.01102v2](http://arxiv.org/abs/2201.01102v2)|[link](https://github.com/Equationliu/GA-Attack)|
-|**2022-12-26**|**Bayesian indicator variable selection of multivariate response with heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
-|**2022-12-26**|**Robust distance correlation for variable screening**|Tianzhou Ma et.al.|[2212.13292v1](http://arxiv.org/abs/2212.13292v1)|null|
-|**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
-|**2022-12-23**|**Rényi Distillation for Global Testing in Sparse Regression Problems**|Ryan Christ et.al.|[2212.12539v1](http://arxiv.org/abs/2212.12539v1)|null|
-|**2022-12-23**|**Statistical inference with normal-compound gamma priors in regression models**|Ahmed Alhamzawi et.al.|[2212.13144v1](http://arxiv.org/abs/2212.13144v1)|null|
-|**2022-09-07**|**An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression**|Paolo Onorati et.al.|[2209.03474v2](http://arxiv.org/abs/2209.03474v2)|null|
-|**2022-03-06**|**Variable Selection with the Knockoffs: Composite Null Hypotheses**|Mehrdad Pournaderi et.al.|[2203.02849v3](http://arxiv.org/abs/2203.02849v3)|null|
-|**2022-12-22**|**A machine learning framework for neighbor generation in metaheuristic search**|Defeng Liu et.al.|[2212.11451v1](http://arxiv.org/abs/2212.11451v1)|null|
-|**2022-12-21**|**Automated identification of linear viscoelastic constitutive laws with EUCLID**|Enzo Marino et.al.|[2212.10969v1](http://arxiv.org/abs/2212.10969v1)|null|
-|**2022-12-20**|**Quark mass dependence of hadron resonances**|Fernando Gil Domínguez et.al.|[2212.10294v1](http://arxiv.org/abs/2212.10294v1)|null|
-|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v3](http://arxiv.org/abs/2211.11383v3)|null|
+|**2022-10-15**|**Parameter-free Dynamic Graph Embedding for Link Prediction**|Jiahao Liu et.al.|[2210.08189v2](http://arxiv.org/abs/2210.08189v2)|[link](https://github.com/fudancisl/freegem)|
+|**2022-12-25**|**Move-reduced graphs on a torus**|Pavel Galashin et.al.|[2212.12962v1](http://arxiv.org/abs/2212.12962v1)|null|
+|**2022-02-10**|**InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities**|Baoxin Wang et.al.|[2202.04897v2](http://arxiv.org/abs/2202.04897v2)|null|
+|**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v1](http://arxiv.org/abs/2212.12200v1)|null|
+|**2022-12-22**|**Graph Learning with Localized Neighborhood Fairness**|April Chen et.al.|[2212.12040v1](http://arxiv.org/abs/2212.12040v1)|null|
+|**2022-12-21**|**Irreducibility of the Tutte polynomial of an embedded graph**|Joanna A. Ellis-Monaghan et.al.|[2212.10920v1](http://arxiv.org/abs/2212.10920v1)|null|
+|**2021-12-16**|**Two-view Graph Neural Networks for Knowledge Graph Completion**|Vinh Tong et.al.|[2112.09231v3](http://arxiv.org/abs/2112.09231v3)|null|
+|**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v3](http://arxiv.org/abs/2212.05767v3)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
+|**2020-07-24**|**Improving the dilation of a metric graph by adding edges**|Joachim Gudmundsson et.al.|[2007.12350v4](http://arxiv.org/abs/2007.12350v4)|null|
+|**2022-10-13**|**Variational Graph Generator for Multi-View Graph Clustering**|Jianpeng Chen et.al.|[2210.07011v2](http://arxiv.org/abs/2210.07011v2)|null|
+|**2022-10-23**|**DyCSC: Modeling the Evolutionary Process of Dynamic Networks Based on Cluster Structure**|Shanfan Zhang et.al.|[2210.12690v2](http://arxiv.org/abs/2210.12690v2)|[link](https://github.com/ZINUX1998/DyCSC)|
+|**2022-11-19**|**Relational Symmetry based Knowledge Graph Contrastive Learning**|Ke Liang et.al.|[2211.10738v3](http://arxiv.org/abs/2211.10738v3)|null|
+|**2022-11-03**|**Embedding Knowledge Graph of Patent Metadata to Measure Knowledge Proximity**|Guangtong Li et.al.|[2211.01768v2](http://arxiv.org/abs/2211.01768v2)|null|
+|**2022-12-09**|**Multi-view Graph Convolutional Networks with Differentiable Node Selection**|Zhaoliang Chen et.al.|[2212.05124v1](http://arxiv.org/abs/2212.05124v1)|null|
+|**2022-12-07**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v1](http://arxiv.org/abs/2212.03978v1)|null|
 
 ## Embedding
 
@@ -152,3 +131,24 @@
 |**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v2](http://arxiv.org/abs/2209.01847v2)|[link](https://github.com/qdin4048/CPL-OT)|
 |**2022-10-31**|**Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit**|Hongji Wang et.al.|[2210.17016v2](http://arxiv.org/abs/2210.17016v2)|[link](https://github.com/wenet-e2e/wespeaker)|
 |**2022-10-25**|**Minutiae-Guided Fingerprint Embeddings via Vision Transformers**|Steven A. Grosz et.al.|[2210.13994v2](http://arxiv.org/abs/2210.13994v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-28**|**Building Segmentation on Satellite Images and Performance of Post-Processing Methods**|Metehan Yalçın et.al.|[2212.13712v1](http://arxiv.org/abs/2212.13712v1)|null|
+|**2022-12-27**|**Fast and fully-automated histograms for large-scale data sets**|Valentina Zelaya Mendizábal et.al.|[2212.13524v1](http://arxiv.org/abs/2212.13524v1)|null|
+|**2021-10-27**|**Doubly Robust Criterion for Causal Inference**|Takamichi Baba et.al.|[2110.14525v3](http://arxiv.org/abs/2110.14525v3)|null|
+|**2022-01-04**|**Towards Transferable Unrestricted Adversarial Examples with Minimum Changes**|Fangcheng Liu et.al.|[2201.01102v2](http://arxiv.org/abs/2201.01102v2)|[link](https://github.com/Equationliu/GA-Attack)|
+|**2022-12-26**|**Bayesian indicator variable selection of multivariate response with heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
+|**2022-12-26**|**Robust distance correlation for variable screening**|Tianzhou Ma et.al.|[2212.13292v1](http://arxiv.org/abs/2212.13292v1)|null|
+|**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
+|**2022-12-23**|**Rényi Distillation for Global Testing in Sparse Regression Problems**|Ryan Christ et.al.|[2212.12539v1](http://arxiv.org/abs/2212.12539v1)|null|
+|**2022-12-23**|**Statistical inference with normal-compound gamma priors in regression models**|Ahmed Alhamzawi et.al.|[2212.13144v1](http://arxiv.org/abs/2212.13144v1)|null|
+|**2022-09-07**|**An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression**|Paolo Onorati et.al.|[2209.03474v2](http://arxiv.org/abs/2209.03474v2)|null|
+|**2022-03-06**|**Variable Selection with the Knockoffs: Composite Null Hypotheses**|Mehrdad Pournaderi et.al.|[2203.02849v3](http://arxiv.org/abs/2203.02849v3)|null|
+|**2022-12-22**|**A machine learning framework for neighbor generation in metaheuristic search**|Defeng Liu et.al.|[2212.11451v1](http://arxiv.org/abs/2212.11451v1)|null|
+|**2022-12-21**|**Automated identification of linear viscoelastic constitutive laws with EUCLID**|Enzo Marino et.al.|[2212.10969v1](http://arxiv.org/abs/2212.10969v1)|null|
+|**2022-12-20**|**Quark mass dependence of hadron resonances**|Fernando Gil Domínguez et.al.|[2212.10294v1](http://arxiv.org/abs/2212.10294v1)|null|
+|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v3](http://arxiv.org/abs/2211.11383v3)|null|
