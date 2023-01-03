@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-03 07:24:29 Asia/Shanghai
+ Automated deployment @ 2023-01-03 19:21:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,47 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-02**|**Training Differentially Private Graph Neural Networks with Random Walk Sampling**|Morgane Ayle et.al.|[2301.00738v1](http://arxiv.org/abs/2301.00738v1)|null|
+|**2022-08-04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v2](http://arxiv.org/abs/2208.02613v2)|[link](https://github.com/kyle-one/signa)|
+|**2023-01-02**|**Heterogeneous Graph Neural Network for Identifying Hadronically Decayed Tau Leptons at the High Luminosity LHC**|Andris Huang et.al.|[2301.00501v1](http://arxiv.org/abs/2301.00501v1)|null|
+|**2023-01-01**|**A plug-in graph neural network to boost temporal sensitivity in fMRI analysis**|Irmak Sivgin et.al.|[2301.00439v1](http://arxiv.org/abs/2301.00439v1)|null|
+|**2023-01-01**|**PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs**|Chunyang Wang et.al.|[2301.00391v1](http://arxiv.org/abs/2301.00391v1)|null|
+|**2021-11-04**|**GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search**|Shangqing Liu et.al.|[2111.02671v4](http://arxiv.org/abs/2111.02671v4)|[link](https://github.com/shangqing-liu/graphsearchnet)|
+|**2022-12-31**|**Generative Graph Neural Networks for Link Prediction**|Xingping Xian et.al.|[2301.00169v1](http://arxiv.org/abs/2301.00169v1)|null|
+|**2022-12-30**|**GANExplainer: GAN-based Graph Neural Networks Explainer**|Yiqiao Li et.al.|[2301.00012v1](http://arxiv.org/abs/2301.00012v1)|null|
+|**2022-12-30**|**Self-organization Preserved Graph Structure Learning with Principle of Relevant Information**|Qingyun Sun et.al.|[2301.00015v1](http://arxiv.org/abs/2301.00015v1)|null|
 |**2022-12-30**|**Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural Network Approach**|Daniel Abode et.al.|[2212.14051v1](http://arxiv.org/abs/2212.14051v1)|[link](https://github.com/danieloaAAU/Power_Control_GNN)|
 |**2022-06-15**|**CLNode: Curriculum Learning for Node Classification**|Xiaowen Wei et.al.|[2206.07258v2](http://arxiv.org/abs/2206.07258v2)|[link](https://github.com/wxwmd/clnode)|
 |**2022-08-29**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v2](http://arxiv.org/abs/2208.13585v2)|[link](https://github.com/larsbentsen/fftransformer)|
 |**2022-12-30**|**Node-Element Hypergraph Message Passing for Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v1](http://arxiv.org/abs/2212.14545v1)|[link](https://github.com/garrygale/nodeelementmessagepassing)|
 |**2022-01-28**|**GStarX: Explaining Graph Neural Networks with Structure-Aware Cooperative Games**|Shichang Zhang et.al.|[2201.12380v5](http://arxiv.org/abs/2201.12380v5)|[link](https://github.com/shichangzh/gstarx)|
 |**2022-12-29**|**Meta-Path Based Attentional Graph Learning Model for Vulnerability Detection**|Xin-Cheng Wen et.al.|[2212.14274v1](http://arxiv.org/abs/2212.14274v1)|null|
-|**2022-06-30**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v2](http://arxiv.org/abs/2206.14987v2)|null|
-|**2022-12-26**|**Investigation and rectification of NIDS datasets and standardized feature set derivation for network attack detection with graph neural networks**|Anton Raskovalov et.al.|[2212.13994v2](http://arxiv.org/abs/2212.13994v2)|null|
-|**2022-05-21**|**GNN-Enhanced Approximate Message Passing for Massive/Ultra-Massive MIMO Detection**|Hengtao He et.al.|[2205.10620v2](http://arxiv.org/abs/2205.10620v2)|null|
-|**2022-06-07**|**Decoupled Self-supervised Learning for Graphs**|Teng Xiao et.al.|[2206.03601v2](http://arxiv.org/abs/2206.03601v2)|null|
-|**2022-11-01**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v3](http://arxiv.org/abs/2211.00495v3)|null|
-|**2022-06-18**|**Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs**|Seiji Maekawa et.al.|[2206.09144v6](http://arxiv.org/abs/2206.09144v6)|[link](https://github.com/seijimaekawa/empirical-study-of-gnns)|
-|**2022-12-28**|**PersonaSAGE: A Multi-Persona Graph Neural Network**|Gautam Choudhary et.al.|[2212.13709v1](http://arxiv.org/abs/2212.13709v1)|null|
-|**2020-03-02**|**Benchmarking Graph Neural Networks**|Vijay Prakash Dwivedi et.al.|[2003.00982v5](http://arxiv.org/abs/2003.00982v5)|[link](https://github.com/karl-zhao/benchmarking-gnns-pyg)|
-|**2022-10-03**|**Deep Spatial Domain Generalization**|Dazhou Yu et.al.|[2210.00729v2](http://arxiv.org/abs/2210.00729v2)|[link](https://github.com/dyu62/deep-domain-generalization)|
 
 ## Graph Model
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-31**|**On Harmonious coloring of hypergraphs**|Sebastian Czerwiński et.al.|[2301.00302v1](http://arxiv.org/abs/2301.00302v1)|null|
+|**2022-12-31**|**On the chromatic number of random regular hypergraphs**|Patrick Bennett et.al.|[2301.00085v1](http://arxiv.org/abs/2301.00085v1)|null|
+|**2022-12-30**|**Hypergraph Counting and Mixed $p$-Spin Glass Models under Replica Symmetry**|Partha S. Dey et.al.|[2212.14571v1](http://arxiv.org/abs/2212.14571v1)|null|
+|**2022-12-30**|**Node-Element Hypergraph Message Passing for Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v1](http://arxiv.org/abs/2212.14545v1)|[link](https://github.com/garrygale/nodeelementmessagepassing)|
+|**2022-12-30**|**A hypergraph analog of Dirac's Theorem for long cycles in 2-connected graphs**|Alexandr Kostochka et.al.|[2212.14516v1](http://arxiv.org/abs/2212.14516v1)|null|
+|**2022-12-29**|**On Learning the Structure of Clusters in Graphs**|Peter Macgregor et.al.|[2212.14345v1](http://arxiv.org/abs/2212.14345v1)|null|
+|**2022-12-07**|**Twelve bialgebras for hypergraphs, cointeractions, and chromatic polynomials**|Kurusch Ebrahimi-Fard et.al.|[2212.03501v3](http://arxiv.org/abs/2212.03501v3)|null|
+|**2022-12-28**|**A Hypergraph Neural Network Framework for Learning Hyperedge-Dependent Node Embeddings**|Ryan Aponte et.al.|[2212.14077v1](http://arxiv.org/abs/2212.14077v1)|null|
+|**2022-12-20**|**On generalized Ramsey numbers in the non-integral regime**|Patrick Bennett et.al.|[2212.10542v2](http://arxiv.org/abs/2212.10542v2)|null|
+|**2022-12-28**|**Hypergraphs with Polynomial Representation: Introducing $r$-splits**|Mohammed Haddad et.al.|[2212.13822v1](http://arxiv.org/abs/2212.13822v1)|null|
+|**2022-12-28**|**Turán Numbers of Ordered Tight Hyperpaths**|John P. Bright et.al.|[2212.13719v1](http://arxiv.org/abs/2212.13719v1)|null|
+|**2022-04-06**|**Hypergraph-based Source Codes for Function Computation Under Maximal Distortion**|Sourya Basu et.al.|[2204.02586v2](http://arxiv.org/abs/2204.02586v2)|null|
+|**2022-12-27**|**$L_\infty$-algebras and Hypergraphs**|Marco Aldi et.al.|[2212.13608v1](http://arxiv.org/abs/2212.13608v1)|null|
+|**2022-12-27**|**FPT algoritms providing constant ratio approximation of hypertree width parameters for hypergraphs of bounded rank**|Igor Razgon et.al.|[2212.13423v1](http://arxiv.org/abs/2212.13423v1)|null|
+|**2022-12-27**|**Sparse Cuts in Hypergraphs from Random Walks on Simplicial Complexes**|Anand Louis et.al.|[2212.13406v1](http://arxiv.org/abs/2212.13406v1)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-01**|**The GHP scaling limit of uniform spanning trees of dense graphs**|Eleanor Archer et.al.|[2301.00461v1](http://arxiv.org/abs/2301.00461v1)|null|
 |**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v3](http://arxiv.org/abs/2201.10129v3)|null|
 |**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v3](http://arxiv.org/abs/2201.01689v3)|[link](https://github.com/aday651/embed-reg)|
 |**2022-12-15**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v1](http://arxiv.org/abs/2212.08171v1)|null|
@@ -52,26 +72,6 @@
 |**2022-10-27**|**Training Graph Neural Networks on Growing Stochastic Graphs**|Juan Cervino et.al.|[2210.15567v1](http://arxiv.org/abs/2210.15567v1)|null|
 |**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v1](http://arxiv.org/abs/2210.14097v1)|null|
 |**2022-08-16**|**A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v2](http://arxiv.org/abs/2208.07559v2)|null|
-|**2021-05-23**|**Graphon particle system: Uniform-in-time concentration bounds**|Erhan Bayraktar et.al.|[2105.11040v2](http://arxiv.org/abs/2105.11040v2)|null|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-30**|**Hypergraph Counting and Mixed $p$-Spin Glass Models under Replica Symmetry**|Partha S. Dey et.al.|[2212.14571v1](http://arxiv.org/abs/2212.14571v1)|null|
-|**2022-12-30**|**Node-Element Hypergraph Message Passing for Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v1](http://arxiv.org/abs/2212.14545v1)|[link](https://github.com/garrygale/nodeelementmessagepassing)|
-|**2022-12-30**|**A hypergraph analog of Dirac's Theorem for long cycles in 2-connected graphs**|Alexandr Kostochka et.al.|[2212.14516v1](http://arxiv.org/abs/2212.14516v1)|null|
-|**2022-12-29**|**On Learning the Structure of Clusters in Graphs**|Peter Macgregor et.al.|[2212.14345v1](http://arxiv.org/abs/2212.14345v1)|null|
-|**2022-12-07**|**Twelve bialgebras for hypergraphs, cointeractions, and chromatic polynomials**|Kurusch Ebrahimi-Fard et.al.|[2212.03501v3](http://arxiv.org/abs/2212.03501v3)|null|
-|**2022-12-28**|**A Hypergraph Neural Network Framework for Learning Hyperedge-Dependent Node Embeddings**|Ryan Aponte et.al.|[2212.14077v1](http://arxiv.org/abs/2212.14077v1)|null|
-|**2022-12-20**|**On generalized Ramsey numbers in the non-integral regime**|Patrick Bennett et.al.|[2212.10542v2](http://arxiv.org/abs/2212.10542v2)|null|
-|**2022-12-28**|**Hypergraphs with Polynomial Representation: Introducing $r$-splits**|Mohammed Haddad et.al.|[2212.13822v1](http://arxiv.org/abs/2212.13822v1)|null|
-|**2022-12-28**|**Turán Numbers of Ordered Tight Hyperpaths**|John P. Bright et.al.|[2212.13719v1](http://arxiv.org/abs/2212.13719v1)|null|
-|**2022-04-06**|**Hypergraph-based Source Codes for Function Computation Under Maximal Distortion**|Sourya Basu et.al.|[2204.02586v2](http://arxiv.org/abs/2204.02586v2)|null|
-|**2022-12-27**|**$L_\infty$-algebras and Hypergraphs**|Marco Aldi et.al.|[2212.13608v1](http://arxiv.org/abs/2212.13608v1)|null|
-|**2022-12-27**|**FPT algoritms providing constant ratio approximation of hypertree width parameters for hypergraphs of bounded rank**|Igor Razgon et.al.|[2212.13423v1](http://arxiv.org/abs/2212.13423v1)|null|
-|**2022-12-27**|**Sparse Cuts in Hypergraphs from Random Walks on Simplicial Complexes**|Anand Louis et.al.|[2212.13406v1](http://arxiv.org/abs/2212.13406v1)|null|
-|**2021-02-03**|**Pliable Index Coding via Conflict-Free Colorings of Hypergraphs**|Prasad Krishnan et.al.|[2102.02182v3](http://arxiv.org/abs/2102.02182v3)|null|
-|**2022-08-22**|**Bounding the Optimal Length of Pliable Index Coding via a Hypergraph-based Approach**|Tulasi Sowjanya B. et.al.|[2208.10389v2](http://arxiv.org/abs/2208.10389v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -97,6 +97,7 @@
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v1](http://arxiv.org/abs/2301.00785v1)|null|
 |**2022-12-28**|**Joint Discriminative and Metric Embedding Learning for Person Re-Identification**|Sinan Sabri et.al.|[2212.14107v1](http://arxiv.org/abs/2212.14107v1)|null|
 |**2022-10-03**|**Learning Equivariant Segmentation with Instance-Unique Querying**|Wenguan Wang et.al.|[2210.00911v2](http://arxiv.org/abs/2210.00911v2)|[link](https://github.com/jamesliang819/instance_unique_querying)|
 |**2021-07-06**|**Asymptotics of Network Embeddings Learned via Subsampling**|Andrew Davison et.al.|[2107.02363v3](http://arxiv.org/abs/2107.02363v3)|[link](https://github.com/aday651/embed-asym-experiments)|
@@ -111,7 +112,6 @@
 |**2022-11-29**|**Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**|Yuanning Cui et.al.|[2211.15845v1](http://arxiv.org/abs/2211.15845v1)|[link](https://github.com/nju-websoft/lkge)|
 |**2022-08-02**|**Optimal Rates for Regularized Conditional Mean Embedding Learning**|Zhu Li et.al.|[2208.01711v2](http://arxiv.org/abs/2208.01711v2)|null|
 |**2022-09-05**|**Conflict-Aware Pseudo Labeling via Optimal Transport for Entity Alignment**|Qijie Ding et.al.|[2209.01847v2](http://arxiv.org/abs/2209.01847v2)|[link](https://github.com/qdin4048/CPL-OT)|
-|**2022-10-31**|**Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit**|Hongji Wang et.al.|[2210.17016v2](http://arxiv.org/abs/2210.17016v2)|[link](https://github.com/wenet-e2e/wespeaker)|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -137,6 +137,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-14**|**Mixture Components Inference for Sparse Regression: Introduction and Application for Estimation of Neuronal Signal from fMRI BOLD**|Anna Pidnebesna et.al.|[2203.07209v3](http://arxiv.org/abs/2203.07209v3)|null|
+|**2022-11-11**|**Online Linearized LASSO**|Shuoguang Yang et.al.|[2211.06039v2](http://arxiv.org/abs/2211.06039v2)|null|
+|**2022-12-31**|**On High dimensional Poisson models with measurement error: hypothesis testing for nonlinear nonconvex optimization**|Fei Jiang et.al.|[2301.00139v1](http://arxiv.org/abs/2301.00139v1)|null|
+|**2022-12-30**|**Robust machine learning pipelines for trading market-neutral stock portfolios**|Thomas Wong et.al.|[2301.00790v1](http://arxiv.org/abs/2301.00790v1)|null|
 |**2022-12-30**|**A Machine Learning Case Study for AI-empowered echocardiography of Intensive Care Unit Patients in low- and middle-income countries**|Xochicale Miguel et.al.|[2212.14510v1](http://arxiv.org/abs/2212.14510v1)|null|
 |**2018-12-21**|**Learning Representations from Dendrograms**|Morteza Haghir Chehreghani et.al.|[1812.09225v4](http://arxiv.org/abs/1812.09225v4)|null|
 |**2022-03-22**|**Predictor Selection for Synthetic Controls**|Jaume Vives-i-Bastida et.al.|[2203.11576v2](http://arxiv.org/abs/2203.11576v2)|null|
@@ -148,7 +152,3 @@
 |**2021-10-27**|**Doubly Robust Criterion for Causal Inference**|Takamichi Baba et.al.|[2110.14525v3](http://arxiv.org/abs/2110.14525v3)|null|
 |**2022-01-04**|**Towards Transferable Unrestricted Adversarial Examples with Minimum Changes**|Fangcheng Liu et.al.|[2201.01102v2](http://arxiv.org/abs/2201.01102v2)|[link](https://github.com/Equationliu/GA-Attack)|
 |**2022-12-26**|**Bayesian indicator variable selection of multivariate response with heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
-|**2022-12-26**|**Robust distance correlation for variable screening**|Tianzhou Ma et.al.|[2212.13292v1](http://arxiv.org/abs/2212.13292v1)|null|
-|**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
-|**2022-12-23**|**Rényi Distillation for Global Testing in Sparse Regression Problems**|Ryan Christ et.al.|[2212.12539v1](http://arxiv.org/abs/2212.12539v1)|null|
-|**2022-12-23**|**Statistical inference with normal-compound gamma priors in regression models**|Ahmed Alhamzawi et.al.|[2212.13144v1](http://arxiv.org/abs/2212.13144v1)|null|
