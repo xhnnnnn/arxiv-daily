@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-28 07:24:25 Asia/Shanghai
+ Automated deployment @ 2023-01-28 19:20:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Graph Model
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-26**|**Weak hypergraph regularity and applications to geometric Ramsey theory**|Neil Lyall et.al.|[2301.11319v1](http://arxiv.org/abs/2301.11319v1)|null|
-|**2023-01-26**|**Generalized Inference of Mesoscale Structures in Higher-order Networks**|Nicolò Ruggeri et.al.|[2301.11226v1](http://arxiv.org/abs/2301.11226v1)|[link](https://github.com/nickruggeri/hy-mmsbm)|
-|**2022-04-26**|**Monochromatic paths in $2$-edge coloured graphs and hypergraphs**|Maya Stein et.al.|[2204.12464v3](http://arxiv.org/abs/2204.12464v3)|null|
-|**2021-01-12**|**A proof of the Erdős-Faber-Lovász conjecture**|Dong Yeap Kang et.al.|[2101.04698v3](http://arxiv.org/abs/2101.04698v3)|null|
-|**2023-01-25**|**Bit-complexity estimates in geometric programming, and application to the polynomial-time computation of the spectral radius of nonnegative tensors**|Shmuel Friedland et.al.|[2301.10637v1](http://arxiv.org/abs/2301.10637v1)|null|
-|**2022-07-06**|**On the $k$-tunnel join of hypergraphs and threshold hypergraphs**|Anirban Banerjee et.al.|[2207.02528v3](http://arxiv.org/abs/2207.02528v3)|null|
-|**2022-01-19**|**Multiway Spherical Clustering via Degree-Corrected Tensor Block Models**|Jiaxin Hu et.al.|[2201.07401v2](http://arxiv.org/abs/2201.07401v2)|null|
-|**2023-01-23**|**Minimum vertex degree conditions for loose spanning trees in 3-graphs**|Yanitsa Pehova et.al.|[2301.09630v1](http://arxiv.org/abs/2301.09630v1)|null|
-|**2023-01-23**|**Contractions and extractions on twisted bialgebras and coloured Fock functors**|Loïc Foissy et.al.|[2301.09447v1](http://arxiv.org/abs/2301.09447v1)|null|
-|**2023-01-21**|**Efficient Flow-based Approximation Algorithms for Submodular Hypergraph Partitioning via a Generalized Cut-Matching Game**|Konstantinos Ameranis et.al.|[2301.08920v1](http://arxiv.org/abs/2301.08920v1)|null|
-|**2022-11-02**|**Existential Closure in Line Graphs**|Andrea C. Burgess et.al.|[2211.01168v2](http://arxiv.org/abs/2211.01168v2)|null|
-|**2022-11-17**|**Hypergraph Transformer for Skeleton-based Action Recognition**|Yuxuan Zhou et.al.|[2211.09590v2](http://arxiv.org/abs/2211.09590v2)|null|
-|**2023-01-20**|**Hypercore Decomposition for Non-Fragile Hyperedges: Concepts, Algorithms, Observations, and Applications**|Fanchen Bu et.al.|[2301.08440v1](http://arxiv.org/abs/2301.08440v1)|[link](https://github.com/bokveizen/non-fragile-hypercore)|
-|**2023-01-18**|**A new approach for the Brown-Erdos-Sos problem**|Asaf Shapira et.al.|[2301.07758v1](http://arxiv.org/abs/2301.07758v1)|null|
-|**2023-01-11**|**Bounds on Embeddings of Triangulations of Spheres**|Jack Southgate et.al.|[2301.04394v2](http://arxiv.org/abs/2301.04394v2)|null|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2022-10-27**|**GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering**|Madeline Navarro et.al.|[2210.15721v1](http://arxiv.org/abs/2210.15721v1)|[link](https://github.com/mn51/graphmad)|
 |**2022-10-27**|**Training Graph Neural Networks on Growing Stochastic Graphs**|Juan Cervino et.al.|[2210.15567v1](http://arxiv.org/abs/2210.15567v1)|null|
 |**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v1](http://arxiv.org/abs/2210.14097v1)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-26**|**Weak hypergraph regularity and applications to geometric Ramsey theory**|Neil Lyall et.al.|[2301.11319v1](http://arxiv.org/abs/2301.11319v1)|null|
+|**2023-01-26**|**Generalized Inference of Mesoscale Structures in Higher-order Networks**|Nicolò Ruggeri et.al.|[2301.11226v1](http://arxiv.org/abs/2301.11226v1)|[link](https://github.com/nickruggeri/hy-mmsbm)|
+|**2022-04-26**|**Monochromatic paths in $2$-edge coloured graphs and hypergraphs**|Maya Stein et.al.|[2204.12464v3](http://arxiv.org/abs/2204.12464v3)|null|
+|**2021-01-12**|**A proof of the Erdős-Faber-Lovász conjecture**|Dong Yeap Kang et.al.|[2101.04698v3](http://arxiv.org/abs/2101.04698v3)|null|
+|**2023-01-25**|**Bit-complexity estimates in geometric programming, and application to the polynomial-time computation of the spectral radius of nonnegative tensors**|Shmuel Friedland et.al.|[2301.10637v1](http://arxiv.org/abs/2301.10637v1)|null|
+|**2022-07-06**|**On the $k$-tunnel join of hypergraphs and threshold hypergraphs**|Anirban Banerjee et.al.|[2207.02528v3](http://arxiv.org/abs/2207.02528v3)|null|
+|**2022-01-19**|**Multiway Spherical Clustering via Degree-Corrected Tensor Block Models**|Jiaxin Hu et.al.|[2201.07401v2](http://arxiv.org/abs/2201.07401v2)|null|
+|**2023-01-23**|**Minimum vertex degree conditions for loose spanning trees in 3-graphs**|Yanitsa Pehova et.al.|[2301.09630v1](http://arxiv.org/abs/2301.09630v1)|null|
+|**2023-01-23**|**Contractions and extractions on twisted bialgebras and coloured Fock functors**|Loïc Foissy et.al.|[2301.09447v1](http://arxiv.org/abs/2301.09447v1)|null|
+|**2023-01-21**|**Efficient Flow-based Approximation Algorithms for Submodular Hypergraph Partitioning via a Generalized Cut-Matching Game**|Konstantinos Ameranis et.al.|[2301.08920v1](http://arxiv.org/abs/2301.08920v1)|null|
+|**2022-11-02**|**Existential Closure in Line Graphs**|Andrea C. Burgess et.al.|[2211.01168v2](http://arxiv.org/abs/2211.01168v2)|null|
+|**2022-11-17**|**Hypergraph Transformer for Skeleton-based Action Recognition**|Yuxuan Zhou et.al.|[2211.09590v2](http://arxiv.org/abs/2211.09590v2)|null|
+|**2023-01-20**|**Hypercore Decomposition for Non-Fragile Hyperedges: Concepts, Algorithms, Observations, and Applications**|Fanchen Bu et.al.|[2301.08440v1](http://arxiv.org/abs/2301.08440v1)|[link](https://github.com/bokveizen/non-fragile-hypercore)|
+|**2023-01-18**|**A new approach for the Brown-Erdos-Sos problem**|Asaf Shapira et.al.|[2301.07758v1](http://arxiv.org/abs/2301.07758v1)|null|
+|**2023-01-11**|**Bounds on Embeddings of Triangulations of Spheres**|Jack Southgate et.al.|[2301.04394v2](http://arxiv.org/abs/2301.04394v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,25 +94,6 @@
 
 ## Embedding
 
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-01**|**Multimodal Analogical Reasoning over Knowledge Graphs**|Ningyu Zhang et.al.|[2210.00312v3](http://arxiv.org/abs/2210.00312v3)|[link](https://github.com/zjunlp/MKG_Analogy)|
-|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v1](http://arxiv.org/abs/2301.10405v1)|[link](https://github.com/zjunlp/promptkg)|
-|**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v5](http://arxiv.org/abs/2212.05767v5)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
-|**2023-01-24**|**Using Knowledge Graphs for Performance Prediction of Modular Optimization Algorithms**|Ana Kostovska et.al.|[2301.09876v1](http://arxiv.org/abs/2301.09876v1)|null|
-|**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
-|**2023-01-20**|**causalgraph: A Python Package for Modeling, Persisting and Visualizing Causal Graphs Embedded in Knowledge Graphs**|Sven Pieper et.al.|[2301.08490v1](http://arxiv.org/abs/2301.08490v1)|[link](https://github.com/causalgraph/causalgraph)|
-|**2023-01-17**|**Knowledge Acquisition and Completion for Long-Term Human-Robot Interactions using Knowledge Graph Embedding**|E. Bartoli et.al.|[2301.06834v1](http://arxiv.org/abs/2301.06834v1)|null|
-|**2023-01-16**|**Supporting Secure Dynamic Alert Zones Using Searchable Encryption and Graph Embedding**|Sina Shaham et.al.|[2301.06238v1](http://arxiv.org/abs/2301.06238v1)|null|
-|**2023-01-13**|**Sem@$K$: Is my knowledge graph embedding model semantic-aware?**|Nicolas Hubert et.al.|[2301.05601v1](http://arxiv.org/abs/2301.05601v1)|null|
-|**2022-12-07**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v2](http://arxiv.org/abs/2212.03978v2)|null|
-|**2023-01-09**|**Topologically Regularized Data Embeddings**|Edith Heiter et.al.|[2301.03338v1](http://arxiv.org/abs/2301.03338v1)|[link](https://github.com/aida-ugent/topoembedding)|
-|**2023-01-07**|**Knowledge Reasoning via Jointly Modeling Knowledge Graphs and Soft Rules**|Yinyu Lan et.al.|[2301.02781v1](http://arxiv.org/abs/2301.02781v1)|null|
-|**2022-05-27**|**Text-Based Automatic Personality Prediction Using KGrAt-Net; A Knowledge Graph Attention Network Classifier**|Majid Ramezani et.al.|[2205.13780v2](http://arxiv.org/abs/2205.13780v2)|null|
-|**2020-06-08**|**FREDE: Anytime Graph Embeddings**|Anton Tsitsulin et.al.|[2006.04746v2](http://arxiv.org/abs/2006.04746v2)|null|
-|**2023-01-03**|**Analogical Inference Enhanced Knowledge Graph Embedding**|Yao Zhen et.al.|[2301.00982v1](http://arxiv.org/abs/2301.00982v1)|[link](https://github.com/zjukg/ankge)|
-
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -131,6 +112,25 @@
 |**2022-11-30**|**Towards Training GNNs using Explanation Directed Message Passing**|Valentina Giunchiglia et.al.|[2211.16731v2](http://arxiv.org/abs/2211.16731v2)|[link](https://github.com/researching-the-unknown/expass)|
 |**2022-11-29**|**Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**|Yuanning Cui et.al.|[2211.15845v1](http://arxiv.org/abs/2211.15845v1)|[link](https://github.com/nju-websoft/lkge)|
 |**2022-08-02**|**Optimal Rates for Regularized Conditional Mean Embedding Learning**|Zhu Li et.al.|[2208.01711v2](http://arxiv.org/abs/2208.01711v2)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-01**|**Multimodal Analogical Reasoning over Knowledge Graphs**|Ningyu Zhang et.al.|[2210.00312v3](http://arxiv.org/abs/2210.00312v3)|[link](https://github.com/zjunlp/MKG_Analogy)|
+|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v1](http://arxiv.org/abs/2301.10405v1)|[link](https://github.com/zjunlp/promptkg)|
+|**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v5](http://arxiv.org/abs/2212.05767v5)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
+|**2023-01-24**|**Using Knowledge Graphs for Performance Prediction of Modular Optimization Algorithms**|Ana Kostovska et.al.|[2301.09876v1](http://arxiv.org/abs/2301.09876v1)|null|
+|**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
+|**2023-01-20**|**causalgraph: A Python Package for Modeling, Persisting and Visualizing Causal Graphs Embedded in Knowledge Graphs**|Sven Pieper et.al.|[2301.08490v1](http://arxiv.org/abs/2301.08490v1)|[link](https://github.com/causalgraph/causalgraph)|
+|**2023-01-17**|**Knowledge Acquisition and Completion for Long-Term Human-Robot Interactions using Knowledge Graph Embedding**|E. Bartoli et.al.|[2301.06834v1](http://arxiv.org/abs/2301.06834v1)|null|
+|**2023-01-16**|**Supporting Secure Dynamic Alert Zones Using Searchable Encryption and Graph Embedding**|Sina Shaham et.al.|[2301.06238v1](http://arxiv.org/abs/2301.06238v1)|null|
+|**2023-01-13**|**Sem@$K$: Is my knowledge graph embedding model semantic-aware?**|Nicolas Hubert et.al.|[2301.05601v1](http://arxiv.org/abs/2301.05601v1)|null|
+|**2022-12-07**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v2](http://arxiv.org/abs/2212.03978v2)|null|
+|**2023-01-09**|**Topologically Regularized Data Embeddings**|Edith Heiter et.al.|[2301.03338v1](http://arxiv.org/abs/2301.03338v1)|[link](https://github.com/aida-ugent/topoembedding)|
+|**2023-01-07**|**Knowledge Reasoning via Jointly Modeling Knowledge Graphs and Soft Rules**|Yinyu Lan et.al.|[2301.02781v1](http://arxiv.org/abs/2301.02781v1)|null|
+|**2022-05-27**|**Text-Based Automatic Personality Prediction Using KGrAt-Net; A Knowledge Graph Attention Network Classifier**|Majid Ramezani et.al.|[2205.13780v2](http://arxiv.org/abs/2205.13780v2)|null|
+|**2020-06-08**|**FREDE: Anytime Graph Embeddings**|Anton Tsitsulin et.al.|[2006.04746v2](http://arxiv.org/abs/2006.04746v2)|null|
+|**2023-01-03**|**Analogical Inference Enhanced Knowledge Graph Embedding**|Yao Zhen et.al.|[2301.00982v1](http://arxiv.org/abs/2301.00982v1)|[link](https://github.com/zjukg/ankge)|
 
 ## Variable Selection
 
