@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-03 07:26:11 Asia/Shanghai
+ Automated deployment @ 2023-02-03 19:22:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-02**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259v1](http://arxiv.org/abs/2302.01259v1)|null|
+|**2022-11-10**|**Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems**|Abishek Thangamuthu et.al.|[2211.05520v2](http://arxiv.org/abs/2211.05520v2)|[link](https://github.com/m3rg-iitd/benchmarking_graph)|
+|**2023-02-02**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v1](http://arxiv.org/abs/2302.01018v1)|null|
+|**2023-02-02**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v1](http://arxiv.org/abs/2302.00981v1)|null|
+|**2023-01-29**|**Semantics-enhanced Temporal Graph Networks for Content Caching and Energy Saving**|Jianhang Zhu et.al.|[2301.12355v2](http://arxiv.org/abs/2301.12355v2)|null|
+|**2023-02-02**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence**|Zhihao Shi et.al.|[2302.00924v1](http://arxiv.org/abs/2302.00924v1)|null|
+|**2023-02-02**|**Quantum Graph Learning: Frontiers and Outlook**|Shuo Yu et.al.|[2302.00892v1](http://arxiv.org/abs/2302.00892v1)|null|
+|**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v1](http://arxiv.org/abs/2302.00873v1)|null|
+|**2023-02-02**|**Molecular Geometry-aware Transformer for accurate 3D Atomic System modeling**|Zheng Yuan et.al.|[2302.00855v1](http://arxiv.org/abs/2302.00855v1)|null|
+|**2023-02-02**|**Causal Effect Estimation: Recent Advances, Challenges, and Opportunities**|Zhixuan Chu et.al.|[2302.00848v1](http://arxiv.org/abs/2302.00848v1)|null|
+|**2023-02-01**|**MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs**|Theodor Westny et.al.|[2302.00735v1](http://arxiv.org/abs/2302.00735v1)|null|
 |**2023-01-11**|**Physics Simulation Via Quantum Graph Neural Network**|Benjamin Collis et.al.|[2301.04702v2](http://arxiv.org/abs/2301.04702v2)|null|
 |**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
 |**2023-02-01**|**Graph Neural Network Based Surrogate Model of Physics Simulations for Geometry Design**|Jian Cheng Wong et.al.|[2302.00557v1](http://arxiv.org/abs/2302.00557v1)|null|
 |**2023-02-01**|**Simple yet Effective Gradient-Free Graph Convolutional Networks**|Yulin Zhu et.al.|[2302.00371v1](http://arxiv.org/abs/2302.00371v1)|null|
-|**2023-02-01**|**Knowledge Distillation on Graphs: A Survey**|Yijun Tian et.al.|[2302.00219v1](http://arxiv.org/abs/2302.00219v1)|null|
-|**2022-11-04**|**Geometry-Complete Perceptron Networks for 3D Molecular Graphs**|Alex Morehead et.al.|[2211.02504v3](http://arxiv.org/abs/2211.02504v3)|[link](https://github.com/bioinfomachinelearning/gcpnet)|
-|**2023-02-01**|**$\rm A^2Q$: Aggregation-Aware Quantization for Graph Neural Networks**|Zeyu Zhu et.al.|[2302.00193v1](http://arxiv.org/abs/2302.00193v1)|[link](https://github.com/weihai-98/a-2q)|
-|**2023-01-31**|**OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization**|Hengrui Zhang et.al.|[2302.00109v1](http://arxiv.org/abs/2302.00109v1)|null|
-|**2023-01-31**|**Partitioning Distributed Compute Jobs with Reinforcement Learning and Graph Neural Networks**|Christopher W. F. Parsonson et.al.|[2301.13799v1](http://arxiv.org/abs/2301.13799v1)|null|
-|**2023-01-31**|**Semi-Supervised Classification with Graph Convolutional Kernel Machines**|Sonny Achten et.al.|[2301.13764v1](http://arxiv.org/abs/2301.13764v1)|null|
-|**2023-01-31**|**The passive symmetries of machine learning**|Soledad Villar et.al.|[2301.13724v1](http://arxiv.org/abs/2301.13724v1)|null|
-|**2023-01-31**|**Are Defenses for Graph Neural Networks Robust?**|Felix Mujkanovic et.al.|[2301.13694v1](http://arxiv.org/abs/2301.13694v1)|null|
-|**2022-06-06**|**Canonical Cortical Graph Neural Networks and its Application for Speech Enhancement in Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v3](http://arxiv.org/abs/2206.02671v3)|null|
-|**2023-01-31**|**DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models**|Haomin Wen et.al.|[2301.13629v1](http://arxiv.org/abs/2301.13629v1)|null|
-|**2023-01-31**|**DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs**|Hanna Kim et.al.|[2301.13577v1](http://arxiv.org/abs/2301.13577v1)|null|
 
 ## Embedding
 
@@ -75,25 +75,6 @@
 
 ## Graph Model
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-31**|**Rainbow Hamilton cycle in hypergraph system**|Yucong Tang et.al.|[2302.00080v1](http://arxiv.org/abs/2302.00080v1)|null|
-|**2022-08-01**|**Synchronization of phase oscillators on complex hypergraphs**|Sabina Adhikari et.al.|[2208.00909v3](http://arxiv.org/abs/2208.00909v3)|null|
-|**2023-01-30**|**The open dihypergraph dichotomy for generalized Baire spaces and its applications**|Philipp Schlicht et.al.|[2301.13274v1](http://arxiv.org/abs/2301.13274v1)|null|
-|**2021-08-13**|**The typical approximate structure of sets with bounded sumset**|Marcelo Campos et.al.|[2108.06253v2](http://arxiv.org/abs/2108.06253v2)|null|
-|**2023-01-30**|**An order out of nowhere: a new algorithm for infinite-domain CSPs**|Antoine Mottet et.al.|[2301.12977v1](http://arxiv.org/abs/2301.12977v1)|null|
-|**2022-12-16**|**Synchronization-preserving clusters in hypergraphs**|Anirban Banerjee et.al.|[2212.08314v2](http://arxiv.org/abs/2212.08314v2)|null|
-|**2023-01-28**|**Cut-matching Games for Generalized Hypergraph Ratio Cuts**|Nate Veldt et.al.|[2301.12274v1](http://arxiv.org/abs/2301.12274v1)|[link](https://github.com/nveldt/hypercutmatch)|
-|**2023-01-28**|**Causal Influence Maximization in Hypergraph**|Xinyan Su et.al.|[2301.12226v1](http://arxiv.org/abs/2301.12226v1)|null|
-|**2023-01-28**|**Laplacian-based Semi-Supervised Learning in Multilayer Hypergraphs by Coordinate Descent**|Sara Venturini et.al.|[2301.12184v1](http://arxiv.org/abs/2301.12184v1)|[link](https://github.com/saraventurini/semi-supervised-learning-in-multilayer-hypergraphs-by-coordinate-descent)|
-|**2023-01-27**|**Big portfolio selection by graph-based conditional moments method**|Zhoufan Zhu et.al.|[2301.11697v1](http://arxiv.org/abs/2301.11697v1)|null|
-|**2023-01-27**|**Multilayer hypergraph clustering using the aggregate similarity matrix**|Kalle Alaluusua et.al.|[2301.11657v1](http://arxiv.org/abs/2301.11657v1)|null|
-|**2023-01-26**|**Entanglement Purification of Hypergraph States**|Lina Vandré et.al.|[2301.11341v1](http://arxiv.org/abs/2301.11341v1)|null|
-|**2023-01-26**|**Weak hypergraph regularity and applications to geometric Ramsey theory**|Neil Lyall et.al.|[2301.11319v1](http://arxiv.org/abs/2301.11319v1)|null|
-|**2023-01-26**|**Generalized Inference of Mesoscale Structures in Higher-order Networks**|Nicolò Ruggeri et.al.|[2301.11226v1](http://arxiv.org/abs/2301.11226v1)|[link](https://github.com/nickruggeri/hy-mmsbm)|
-|**2022-04-26**|**Monochromatic paths in $2$-edge coloured graphs and hypergraphs**|Maya Stein et.al.|[2204.12464v3](http://arxiv.org/abs/2204.12464v3)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,6 +93,25 @@
 |**2023-01-09**|**Topologically Regularized Data Embeddings**|Edith Heiter et.al.|[2301.03338v1](http://arxiv.org/abs/2301.03338v1)|[link](https://github.com/aida-ugent/topoembedding)|
 |**2023-01-07**|**Knowledge Reasoning via Jointly Modeling Knowledge Graphs and Soft Rules**|Yinyu Lan et.al.|[2301.02781v1](http://arxiv.org/abs/2301.02781v1)|null|
 |**2022-05-27**|**Text-Based Automatic Personality Prediction Using KGrAt-Net; A Knowledge Graph Attention Network Classifier**|Majid Ramezani et.al.|[2205.13780v2](http://arxiv.org/abs/2205.13780v2)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-31**|**Rainbow Hamilton cycle in hypergraph system**|Yucong Tang et.al.|[2302.00080v1](http://arxiv.org/abs/2302.00080v1)|null|
+|**2022-08-01**|**Synchronization of phase oscillators on complex hypergraphs**|Sabina Adhikari et.al.|[2208.00909v3](http://arxiv.org/abs/2208.00909v3)|null|
+|**2023-01-30**|**The open dihypergraph dichotomy for generalized Baire spaces and its applications**|Philipp Schlicht et.al.|[2301.13274v1](http://arxiv.org/abs/2301.13274v1)|null|
+|**2021-08-13**|**The typical approximate structure of sets with bounded sumset**|Marcelo Campos et.al.|[2108.06253v2](http://arxiv.org/abs/2108.06253v2)|null|
+|**2023-01-30**|**An order out of nowhere: a new algorithm for infinite-domain CSPs**|Antoine Mottet et.al.|[2301.12977v1](http://arxiv.org/abs/2301.12977v1)|null|
+|**2022-12-16**|**Synchronization-preserving clusters in hypergraphs**|Anirban Banerjee et.al.|[2212.08314v2](http://arxiv.org/abs/2212.08314v2)|null|
+|**2023-01-28**|**Cut-matching Games for Generalized Hypergraph Ratio Cuts**|Nate Veldt et.al.|[2301.12274v1](http://arxiv.org/abs/2301.12274v1)|[link](https://github.com/nveldt/hypercutmatch)|
+|**2023-01-28**|**Causal Influence Maximization in Hypergraph**|Xinyan Su et.al.|[2301.12226v1](http://arxiv.org/abs/2301.12226v1)|null|
+|**2023-01-28**|**Laplacian-based Semi-Supervised Learning in Multilayer Hypergraphs by Coordinate Descent**|Sara Venturini et.al.|[2301.12184v1](http://arxiv.org/abs/2301.12184v1)|[link](https://github.com/saraventurini/semi-supervised-learning-in-multilayer-hypergraphs-by-coordinate-descent)|
+|**2023-01-27**|**Big portfolio selection by graph-based conditional moments method**|Zhoufan Zhu et.al.|[2301.11697v1](http://arxiv.org/abs/2301.11697v1)|null|
+|**2023-01-27**|**Multilayer hypergraph clustering using the aggregate similarity matrix**|Kalle Alaluusua et.al.|[2301.11657v1](http://arxiv.org/abs/2301.11657v1)|null|
+|**2023-01-26**|**Entanglement Purification of Hypergraph States**|Lina Vandré et.al.|[2301.11341v1](http://arxiv.org/abs/2301.11341v1)|null|
+|**2023-01-26**|**Weak hypergraph regularity and applications to geometric Ramsey theory**|Neil Lyall et.al.|[2301.11319v1](http://arxiv.org/abs/2301.11319v1)|null|
+|**2023-01-26**|**Generalized Inference of Mesoscale Structures in Higher-order Networks**|Nicolò Ruggeri et.al.|[2301.11226v1](http://arxiv.org/abs/2301.11226v1)|[link](https://github.com/nickruggeri/hy-mmsbm)|
+|**2022-04-26**|**Monochromatic paths in $2$-edge coloured graphs and hypergraphs**|Maya Stein et.al.|[2204.12464v3](http://arxiv.org/abs/2204.12464v3)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -137,6 +137,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-02**|**MLOps with enhanced performance control and observability**|Indradumna Banerjee et.al.|[2302.01061v1](http://arxiv.org/abs/2302.01061v1)|null|
+|**2021-02-26**|**Nonparametric calibration for stochastic reaction-diffusion equations based on discrete observations**|Florian Hildebrandt et.al.|[2102.13415v2](http://arxiv.org/abs/2102.13415v2)|null|
+|**2022-10-19**|**Measuring the giant radio galaxy length distribution with the LoTSS**|Martijn S. S. L. Oei et.al.|[2210.10234v2](http://arxiv.org/abs/2210.10234v2)|null|
 |**2023-01-25**|**Model selection-based estimation for generalized additive models using mixtures of g-priors: Towards systematization**|Gyeonghun Kang et.al.|[2301.10468v2](http://arxiv.org/abs/2301.10468v2)|null|
 |**2022-11-26**|**Direct-Effect Risk Minimization for Domain Generalization**|Yuhui Li et.al.|[2211.14594v3](http://arxiv.org/abs/2211.14594v3)|[link](https://github.com/liyuhui-12/drmfordg)|
 |**2023-02-01**|**How to select predictive models for causal inference?**|Doutreligne Matthieu et.al.|[2302.00370v1](http://arxiv.org/abs/2302.00370v1)|null|
@@ -149,6 +152,3 @@
 |**2023-01-30**|**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**|Daniel Mork et.al.|[2301.12937v1](http://arxiv.org/abs/2301.12937v1)|[link](https://github.com/danielmork/monotone_dlnm)|
 |**2023-01-30**|**Specializing Smaller Language Models towards Multi-Step Reasoning**|Yao Fu et.al.|[2301.12726v1](http://arxiv.org/abs/2301.12726v1)|null|
 |**2023-01-30**|**Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery**|L. Mars Gao et.al.|[2301.12649v1](http://arxiv.org/abs/2301.12649v1)|null|
-|**2021-11-30**|**Hierarchical clustering: visualization, feature importance and model selection**|Luben M. C. Cabezas et.al.|[2112.01372v2](http://arxiv.org/abs/2112.01372v2)|[link](https://github.com/Monoxido45/PhyloHclust)|
-|**2023-01-28**|**Forward screening and post-screening inference in factorial designs**|Lei Shi et.al.|[2301.12045v1](http://arxiv.org/abs/2301.12045v1)|null|
-|**2023-01-27**|**A Deep Learning Method for Comparing Bayesian Hierarchical Models**|Lasse Elsemüller et.al.|[2301.11873v1](http://arxiv.org/abs/2301.11873v1)|[link](https://github.com/elseml/deephierarchicalmodelcomparison)|
