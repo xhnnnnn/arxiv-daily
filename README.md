@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-18 07:25:55 Asia/Shanghai
+ Automated deployment @ 2023-02-18 19:22:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,26 +33,28 @@
 |**2023-02-15**|**Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
 |**2023-02-02**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence**|Zhihao Shi et.al.|[2302.00924v2](http://arxiv.org/abs/2302.00924v2)|[link](https://github.com/miralab-ustc/gnn-lmc)|
 
-## Graph Model
+## Variable Selection
 
-### Graph Embedding
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
-|**2023-02-13**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v2](http://arxiv.org/abs/2302.06057v2)|[link](https://github.com/yzhang1918/www2023tiger)|
-|**2023-02-13**|**Universal families of arcs and curves on surfaces**|Niloufar Fuladi et.al.|[2302.06336v2](http://arxiv.org/abs/2302.06336v2)|null|
-|**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
-|**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v3](http://arxiv.org/abs/2208.10917v3)|null|
-|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v3](http://arxiv.org/abs/2301.10405v3)|[link](https://github.com/zjunlp/promptkg)|
-|**2023-02-13**|**Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models**|Cosimo Gregucci et.al.|[2302.06229v1](http://arxiv.org/abs/2302.06229v1)|null|
-|**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v2](http://arxiv.org/abs/2212.12200v2)|null|
-|**2022-08-16**|**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**|Zhaoxuan Tan et.al.|[2208.07622v2](http://arxiv.org/abs/2208.07622v2)|[link](https://github.com/tamsiuhin/kracl)|
-|**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
-|**2023-02-08**|**Improving (Dis)agreement Detection with Inductive Social Relation Information From Comment-Reply Interactions**|Yun Luo et.al.|[2302.03950v1](http://arxiv.org/abs/2302.03950v1)|[link](https://github.com/luoxiaoheics/stancerel)|
-|**2023-02-07**|**A Fock space structure for the diffeomorphism invariant Hilbert space of loop quantum gravity and its applications**|Hanno Sahlmann et.al.|[2302.03612v1](http://arxiv.org/abs/2302.03612v1)|null|
-|**2022-06-02**|**Graph Kernels Based on Multi-scale Graph Embeddings**|Wei Ye et.al.|[2206.00979v2](http://arxiv.org/abs/2206.00979v2)|[link](https://github.com/yeweiysh/mpg)|
-|**2023-02-06**|**Spectral Augmentations for Graph Contrastive Learning**|Amur Ghose et.al.|[2302.02909v1](http://arxiv.org/abs/2302.02909v1)|null|
-|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v3](http://arxiv.org/abs/2201.05575v3)|[link](https://github.com/zjunlp/knn-kg)|
+|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v2](http://arxiv.org/abs/2302.01668v2)|null|
+|**2022-06-13**|**Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation**|Zengyu Qiu et.al.|[2206.06067v3](http://arxiv.org/abs/2206.06067v3)|[link](https://github.com/cuibaby/dpk)|
+|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v3](http://arxiv.org/abs/2211.10776v3)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
+|**2022-12-28**|**Choosing the Number of Topics in LDA Models -- A Monte Carlo Comparison of Selection Criteria**|Victor Bystrov et.al.|[2212.14074v2](http://arxiv.org/abs/2212.14074v2)|[link](https://github.com/vikana/sbic)|
+|**2021-01-21**|**Rethinking Semantic Segmentation Evaluation for Explainability and Model Selection**|Yuxiang Zhang et.al.|[2101.08418v2](http://arxiv.org/abs/2101.08418v2)|null|
+|**2019-12-11**|**Graph quilting: graphical model selection from partially observed covariances**|Giuseppe Vinci et.al.|[1912.05573v2](http://arxiv.org/abs/1912.05573v2)|null|
+|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v1](http://arxiv.org/abs/2302.07415v1)|null|
+|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v3](http://arxiv.org/abs/2208.14111v3)|[link](https://github.com/ukplab/2022-raft)|
+|**2020-05-30**|**Solution Path Algorithm for Twin Multi-class Support Vector Machine**|Liuyuan Chen et.al.|[2006.00276v2](http://arxiv.org/abs/2006.00276v2)|[link](https://github.com/zhoukanglei/twinmultipath)|
+|**2021-01-14**|**Multivariate Bayesian structured variable selection for pharmacogenomic studies**|Zhi Zhao et.al.|[2101.05899v3](http://arxiv.org/abs/2101.05899v3)|[link](https://github.com/zhizuio/BayesSUR-RE)|
+|**2022-10-10**|**Accumulating errors in tests of general relativity with gravitational waves: overlapping signals and inaccurate waveforms**|Qian Hu et.al.|[2210.04769v2](http://arxiv.org/abs/2210.04769v2)|null|
+|**2020-09-22**|**Non-asymptotic oracle inequalities for the Lasso in high-dimensional mixture of experts**|TrungTin Nguyen et.al.|[2009.10622v6](http://arxiv.org/abs/2009.10622v6)|null|
+|**2023-02-11**|**Fair Enough: Standardizing Evaluation and Model Selection for Fairness Research in NLP**|Xudong Han et.al.|[2302.05711v1](http://arxiv.org/abs/2302.05711v1)|[link](https://github.com/hanxudong/fair_enough)|
+|**2019-07-19**|**Reluctant Interaction Modeling**|Guo Yu et.al.|[1907.08414v3](http://arxiv.org/abs/1907.08414v3)|null|
+|**2023-02-10**|**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**|Beniamino Hadj-Amar et.al.|[2302.05347v1](http://arxiv.org/abs/2302.05347v1)|null|
+
+## Graph Model
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,6 +74,25 @@
 |**2022-11-07**|**Implicit Graphon Neural Representation**|Xinyue Xia et.al.|[2211.03329v2](http://arxiv.org/abs/2211.03329v2)|null|
 |**2022-10-02**|**Stochastic optimization on matrices and a graphon McKean-Vlasov limit**|Zaid Harchaoui et.al.|[2210.00422v2](http://arxiv.org/abs/2210.00422v2)|null|
 |**2022-11-03**|**On the continuum limit of epidemiological models on graphs: convergence results, approximation and numerical simulations**|Blanca Ayuso de Dios et.al.|[2211.01932v1](http://arxiv.org/abs/2211.01932v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
+|**2023-02-13**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v2](http://arxiv.org/abs/2302.06057v2)|[link](https://github.com/yzhang1918/www2023tiger)|
+|**2023-02-13**|**Universal families of arcs and curves on surfaces**|Niloufar Fuladi et.al.|[2302.06336v2](http://arxiv.org/abs/2302.06336v2)|null|
+|**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
+|**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v3](http://arxiv.org/abs/2208.10917v3)|null|
+|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v3](http://arxiv.org/abs/2301.10405v3)|[link](https://github.com/zjunlp/promptkg)|
+|**2023-02-13**|**Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models**|Cosimo Gregucci et.al.|[2302.06229v1](http://arxiv.org/abs/2302.06229v1)|null|
+|**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v2](http://arxiv.org/abs/2212.12200v2)|null|
+|**2022-08-16**|**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**|Zhaoxuan Tan et.al.|[2208.07622v2](http://arxiv.org/abs/2208.07622v2)|[link](https://github.com/tamsiuhin/kracl)|
+|**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
+|**2023-02-08**|**Improving (Dis)agreement Detection with Inductive Social Relation Information From Comment-Reply Interactions**|Yun Luo et.al.|[2302.03950v1](http://arxiv.org/abs/2302.03950v1)|[link](https://github.com/luoxiaoheics/stancerel)|
+|**2023-02-07**|**A Fock space structure for the diffeomorphism invariant Hilbert space of loop quantum gravity and its applications**|Hanno Sahlmann et.al.|[2302.03612v1](http://arxiv.org/abs/2302.03612v1)|null|
+|**2022-06-02**|**Graph Kernels Based on Multi-scale Graph Embeddings**|Wei Ye et.al.|[2206.00979v2](http://arxiv.org/abs/2206.00979v2)|[link](https://github.com/yeweiysh/mpg)|
+|**2023-02-06**|**Spectral Augmentations for Graph Contrastive Learning**|Amur Ghose et.al.|[2302.02909v1](http://arxiv.org/abs/2302.02909v1)|null|
+|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v3](http://arxiv.org/abs/2201.05575v3)|[link](https://github.com/zjunlp/knn-kg)|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -131,24 +152,3 @@
 |**2022-06-02**|**Graph Kernels Based on Multi-scale Graph Embeddings**|Wei Ye et.al.|[2206.00979v2](http://arxiv.org/abs/2206.00979v2)|[link](https://github.com/yeweiysh/mpg)|
 |**2023-02-06**|**Spectral Augmentations for Graph Contrastive Learning**|Amur Ghose et.al.|[2302.02909v1](http://arxiv.org/abs/2302.02909v1)|null|
 |**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v3](http://arxiv.org/abs/2201.05575v3)|[link](https://github.com/zjunlp/knn-kg)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v2](http://arxiv.org/abs/2302.01668v2)|null|
-|**2022-06-13**|**Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation**|Zengyu Qiu et.al.|[2206.06067v3](http://arxiv.org/abs/2206.06067v3)|[link](https://github.com/cuibaby/dpk)|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v3](http://arxiv.org/abs/2211.10776v3)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2022-12-28**|**Choosing the Number of Topics in LDA Models -- A Monte Carlo Comparison of Selection Criteria**|Victor Bystrov et.al.|[2212.14074v2](http://arxiv.org/abs/2212.14074v2)|[link](https://github.com/vikana/sbic)|
-|**2021-01-21**|**Rethinking Semantic Segmentation Evaluation for Explainability and Model Selection**|Yuxiang Zhang et.al.|[2101.08418v2](http://arxiv.org/abs/2101.08418v2)|null|
-|**2019-12-11**|**Graph quilting: graphical model selection from partially observed covariances**|Giuseppe Vinci et.al.|[1912.05573v2](http://arxiv.org/abs/1912.05573v2)|null|
-|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v1](http://arxiv.org/abs/2302.07415v1)|null|
-|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v3](http://arxiv.org/abs/2208.14111v3)|[link](https://github.com/ukplab/2022-raft)|
-|**2020-05-30**|**Solution Path Algorithm for Twin Multi-class Support Vector Machine**|Liuyuan Chen et.al.|[2006.00276v2](http://arxiv.org/abs/2006.00276v2)|[link](https://github.com/zhoukanglei/twinmultipath)|
-|**2021-01-14**|**Multivariate Bayesian structured variable selection for pharmacogenomic studies**|Zhi Zhao et.al.|[2101.05899v3](http://arxiv.org/abs/2101.05899v3)|[link](https://github.com/zhizuio/BayesSUR-RE)|
-|**2022-10-10**|**Accumulating errors in tests of general relativity with gravitational waves: overlapping signals and inaccurate waveforms**|Qian Hu et.al.|[2210.04769v2](http://arxiv.org/abs/2210.04769v2)|null|
-|**2020-09-22**|**Non-asymptotic oracle inequalities for the Lasso in high-dimensional mixture of experts**|TrungTin Nguyen et.al.|[2009.10622v6](http://arxiv.org/abs/2009.10622v6)|null|
-|**2023-02-11**|**Fair Enough: Standardizing Evaluation and Model Selection for Fairness Research in NLP**|Xudong Han et.al.|[2302.05711v1](http://arxiv.org/abs/2302.05711v1)|[link](https://github.com/hanxudong/fair_enough)|
-|**2019-07-19**|**Reluctant Interaction Modeling**|Guo Yu et.al.|[1907.08414v3](http://arxiv.org/abs/1907.08414v3)|null|
-|**2023-02-10**|**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**|Beniamino Hadj-Amar et.al.|[2302.05347v1](http://arxiv.org/abs/2302.05347v1)|null|
