@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-25 07:26:23 Asia/Shanghai
+ Automated deployment @ 2023-02-25 19:21:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,26 +33,7 @@
 |**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|null|
 |**2023-02-22**|**HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|null|
 
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-21**|**Leveraging phone-level linguistic-acoustic similarity for utterance-level pronunciation scoring**|Wei Liu et.al.|[2302.10444v1](http://arxiv.org/abs/2302.10444v1)|null|
-|**2023-02-20**|**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**|Arian Prabowo et.al.|[2302.09956v1](http://arxiv.org/abs/2302.09956v1)|[link](https://github.com/aprbw/g-swan)|
-|**2023-02-15**|**GRIDS-Net: Inverse shape design and identification of scatterers via geometric regularization and physics-embedded deep learning**|Siddharth Nair et.al.|[2302.07504v1](http://arxiv.org/abs/2302.07504v1)|null|
-|**2023-02-03**|**Clustered Embedding Learning for Recommender Systems**|Yizhou Chen et.al.|[2302.01478v2](http://arxiv.org/abs/2302.01478v2)|null|
-|**2023-02-10**|**POSGen: Personalized Opening Sentence Generation for Online Insurance Sales**|Yu Li et.al.|[2302.06470v1](http://arxiv.org/abs/2302.06470v1)|null|
-|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
-|**2018-02-13**|**TVAE: Triplet-Based Variational Autoencoder using Metric Learning**|Haque Ishfaq et.al.|[1802.04403v3](http://arxiv.org/abs/1802.04403v3)|null|
-|**2023-02-06**|**Audio Representation Learning by Distilling Video as Privileged Information**|Amirhossein Hajavi et.al.|[2302.02845v1](http://arxiv.org/abs/2302.02845v1)|null|
-|**2023-02-05**|**FineDeb: A Debiasing Framework for Language Models**|Akash Saravanan et.al.|[2302.02453v1](http://arxiv.org/abs/2302.02453v1)|[link](https://github.com/akashsara/debiasing-language-models)|
-|**2023-02-04**|**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**|Xiangrong Zhu et.al.|[2302.02069v1](http://arxiv.org/abs/2302.02069v1)|null|
-|**2023-01-31**|**OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization**|Hengrui Zhang et.al.|[2302.00109v1](http://arxiv.org/abs/2302.00109v1)|null|
-|**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v2](http://arxiv.org/abs/2301.01737v2)|null|
-|**2022-12-12**|**Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**|Yu Zhang et.al.|[2212.06002v2](http://arxiv.org/abs/2212.06002v2)|[link](https://github.com/yzhan238/seedtopicmine)|
-|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v2](http://arxiv.org/abs/2301.00785v2)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
-|**2022-12-28**|**Joint Discriminative and Metric Embedding Learning for Person Re-Identification**|Sinan Sabri et.al.|[2212.14107v1](http://arxiv.org/abs/2212.14107v1)|null|
+## Graph Model
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,8 +53,6 @@
 |**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v2](http://arxiv.org/abs/2212.12200v2)|null|
 |**2022-08-16**|**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**|Zhaoxuan Tan et.al.|[2208.07622v2](http://arxiv.org/abs/2208.07622v2)|[link](https://github.com/tamsiuhin/kracl)|
 |**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
-
-## Graph Model
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -113,6 +92,8 @@
 |**2023-02-17**|**The maximum Wiener index of a uniform hypergraph**|Stijn Cambie et.al.|[2302.08686v1](http://arxiv.org/abs/2302.08686v1)|[link](https://github.com/stijncambie/wienerhypergraph)|
 |**2019-07-11**|**On multicolor Ramsey numbers of triple system paths of length 3**|Tom Bohman et.al.|[1907.05236v3](http://arxiv.org/abs/1907.05236v3)|null|
 
+## Embedding
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -131,6 +112,25 @@
 |**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v2](http://arxiv.org/abs/2212.12200v2)|null|
 |**2022-08-16**|**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**|Zhaoxuan Tan et.al.|[2208.07622v2](http://arxiv.org/abs/2208.07622v2)|[link](https://github.com/tamsiuhin/kracl)|
 |**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Leveraging phone-level linguistic-acoustic similarity for utterance-level pronunciation scoring**|Wei Liu et.al.|[2302.10444v1](http://arxiv.org/abs/2302.10444v1)|null|
+|**2023-02-20**|**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**|Arian Prabowo et.al.|[2302.09956v1](http://arxiv.org/abs/2302.09956v1)|[link](https://github.com/aprbw/g-swan)|
+|**2023-02-15**|**GRIDS-Net: Inverse shape design and identification of scatterers via geometric regularization and physics-embedded deep learning**|Siddharth Nair et.al.|[2302.07504v1](http://arxiv.org/abs/2302.07504v1)|null|
+|**2023-02-03**|**Clustered Embedding Learning for Recommender Systems**|Yizhou Chen et.al.|[2302.01478v2](http://arxiv.org/abs/2302.01478v2)|null|
+|**2023-02-10**|**POSGen: Personalized Opening Sentence Generation for Online Insurance Sales**|Yu Li et.al.|[2302.06470v1](http://arxiv.org/abs/2302.06470v1)|null|
+|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
+|**2018-02-13**|**TVAE: Triplet-Based Variational Autoencoder using Metric Learning**|Haque Ishfaq et.al.|[1802.04403v3](http://arxiv.org/abs/1802.04403v3)|null|
+|**2023-02-06**|**Audio Representation Learning by Distilling Video as Privileged Information**|Amirhossein Hajavi et.al.|[2302.02845v1](http://arxiv.org/abs/2302.02845v1)|null|
+|**2023-02-05**|**FineDeb: A Debiasing Framework for Language Models**|Akash Saravanan et.al.|[2302.02453v1](http://arxiv.org/abs/2302.02453v1)|[link](https://github.com/akashsara/debiasing-language-models)|
+|**2023-02-04**|**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**|Xiangrong Zhu et.al.|[2302.02069v1](http://arxiv.org/abs/2302.02069v1)|null|
+|**2023-01-31**|**OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization**|Hengrui Zhang et.al.|[2302.00109v1](http://arxiv.org/abs/2302.00109v1)|null|
+|**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v2](http://arxiv.org/abs/2301.01737v2)|null|
+|**2022-12-12**|**Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**|Yu Zhang et.al.|[2212.06002v2](http://arxiv.org/abs/2212.06002v2)|[link](https://github.com/yzhan238/seedtopicmine)|
+|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v2](http://arxiv.org/abs/2301.00785v2)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
+|**2022-12-28**|**Joint Discriminative and Metric Embedding Learning for Person Re-Identification**|Sinan Sabri et.al.|[2212.14107v1](http://arxiv.org/abs/2212.14107v1)|null|
 
 ## Variable Selection
 
