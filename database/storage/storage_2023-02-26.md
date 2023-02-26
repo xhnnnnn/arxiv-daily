@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-26 07:25:33 Asia/Shanghai
+ Automated deployment @ 2023-02-26 19:22:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,46 +32,6 @@
 |**2023-02-22**|**KGTrust: Evaluating Trustworthiness of SIoT via Knowledge Enhanced Graph Neural Networks**|Zhizhi Yu et.al.|[2302.11396v1](http://arxiv.org/abs/2302.11396v1)|null|
 |**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|null|
 |**2023-02-22**|**HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|null|
-
-## Embedding
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-23**|**Decentralized core-periphery structure in social networks accelerates cultural innovation in agent-based model**|Jesse Milzman et.al.|[2302.12121v1](http://arxiv.org/abs/2302.12121v1)|null|
-|**2023-02-20**|**Conformal Prediction for Network-Assisted Regression**|Robert Lunde et.al.|[2302.10095v3](http://arxiv.org/abs/2302.10095v3)|null|
-|**2023-02-22**|**Learning Dynamic Graph Embeddings with Neural Controlled Differential Equations**|Tiexin Qin et.al.|[2302.11354v1](http://arxiv.org/abs/2302.11354v1)|null|
-|**2023-02-21**|**MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis**|Weiqin Zhao et.al.|[2302.10574v1](http://arxiv.org/abs/2302.10574v1)|null|
-|**2023-02-20**|**Persian topic detection based on Human Word association and graph embedding**|Mehrdad Ranjbar-Khadivi et.al.|[2302.09775v1](http://arxiv.org/abs/2302.09775v1)|null|
-|**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
-|**2023-02-13**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v2](http://arxiv.org/abs/2302.06057v2)|[link](https://github.com/yzhang1918/www2023tiger)|
-|**2023-02-13**|**Universal families of arcs and curves on surfaces**|Niloufar Fuladi et.al.|[2302.06336v2](http://arxiv.org/abs/2302.06336v2)|null|
-|**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
-|**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v3](http://arxiv.org/abs/2208.10917v3)|null|
-|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v3](http://arxiv.org/abs/2301.10405v3)|[link](https://github.com/zjunlp/promptkg)|
-|**2023-02-13**|**Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models**|Cosimo Gregucci et.al.|[2302.06229v1](http://arxiv.org/abs/2302.06229v1)|null|
-|**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v2](http://arxiv.org/abs/2212.12200v2)|null|
-|**2022-08-16**|**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**|Zhaoxuan Tan et.al.|[2208.07622v2](http://arxiv.org/abs/2208.07622v2)|[link](https://github.com/tamsiuhin/kracl)|
-|**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-21**|**Leveraging phone-level linguistic-acoustic similarity for utterance-level pronunciation scoring**|Wei Liu et.al.|[2302.10444v1](http://arxiv.org/abs/2302.10444v1)|null|
-|**2023-02-20**|**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**|Arian Prabowo et.al.|[2302.09956v1](http://arxiv.org/abs/2302.09956v1)|[link](https://github.com/aprbw/g-swan)|
-|**2023-02-15**|**GRIDS-Net: Inverse shape design and identification of scatterers via geometric regularization and physics-embedded deep learning**|Siddharth Nair et.al.|[2302.07504v1](http://arxiv.org/abs/2302.07504v1)|null|
-|**2023-02-03**|**Clustered Embedding Learning for Recommender Systems**|Yizhou Chen et.al.|[2302.01478v2](http://arxiv.org/abs/2302.01478v2)|null|
-|**2023-02-10**|**POSGen: Personalized Opening Sentence Generation for Online Insurance Sales**|Yu Li et.al.|[2302.06470v1](http://arxiv.org/abs/2302.06470v1)|null|
-|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
-|**2018-02-13**|**TVAE: Triplet-Based Variational Autoencoder using Metric Learning**|Haque Ishfaq et.al.|[1802.04403v3](http://arxiv.org/abs/1802.04403v3)|null|
-|**2023-02-06**|**Audio Representation Learning by Distilling Video as Privileged Information**|Amirhossein Hajavi et.al.|[2302.02845v1](http://arxiv.org/abs/2302.02845v1)|null|
-|**2023-02-05**|**FineDeb: A Debiasing Framework for Language Models**|Akash Saravanan et.al.|[2302.02453v1](http://arxiv.org/abs/2302.02453v1)|[link](https://github.com/akashsara/debiasing-language-models)|
-|**2023-02-04**|**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**|Xiangrong Zhu et.al.|[2302.02069v1](http://arxiv.org/abs/2302.02069v1)|null|
-|**2023-01-31**|**OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization**|Hengrui Zhang et.al.|[2302.00109v1](http://arxiv.org/abs/2302.00109v1)|null|
-|**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v2](http://arxiv.org/abs/2301.01737v2)|null|
-|**2022-12-12**|**Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**|Yu Zhang et.al.|[2212.06002v2](http://arxiv.org/abs/2212.06002v2)|[link](https://github.com/yzhan238/seedtopicmine)|
-|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v2](http://arxiv.org/abs/2301.00785v2)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
-|**2022-12-28**|**Joint Discriminative and Metric Embedding Learning for Person Re-Identification**|Sinan Sabri et.al.|[2212.14107v1](http://arxiv.org/abs/2212.14107v1)|null|
 
 ## Graph Model
 
@@ -152,3 +112,43 @@
 |**2023-01-12**|**Model selection in atomistic simulation**|Jonathan E. Moussa et.al.|[2301.05287v2](http://arxiv.org/abs/2301.05287v2)|null|
 |**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v4](http://arxiv.org/abs/2207.04248v4)|null|
 |**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v2](http://arxiv.org/abs/2205.13577v2)|[link](https://github.com/smaityumich/exponential-tilting)|
+
+## Embedding
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-23**|**Decentralized core-periphery structure in social networks accelerates cultural innovation in agent-based model**|Jesse Milzman et.al.|[2302.12121v1](http://arxiv.org/abs/2302.12121v1)|null|
+|**2023-02-20**|**Conformal Prediction for Network-Assisted Regression**|Robert Lunde et.al.|[2302.10095v3](http://arxiv.org/abs/2302.10095v3)|null|
+|**2023-02-22**|**Learning Dynamic Graph Embeddings with Neural Controlled Differential Equations**|Tiexin Qin et.al.|[2302.11354v1](http://arxiv.org/abs/2302.11354v1)|null|
+|**2023-02-21**|**MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis**|Weiqin Zhao et.al.|[2302.10574v1](http://arxiv.org/abs/2302.10574v1)|null|
+|**2023-02-20**|**Persian topic detection based on Human Word association and graph embedding**|Mehrdad Ranjbar-Khadivi et.al.|[2302.09775v1](http://arxiv.org/abs/2302.09775v1)|null|
+|**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
+|**2023-02-13**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v2](http://arxiv.org/abs/2302.06057v2)|[link](https://github.com/yzhang1918/www2023tiger)|
+|**2023-02-13**|**Universal families of arcs and curves on surfaces**|Niloufar Fuladi et.al.|[2302.06336v2](http://arxiv.org/abs/2302.06336v2)|null|
+|**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
+|**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v3](http://arxiv.org/abs/2208.10917v3)|null|
+|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v3](http://arxiv.org/abs/2301.10405v3)|[link](https://github.com/zjunlp/promptkg)|
+|**2023-02-13**|**Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models**|Cosimo Gregucci et.al.|[2302.06229v1](http://arxiv.org/abs/2302.06229v1)|null|
+|**2022-12-23**|**Some structural and enumerative aspects of discrete surfaces and PL-manifolds**|Valentin Bonzom et.al.|[2212.12200v2](http://arxiv.org/abs/2212.12200v2)|null|
+|**2022-08-16**|**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**|Zhaoxuan Tan et.al.|[2208.07622v2](http://arxiv.org/abs/2208.07622v2)|[link](https://github.com/tamsiuhin/kracl)|
+|**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Leveraging phone-level linguistic-acoustic similarity for utterance-level pronunciation scoring**|Wei Liu et.al.|[2302.10444v1](http://arxiv.org/abs/2302.10444v1)|null|
+|**2023-02-20**|**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**|Arian Prabowo et.al.|[2302.09956v1](http://arxiv.org/abs/2302.09956v1)|[link](https://github.com/aprbw/g-swan)|
+|**2023-02-15**|**GRIDS-Net: Inverse shape design and identification of scatterers via geometric regularization and physics-embedded deep learning**|Siddharth Nair et.al.|[2302.07504v1](http://arxiv.org/abs/2302.07504v1)|null|
+|**2023-02-03**|**Clustered Embedding Learning for Recommender Systems**|Yizhou Chen et.al.|[2302.01478v2](http://arxiv.org/abs/2302.01478v2)|null|
+|**2023-02-10**|**POSGen: Personalized Opening Sentence Generation for Online Insurance Sales**|Yu Li et.al.|[2302.06470v1](http://arxiv.org/abs/2302.06470v1)|null|
+|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
+|**2018-02-13**|**TVAE: Triplet-Based Variational Autoencoder using Metric Learning**|Haque Ishfaq et.al.|[1802.04403v3](http://arxiv.org/abs/1802.04403v3)|null|
+|**2023-02-06**|**Audio Representation Learning by Distilling Video as Privileged Information**|Amirhossein Hajavi et.al.|[2302.02845v1](http://arxiv.org/abs/2302.02845v1)|null|
+|**2023-02-05**|**FineDeb: A Debiasing Framework for Language Models**|Akash Saravanan et.al.|[2302.02453v1](http://arxiv.org/abs/2302.02453v1)|[link](https://github.com/akashsara/debiasing-language-models)|
+|**2023-02-04**|**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**|Xiangrong Zhu et.al.|[2302.02069v1](http://arxiv.org/abs/2302.02069v1)|null|
+|**2023-01-31**|**OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization**|Hengrui Zhang et.al.|[2302.00109v1](http://arxiv.org/abs/2302.00109v1)|null|
+|**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v2](http://arxiv.org/abs/2301.01737v2)|null|
+|**2022-12-12**|**Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**|Yu Zhang et.al.|[2212.06002v2](http://arxiv.org/abs/2212.06002v2)|[link](https://github.com/yzhan238/seedtopicmine)|
+|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v2](http://arxiv.org/abs/2301.00785v2)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
+|**2022-12-28**|**Joint Discriminative and Metric Embedding Learning for Person Re-Identification**|Sinan Sabri et.al.|[2212.14107v1](http://arxiv.org/abs/2212.14107v1)|null|
