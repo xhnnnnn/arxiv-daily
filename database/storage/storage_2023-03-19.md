@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-19 07:24:13 Asia/Shanghai
+ Automated deployment @ 2023-03-19 19:20:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,45 +33,7 @@
 |**2023-03-15**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|null|
 |**2023-03-14**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
 
-## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-16**|**Higher-order correlations reveal complex memory in temporal hypergraphs**|Luca Gallo et.al.|[2303.09316v1](http://arxiv.org/abs/2303.09316v1)|null|
-|**2023-03-15**|**Quantitative Helly-type Theorems via Hypergraph Chains**|Attila Jung et.al.|[2303.08930v1](http://arxiv.org/abs/2303.08930v1)|null|
-|**2022-11-29**|**On higher dimensional point sets in general position**|Andrew Suk et.al.|[2211.15968v2](http://arxiv.org/abs/2211.15968v2)|null|
-|**2022-09-28**|**On the $(6,4)$-problem of Brown, Erdős and Sós**|Stefan Glock et.al.|[2209.14177v2](http://arxiv.org/abs/2209.14177v2)|null|
-|**2023-03-14**|**The edge ideals of $\bf{t}$-spread $d$-partite hypergraphs**|Aslı Musapaşaoğlu et.al.|[2303.08160v1](http://arxiv.org/abs/2303.08160v1)|null|
-|**2022-11-03**|**Learning Hypergraphs From Signals With Dual Smoothness Prior**|Bohan Tang et.al.|[2211.01717v3](http://arxiv.org/abs/2211.01717v3)|null|
-|**2023-03-14**|**Enumerating all minimal hitting sets in polynomial total time**|Marcel Wild et.al.|[2303.07708v1](http://arxiv.org/abs/2303.07708v1)|null|
-|**2021-08-02**|**Quantum Contextuality**|Mladen Pavicic et.al.|[2108.00967v4](http://arxiv.org/abs/2108.00967v4)|null|
-|**2022-11-17**|**Hypergraph Transformer for Skeleton-based Action Recognition**|Yuxuan Zhou et.al.|[2211.09590v4](http://arxiv.org/abs/2211.09590v4)|null|
-|**2022-05-02**|**Eigenstripping, Spectral Decay, and Edge-Expansion on Posets**|Jason Gaitonde et.al.|[2205.00644v2](http://arxiv.org/abs/2205.00644v2)|null|
-|**2022-11-23**|**On the expansion constant and distance constrained colourings of hypergraphs**|Annayat Ali et.al.|[2211.12813v2](http://arxiv.org/abs/2211.12813v2)|null|
-|**2023-03-10**|**CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network**|Yumeng Song et.al.|[2303.06213v1](http://arxiv.org/abs/2303.06213v1)|null|
-|**2021-11-09**|**Constructing sparsest $\ell$-hamiltonian saturated $k$-uniform hypergraphs for a wide range of $\ell$**|Andrzej Ruciński et.al.|[2111.05020v3](http://arxiv.org/abs/2111.05020v3)|null|
-|**2023-03-10**|**Non-Vacuum Solutions, Gravitational Collapse and Discrete Singularity Theorems in Wolfram Model Systems**|Jonathan Gorard et.al.|[2303.07282v1](http://arxiv.org/abs/2303.07282v1)|[link](https://github.com/jonathangorard/gravitas)|
-|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**Learning Sparse Graphon Mean Field Games**|Christian Fabian et.al.|[2209.03880v3](http://arxiv.org/abs/2209.03880v3)|[link](https://github.com/chrfabian/learning_sparse_gmfgs)|
-|**2021-10-26**|**Dynamical Systems on Graph Limits and Their Symmetries**|Christian Bick et.al.|[2110.13686v2](http://arxiv.org/abs/2110.13686v2)|null|
-|**2022-08-16**|**A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v3](http://arxiv.org/abs/2208.07559v3)|null|
-|**2023-02-27**|**An Exact Continuous Theory for Spin Systems on Graphons**|Amy Searle et.al.|[2303.00731v1](http://arxiv.org/abs/2303.00731v1)|null|
-|**2023-02-26**|**Individual based SIS models on (not so) dense large random networks**|Jean-François Delmas et.al.|[2302.13385v1](http://arxiv.org/abs/2302.13385v1)|null|
-|**2020-05-11**|**Graph sequences sampled from Robinson graphons**|Mahya Ghandehari et.al.|[2005.05253v3](http://arxiv.org/abs/2005.05253v3)|null|
-|**2022-02-23**|**Optimal Investment in a Large Population of Competitive and Heterogeneous Agents**|Ludovic Tangpi et.al.|[2202.11314v3](http://arxiv.org/abs/2202.11314v3)|null|
-|**2023-01-31**|**Graph classes with few $P_4$'s: Universality and Brownian graphon limits**|Théo Lenoir et.al.|[2301.13607v2](http://arxiv.org/abs/2301.13607v2)|null|
-|**2023-02-03**|**On the Entropy of an Exchangeable Graph**|Anda Skeja et.al.|[2302.01856v1](http://arxiv.org/abs/2302.01856v1)|null|
-|**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v2](http://arxiv.org/abs/2211.02314v2)|null|
-|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v1](http://arxiv.org/abs/2301.10808v1)|null|
-|**2023-01-01**|**The GHP scaling limit of uniform spanning trees of dense graphs**|Eleanor Archer et.al.|[2301.00461v1](http://arxiv.org/abs/2301.00461v1)|null|
-|**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v3](http://arxiv.org/abs/2201.10129v3)|null|
-|**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v3](http://arxiv.org/abs/2201.01689v3)|[link](https://github.com/aday651/embed-reg)|
-|**2022-12-15**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v1](http://arxiv.org/abs/2212.08171v1)|null|
+## Embedding
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -91,8 +53,6 @@
 |**2023-03-02**|**Cardinality Estimation over Knowledge Graphs with Embeddings and Graph Neural Networks**|Tim Schwabe et.al.|[2303.01140v1](http://arxiv.org/abs/2303.01140v1)|[link](https://github.com/timericschwabe/gnce_reproducibility)|
 |**2023-03-01**|**A linear bound for the Colin de Verdiére parameter $μ$ for graphs embedded on surfaces**|Camille Lanuel et.al.|[2303.00556v1](http://arxiv.org/abs/2303.00556v1)|null|
 |**2022-10-01**|**Multimodal Analogical Reasoning over Knowledge Graphs**|Ningyu Zhang et.al.|[2210.00312v4](http://arxiv.org/abs/2210.00312v4)|[link](https://github.com/zjunlp/MKG_Analogy)|
-
-## Embedding
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -113,6 +73,8 @@
 |**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v2](http://arxiv.org/abs/2301.01737v2)|null|
 |**2022-12-12**|**Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**|Yu Zhang et.al.|[2212.06002v2](http://arxiv.org/abs/2212.06002v2)|[link](https://github.com/yzhan238/seedtopicmine)|
 
+## Graph Model
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -131,6 +93,44 @@
 |**2023-03-02**|**Cardinality Estimation over Knowledge Graphs with Embeddings and Graph Neural Networks**|Tim Schwabe et.al.|[2303.01140v1](http://arxiv.org/abs/2303.01140v1)|[link](https://github.com/timericschwabe/gnce_reproducibility)|
 |**2023-03-01**|**A linear bound for the Colin de Verdiére parameter $μ$ for graphs embedded on surfaces**|Camille Lanuel et.al.|[2303.00556v1](http://arxiv.org/abs/2303.00556v1)|null|
 |**2022-10-01**|**Multimodal Analogical Reasoning over Knowledge Graphs**|Ningyu Zhang et.al.|[2210.00312v4](http://arxiv.org/abs/2210.00312v4)|[link](https://github.com/zjunlp/MKG_Analogy)|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Learning Sparse Graphon Mean Field Games**|Christian Fabian et.al.|[2209.03880v3](http://arxiv.org/abs/2209.03880v3)|[link](https://github.com/chrfabian/learning_sparse_gmfgs)|
+|**2021-10-26**|**Dynamical Systems on Graph Limits and Their Symmetries**|Christian Bick et.al.|[2110.13686v2](http://arxiv.org/abs/2110.13686v2)|null|
+|**2022-08-16**|**A Graph-Based Modelling of Epidemics: Properties, Simulation, and Continuum Limit**|Giovanni Naldi et.al.|[2208.07559v3](http://arxiv.org/abs/2208.07559v3)|null|
+|**2023-02-27**|**An Exact Continuous Theory for Spin Systems on Graphons**|Amy Searle et.al.|[2303.00731v1](http://arxiv.org/abs/2303.00731v1)|null|
+|**2023-02-26**|**Individual based SIS models on (not so) dense large random networks**|Jean-François Delmas et.al.|[2302.13385v1](http://arxiv.org/abs/2302.13385v1)|null|
+|**2020-05-11**|**Graph sequences sampled from Robinson graphons**|Mahya Ghandehari et.al.|[2005.05253v3](http://arxiv.org/abs/2005.05253v3)|null|
+|**2022-02-23**|**Optimal Investment in a Large Population of Competitive and Heterogeneous Agents**|Ludovic Tangpi et.al.|[2202.11314v3](http://arxiv.org/abs/2202.11314v3)|null|
+|**2023-01-31**|**Graph classes with few $P_4$'s: Universality and Brownian graphon limits**|Théo Lenoir et.al.|[2301.13607v2](http://arxiv.org/abs/2301.13607v2)|null|
+|**2023-02-03**|**On the Entropy of an Exchangeable Graph**|Anda Skeja et.al.|[2302.01856v1](http://arxiv.org/abs/2302.01856v1)|null|
+|**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v2](http://arxiv.org/abs/2211.02314v2)|null|
+|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v1](http://arxiv.org/abs/2301.10808v1)|null|
+|**2023-01-01**|**The GHP scaling limit of uniform spanning trees of dense graphs**|Eleanor Archer et.al.|[2301.00461v1](http://arxiv.org/abs/2301.00461v1)|null|
+|**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v3](http://arxiv.org/abs/2201.10129v3)|null|
+|**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v3](http://arxiv.org/abs/2201.01689v3)|[link](https://github.com/aday651/embed-reg)|
+|**2022-12-15**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v1](http://arxiv.org/abs/2212.08171v1)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16**|**Higher-order correlations reveal complex memory in temporal hypergraphs**|Luca Gallo et.al.|[2303.09316v1](http://arxiv.org/abs/2303.09316v1)|null|
+|**2023-03-15**|**Quantitative Helly-type Theorems via Hypergraph Chains**|Attila Jung et.al.|[2303.08930v1](http://arxiv.org/abs/2303.08930v1)|null|
+|**2022-11-29**|**On higher dimensional point sets in general position**|Andrew Suk et.al.|[2211.15968v2](http://arxiv.org/abs/2211.15968v2)|null|
+|**2022-09-28**|**On the $(6,4)$-problem of Brown, Erdős and Sós**|Stefan Glock et.al.|[2209.14177v2](http://arxiv.org/abs/2209.14177v2)|null|
+|**2023-03-14**|**The edge ideals of $\bf{t}$-spread $d$-partite hypergraphs**|Aslı Musapaşaoğlu et.al.|[2303.08160v1](http://arxiv.org/abs/2303.08160v1)|null|
+|**2022-11-03**|**Learning Hypergraphs From Signals With Dual Smoothness Prior**|Bohan Tang et.al.|[2211.01717v3](http://arxiv.org/abs/2211.01717v3)|null|
+|**2023-03-14**|**Enumerating all minimal hitting sets in polynomial total time**|Marcel Wild et.al.|[2303.07708v1](http://arxiv.org/abs/2303.07708v1)|null|
+|**2021-08-02**|**Quantum Contextuality**|Mladen Pavicic et.al.|[2108.00967v4](http://arxiv.org/abs/2108.00967v4)|null|
+|**2022-11-17**|**Hypergraph Transformer for Skeleton-based Action Recognition**|Yuxuan Zhou et.al.|[2211.09590v4](http://arxiv.org/abs/2211.09590v4)|null|
+|**2022-05-02**|**Eigenstripping, Spectral Decay, and Edge-Expansion on Posets**|Jason Gaitonde et.al.|[2205.00644v2](http://arxiv.org/abs/2205.00644v2)|null|
+|**2022-11-23**|**On the expansion constant and distance constrained colourings of hypergraphs**|Annayat Ali et.al.|[2211.12813v2](http://arxiv.org/abs/2211.12813v2)|null|
+|**2023-03-10**|**CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network**|Yumeng Song et.al.|[2303.06213v1](http://arxiv.org/abs/2303.06213v1)|null|
+|**2021-11-09**|**Constructing sparsest $\ell$-hamiltonian saturated $k$-uniform hypergraphs for a wide range of $\ell$**|Andrzej Ruciński et.al.|[2111.05020v3](http://arxiv.org/abs/2111.05020v3)|null|
+|**2023-03-10**|**Non-Vacuum Solutions, Gravitational Collapse and Discrete Singularity Theorems in Wolfram Model Systems**|Jonathan Gorard et.al.|[2303.07282v1](http://arxiv.org/abs/2303.07282v1)|[link](https://github.com/jonathangorard/gravitas)|
+|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
 
 ## Variable Selection
 
