@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-13 07:21:49 Asia/Shanghai
+ Automated deployment @ 2023-05-13 19:18:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Embedding
 
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-29**|**From axioms over graphs to vectors, and back again: evaluating the properties of graph-based ontology embeddings**|Fernando Zhapa-Camacho et.al.|[2303.16519v2](http://arxiv.org/abs/2303.16519v2)|[link](https://github.com/bio-ontology-research-group/ontology-graph-projections)|
-|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
-|**2022-04-26**|**Exact Wirelength of Embedding 3-Ary n-Cubes into certain Cylinders and Trees**|Rajeshwari S et.al.|[2204.12079v4](http://arxiv.org/abs/2204.12079v4)|null|
-|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|null|
-|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v1](http://arxiv.org/abs/2305.04622v1)|null|
-|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v3](http://arxiv.org/abs/2305.02177v3)|null|
-|**2023-05-04**|**Homomorphisms between graphs embedded on surfaces**|Delia Garijo et.al.|[2305.03107v1](http://arxiv.org/abs/2305.03107v1)|null|
-|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
-|**2023-05-04**|**Semisupervised regression in latent structure networks on unknown manifolds**|Aranyak Acharyya et.al.|[2305.02473v1](http://arxiv.org/abs/2305.02473v1)|null|
-|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
-|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v1](http://arxiv.org/abs/2305.00382v1)|null|
-|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|[link](https://github.com/nslab-cuk/connector)|
-|**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
-|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
-|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
-
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -73,26 +54,26 @@
 |**2023-03-29**|**Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**|Leo Sampaio Ferraz Ribeiro et.al.|[2303.16769v1](http://arxiv.org/abs/2303.16769v1)|null|
 |**2023-03-28**|**Multi-Behavior Recommendation with Cascading Graph Convolution Networks**|Zhiyong Cheng et.al.|[2303.15720v1](http://arxiv.org/abs/2303.15720v1)|[link](https://github.com/SS-00-SS/MBCGCN)|
 
-## Graph Model
-
-### Hypergraph
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-05-21**|**Rainbow spanning structures in graph and hypergraph systems**|Yangyang Cheng et.al.|[2105.10219v2](http://arxiv.org/abs/2105.10219v2)|null|
-|**2021-11-13**|**Transversal Hamilton cycle in hypergraph systems**|Yangyang Cheng et.al.|[2111.07079v2](http://arxiv.org/abs/2111.07079v2)|null|
-|**2023-05-11**|**Minimal dominating sets enumeration with FPT-delay parameterized by the degeneracy and maximum degree**|Valentin Bartier et.al.|[2305.06974v1](http://arxiv.org/abs/2305.06974v1)|null|
-|**2023-05-11**|**Abelian and non-abelian quantum two-block codes**|Renyu Wang et.al.|[2305.06890v1](http://arxiv.org/abs/2305.06890v1)|null|
-|**2023-05-11**|**Integer points in the degree-sequence polytope**|Eleonore Bach et.al.|[2305.06732v1](http://arxiv.org/abs/2305.06732v1)|null|
-|**2022-04-06**|**Nearly Tight Spectral Sparsification of Directed Hypergraphs by a Simple Iterative Sampling Algorithm**|Kazusato Oko et.al.|[2204.02537v2](http://arxiv.org/abs/2204.02537v2)|null|
-|**2023-05-11**|**Reconstructing higher-order interactions in coupled dynamical systems**|Federico Malizia et.al.|[2305.06609v1](http://arxiv.org/abs/2305.06609v1)|null|
-|**2023-05-11**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588v1](http://arxiv.org/abs/2305.06588v1)|[link](https://github.com/lhrlab/hahe)|
-|**2023-04-27**|**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems**|Austen Z. Fan et.al.|[2304.14557v2](http://arxiv.org/abs/2304.14557v2)|null|
-|**2023-05-07**|**Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification**|Guang Yang et.al.|[2305.04228v2](http://arxiv.org/abs/2305.04228v2)|[link](https://github.com/qiankunmu/hdhgn)|
-|**2023-05-10**|**Cross-homology: Topology and spectral persistent cross-hubs of higher-order multilayer networks**|Elkaïoum M. Moutuou et.al.|[2305.05860v1](http://arxiv.org/abs/2305.05860v1)|null|
-|**2021-02-18**|**Regularity method and large deviation principles for the Erdős--Rényi hypergraph**|Nicholas A. Cook et.al.|[2102.09100v4](http://arxiv.org/abs/2102.09100v4)|null|
-|**2023-05-09**|**Multilinear Hyperquiver Representations**|Tommi Muller et.al.|[2305.05622v1](http://arxiv.org/abs/2305.05622v1)|null|
-|**2023-04-11**|**EESMR: Energy Efficient BFT-SMR for the masses**|Adithya Bhat et.al.|[2304.04998v2](http://arxiv.org/abs/2304.04998v2)|null|
-|**2022-11-01**|**Volume rigidity and algebraic shifting**|Denys Bulavka et.al.|[2211.00574v2](http://arxiv.org/abs/2211.00574v2)|null|
+|**2023-03-29**|**From axioms over graphs to vectors, and back again: evaluating the properties of graph-based ontology embeddings**|Fernando Zhapa-Camacho et.al.|[2303.16519v2](http://arxiv.org/abs/2303.16519v2)|[link](https://github.com/bio-ontology-research-group/ontology-graph-projections)|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
+|**2022-04-26**|**Exact Wirelength of Embedding 3-Ary n-Cubes into certain Cylinders and Trees**|Rajeshwari S et.al.|[2204.12079v4](http://arxiv.org/abs/2204.12079v4)|null|
+|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|null|
+|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v1](http://arxiv.org/abs/2305.04622v1)|null|
+|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v3](http://arxiv.org/abs/2305.02177v3)|null|
+|**2023-05-04**|**Homomorphisms between graphs embedded on surfaces**|Delia Garijo et.al.|[2305.03107v1](http://arxiv.org/abs/2305.03107v1)|null|
+|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
+|**2023-05-04**|**Semisupervised regression in latent structure networks on unknown manifolds**|Aranyak Acharyya et.al.|[2305.02473v1](http://arxiv.org/abs/2305.02473v1)|null|
+|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
+|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v1](http://arxiv.org/abs/2305.00382v1)|null|
+|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|[link](https://github.com/nslab-cuk/connector)|
+|**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
+|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
+|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
+
+## Graph Model
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -131,6 +112,25 @@
 |**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
 |**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
 |**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-05-21**|**Rainbow spanning structures in graph and hypergraph systems**|Yangyang Cheng et.al.|[2105.10219v2](http://arxiv.org/abs/2105.10219v2)|null|
+|**2021-11-13**|**Transversal Hamilton cycle in hypergraph systems**|Yangyang Cheng et.al.|[2111.07079v2](http://arxiv.org/abs/2111.07079v2)|null|
+|**2023-05-11**|**Minimal dominating sets enumeration with FPT-delay parameterized by the degeneracy and maximum degree**|Valentin Bartier et.al.|[2305.06974v1](http://arxiv.org/abs/2305.06974v1)|null|
+|**2023-05-11**|**Abelian and non-abelian quantum two-block codes**|Renyu Wang et.al.|[2305.06890v1](http://arxiv.org/abs/2305.06890v1)|null|
+|**2023-05-11**|**Integer points in the degree-sequence polytope**|Eleonore Bach et.al.|[2305.06732v1](http://arxiv.org/abs/2305.06732v1)|null|
+|**2022-04-06**|**Nearly Tight Spectral Sparsification of Directed Hypergraphs by a Simple Iterative Sampling Algorithm**|Kazusato Oko et.al.|[2204.02537v2](http://arxiv.org/abs/2204.02537v2)|null|
+|**2023-05-11**|**Reconstructing higher-order interactions in coupled dynamical systems**|Federico Malizia et.al.|[2305.06609v1](http://arxiv.org/abs/2305.06609v1)|null|
+|**2023-05-11**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588v1](http://arxiv.org/abs/2305.06588v1)|[link](https://github.com/lhrlab/hahe)|
+|**2023-04-27**|**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems**|Austen Z. Fan et.al.|[2304.14557v2](http://arxiv.org/abs/2304.14557v2)|null|
+|**2023-05-07**|**Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification**|Guang Yang et.al.|[2305.04228v2](http://arxiv.org/abs/2305.04228v2)|[link](https://github.com/qiankunmu/hdhgn)|
+|**2023-05-10**|**Cross-homology: Topology and spectral persistent cross-hubs of higher-order multilayer networks**|Elkaïoum M. Moutuou et.al.|[2305.05860v1](http://arxiv.org/abs/2305.05860v1)|null|
+|**2021-02-18**|**Regularity method and large deviation principles for the Erdős--Rényi hypergraph**|Nicholas A. Cook et.al.|[2102.09100v4](http://arxiv.org/abs/2102.09100v4)|null|
+|**2023-05-09**|**Multilinear Hyperquiver Representations**|Tommi Muller et.al.|[2305.05622v1](http://arxiv.org/abs/2305.05622v1)|null|
+|**2023-04-11**|**EESMR: Energy Efficient BFT-SMR for the masses**|Adithya Bhat et.al.|[2304.04998v2](http://arxiv.org/abs/2304.04998v2)|null|
+|**2022-11-01**|**Volume rigidity and algebraic shifting**|Denys Bulavka et.al.|[2211.00574v2](http://arxiv.org/abs/2211.00574v2)|null|
 
 ## Variable Selection
 
