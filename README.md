@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-14 07:21:54 Asia/Shanghai
+ Automated deployment @ 2023-05-14 19:18:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,25 +34,6 @@
 |**2023-05-10**|**Graph Neural Networks and 3-Dimensional Topology**|Pavel Putrov et.al.|[2305.05966v1](http://arxiv.org/abs/2305.05966v1)|[link](https://github.com/songjin91/learningplumbings)|
 
 ## Graph Model
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-29**|**From axioms over graphs to vectors, and back again: evaluating the properties of graph-based ontology embeddings**|Fernando Zhapa-Camacho et.al.|[2303.16519v2](http://arxiv.org/abs/2303.16519v2)|[link](https://github.com/bio-ontology-research-group/ontology-graph-projections)|
-|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
-|**2022-04-26**|**Exact Wirelength of Embedding 3-Ary n-Cubes into certain Cylinders and Trees**|Rajeshwari S et.al.|[2204.12079v4](http://arxiv.org/abs/2204.12079v4)|null|
-|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|null|
-|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v1](http://arxiv.org/abs/2305.04622v1)|null|
-|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v3](http://arxiv.org/abs/2305.02177v3)|null|
-|**2023-05-04**|**Homomorphisms between graphs embedded on surfaces**|Delia Garijo et.al.|[2305.03107v1](http://arxiv.org/abs/2305.03107v1)|null|
-|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
-|**2023-05-04**|**Semisupervised regression in latent structure networks on unknown manifolds**|Aranyak Acharyya et.al.|[2305.02473v1](http://arxiv.org/abs/2305.02473v1)|null|
-|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
-|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v1](http://arxiv.org/abs/2305.00382v1)|null|
-|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|[link](https://github.com/nslab-cuk/connector)|
-|**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
-|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
-|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,28 +73,45 @@
 |**2023-04-11**|**EESMR: Energy Efficient BFT-SMR for the masses**|Adithya Bhat et.al.|[2304.04998v2](http://arxiv.org/abs/2304.04998v2)|null|
 |**2022-11-01**|**Volume rigidity and algebraic shifting**|Denys Bulavka et.al.|[2211.00574v2](http://arxiv.org/abs/2211.00574v2)|null|
 
-## Variable Selection
-
-### Variable selection
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-30**|**Mixed-type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v2](http://arxiv.org/abs/2201.12839v2)|null|
-|**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v2](http://arxiv.org/abs/2304.09560v2)|[link](https://github.com/philipphager/cmip)|
-|**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v2](http://arxiv.org/abs/2206.13089v2)|[link](https://github.com/kebaek/agreement-on-the-line)|
-|**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rènyi, Independent Edge, and a Uniparametric Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v1](http://arxiv.org/abs/2305.06465v1)|null|
-|**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v1](http://arxiv.org/abs/2305.06262v1)|null|
-|**2023-05-09**|**Ranking & Reweighting Improves Group Distributional Robustness**|Yachuan Liu et.al.|[2305.05759v1](http://arxiv.org/abs/2305.05759v1)|null|
-|**2023-05-09**|**Robust Model Selection with Application in Single-Cell Multiomics Data**|Zhanrui Cai et.al.|[2305.05714v1](http://arxiv.org/abs/2305.05714v1)|null|
-|**2023-05-09**|**On near-redundancy and identifiability of parametric hazard regression models under censoring**|F. J. Rubio et.al.|[2305.05641v1](http://arxiv.org/abs/2305.05641v1)|[link](https://github.com/fjrubio67/nrpnisurv)|
-|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v2](http://arxiv.org/abs/2305.03780v2)|null|
-|**2023-01-17**|**The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks**|Luca Marzari et.al.|[2301.07068v2](http://arxiv.org/abs/2301.07068v2)|null|
-|**2022-03-23**|**Treatment Effect Estimation with Efficient Data Aggregation**|Snigdha Panigrahi et.al.|[2203.12726v2](http://arxiv.org/abs/2203.12726v2)|null|
-|**2022-03-08**|**Nonlinear Isometric Manifold Learning for Injective Normalizing Flows**|Eike Cramer et.al.|[2203.03934v2](http://arxiv.org/abs/2203.03934v2)|null|
-|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v1](http://arxiv.org/abs/2305.04841v1)|null|
-|**2023-05-08**|**Exploring departures from Schwarzschild black hole geometry in $f(R)$ gravity**|Vittorio De Falco et.al.|[2305.04695v1](http://arxiv.org/abs/2305.04695v1)|null|
-|**2021-06-07**|**Encoding-dependent generalization bounds for parametrized quantum circuits**|Matthias C. Caro et.al.|[2106.03880v3](http://arxiv.org/abs/2106.03880v3)|null|
+|**2023-03-29**|**From axioms over graphs to vectors, and back again: evaluating the properties of graph-based ontology embeddings**|Fernando Zhapa-Camacho et.al.|[2303.16519v2](http://arxiv.org/abs/2303.16519v2)|[link](https://github.com/bio-ontology-research-group/ontology-graph-projections)|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
+|**2022-04-26**|**Exact Wirelength of Embedding 3-Ary n-Cubes into certain Cylinders and Trees**|Rajeshwari S et.al.|[2204.12079v4](http://arxiv.org/abs/2204.12079v4)|null|
+|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|null|
+|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v1](http://arxiv.org/abs/2305.04622v1)|null|
+|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v3](http://arxiv.org/abs/2305.02177v3)|null|
+|**2023-05-04**|**Homomorphisms between graphs embedded on surfaces**|Delia Garijo et.al.|[2305.03107v1](http://arxiv.org/abs/2305.03107v1)|null|
+|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
+|**2023-05-04**|**Semisupervised regression in latent structure networks on unknown manifolds**|Aranyak Acharyya et.al.|[2305.02473v1](http://arxiv.org/abs/2305.02473v1)|null|
+|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
+|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v1](http://arxiv.org/abs/2305.00382v1)|null|
+|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|[link](https://github.com/nslab-cuk/connector)|
+|**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
+|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
+|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
 
 ## Embedding
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**From axioms over graphs to vectors, and back again: evaluating the properties of graph-based ontology embeddings**|Fernando Zhapa-Camacho et.al.|[2303.16519v2](http://arxiv.org/abs/2303.16519v2)|[link](https://github.com/bio-ontology-research-group/ontology-graph-projections)|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
+|**2022-04-26**|**Exact Wirelength of Embedding 3-Ary n-Cubes into certain Cylinders and Trees**|Rajeshwari S et.al.|[2204.12079v4](http://arxiv.org/abs/2204.12079v4)|null|
+|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|null|
+|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v1](http://arxiv.org/abs/2305.04622v1)|null|
+|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v3](http://arxiv.org/abs/2305.02177v3)|null|
+|**2023-05-04**|**Homomorphisms between graphs embedded on surfaces**|Delia Garijo et.al.|[2305.03107v1](http://arxiv.org/abs/2305.03107v1)|null|
+|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
+|**2023-05-04**|**Semisupervised regression in latent structure networks on unknown manifolds**|Aranyak Acharyya et.al.|[2305.02473v1](http://arxiv.org/abs/2305.02473v1)|null|
+|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
+|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v1](http://arxiv.org/abs/2305.00382v1)|null|
+|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|[link](https://github.com/nslab-cuk/connector)|
+|**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
+|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
+|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -134,21 +132,23 @@
 |**2023-03-29**|**Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**|Leo Sampaio Ferraz Ribeiro et.al.|[2303.16769v1](http://arxiv.org/abs/2303.16769v1)|null|
 |**2023-03-28**|**Multi-Behavior Recommendation with Cascading Graph Convolution Networks**|Zhiyong Cheng et.al.|[2303.15720v1](http://arxiv.org/abs/2303.15720v1)|[link](https://github.com/SS-00-SS/MBCGCN)|
 
-### Graph Embedding
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-29**|**From axioms over graphs to vectors, and back again: evaluating the properties of graph-based ontology embeddings**|Fernando Zhapa-Camacho et.al.|[2303.16519v2](http://arxiv.org/abs/2303.16519v2)|[link](https://github.com/bio-ontology-research-group/ontology-graph-projections)|
-|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
-|**2022-04-26**|**Exact Wirelength of Embedding 3-Ary n-Cubes into certain Cylinders and Trees**|Rajeshwari S et.al.|[2204.12079v4](http://arxiv.org/abs/2204.12079v4)|null|
-|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v1](http://arxiv.org/abs/2305.05107v1)|null|
-|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v1](http://arxiv.org/abs/2305.04622v1)|null|
-|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v3](http://arxiv.org/abs/2305.02177v3)|null|
-|**2023-05-04**|**Homomorphisms between graphs embedded on surfaces**|Delia Garijo et.al.|[2305.03107v1](http://arxiv.org/abs/2305.03107v1)|null|
-|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
-|**2023-05-04**|**Semisupervised regression in latent structure networks on unknown manifolds**|Aranyak Acharyya et.al.|[2305.02473v1](http://arxiv.org/abs/2305.02473v1)|null|
-|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
-|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v1](http://arxiv.org/abs/2305.00382v1)|null|
-|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|[link](https://github.com/nslab-cuk/connector)|
-|**2019-03-27**|**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**|Hung Nghiep Tran et.al.|[1903.11406v4](http://arxiv.org/abs/1903.11406v4)|[link](https://github.com/tranhungnghiep/AnalyzeKGE)|
-|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
-|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v2](http://arxiv.org/abs/2211.05475v2)|null|
+|**2022-01-30**|**Mixed-type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v2](http://arxiv.org/abs/2201.12839v2)|[link](https://github.com/raybai07/mtmbsp)|
+|**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v2](http://arxiv.org/abs/2304.09560v2)|[link](https://github.com/philipphager/cmip)|
+|**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v2](http://arxiv.org/abs/2206.13089v2)|[link](https://github.com/kebaek/agreement-on-the-line)|
+|**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rènyi, Independent Edge, and a Uniparametric Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v1](http://arxiv.org/abs/2305.06465v1)|null|
+|**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v1](http://arxiv.org/abs/2305.06262v1)|null|
+|**2023-05-09**|**Ranking & Reweighting Improves Group Distributional Robustness**|Yachuan Liu et.al.|[2305.05759v1](http://arxiv.org/abs/2305.05759v1)|null|
+|**2023-05-09**|**Robust Model Selection with Application in Single-Cell Multiomics Data**|Zhanrui Cai et.al.|[2305.05714v1](http://arxiv.org/abs/2305.05714v1)|null|
+|**2023-05-09**|**On near-redundancy and identifiability of parametric hazard regression models under censoring**|F. J. Rubio et.al.|[2305.05641v1](http://arxiv.org/abs/2305.05641v1)|[link](https://github.com/fjrubio67/nrpnisurv)|
+|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v2](http://arxiv.org/abs/2305.03780v2)|null|
+|**2023-01-17**|**The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks**|Luca Marzari et.al.|[2301.07068v2](http://arxiv.org/abs/2301.07068v2)|null|
+|**2022-03-23**|**Treatment Effect Estimation with Efficient Data Aggregation**|Snigdha Panigrahi et.al.|[2203.12726v2](http://arxiv.org/abs/2203.12726v2)|null|
+|**2022-03-08**|**Nonlinear Isometric Manifold Learning for Injective Normalizing Flows**|Eike Cramer et.al.|[2203.03934v2](http://arxiv.org/abs/2203.03934v2)|null|
+|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v1](http://arxiv.org/abs/2305.04841v1)|null|
+|**2023-05-08**|**Exploring departures from Schwarzschild black hole geometry in $f(R)$ gravity**|Vittorio De Falco et.al.|[2305.04695v1](http://arxiv.org/abs/2305.04695v1)|null|
+|**2021-06-07**|**Encoding-dependent generalization bounds for parametrized quantum circuits**|Matthias C. Caro et.al.|[2106.03880v3](http://arxiv.org/abs/2106.03880v3)|null|
