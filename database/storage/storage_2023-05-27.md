@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-27 07:22:18 Asia/Shanghai
+ Automated deployment @ 2023-05-27 19:18:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -25,7 +25,7 @@
 |**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
 |**2023-05-25**|**DASH: Dynamic Attention-Based Substructure Hierarchy for Partial Charge Assignment**|Marc T. Lehner et.al.|[2305.15981v1](http://arxiv.org/abs/2305.15981v1)|null|
 |**2023-05-25**|**Quantifying the Intrinsic Usefulness of Attributional Explanations for Graph Neural Networks with Artificial Simulatability Studies**|Jonas Teufel et.al.|[2305.15961v1](http://arxiv.org/abs/2305.15961v1)|null|
-|**2023-05-25**|**NexToU: Efficient Topology-Aware U-Net for Medical Image Segmentation**|Pengcheng Shi et.al.|[2305.15911v1](http://arxiv.org/abs/2305.15911v1)|null|
+|**2023-05-25**|**NexToU: Efficient Topology-Aware U-Net for Medical Image Segmentation**|Pengcheng Shi et.al.|[2305.15911v1](http://arxiv.org/abs/2305.15911v1)|[link](https://github.com/pengchengshi1220/nextou)|
 |**2023-05-25**|**TabGSL: Graph Structure Learning for Tabular Data Prediction**|Jay Chiehen Liao et.al.|[2305.15843v1](http://arxiv.org/abs/2305.15843v1)|null|
 |**2023-05-25**|**Towards Label Position Bias in Graph Neural Networks**|Haoyu Han et.al.|[2305.15822v1](http://arxiv.org/abs/2305.15822v1)|null|
 |**2023-05-25**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811v1](http://arxiv.org/abs/2305.15811v1)|[link](https://github.com/anonymous2nips2023/grug)|
@@ -34,25 +34,6 @@
 |**2023-01-14**|**State of the Art and Potentialities of Graph-level Learning**|Zhenyu Yang et.al.|[2301.05860v3](http://arxiv.org/abs/2301.05860v3)|null|
 
 ## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v3](http://arxiv.org/abs/2303.16458v3)|null|
-|**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v2](http://arxiv.org/abs/2304.05211v2)|null|
-|**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v2](http://arxiv.org/abs/2210.14097v2)|null|
-|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v4](http://arxiv.org/abs/2201.12272v4)|null|
-|**2021-09-16**|**On the chromatic number of graphons**|Mikhail Isaev et.al.|[2109.07773v3](http://arxiv.org/abs/2109.07773v3)|null|
-|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v1](http://arxiv.org/abs/2305.03607v1)|null|
-|**2021-11-06**|**Consensus Formation in First-Order Graphon Models with Time-Varying Topologies**|Benoît Bonnet et.al.|[2111.03900v3](http://arxiv.org/abs/2111.03900v3)|null|
-|**2023-04-29**|**Optimal graphons in the edge-2star model**|Charles Radin et.al.|[2305.00333v1](http://arxiv.org/abs/2305.00333v1)|null|
-|**2023-04-23**|**Covering multigraphs with bipartite graphs**|Jaehoon Kim et.al.|[2304.11691v1](http://arxiv.org/abs/2304.11691v1)|null|
-|**2023-04-18**|**Independence testing for inhomogeneous random graphs**|Yukun Song et.al.|[2304.09132v1](http://arxiv.org/abs/2304.09132v1)|null|
-|**2023-04-08**|**Stochastic Graphon Mean Field Games with Jumps and Approximate Nash Equilibria**|Hamed Amini et.al.|[2304.04112v1](http://arxiv.org/abs/2304.04112v1)|null|
-|**2023-04-07**|**Graphon Estimation in bipartite graphs with observable edge labels and unobservable node labels**|Etienne Donier-Meroz et.al.|[2304.03590v1](http://arxiv.org/abs/2304.03590v1)|null|
-|**2022-09-18**|**Weak randomness in graphons and theons**|Leonardo N. Coregliano et.al.|[2209.08638v2](http://arxiv.org/abs/2209.08638v2)|null|
-|**2022-11-07**|**Implicit Graphon Neural Representation**|Xinyue Xia et.al.|[2211.03329v3](http://arxiv.org/abs/2211.03329v3)|[link](https://github.com/mishne-lab/ignr)|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,26 +73,26 @@
 |**2023-01-20**|**Hypercore Decomposition for Non-Fragile Hyperedges: Concepts, Algorithms, Observations, and Applications**|Fanchen Bu et.al.|[2301.08440v2](http://arxiv.org/abs/2301.08440v2)|[link](https://github.com/bokveizen/non-fragile-hypercore)|
 |**2022-10-06**|**A Toolkit for Robust Thresholds**|Huy Tuan Pham et.al.|[2210.03064v4](http://arxiv.org/abs/2210.03064v4)|null|
 
-## Embedding
-
-### Graph Embedding
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
-|**2023-05-24**|**Foundational Models for Malware Embeddings Using Spatio-Temporal Parallel Convolutional Networks**|Dhruv Nandakumar et.al.|[2305.15488v1](http://arxiv.org/abs/2305.15488v1)|null|
-|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v1](http://arxiv.org/abs/2305.13059v1)|null|
-|**2023-05-22**|**3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding**|Yihua Zhu et.al.|[2305.13015v1](http://arxiv.org/abs/2305.13015v1)|null|
-|**2023-05-17**|**Tensor Products and Hyperdimensional Computing**|Frank Qiu et.al.|[2305.10572v2](http://arxiv.org/abs/2305.10572v2)|null|
-|**2023-05-20**|**Self-Distillation with Meta Learning for Knowledge Graph Completion**|Yunshui Li et.al.|[2305.12209v1](http://arxiv.org/abs/2305.12209v1)|[link](https://github.com/pldlgb/MetaSD)|
-|**2023-02-04**|**PubGraph: A Large-Scale Scientific Knowledge Graph**|Kian Ahrabian et.al.|[2302.02231v2](http://arxiv.org/abs/2302.02231v2)|null|
-|**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563v1](http://arxiv.org/abs/2305.10563v1)|null|
-|**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729v1](http://arxiv.org/abs/2305.09729v1)|[link](https://github.com/cynricfu/fedhgn)|
-|**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464v1](http://arxiv.org/abs/2305.09464v1)|null|
-|**2023-05-16**|**Enhancing Keyphrase Extraction from Long Scientific Documents using Graph Embeddings**|Roberto Martínez-Cruz et.al.|[2305.09316v1](http://arxiv.org/abs/2305.09316v1)|null|
-|**2023-05-15**|**Leveraging Graph Embeddings for Opinion Leader Detection**|Yunming Hui et.al.|[2305.08663v1](http://arxiv.org/abs/2305.08663v1)|null|
-|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v3](http://arxiv.org/abs/2304.12036v3)|null|
-|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v2](http://arxiv.org/abs/2305.00382v2)|null|
-|**2022-08-18**|**Memory and Capacity of Graph Embedding Methods**|Frank Qiu et.al.|[2208.08769v3](http://arxiv.org/abs/2208.08769v3)|null|
+|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
+|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v3](http://arxiv.org/abs/2303.16458v3)|null|
+|**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v2](http://arxiv.org/abs/2304.05211v2)|null|
+|**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v2](http://arxiv.org/abs/2210.14097v2)|null|
+|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v4](http://arxiv.org/abs/2201.12272v4)|null|
+|**2021-09-16**|**On the chromatic number of graphons**|Mikhail Isaev et.al.|[2109.07773v3](http://arxiv.org/abs/2109.07773v3)|null|
+|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v1](http://arxiv.org/abs/2305.03607v1)|null|
+|**2021-11-06**|**Consensus Formation in First-Order Graphon Models with Time-Varying Topologies**|Benoît Bonnet et.al.|[2111.03900v3](http://arxiv.org/abs/2111.03900v3)|null|
+|**2023-04-29**|**Optimal graphons in the edge-2star model**|Charles Radin et.al.|[2305.00333v1](http://arxiv.org/abs/2305.00333v1)|null|
+|**2023-04-23**|**Covering multigraphs with bipartite graphs**|Jaehoon Kim et.al.|[2304.11691v1](http://arxiv.org/abs/2304.11691v1)|null|
+|**2023-04-18**|**Independence testing for inhomogeneous random graphs**|Yukun Song et.al.|[2304.09132v1](http://arxiv.org/abs/2304.09132v1)|null|
+|**2023-04-08**|**Stochastic Graphon Mean Field Games with Jumps and Approximate Nash Equilibria**|Hamed Amini et.al.|[2304.04112v1](http://arxiv.org/abs/2304.04112v1)|null|
+|**2023-04-07**|**Graphon Estimation in bipartite graphs with observable edge labels and unobservable node labels**|Etienne Donier-Meroz et.al.|[2304.03590v1](http://arxiv.org/abs/2304.03590v1)|null|
+|**2022-09-18**|**Weak randomness in graphons and theons**|Leonardo N. Coregliano et.al.|[2209.08638v2](http://arxiv.org/abs/2209.08638v2)|null|
+|**2022-11-07**|**Implicit Graphon Neural Representation**|Xinyue Xia et.al.|[2211.03329v3](http://arxiv.org/abs/2211.03329v3)|[link](https://github.com/mishne-lab/ignr)|
+
+## Embedding
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -131,6 +112,25 @@
 |**2023-04-20**|**Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation**|Jacky Chen Long Chai et.al.|[2304.10066v1](http://arxiv.org/abs/2304.10066v1)|null|
 |**2023-04-19**|**Multilingual Query-by-Example Keyword Spotting with Metric Learning and Phoneme-to-Embedding Mapping**|Paul M. Reuter et.al.|[2304.09585v1](http://arxiv.org/abs/2304.09585v1)|null|
 |**2023-04-19**|**Learning Robust Visual-Semantic Embedding for Generalizable Person Re-identification**|Suncheng Xiang et.al.|[2304.09498v1](http://arxiv.org/abs/2304.09498v1)|[link](https://github.com/jeremyxsc/mmet)|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
+|**2023-05-24**|**Foundational Models for Malware Embeddings Using Spatio-Temporal Parallel Convolutional Networks**|Dhruv Nandakumar et.al.|[2305.15488v1](http://arxiv.org/abs/2305.15488v1)|null|
+|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v1](http://arxiv.org/abs/2305.13059v1)|null|
+|**2023-05-22**|**3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding**|Yihua Zhu et.al.|[2305.13015v1](http://arxiv.org/abs/2305.13015v1)|null|
+|**2023-05-17**|**Tensor Products and Hyperdimensional Computing**|Frank Qiu et.al.|[2305.10572v2](http://arxiv.org/abs/2305.10572v2)|null|
+|**2023-05-20**|**Self-Distillation with Meta Learning for Knowledge Graph Completion**|Yunshui Li et.al.|[2305.12209v1](http://arxiv.org/abs/2305.12209v1)|[link](https://github.com/pldlgb/MetaSD)|
+|**2023-02-04**|**PubGraph: A Large-Scale Scientific Knowledge Graph**|Kian Ahrabian et.al.|[2302.02231v2](http://arxiv.org/abs/2302.02231v2)|null|
+|**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563v1](http://arxiv.org/abs/2305.10563v1)|null|
+|**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729v1](http://arxiv.org/abs/2305.09729v1)|[link](https://github.com/cynricfu/fedhgn)|
+|**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464v1](http://arxiv.org/abs/2305.09464v1)|null|
+|**2023-05-16**|**Enhancing Keyphrase Extraction from Long Scientific Documents using Graph Embeddings**|Roberto Martínez-Cruz et.al.|[2305.09316v1](http://arxiv.org/abs/2305.09316v1)|null|
+|**2023-05-15**|**Leveraging Graph Embeddings for Opinion Leader Detection**|Yunming Hui et.al.|[2305.08663v1](http://arxiv.org/abs/2305.08663v1)|null|
+|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v3](http://arxiv.org/abs/2304.12036v3)|null|
+|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382v2](http://arxiv.org/abs/2305.00382v2)|null|
+|**2022-08-18**|**Memory and Capacity of Graph Embedding Methods**|Frank Qiu et.al.|[2208.08769v3](http://arxiv.org/abs/2208.08769v3)|null|
 
 ## Variable Selection
 
