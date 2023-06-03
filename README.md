@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-03 07:23:02 Asia/Shanghai
+ Automated deployment @ 2023-06-03 19:19:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,67 @@
 |**2022-12-08**|**Time-Synchronized State Estimation Using Graph Neural Networks in Presence of Topology Changes**|Shiva Moshtagh et.al.|[2212.04592v2](http://arxiv.org/abs/2212.04592v2)|null|
 |**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v3](http://arxiv.org/abs/2304.09367v3)|[link](https://github.com/katiebuc/gnnad)|
 |**2023-05-31**|**Contrastive Hierarchical Discourse Graph for Scientific Document Summarization**|Haopeng Zhang et.al.|[2306.00177v1](http://arxiv.org/abs/2306.00177v1)|null|
+
+## Embedding
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|null|
+|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|[link](https://github.com/bdi-lab/ingram)|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|[link](https://github.com/bdi-lab/hynt)|
+|**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
+|**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979v1](http://arxiv.org/abs/2305.19979v1)|[link](https://github.com/aryopg/biokge)|
+|**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041v1](http://arxiv.org/abs/2306.00041v1)|null|
+|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v2](http://arxiv.org/abs/2305.13059v2)|null|
+|**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|[link](https://github.com/zknus/hamiltonian-gnn)|
+|**2023-05-30**|**Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning**|Ya-Wei Eileen Lin et.al.|[2305.18962v1](http://arxiv.org/abs/2305.18962v1)|[link](https://github.com/ya-wei0/hyperbolicdiffusiondistance)|
+|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v3](http://arxiv.org/abs/2211.05475v3)|null|
+|**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v3](http://arxiv.org/abs/2212.05581v3)|null|
+|**2023-05-28**|**Pure Spectral Graph Embeddings: Reinterpreting Graph Convolution for Top-N Recommendation**|Edoardo D'Amico et.al.|[2305.18374v1](http://arxiv.org/abs/2305.18374v1)|[link](https://github.com/damicoedoardo/psge)|
+|**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|[link](https://github.com/abachaa/evaluationmetrics-acl23)|
+|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|[link](https://github.com/mohbattharani/GVdoc)|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-01**|**Speaker verification using attentive multi-scale convolutional recurrent network**|Yanxiong Li et.al.|[2306.00426v1](http://arxiv.org/abs/2306.00426v1)|null|
+|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v2](http://arxiv.org/abs/2305.12530v2)|null|
+|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v4](http://arxiv.org/abs/2301.00785v4)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
+|**2023-05-30**|**Together We Make Sense -- Learning Meta-Sense Embeddings from Pretrained Static Sense Embeddings**|Haochen Luo et.al.|[2305.19092v1](http://arxiv.org/abs/2305.19092v1)|null|
+|**2023-05-28**|**Whitening-based Contrastive Learning of Sentence Embeddings**|Wenjie Zhuo et.al.|[2305.17746v1](http://arxiv.org/abs/2305.17746v1)|null|
+|**2023-05-24**|**Learning Lagrangian Fluid Mechanics with E($3$)-Equivariant Graph Neural Networks**|Artur P. Toshev et.al.|[2305.15603v1](http://arxiv.org/abs/2305.15603v1)|null|
+|**2023-05-24**|**SUVR: A Search-based Approach to Unsupervised Visual Representation Learning**|Yi-Zhan Xu et.al.|[2305.14754v1](http://arxiv.org/abs/2305.14754v1)|null|
+|**2023-05-23**|**ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings**|Yuki Saito et.al.|[2305.13724v1](http://arxiv.org/abs/2305.13724v1)|null|
+|**2023-05-22**|**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**|Chi Han et.al.|[2305.12738v1](http://arxiv.org/abs/2305.12738v1)|[link](https://github.com/glaciohound/lerp)|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
+|**2021-07-06**|**Asymptotics of Network Embeddings Learned via Subsampling**|Andrew Davison et.al.|[2107.02363v4](http://arxiv.org/abs/2107.02363v4)|[link](https://github.com/aday651/embed-asym-experiments)|
+|**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v1](http://arxiv.org/abs/2305.09556v1)|null|
+|**2023-05-07**|**Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation**|Xinyu Du et.al.|[2305.04322v1](http://arxiv.org/abs/2305.04322v1)|[link](https://github.com/sudaada/slime4rec)|
+|**2022-08-03**|**Large scale analysis of gender bias and sexism in song lyrics**|Lorenzo Betti et.al.|[2208.02052v5](http://arxiv.org/abs/2208.02052v5)|null|
+|**2023-05-02**|**SIA-FTP: A Spoken Instruction Aware Flight Trajectory Prediction Framework**|Dongyue Guo et.al.|[2305.01661v1](http://arxiv.org/abs/2305.01661v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-01**|**The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei**|Sophia G. H. Waddell et.al.|[2306.00961v1](http://arxiv.org/abs/2306.00961v1)|null|
+|**2023-06-01**|**Enhancing biomechanical stimulated Brillouin scattering imaging with physics-driven model selection**|Roni Shaashoua et.al.|[2306.00910v1](http://arxiv.org/abs/2306.00910v1)|null|
+|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v1](http://arxiv.org/abs/2306.00849v1)|null|
+|**2023-06-01**|**On Masked Pre-training and the Marginal Likelihood**|Pablo Moreno-Muñoz et.al.|[2306.00520v1](http://arxiv.org/abs/2306.00520v1)|[link](https://github.com/pmorenoz/mpt-lml)|
+|**2023-05-31**|**Discrete $q$-exponential limit order cancellation time distribution**|Vygintas Gontis et.al.|[2306.00093v1](http://arxiv.org/abs/2306.00093v1)|null|
+|**2019-03-29**|**Lasso in infinite dimension: application to variable selection in functional multivariate linear regression**|Angelina Roche et.al.|[1903.12414v5](http://arxiv.org/abs/1903.12414v5)|null|
+|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v1](http://arxiv.org/abs/2305.19417v1)|[link](https://github.com/jwsitison/data_subset_variation)|
+|**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v2](http://arxiv.org/abs/2305.17467v2)|[link](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
+|**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
+|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
+|**2023-05-26**|**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**|Fabian David Schmidt et.al.|[2305.16834v1](http://arxiv.org/abs/2305.16834v1)|[link](https://github.com/fdschmidt93/free-lunch-xlt)|
+|**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v2](http://arxiv.org/abs/2305.03158v2)|null|
+|**2023-05-25**|**Flexible Variable Selection for Clustering and Classification**|Mackenzie R. Neal et.al.|[2305.16464v1](http://arxiv.org/abs/2305.16464v1)|null|
+|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
+|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
 
 ## Graph Model
 
@@ -77,8 +138,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|null|
-|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|null|
-|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|null|
+|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|[link](https://github.com/bdi-lab/ingram)|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|[link](https://github.com/bdi-lab/hynt)|
 |**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
 |**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979v1](http://arxiv.org/abs/2305.19979v1)|[link](https://github.com/aryopg/biokge)|
 |**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041v1](http://arxiv.org/abs/2306.00041v1)|null|
@@ -91,64 +152,3 @@
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|[link](https://github.com/abachaa/evaluationmetrics-acl23)|
 |**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|[link](https://github.com/mohbattharani/GVdoc)|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
-
-## Embedding
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|null|
-|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|null|
-|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|null|
-|**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
-|**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979v1](http://arxiv.org/abs/2305.19979v1)|[link](https://github.com/aryopg/biokge)|
-|**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041v1](http://arxiv.org/abs/2306.00041v1)|null|
-|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v2](http://arxiv.org/abs/2305.13059v2)|null|
-|**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|[link](https://github.com/zknus/hamiltonian-gnn)|
-|**2023-05-30**|**Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning**|Ya-Wei Eileen Lin et.al.|[2305.18962v1](http://arxiv.org/abs/2305.18962v1)|[link](https://github.com/ya-wei0/hyperbolicdiffusiondistance)|
-|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v3](http://arxiv.org/abs/2211.05475v3)|null|
-|**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v3](http://arxiv.org/abs/2212.05581v3)|null|
-|**2023-05-28**|**Pure Spectral Graph Embeddings: Reinterpreting Graph Convolution for Top-N Recommendation**|Edoardo D'Amico et.al.|[2305.18374v1](http://arxiv.org/abs/2305.18374v1)|[link](https://github.com/damicoedoardo/psge)|
-|**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|[link](https://github.com/abachaa/evaluationmetrics-acl23)|
-|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|[link](https://github.com/mohbattharani/GVdoc)|
-|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-01**|**Speaker verification using attentive multi-scale convolutional recurrent network**|Yanxiong Li et.al.|[2306.00426v1](http://arxiv.org/abs/2306.00426v1)|null|
-|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v2](http://arxiv.org/abs/2305.12530v2)|null|
-|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v4](http://arxiv.org/abs/2301.00785v4)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
-|**2023-05-30**|**Together We Make Sense -- Learning Meta-Sense Embeddings from Pretrained Static Sense Embeddings**|Haochen Luo et.al.|[2305.19092v1](http://arxiv.org/abs/2305.19092v1)|null|
-|**2023-05-28**|**Whitening-based Contrastive Learning of Sentence Embeddings**|Wenjie Zhuo et.al.|[2305.17746v1](http://arxiv.org/abs/2305.17746v1)|null|
-|**2023-05-24**|**Learning Lagrangian Fluid Mechanics with E($3$)-Equivariant Graph Neural Networks**|Artur P. Toshev et.al.|[2305.15603v1](http://arxiv.org/abs/2305.15603v1)|null|
-|**2023-05-24**|**SUVR: A Search-based Approach to Unsupervised Visual Representation Learning**|Yi-Zhan Xu et.al.|[2305.14754v1](http://arxiv.org/abs/2305.14754v1)|null|
-|**2023-05-23**|**ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings**|Yuki Saito et.al.|[2305.13724v1](http://arxiv.org/abs/2305.13724v1)|null|
-|**2023-05-22**|**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**|Chi Han et.al.|[2305.12738v1](http://arxiv.org/abs/2305.12738v1)|[link](https://github.com/glaciohound/lerp)|
-|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
-|**2021-07-06**|**Asymptotics of Network Embeddings Learned via Subsampling**|Andrew Davison et.al.|[2107.02363v4](http://arxiv.org/abs/2107.02363v4)|[link](https://github.com/aday651/embed-asym-experiments)|
-|**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v1](http://arxiv.org/abs/2305.09556v1)|null|
-|**2023-05-07**|**Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation**|Xinyu Du et.al.|[2305.04322v1](http://arxiv.org/abs/2305.04322v1)|[link](https://github.com/sudaada/slime4rec)|
-|**2022-08-03**|**Large scale analysis of gender bias and sexism in song lyrics**|Lorenzo Betti et.al.|[2208.02052v5](http://arxiv.org/abs/2208.02052v5)|null|
-|**2023-05-02**|**SIA-FTP: A Spoken Instruction Aware Flight Trajectory Prediction Framework**|Dongyue Guo et.al.|[2305.01661v1](http://arxiv.org/abs/2305.01661v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-01**|**The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei**|Sophia G. H. Waddell et.al.|[2306.00961v1](http://arxiv.org/abs/2306.00961v1)|null|
-|**2023-06-01**|**Enhancing biomechanical stimulated Brillouin scattering imaging with physics-driven model selection**|Roni Shaashoua et.al.|[2306.00910v1](http://arxiv.org/abs/2306.00910v1)|null|
-|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v1](http://arxiv.org/abs/2306.00849v1)|null|
-|**2023-06-01**|**On Masked Pre-training and the Marginal Likelihood**|Pablo Moreno-Muñoz et.al.|[2306.00520v1](http://arxiv.org/abs/2306.00520v1)|[link](https://github.com/pmorenoz/mpt-lml)|
-|**2023-05-31**|**Discrete $q$-exponential limit order cancellation time distribution**|Vygintas Gontis et.al.|[2306.00093v1](http://arxiv.org/abs/2306.00093v1)|null|
-|**2019-03-29**|**Lasso in infinite dimension: application to variable selection in functional multivariate linear regression**|Angelina Roche et.al.|[1903.12414v5](http://arxiv.org/abs/1903.12414v5)|null|
-|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v1](http://arxiv.org/abs/2305.19417v1)|null|
-|**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v2](http://arxiv.org/abs/2305.17467v2)|[link](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
-|**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
-|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
-|**2023-05-26**|**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**|Fabian David Schmidt et.al.|[2305.16834v1](http://arxiv.org/abs/2305.16834v1)|[link](https://github.com/fdschmidt93/free-lunch-xlt)|
-|**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v2](http://arxiv.org/abs/2305.03158v2)|null|
-|**2023-05-25**|**Flexible Variable Selection for Clustering and Classification**|Mackenzie R. Neal et.al.|[2305.16464v1](http://arxiv.org/abs/2305.16464v1)|null|
-|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
-|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
