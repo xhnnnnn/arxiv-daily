@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-04 07:21:27 Asia/Shanghai
+ Automated deployment @ 2023-06-04 19:18:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,25 +34,6 @@
 |**2023-05-31**|**Contrastive Hierarchical Discourse Graph for Scientific Document Summarization**|Haopeng Zhang et.al.|[2306.00177v1](http://arxiv.org/abs/2306.00177v1)|null|
 
 ## Graph Model
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|null|
-|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|[link](https://github.com/bdi-lab/ingram)|
-|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|[link](https://github.com/bdi-lab/hynt)|
-|**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
-|**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979v1](http://arxiv.org/abs/2305.19979v1)|[link](https://github.com/aryopg/biokge)|
-|**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041v1](http://arxiv.org/abs/2306.00041v1)|null|
-|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v2](http://arxiv.org/abs/2305.13059v2)|null|
-|**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|[link](https://github.com/zknus/hamiltonian-gnn)|
-|**2023-05-30**|**Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning**|Ya-Wei Eileen Lin et.al.|[2305.18962v1](http://arxiv.org/abs/2305.18962v1)|[link](https://github.com/ya-wei0/hyperbolicdiffusiondistance)|
-|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v3](http://arxiv.org/abs/2211.05475v3)|null|
-|**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v3](http://arxiv.org/abs/2212.05581v3)|null|
-|**2023-05-28**|**Pure Spectral Graph Embeddings: Reinterpreting Graph Convolution for Top-N Recommendation**|Edoardo D'Amico et.al.|[2305.18374v1](http://arxiv.org/abs/2305.18374v1)|[link](https://github.com/damicoedoardo/psge)|
-|**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|[link](https://github.com/abachaa/evaluationmetrics-acl23)|
-|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|[link](https://github.com/mohbattharani/GVdoc)|
-|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,12 +73,10 @@
 |**2023-04-18**|**Independence testing for inhomogeneous random graphs**|Yukun Song et.al.|[2304.09132v1](http://arxiv.org/abs/2304.09132v1)|null|
 |**2023-04-08**|**Stochastic Graphon Mean Field Games with Jumps and Approximate Nash Equilibria**|Hamed Amini et.al.|[2304.04112v1](http://arxiv.org/abs/2304.04112v1)|null|
 
-## Embedding
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|null|
+|**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|[link](https://github.com/zju-daily/tbfc)|
 |**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|[link](https://github.com/bdi-lab/ingram)|
 |**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|[link](https://github.com/bdi-lab/hynt)|
 |**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
@@ -112,6 +91,8 @@
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|[link](https://github.com/abachaa/evaluationmetrics-acl23)|
 |**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|[link](https://github.com/mohbattharani/GVdoc)|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
+
+## Embedding
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -131,6 +112,25 @@
 |**2023-05-07**|**Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation**|Xinyu Du et.al.|[2305.04322v1](http://arxiv.org/abs/2305.04322v1)|[link](https://github.com/sudaada/slime4rec)|
 |**2022-08-03**|**Large scale analysis of gender bias and sexism in song lyrics**|Lorenzo Betti et.al.|[2208.02052v5](http://arxiv.org/abs/2208.02052v5)|null|
 |**2023-05-02**|**SIA-FTP: A Spoken Instruction Aware Flight Trajectory Prediction Framework**|Dongyue Guo et.al.|[2305.01661v1](http://arxiv.org/abs/2305.01661v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-01**|**Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs**|Xinwei Cai et.al.|[2306.00893v1](http://arxiv.org/abs/2306.00893v1)|[link](https://github.com/zju-daily/tbfc)|
+|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v2](http://arxiv.org/abs/2305.19987v2)|[link](https://github.com/bdi-lab/ingram)|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v2](http://arxiv.org/abs/2305.18256v2)|[link](https://github.com/bdi-lab/hynt)|
+|**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
+|**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979v1](http://arxiv.org/abs/2305.19979v1)|[link](https://github.com/aryopg/biokge)|
+|**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041v1](http://arxiv.org/abs/2306.00041v1)|null|
+|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v2](http://arxiv.org/abs/2305.13059v2)|null|
+|**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|[link](https://github.com/zknus/hamiltonian-gnn)|
+|**2023-05-30**|**Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning**|Ya-Wei Eileen Lin et.al.|[2305.18962v1](http://arxiv.org/abs/2305.18962v1)|[link](https://github.com/ya-wei0/hyperbolicdiffusiondistance)|
+|**2022-11-10**|**Signed Graphs and Signed Cycles of Hyperoctahedral Groups**|Ryo Uchiumi et.al.|[2211.05475v3](http://arxiv.org/abs/2211.05475v3)|null|
+|**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v3](http://arxiv.org/abs/2212.05581v3)|null|
+|**2023-05-28**|**Pure Spectral Graph Embeddings: Reinterpreting Graph Convolution for Top-N Recommendation**|Edoardo D'Amico et.al.|[2305.18374v1](http://arxiv.org/abs/2305.18374v1)|[link](https://github.com/damicoedoardo/psge)|
+|**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|[link](https://github.com/abachaa/evaluationmetrics-acl23)|
+|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|[link](https://github.com/mohbattharani/GVdoc)|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|[link](https://github.com/anongekc/gekcs)|
 
 ## Variable Selection
 
