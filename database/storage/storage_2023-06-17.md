@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-17 07:22:43 Asia/Shanghai
+ Automated deployment @ 2023-06-17 19:19:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,6 +33,27 @@
 |**2023-06-14**|**Self-supervised Learning and Graph Classification under Heterophily**|Yilin Ding et.al.|[2306.08469v1](http://arxiv.org/abs/2306.08469v1)|null|
 |**2023-06-14**|**NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification**|Qitian Wu et.al.|[2306.08385v1](http://arxiv.org/abs/2306.08385v1)|[link](https://github.com/qitianwu/nodeformer)|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v2](http://arxiv.org/abs/2306.03827v2)|null|
+|**2022-11-15**|**Sensitivity to control signals in triphasic rhythmic neural systems: a comparative mechanistic analysis via infinitesimal local timing response curves**|Zhuojun Yu et.al.|[2211.07834v2](http://arxiv.org/abs/2211.07834v2)|[link](https://github.com/zhuojunyu-appliedmath/triphasic-control)|
+|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v2](http://arxiv.org/abs/2306.00849v2)|null|
+|**2022-07-10**|**Energy Trees: Regression and Classification With Structured and Mixed-Type Covariates**|Riccardo Giubilei et.al.|[2207.04430v2](http://arxiv.org/abs/2207.04430v2)|null|
+|**2021-07-07**|**Bounded support in linear random coefficient models: Identification and variable selection**|Philipp Hermann et.al.|[2107.03245v2](http://arxiv.org/abs/2107.03245v2)|null|
+|**2023-06-15**|**LOVM: Language-Only Vision Model Selection**|Orr Zohar et.al.|[2306.08893v1](http://arxiv.org/abs/2306.08893v1)|null|
+|**2023-06-14**|**The generalized hyperbolic family and automatic model selection through the multiple-choice LASSO**|Luca Bagnato et.al.|[2306.08692v1](http://arxiv.org/abs/2306.08692v1)|null|
+|**2023-06-14**|**Extreme eigenvalues of principal minors of random matrix with moment conditions**|Jianwei Hu et.al.|[2306.08335v1](http://arxiv.org/abs/2306.08335v1)|null|
+|**2020-07-30**|**Additive interaction modelling using I-priors**|Wicher Bergsma et.al.|[2007.15766v4](http://arxiv.org/abs/2007.15766v4)|[link](https://github.com/haziqj/iprior-interaction)|
+|**2015-03-07**|**Model selection of polynomial kernel regression**|Shaobo Lin et.al.|[1503.02143v2](http://arxiv.org/abs/1503.02143v2)|null|
+|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v4](http://arxiv.org/abs/2208.05302v4)|[link](https://CRAN.R-project.org/package=tram)|
+|**2022-11-03**|**Empirical Analysis of Model Selection for Heterogeneous Causal Effect Estimation**|Divyat Mahajan et.al.|[2211.01939v2](http://arxiv.org/abs/2211.01939v2)|[link](https://github.com/divyat09/cate-estimator-selection)|
+|**2023-06-12**|**Conditional Matrix Flows for Gaussian Graphical Models**|Marcello Massimo Negri et.al.|[2306.07255v1](http://arxiv.org/abs/2306.07255v1)|null|
+|**2021-07-10**|**The EAS approach to variable selection for multivariate response data in high-dimensional settings**|Salil Koner et.al.|[2107.04873v3](http://arxiv.org/abs/2107.04873v3)|null|
+|**2023-06-11**|**Statistical inference for the penalized EM algorithm to test differential item functioning**|Weimeng Wang et.al.|[2306.06726v1](http://arxiv.org/abs/2306.06726v1)|null|
+
 ## Graph Model
 
 ### Graph Embedding
@@ -54,25 +75,6 @@
 |**2022-08-18**|**Graph Embeddings via Tensor Products and Approximately Orthonormal Codes**|Frank Qiu et.al.|[2208.10917v5](http://arxiv.org/abs/2208.10917v5)|[link](https://github.com/shazoop/GETP_experiments)|
 |**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v2](http://arxiv.org/abs/2301.09308v2)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
 
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|null|
-|**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
-|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-|**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v2](http://arxiv.org/abs/2306.00274v2)|null|
-|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
-|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v1](http://arxiv.org/abs/2305.19925v1)|null|
-|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
-|**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v2](http://arxiv.org/abs/2304.05211v2)|null|
-|**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v2](http://arxiv.org/abs/2210.14097v2)|null|
-|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v4](http://arxiv.org/abs/2201.12272v4)|null|
-|**2021-09-16**|**On the chromatic number of graphons**|Mikhail Isaev et.al.|[2109.07773v3](http://arxiv.org/abs/2109.07773v3)|null|
-|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v1](http://arxiv.org/abs/2305.03607v1)|null|
-|**2021-11-06**|**Consensus Formation in First-Order Graphon Models with Time-Varying Topologies**|Benoît Bonnet et.al.|[2111.03900v3](http://arxiv.org/abs/2111.03900v3)|null|
-|**2023-04-29**|**Optimal graphons in the edge-2star model**|Charles Radin et.al.|[2305.00333v1](http://arxiv.org/abs/2305.00333v1)|null|
-
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -92,26 +94,24 @@
 |**2023-06-08**|**Sparse Incidence Geometries and Pebble Game Algorithms**|Signe Lundqvist et.al.|[2306.05050v1](http://arxiv.org/abs/2306.05050v1)|null|
 |**2023-06-07**|**DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node Classification based on Multi-View Learning and Density Awareness**|Jianpeng Liao et.al.|[2306.04214v1](http://arxiv.org/abs/2306.04214v1)|null|
 
-## Variable Selection
-
-### Variable selection
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v2](http://arxiv.org/abs/2306.03827v2)|null|
-|**2022-11-15**|**Sensitivity to control signals in triphasic rhythmic neural systems: a comparative mechanistic analysis via infinitesimal local timing response curves**|Zhuojun Yu et.al.|[2211.07834v2](http://arxiv.org/abs/2211.07834v2)|[link](https://github.com/zhuojunyu-appliedmath/triphasic-control)|
-|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v2](http://arxiv.org/abs/2306.00849v2)|null|
-|**2022-07-10**|**Energy Trees: Regression and Classification With Structured and Mixed-Type Covariates**|Riccardo Giubilei et.al.|[2207.04430v2](http://arxiv.org/abs/2207.04430v2)|null|
-|**2021-07-07**|**Bounded support in linear random coefficient models: Identification and variable selection**|Philipp Hermann et.al.|[2107.03245v2](http://arxiv.org/abs/2107.03245v2)|null|
-|**2023-06-15**|**LOVM: Language-Only Vision Model Selection**|Orr Zohar et.al.|[2306.08893v1](http://arxiv.org/abs/2306.08893v1)|null|
-|**2023-06-14**|**The generalized hyperbolic family and automatic model selection through the multiple-choice LASSO**|Luca Bagnato et.al.|[2306.08692v1](http://arxiv.org/abs/2306.08692v1)|null|
-|**2023-06-14**|**Extreme eigenvalues of principal minors of random matrix with moment conditions**|Jianwei Hu et.al.|[2306.08335v1](http://arxiv.org/abs/2306.08335v1)|null|
-|**2020-07-30**|**Additive interaction modelling using I-priors**|Wicher Bergsma et.al.|[2007.15766v4](http://arxiv.org/abs/2007.15766v4)|[link](https://github.com/haziqj/iprior-interaction)|
-|**2015-03-07**|**Model selection of polynomial kernel regression**|Shaobo Lin et.al.|[1503.02143v2](http://arxiv.org/abs/1503.02143v2)|null|
-|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v4](http://arxiv.org/abs/2208.05302v4)|[link](https://CRAN.R-project.org/package=tram)|
-|**2022-11-03**|**Empirical Analysis of Model Selection for Heterogeneous Causal Effect Estimation**|Divyat Mahajan et.al.|[2211.01939v2](http://arxiv.org/abs/2211.01939v2)|[link](https://github.com/divyat09/cate-estimator-selection)|
-|**2023-06-12**|**Conditional Matrix Flows for Gaussian Graphical Models**|Marcello Massimo Negri et.al.|[2306.07255v1](http://arxiv.org/abs/2306.07255v1)|null|
-|**2021-07-10**|**The EAS approach to variable selection for multivariate response data in high-dimensional settings**|Salil Koner et.al.|[2107.04873v3](http://arxiv.org/abs/2107.04873v3)|null|
-|**2023-06-11**|**Statistical inference for the penalized EM algorithm to test differential item functioning**|Weimeng Wang et.al.|[2306.06726v1](http://arxiv.org/abs/2306.06726v1)|null|
+|**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
+|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|null|
+|**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
+|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
+|**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v2](http://arxiv.org/abs/2306.00274v2)|null|
+|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
+|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v1](http://arxiv.org/abs/2305.19925v1)|null|
+|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
+|**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v2](http://arxiv.org/abs/2304.05211v2)|null|
+|**2022-10-25**|**Approximating fractionally isomorphic graphons**|Jan Hladký et.al.|[2210.14097v2](http://arxiv.org/abs/2210.14097v2)|null|
+|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v4](http://arxiv.org/abs/2201.12272v4)|null|
+|**2021-09-16**|**On the chromatic number of graphons**|Mikhail Isaev et.al.|[2109.07773v3](http://arxiv.org/abs/2109.07773v3)|null|
+|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v1](http://arxiv.org/abs/2305.03607v1)|null|
+|**2021-11-06**|**Consensus Formation in First-Order Graphon Models with Time-Varying Topologies**|Benoît Bonnet et.al.|[2111.03900v3](http://arxiv.org/abs/2111.03900v3)|null|
+|**2023-04-29**|**Optimal graphons in the edge-2star model**|Charles Radin et.al.|[2305.00333v1](http://arxiv.org/abs/2305.00333v1)|null|
 
 ## Embedding
 
