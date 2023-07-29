@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-29 07:21:13 Asia/Shanghai
+ Automated deployment @ 2023-07-29 19:18:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,25 +34,6 @@
 |**2022-10-25**|**Teal: Learning-Accelerated Optimization of WAN Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v3](http://arxiv.org/abs/2210.13763v3)|[link](https://github.com/harvard-cns/teal)|
 
 ## Graph Model
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-26**|**HUGE: Huge Unsupervised Graph Embeddings with TPUs**|Brandon Mayer et.al.|[2307.14490v1](http://arxiv.org/abs/2307.14490v1)|null|
-|**2023-07-21**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610v2](http://arxiv.org/abs/2307.11610v2)|null|
-|**2023-07-22**|**Fast Knowledge Graph Completion using Graphics Processing Units**|Chun-Hee Lee et.al.|[2307.12059v1](http://arxiv.org/abs/2307.12059v1)|null|
-|**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|null|
-|**2023-07-20**|**A Personalized Recommender System Based-on Knowledge Graph Embeddings**|Ngoc Luyen Le et.al.|[2307.10680v1](http://arxiv.org/abs/2307.10680v1)|null|
-|**2023-07-20**|**Manipulating Weights to Improve Stress-Graph Drawings of 3-Connected Planar Graphs**|Alvin Chiu et.al.|[2307.10527v1](http://arxiv.org/abs/2307.10527v1)|null|
-|**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698v2](http://arxiv.org/abs/2307.06698v2)|[link](https://github.com/thiviyant/intelligraphs)|
-|**2023-02-20**|**Persian topic detection based on Human Word association and graph embedding**|Mehrdad Ranjbar-Khadivi et.al.|[2302.09775v2](http://arxiv.org/abs/2302.09775v2)|null|
-|**2023-07-15**|**Graph Embedded Intuitionistic Fuzzy RVFL for Class Imbalance Learning**|M. A. Ganaie et.al.|[2307.07881v1](http://arxiv.org/abs/2307.07881v1)|null|
-|**2022-08-25**|**Local Intrinsic Dimensionality Measures for Graphs, with Applications to Graph Embeddings**|Miloš Savić et.al.|[2208.11986v2](http://arxiv.org/abs/2208.11986v2)|null|
-|**2023-07-13**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|[link](https://github.com/otouat/gnnevaluationmetrics)|
-|**2022-10-24**|**RulE: Neural-Symbolic Knowledge Graph Reasoning with Rule Embedding**|Xiaojuan Tang et.al.|[2210.14905v2](http://arxiv.org/abs/2210.14905v2)|[link](https://github.com/xiaojuantang/rule)|
-|**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514v1](http://arxiv.org/abs/2307.04514v1)|[link](https://github.com/sharecodesubmission/weighted_product_manifold)|
-|**2023-07-10**|**Source-Aware Embedding Training on Heterogeneous Information Networks**|Tsai Hor Chan et.al.|[2307.04336v1](http://arxiv.org/abs/2307.04336v1)|null|
-|**2023-07-06**|**PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction**|Vinicius Viena Santana et.al.|[2307.02903v2](http://arxiv.org/abs/2307.02903v2)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,8 +73,6 @@
 |**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
 |**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v2](http://arxiv.org/abs/2304.05211v2)|null|
 
-## Embedding
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,25 +91,6 @@
 |**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514v1](http://arxiv.org/abs/2307.04514v1)|[link](https://github.com/sharecodesubmission/weighted_product_manifold)|
 |**2023-07-10**|**Source-Aware Embedding Training on Heterogeneous Information Networks**|Tsai Hor Chan et.al.|[2307.04336v1](http://arxiv.org/abs/2307.04336v1)|null|
 |**2023-07-06**|**PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction**|Vinicius Viena Santana et.al.|[2307.02903v2](http://arxiv.org/abs/2307.02903v2)|null|
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-24**|**Bert4XMR: Cross-Market Recommendation with Bidirectional Encoder Representations from Transformer**|Zheng Hu et.al.|[2305.15145v2](http://arxiv.org/abs/2305.15145v2)|null|
-|**2023-07-24**|**CTVIS: Consistent Training for Online Video Instance Segmentation**|Kaining Ying et.al.|[2307.12616v1](http://arxiv.org/abs/2307.12616v1)|[link](https://github.com/kainingying/ctvis)|
-|**2023-07-23**|**Towards Automatic Boundary Detection for Human-AI Hybrid Essay in Education**|Zijie Zeng et.al.|[2307.12267v1](http://arxiv.org/abs/2307.12267v1)|null|
-|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654v1](http://arxiv.org/abs/2307.11654v1)|[link](https://github.com/hectorcarrion/fedd)|
-|**2023-07-21**|**Unsupervised Embedding Learning for Human Activity Recognition Using Wearable Sensor Data**|Taoran Sheng et.al.|[2307.11796v1](http://arxiv.org/abs/2307.11796v1)|null|
-|**2023-07-19**|**Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder**|Jingru Lin et.al.|[2307.09871v1](http://arxiv.org/abs/2307.09871v1)|null|
-|**2023-07-13**|**Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar**|Andrea Martelloni et.al.|[2307.07426v1](http://arxiv.org/abs/2307.07426v1)|null|
-|**2023-07-10**|**Source-Aware Embedding Training on Heterogeneous Information Networks**|Tsai Hor Chan et.al.|[2307.04336v1](http://arxiv.org/abs/2307.04336v1)|null|
-|**2022-05-26**|**Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2205.13128v2](http://arxiv.org/abs/2205.13128v2)|[link](https://github.com/mingshiyan/crgcn)|
-|**2023-07-08**|**NLP Meets RNA: Unsupervised Embedding Learning for Ribozymes with Word2Vec**|Andrew Kean Gao et.al.|[2307.05537v1](http://arxiv.org/abs/2307.05537v1)|null|
-|**2023-07-07**|**Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images**|Xiaoyu Bai et.al.|[2307.03535v1](http://arxiv.org/abs/2307.03535v1)|null|
-|**2023-06-29**|**Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions**|Chelsea A. Williams et.al.|[2306.17026v1](http://arxiv.org/abs/2306.17026v1)|null|
-|**2023-06-19**|**Unsupervised Framework for Evaluating and Explaining Structural Node Embeddings of Graphs**|Ashkan Dehghan et.al.|[2306.10770v1](http://arxiv.org/abs/2306.10770v1)|[link](https://github.com/KrainskiL/CGE.jl)|
-|**2023-06-19**|**MB-HGCN: A Hierarchical Graph Convolutional Network for Multi-behavior Recommendation**|Mingshi Yan et.al.|[2306.10679v1](http://arxiv.org/abs/2306.10679v1)|null|
-|**2023-06-18**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v1](http://arxiv.org/abs/2306.10532v1)|null|
 
 ## Variable Selection
 
@@ -152,3 +112,43 @@
 |**2023-07-24**|**Stochastic Step-wise Feature Selection for Exponential Random Graph Models (ERGMs)**|Helal El-Zaatari et.al.|[2307.12862v1](http://arxiv.org/abs/2307.12862v1)|null|
 |**2023-07-24**|**Adaptive debiased machine learning using data-driven model selection techniques**|Lars van der Laan et.al.|[2307.12544v1](http://arxiv.org/abs/2307.12544v1)|null|
 |**2023-07-22**|**Bayesian Fractional Polynomial Approach to Quantile Regression and Variable Selection with Application in the Analysis of Blood Pressure among US Adults**|Sanna Soomro et.al.|[2307.12137v1](http://arxiv.org/abs/2307.12137v1)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24**|**Bert4XMR: Cross-Market Recommendation with Bidirectional Encoder Representations from Transformer**|Zheng Hu et.al.|[2305.15145v2](http://arxiv.org/abs/2305.15145v2)|null|
+|**2023-07-24**|**CTVIS: Consistent Training for Online Video Instance Segmentation**|Kaining Ying et.al.|[2307.12616v1](http://arxiv.org/abs/2307.12616v1)|[link](https://github.com/kainingying/ctvis)|
+|**2023-07-23**|**Towards Automatic Boundary Detection for Human-AI Hybrid Essay in Education**|Zijie Zeng et.al.|[2307.12267v1](http://arxiv.org/abs/2307.12267v1)|null|
+|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654v1](http://arxiv.org/abs/2307.11654v1)|[link](https://github.com/hectorcarrion/fedd)|
+|**2023-07-21**|**Unsupervised Embedding Learning for Human Activity Recognition Using Wearable Sensor Data**|Taoran Sheng et.al.|[2307.11796v1](http://arxiv.org/abs/2307.11796v1)|null|
+|**2023-07-19**|**Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder**|Jingru Lin et.al.|[2307.09871v1](http://arxiv.org/abs/2307.09871v1)|null|
+|**2023-07-13**|**Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar**|Andrea Martelloni et.al.|[2307.07426v1](http://arxiv.org/abs/2307.07426v1)|null|
+|**2023-07-10**|**Source-Aware Embedding Training on Heterogeneous Information Networks**|Tsai Hor Chan et.al.|[2307.04336v1](http://arxiv.org/abs/2307.04336v1)|null|
+|**2022-05-26**|**Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2205.13128v2](http://arxiv.org/abs/2205.13128v2)|[link](https://github.com/mingshiyan/crgcn)|
+|**2023-07-08**|**NLP Meets RNA: Unsupervised Embedding Learning for Ribozymes with Word2Vec**|Andrew Kean Gao et.al.|[2307.05537v1](http://arxiv.org/abs/2307.05537v1)|null|
+|**2023-07-07**|**Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images**|Xiaoyu Bai et.al.|[2307.03535v1](http://arxiv.org/abs/2307.03535v1)|null|
+|**2023-06-29**|**Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions**|Chelsea A. Williams et.al.|[2306.17026v1](http://arxiv.org/abs/2306.17026v1)|null|
+|**2023-06-19**|**Unsupervised Framework for Evaluating and Explaining Structural Node Embeddings of Graphs**|Ashkan Dehghan et.al.|[2306.10770v1](http://arxiv.org/abs/2306.10770v1)|[link](https://github.com/KrainskiL/CGE.jl)|
+|**2023-06-19**|**MB-HGCN: A Hierarchical Graph Convolutional Network for Multi-behavior Recommendation**|Mingshi Yan et.al.|[2306.10679v1](http://arxiv.org/abs/2306.10679v1)|null|
+|**2023-06-18**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v1](http://arxiv.org/abs/2306.10532v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**HUGE: Huge Unsupervised Graph Embeddings with TPUs**|Brandon Mayer et.al.|[2307.14490v1](http://arxiv.org/abs/2307.14490v1)|null|
+|**2023-07-21**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610v2](http://arxiv.org/abs/2307.11610v2)|null|
+|**2023-07-22**|**Fast Knowledge Graph Completion using Graphics Processing Units**|Chun-Hee Lee et.al.|[2307.12059v1](http://arxiv.org/abs/2307.12059v1)|null|
+|**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|null|
+|**2023-07-20**|**A Personalized Recommender System Based-on Knowledge Graph Embeddings**|Ngoc Luyen Le et.al.|[2307.10680v1](http://arxiv.org/abs/2307.10680v1)|null|
+|**2023-07-20**|**Manipulating Weights to Improve Stress-Graph Drawings of 3-Connected Planar Graphs**|Alvin Chiu et.al.|[2307.10527v1](http://arxiv.org/abs/2307.10527v1)|null|
+|**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698v2](http://arxiv.org/abs/2307.06698v2)|[link](https://github.com/thiviyant/intelligraphs)|
+|**2023-02-20**|**Persian topic detection based on Human Word association and graph embedding**|Mehrdad Ranjbar-Khadivi et.al.|[2302.09775v2](http://arxiv.org/abs/2302.09775v2)|null|
+|**2023-07-15**|**Graph Embedded Intuitionistic Fuzzy RVFL for Class Imbalance Learning**|M. A. Ganaie et.al.|[2307.07881v1](http://arxiv.org/abs/2307.07881v1)|null|
+|**2022-08-25**|**Local Intrinsic Dimensionality Measures for Graphs, with Applications to Graph Embeddings**|Miloš Savić et.al.|[2208.11986v2](http://arxiv.org/abs/2208.11986v2)|null|
+|**2023-07-13**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|[link](https://github.com/otouat/gnnevaluationmetrics)|
+|**2022-10-24**|**RulE: Neural-Symbolic Knowledge Graph Reasoning with Rule Embedding**|Xiaojuan Tang et.al.|[2210.14905v2](http://arxiv.org/abs/2210.14905v2)|[link](https://github.com/xiaojuantang/rule)|
+|**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514v1](http://arxiv.org/abs/2307.04514v1)|[link](https://github.com/sharecodesubmission/weighted_product_manifold)|
+|**2023-07-10**|**Source-Aware Embedding Training on Heterogeneous Information Networks**|Tsai Hor Chan et.al.|[2307.04336v1](http://arxiv.org/abs/2307.04336v1)|null|
+|**2023-07-06**|**PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction**|Vinicius Viena Santana et.al.|[2307.02903v2](http://arxiv.org/abs/2307.02903v2)|null|
