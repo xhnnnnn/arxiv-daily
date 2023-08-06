@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-06 07:20:51 Asia/Shanghai
+ Automated deployment @ 2023-08-06 19:18:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,24 +35,24 @@
 
 ## Graph Model
 
-### Graphon
+### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-26**|**Individual based SIS models on (not so) dense large random networks**|Jean-François Delmas et.al.|[2302.13385v2](http://arxiv.org/abs/2302.13385v2)|null|
-|**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
-|**2023-07-24**|**Graph Limit for Interacting Particle Systems on Weighted Random Graphs**|Nathalie Ayi et.al.|[2307.12801v1](http://arxiv.org/abs/2307.12801v1)|null|
-|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v2](http://arxiv.org/abs/2208.14899v2)|null|
-|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v1](http://arxiv.org/abs/2307.02324v1)|null|
-|**2020-06-13**|**Weakly interacting oscillators on dense random graphs**|Gianmarco Bet et.al.|[2006.07670v3](http://arxiv.org/abs/2006.07670v3)|null|
-|**2021-11-18**|**Gradient flows on graphons: existence, convergence, continuity equations**|Sewoong Oh et.al.|[2111.09459v3](http://arxiv.org/abs/2111.09459v3)|null|
-|**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v3](http://arxiv.org/abs/2306.00274v3)|null|
-|**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|[link](https://github.com/caoyxuan/w2pgnn)|
-|**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
-|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
-|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v1](http://arxiv.org/abs/2305.19925v1)|null|
-|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
+|**2023-08-03**|**Magic of quantum hypergraph states**|Junjie Chen et.al.|[2308.01886v1](http://arxiv.org/abs/2308.01886v1)|null|
+|**2023-08-03**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
+|**2022-08-24**|**Online Algorithms for Matchings with Proportional Fairness Constraints and Diversity Constraints**|Anand Louis et.al.|[2208.11378v2](http://arxiv.org/abs/2208.11378v2)|null|
+|**2022-12-02**|**Reconstructing particles in jets using set transformer and hypergraph prediction networks**|Francesco Armando Di Bello et.al.|[2212.01328v3](http://arxiv.org/abs/2212.01328v3)|null|
+|**2023-08-02**|**Percolation in higher order networks via mapping to chygraphs**|Alexei Vazquez et.al.|[2308.00987v1](http://arxiv.org/abs/2308.00987v1)|null|
+|**2023-04-22**|**Hyper-Laplacian Regularized Concept Factorization in Low-rank Tensor Space for Multi-view Clustering**|Zixiao Yu et.al.|[2304.11435v2](http://arxiv.org/abs/2304.11435v2)|null|
+|**2022-11-26**|**Information Geometry of Dynamics on Graphs and Hypergraphs**|Tetsuya J. Kobayashi et.al.|[2211.14455v2](http://arxiv.org/abs/2211.14455v2)|null|
+|**2023-08-01**|**A many-sorted epistemic logic for chromatic hypergraphs**|Eric Goubault et.al.|[2308.00477v1](http://arxiv.org/abs/2308.00477v1)|null|
+|**2023-08-01**|**A complete solution of the $k$-uniform supertrees with the eight largest $α$-spectral radii**|Lou-Jun Yu et.al.|[2308.00422v1](http://arxiv.org/abs/2308.00422v1)|null|
+|**2023-08-01**|**Action convergence of general hypergraphs and tensors**|Giulio Zucal et.al.|[2308.00226v1](http://arxiv.org/abs/2308.00226v1)|null|
+|**2023-02-17**|**Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data**|Arhit Chakrabarti et.al.|[2302.09111v2](http://arxiv.org/abs/2302.09111v2)|null|
+|**2023-07-31**|**Proof of the Kohayakawa--Kreuter conjecture for the majority of cases**|Candida Bowtell et.al.|[2307.16760v1](http://arxiv.org/abs/2307.16760v1)|null|
+|**2022-06-20**|**Distribution of zeros of matching polynomials of hypergraphs**|Jiang-Chao Wan et.al.|[2206.09558v2](http://arxiv.org/abs/2206.09558v2)|null|
+|**2023-05-11**|**Abelian and non-abelian quantum two-block codes**|Renyu Wang et.al.|[2305.06890v2](http://arxiv.org/abs/2305.06890v2)|null|
+|**2023-07-30**|**Non-Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2307.16339v1](http://arxiv.org/abs/2307.16339v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,45 +73,24 @@
 |**2023-07-20**|**A Personalized Recommender System Based-on Knowledge Graph Embeddings**|Ngoc Luyen Le et.al.|[2307.10680v1](http://arxiv.org/abs/2307.10680v1)|null|
 |**2023-07-20**|**Manipulating Weights to Improve Stress-Graph Drawings of 3-Connected Planar Graphs**|Alvin Chiu et.al.|[2307.10527v1](http://arxiv.org/abs/2307.10527v1)|null|
 
-### Hypergraph
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-03**|**Magic of quantum hypergraph states**|Junjie Chen et.al.|[2308.01886v1](http://arxiv.org/abs/2308.01886v1)|null|
-|**2023-08-03**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
-|**2022-08-24**|**Online Algorithms for Matchings with Proportional Fairness Constraints and Diversity Constraints**|Anand Louis et.al.|[2208.11378v2](http://arxiv.org/abs/2208.11378v2)|null|
-|**2022-12-02**|**Reconstructing particles in jets using set transformer and hypergraph prediction networks**|Francesco Armando Di Bello et.al.|[2212.01328v3](http://arxiv.org/abs/2212.01328v3)|null|
-|**2023-08-02**|**Percolation in higher order networks via mapping to chygraphs**|Alexei Vazquez et.al.|[2308.00987v1](http://arxiv.org/abs/2308.00987v1)|null|
-|**2023-04-22**|**Hyper-Laplacian Regularized Concept Factorization in Low-rank Tensor Space for Multi-view Clustering**|Zixiao Yu et.al.|[2304.11435v2](http://arxiv.org/abs/2304.11435v2)|null|
-|**2022-11-26**|**Information Geometry of Dynamics on Graphs and Hypergraphs**|Tetsuya J. Kobayashi et.al.|[2211.14455v2](http://arxiv.org/abs/2211.14455v2)|null|
-|**2023-08-01**|**A many-sorted epistemic logic for chromatic hypergraphs**|Eric Goubault et.al.|[2308.00477v1](http://arxiv.org/abs/2308.00477v1)|null|
-|**2023-08-01**|**A complete solution of the $k$-uniform supertrees with the eight largest $α$-spectral radii**|Lou-Jun Yu et.al.|[2308.00422v1](http://arxiv.org/abs/2308.00422v1)|null|
-|**2023-08-01**|**Action convergence of general hypergraphs and tensors**|Giulio Zucal et.al.|[2308.00226v1](http://arxiv.org/abs/2308.00226v1)|null|
-|**2023-02-17**|**Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data**|Arhit Chakrabarti et.al.|[2302.09111v2](http://arxiv.org/abs/2302.09111v2)|null|
-|**2023-07-31**|**Proof of the Kohayakawa--Kreuter conjecture for the majority of cases**|Candida Bowtell et.al.|[2307.16760v1](http://arxiv.org/abs/2307.16760v1)|null|
-|**2022-06-20**|**Distribution of zeros of matching polynomials of hypergraphs**|Jiang-Chao Wan et.al.|[2206.09558v2](http://arxiv.org/abs/2206.09558v2)|null|
-|**2023-05-11**|**Abelian and non-abelian quantum two-block codes**|Renyu Wang et.al.|[2305.06890v2](http://arxiv.org/abs/2305.06890v2)|null|
-|**2023-07-30**|**Non-Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2307.16339v1](http://arxiv.org/abs/2307.16339v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-03**|**The use of the EM algorithm for regularization problems in high-dimensional linear mixed-effects models**|Daniela C. R. Oliveira et.al.|[2308.01518v1](http://arxiv.org/abs/2308.01518v1)|null|
-|**2023-08-02**|**Interpretable Machine Learning for Discovery: Statistical Challenges \& Opportunities**|Genevera I. Allen et.al.|[2308.01475v1](http://arxiv.org/abs/2308.01475v1)|null|
-|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v2](http://arxiv.org/abs/2210.12382v2)|null|
-|**2023-08-02**|**Model Selection for Exposure-Mediator Interaction**|Ruiyang Li et.al.|[2308.01178v1](http://arxiv.org/abs/2308.01178v1)|[link](https://github.com/ruiyangli1/xmint)|
-|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v3](http://arxiv.org/abs/2204.03887v3)|null|
-|**2023-08-01**|**Adaptive MCMC for Bayesian variable selection in generalised linear models and survival models**|Xitong Liang et.al.|[2308.00869v1](http://arxiv.org/abs/2308.00869v1)|null|
-|**2023-05-25**|**Accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v2](http://arxiv.org/abs/2305.15920v2)|null|
-|**2023-08-01**|**A Study of Unsupervised Evaluation Metrics for Practical and Automatic Domain Adaptation**|Minghao Chen et.al.|[2308.00287v1](http://arxiv.org/abs/2308.00287v1)|null|
-|**2023-08-01**|**Predictive Modeling through Hyper-Bayesian Optimization**|Manisha Senadeera et.al.|[2308.00285v1](http://arxiv.org/abs/2308.00285v1)|null|
-|**2023-08-01**|**Best-Subset Selection in Generalized Linear Models: A Fast and Consistent Algorithm via Splicing Technique**|Junxian Zhu et.al.|[2308.00251v1](http://arxiv.org/abs/2308.00251v1)|null|
-|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v1](http://arxiv.org/abs/2308.00139v1)|null|
-|**2022-06-08**|**Model Selection in Variational Mixed Effects Models**|Mark J. Meyer et.al.|[2206.04012v3](http://arxiv.org/abs/2206.04012v3)|[link](https://github.com/markjmeyer/vme)|
-|**2023-07-31**|**An Efficient Shapley Value Computation for the Naive Bayes Classifier**|Vincent Lemaire et.al.|[2307.16718v1](http://arxiv.org/abs/2307.16718v1)|null|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v4](http://arxiv.org/abs/2211.10776v4)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v3](http://arxiv.org/abs/2301.06058v3)|null|
+|**2023-02-26**|**Individual based SIS models on (not so) dense large random networks**|Jean-François Delmas et.al.|[2302.13385v2](http://arxiv.org/abs/2302.13385v2)|null|
+|**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
+|**2023-07-24**|**Graph Limit for Interacting Particle Systems on Weighted Random Graphs**|Nathalie Ayi et.al.|[2307.12801v1](http://arxiv.org/abs/2307.12801v1)|null|
+|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v2](http://arxiv.org/abs/2208.14899v2)|null|
+|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v1](http://arxiv.org/abs/2307.02324v1)|null|
+|**2020-06-13**|**Weakly interacting oscillators on dense random graphs**|Gianmarco Bet et.al.|[2006.07670v3](http://arxiv.org/abs/2006.07670v3)|null|
+|**2021-11-18**|**Gradient flows on graphons: existence, convergence, continuity equations**|Sewoong Oh et.al.|[2111.09459v3](http://arxiv.org/abs/2111.09459v3)|null|
+|**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v3](http://arxiv.org/abs/2306.00274v3)|null|
+|**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
+|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|[link](https://github.com/caoyxuan/w2pgnn)|
+|**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
+|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
+|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
+|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v1](http://arxiv.org/abs/2305.19925v1)|null|
+|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
 
 ## Embedding
 
@@ -152,3 +131,24 @@
 |**2023-07-07**|**Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images**|Xiaoyu Bai et.al.|[2307.03535v1](http://arxiv.org/abs/2307.03535v1)|null|
 |**2023-06-29**|**Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions**|Chelsea A. Williams et.al.|[2306.17026v1](http://arxiv.org/abs/2306.17026v1)|null|
 |**2023-06-19**|**Unsupervised Framework for Evaluating and Explaining Structural Node Embeddings of Graphs**|Ashkan Dehghan et.al.|[2306.10770v1](http://arxiv.org/abs/2306.10770v1)|[link](https://github.com/KrainskiL/CGE.jl)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03**|**The use of the EM algorithm for regularization problems in high-dimensional linear mixed-effects models**|Daniela C. R. Oliveira et.al.|[2308.01518v1](http://arxiv.org/abs/2308.01518v1)|null|
+|**2023-08-02**|**Interpretable Machine Learning for Discovery: Statistical Challenges \& Opportunities**|Genevera I. Allen et.al.|[2308.01475v1](http://arxiv.org/abs/2308.01475v1)|null|
+|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v2](http://arxiv.org/abs/2210.12382v2)|null|
+|**2023-08-02**|**Model Selection for Exposure-Mediator Interaction**|Ruiyang Li et.al.|[2308.01178v1](http://arxiv.org/abs/2308.01178v1)|[link](https://github.com/ruiyangli1/xmint)|
+|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v3](http://arxiv.org/abs/2204.03887v3)|null|
+|**2023-08-01**|**Adaptive MCMC for Bayesian variable selection in generalised linear models and survival models**|Xitong Liang et.al.|[2308.00869v1](http://arxiv.org/abs/2308.00869v1)|null|
+|**2023-05-25**|**Accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v2](http://arxiv.org/abs/2305.15920v2)|null|
+|**2023-08-01**|**A Study of Unsupervised Evaluation Metrics for Practical and Automatic Domain Adaptation**|Minghao Chen et.al.|[2308.00287v1](http://arxiv.org/abs/2308.00287v1)|null|
+|**2023-08-01**|**Predictive Modeling through Hyper-Bayesian Optimization**|Manisha Senadeera et.al.|[2308.00285v1](http://arxiv.org/abs/2308.00285v1)|null|
+|**2023-08-01**|**Best-Subset Selection in Generalized Linear Models: A Fast and Consistent Algorithm via Splicing Technique**|Junxian Zhu et.al.|[2308.00251v1](http://arxiv.org/abs/2308.00251v1)|null|
+|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v1](http://arxiv.org/abs/2308.00139v1)|null|
+|**2022-06-08**|**Model Selection in Variational Mixed Effects Models**|Mark J. Meyer et.al.|[2206.04012v3](http://arxiv.org/abs/2206.04012v3)|[link](https://github.com/markjmeyer/vme)|
+|**2023-07-31**|**An Efficient Shapley Value Computation for the Naive Bayes Classifier**|Vincent Lemaire et.al.|[2307.16718v1](http://arxiv.org/abs/2307.16718v1)|null|
+|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v4](http://arxiv.org/abs/2211.10776v4)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
+|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v3](http://arxiv.org/abs/2301.06058v3)|null|
