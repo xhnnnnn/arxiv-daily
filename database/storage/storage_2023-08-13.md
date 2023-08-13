@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-13 07:20:21 Asia/Shanghai
+ Automated deployment @ 2023-08-13 19:18:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943v1](http://arxiv.org/abs/2308.04943v1)|null|
 |**2023-08-09**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905v1](http://arxiv.org/abs/2308.04905v1)|null|
 |**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759v2](http://arxiv.org/abs/2307.03759v2)|[link](https://github.com/kimmeen/awesome-gnn4ts)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-10**|**Updating Clinical Risk Stratification Models Using Rank-Based Compatibility: Approaches for Evaluating and Optimizing Clinician-Model Team Performance**|Erkin Ötleş et.al.|[2308.05619v1](http://arxiv.org/abs/2308.05619v1)|null|
-|**2023-08-10**|**A coupled-mechanisms modelling framework for neurodegeneration**|Tiantian He et.al.|[2308.05536v1](http://arxiv.org/abs/2308.05536v1)|null|
-|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v1](http://arxiv.org/abs/2308.05517v1)|null|
-|**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v3](http://arxiv.org/abs/2202.09518v3)|[link](https://github.com/lanl/pyDNMFk)|
-|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v4](http://arxiv.org/abs/2001.03786v4)|[link](https://github.com/ikosmidis/MEstimation.jl)|
-|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v2](http://arxiv.org/abs/2210.05983v2)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
-|**2023-08-07**|**Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases**|Samson H. W. Leong et.al.|[2308.03250v2](http://arxiv.org/abs/2308.03250v2)|null|
-|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v2](http://arxiv.org/abs/2308.00139v2)|null|
-|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v1](http://arxiv.org/abs/2308.03595v1)|[link](https://gitlab.com/renanfernandofranco/a-branch-and-cut-and-price-algorithm-for-cutting-stock-and-related-problems)|
-|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v2](http://arxiv.org/abs/2306.11518v2)|null|
-|**2022-07-22**|**Statistical and Computational Trade-offs in Variational Inference: A Case Study in Inferential Model Selection**|Kush Bhatia et.al.|[2207.11208v2](http://arxiv.org/abs/2207.11208v2)|null|
-|**2023-08-06**|**Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error**|Zixin Wang et.al.|[2308.03003v1](http://arxiv.org/abs/2308.03003v1)|[link](https://github.com/jo-wang/cal-sfda)|
-|**2023-08-04**|**Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**|Sagnik Bhadury et.al.|[2308.02713v1](http://arxiv.org/abs/2308.02713v1)|null|
-|**2022-01-28**|**Asymptotic behaviour of penalized robust estimators in logistic regression when dimension increases**|Ana M. Bianco et.al.|[2201.12449v2](http://arxiv.org/abs/2201.12449v2)|null|
-|**2023-08-04**|**A Review of Change of Variable Formulas for Generative Modeling**|Ullrich Köthe et.al.|[2308.02652v1](http://arxiv.org/abs/2308.02652v1)|null|
 
 ## Embedding
 
@@ -115,6 +94,25 @@
 |**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Peng Wang et.al.|[2201.05575v4](http://arxiv.org/abs/2201.05575v4)|[link](https://github.com/zjunlp/knn-kg)|
 |**2020-02-21**|**Hyperbolic Minesweeper is in P**|Eryk Kopczyński et.al.|[2002.09534v2](http://arxiv.org/abs/2002.09534v2)|null|
 
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v4](http://arxiv.org/abs/2112.04629v4)|null|
+|**2023-02-26**|**Individual based SIS models on (not so) dense large random networks**|Jean-François Delmas et.al.|[2302.13385v2](http://arxiv.org/abs/2302.13385v2)|null|
+|**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
+|**2023-07-24**|**Graph Limit for Interacting Particle Systems on Weighted Random Graphs**|Nathalie Ayi et.al.|[2307.12801v1](http://arxiv.org/abs/2307.12801v1)|null|
+|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v2](http://arxiv.org/abs/2208.14899v2)|null|
+|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v1](http://arxiv.org/abs/2307.02324v1)|null|
+|**2020-06-13**|**Weakly interacting oscillators on dense random graphs**|Gianmarco Bet et.al.|[2006.07670v3](http://arxiv.org/abs/2006.07670v3)|null|
+|**2021-11-18**|**Gradient flows on graphons: existence, convergence, continuity equations**|Sewoong Oh et.al.|[2111.09459v3](http://arxiv.org/abs/2111.09459v3)|null|
+|**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v3](http://arxiv.org/abs/2306.00274v3)|null|
+|**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
+|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|[link](https://github.com/caoyxuan/w2pgnn)|
+|**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
+|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
+|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
+|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v1](http://arxiv.org/abs/2305.19925v1)|null|
+
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -134,21 +132,23 @@
 |**2023-08-04**|**Group-$k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|[link](https://bitbucket.org/jmangelson/gkcm)|
 |**2022-11-02**|**Existential Closure in Line Graphs**|Andrea C. Burgess et.al.|[2211.01168v3](http://arxiv.org/abs/2211.01168v3)|null|
 
-### Graphon
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v4](http://arxiv.org/abs/2112.04629v4)|null|
-|**2023-02-26**|**Individual based SIS models on (not so) dense large random networks**|Jean-François Delmas et.al.|[2302.13385v2](http://arxiv.org/abs/2302.13385v2)|null|
-|**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
-|**2023-07-24**|**Graph Limit for Interacting Particle Systems on Weighted Random Graphs**|Nathalie Ayi et.al.|[2307.12801v1](http://arxiv.org/abs/2307.12801v1)|null|
-|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v2](http://arxiv.org/abs/2208.14899v2)|null|
-|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v1](http://arxiv.org/abs/2307.02324v1)|null|
-|**2020-06-13**|**Weakly interacting oscillators on dense random graphs**|Gianmarco Bet et.al.|[2006.07670v3](http://arxiv.org/abs/2006.07670v3)|null|
-|**2021-11-18**|**Gradient flows on graphons: existence, convergence, continuity equations**|Sewoong Oh et.al.|[2111.09459v3](http://arxiv.org/abs/2111.09459v3)|null|
-|**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v3](http://arxiv.org/abs/2306.00274v3)|null|
-|**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|[link](https://github.com/caoyxuan/w2pgnn)|
-|**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
-|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
-|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v1](http://arxiv.org/abs/2305.19925v1)|null|
+|**2023-08-10**|**Updating Clinical Risk Stratification Models Using Rank-Based Compatibility: Approaches for Evaluating and Optimizing Clinician-Model Team Performance**|Erkin Ötleş et.al.|[2308.05619v1](http://arxiv.org/abs/2308.05619v1)|null|
+|**2023-08-10**|**A coupled-mechanisms modelling framework for neurodegeneration**|Tiantian He et.al.|[2308.05536v1](http://arxiv.org/abs/2308.05536v1)|null|
+|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v1](http://arxiv.org/abs/2308.05517v1)|null|
+|**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v3](http://arxiv.org/abs/2202.09518v3)|[link](https://github.com/lanl/pyDNMFk)|
+|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v4](http://arxiv.org/abs/2001.03786v4)|[link](https://github.com/ikosmidis/MEstimation.jl)|
+|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v2](http://arxiv.org/abs/2210.05983v2)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
+|**2023-08-07**|**Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases**|Samson H. W. Leong et.al.|[2308.03250v2](http://arxiv.org/abs/2308.03250v2)|null|
+|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v2](http://arxiv.org/abs/2308.00139v2)|null|
+|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v1](http://arxiv.org/abs/2308.03595v1)|[link](https://gitlab.com/renanfernandofranco/a-branch-and-cut-and-price-algorithm-for-cutting-stock-and-related-problems)|
+|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v2](http://arxiv.org/abs/2306.11518v2)|null|
+|**2022-07-22**|**Statistical and Computational Trade-offs in Variational Inference: A Case Study in Inferential Model Selection**|Kush Bhatia et.al.|[2207.11208v2](http://arxiv.org/abs/2207.11208v2)|null|
+|**2023-08-06**|**Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error**|Zixin Wang et.al.|[2308.03003v1](http://arxiv.org/abs/2308.03003v1)|[link](https://github.com/jo-wang/cal-sfda)|
+|**2023-08-04**|**Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**|Sagnik Bhadury et.al.|[2308.02713v1](http://arxiv.org/abs/2308.02713v1)|null|
+|**2022-01-28**|**Asymptotic behaviour of penalized robust estimators in logistic regression when dimension increases**|Ana M. Bianco et.al.|[2201.12449v2](http://arxiv.org/abs/2201.12449v2)|null|
+|**2023-08-04**|**A Review of Change of Variable Formulas for Generative Modeling**|Ullrich Köthe et.al.|[2308.02652v1](http://arxiv.org/abs/2308.02652v1)|null|
