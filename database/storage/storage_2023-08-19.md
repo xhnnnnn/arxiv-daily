@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-19 07:20:25 Asia/Shanghai
+ Automated deployment @ 2023-08-19 19:18:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,26 +33,28 @@
 |**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
 |**2023-08-15**|**Freshness or Accuracy, Why Not Both? Addressing Delayed Feedback via Dynamic Graph Neural Networks**|Xiaolin Zheng et.al.|[2308.08071v1](http://arxiv.org/abs/2308.08071v1)|null|
 
-## Graph Model
+## Variable Selection
 
-### Hypergraph
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-16**|**Optimal spread for spanning subgraphs of Dirac hypergraphs**|Tom Kelly et.al.|[2308.08535v1](http://arxiv.org/abs/2308.08535v1)|null|
-|**2023-08-16**|**Approximation Algorithms for Norm Multiway Cut**|Charlie Carlson et.al.|[2308.08373v1](http://arxiv.org/abs/2308.08373v1)|null|
-|**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
-|**2020-07-25**|**Turán and Ramsey problems for alternating multilinear maps**|Youming Qiao et.al.|[2007.12820v4](http://arxiv.org/abs/2007.12820v4)|null|
-|**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|
-|**2023-08-15**|**Self-supervised Hypergraphs for Learning Multiple World Interpretations**|Alina Marcu et.al.|[2308.07615v1](http://arxiv.org/abs/2308.07615v1)|null|
-|**2023-08-15**|**Computational General Relativity in the Wolfram Language using Gravitas I: Symbolic and Analytic Computation**|Jonathan Gorard et.al.|[2308.07508v1](http://arxiv.org/abs/2308.07508v1)|null|
-|**2023-08-14**|**Counting spanning subgraphs in dense hypergraphs**|Richard Montgomery et.al.|[2308.07195v1](http://arxiv.org/abs/2308.07195v1)|null|
-|**2021-07-07**|**Wireless Network Scheduling with Discrete Propagation Delays: Theorems and Algorithms**|Shenghao Yang et.al.|[2107.03083v3](http://arxiv.org/abs/2107.03083v3)|null|
-|**2020-08-13**|**Coloring bipartite graphs with semi-small list size**|Daniel G. Zhu et.al.|[2008.06040v2](http://arxiv.org/abs/2008.06040v2)|null|
-|**2022-07-05**|**Many cliques in bounded-degree hypergraphs**|Rachel Kirsch et.al.|[2207.02336v2](http://arxiv.org/abs/2207.02336v2)|null|
-|**2023-08-11**|**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**|Fanglong Yao et.al.|[2308.06207v1](http://arxiv.org/abs/2308.06207v1)|null|
-|**2023-08-09**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
-|**2023-08-09**|**Cycles in graphs and in hypergraphs**|E. Alkin et.al.|[2308.05175v1](http://arxiv.org/abs/2308.05175v1)|null|
-|**2023-08-09**|**Scalable Hypergraph Visualization**|Peter Oliver et.al.|[2308.05043v1](http://arxiv.org/abs/2308.05043v1)|null|
+|**2023-08-16**|**Multiplicative deconvolution under unknown error distribution**|Sergio Brenner Miguel et.al.|[2308.08423v1](http://arxiv.org/abs/2308.08423v1)|null|
+|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v4](http://arxiv.org/abs/2204.03887v4)|null|
+|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v3](http://arxiv.org/abs/2303.03207v3)|null|
+|**2023-08-14**|**LCE: An Augmented Combination of Bagging and Boosting in Python**|Kevin Fauvel et.al.|[2308.07250v2](http://arxiv.org/abs/2308.07250v2)|[link](https://github.com/localcascadeensemble/lce)|
+|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v4](http://arxiv.org/abs/2306.03827v4)|null|
+|**2023-08-14**|**No Regularization is Needed: An Efficient and Effective Model for Incomplete Label Distribution Learning**|Xiang Li et.al.|[2308.07047v1](http://arxiv.org/abs/2308.07047v1)|null|
+|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v2](http://arxiv.org/abs/2308.05517v2)|null|
+|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v2](http://arxiv.org/abs/2206.14303v2)|null|
+|**2023-08-11**|**The N-ary in the Coal Mine: Avoiding Mixture Model Failure with Proper Validation**|Travis Maxfield et.al.|[2308.06347v1](http://arxiv.org/abs/2308.06347v1)|null|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|[link](https://github.com/opengvlab/multitask-model-selector)|
+|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v2](http://arxiv.org/abs/2307.04527v2)|null|
+|**2022-06-16**|**A new method for clustered survival data]{A new method for clustered survival data: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v2](http://arxiv.org/abs/2206.08271v2)|null|
+|**2023-08-11**|**Sampling and Filtering with Markov Chains**|Michael A. Kouritzin et.al.|[2308.06192v1](http://arxiv.org/abs/2308.06192v1)|null|
+|**2023-08-10**|**Inconsistency and Acausality of Model Selection in Bayesian Inverse Problems**|Klaus Mosegaard et.al.|[2308.05858v1](http://arxiv.org/abs/2308.05858v1)|null|
+|**2023-08-10**|**The Galactic Interstellar Object Population: A Framework for Prediction and Inference**|Matthew J. Hopkins et.al.|[2308.05801v1](http://arxiv.org/abs/2308.05801v1)|null|
+
+## Graph Model
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,26 +94,26 @@
 |**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
 |**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v2](http://arxiv.org/abs/2301.10808v2)|null|
 
-## Embedding
-
-### Graph Embedding
+### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-16**|**Independent Distribution Regularization for Private Graph Embedding**|Qi Hu et.al.|[2308.08360v1](http://arxiv.org/abs/2308.08360v1)|[link](https://github.com/hkust-knowcomp/privategraphencoder)|
-|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v5](http://arxiv.org/abs/2301.10405v5)|[link](https://github.com/zjunlp/promptkg)|
-|**2023-08-16**|**Graph Relation Aware Continual Learning**|Qinghua Shen et.al.|[2308.08259v1](http://arxiv.org/abs/2308.08259v1)|null|
-|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889v1](http://arxiv.org/abs/2308.07889v1)|null|
-|**2022-12-09**|**Multi-view Graph Convolutional Networks with Differentiable Node Selection**|Zhaoliang Chen et.al.|[2212.05124v2](http://arxiv.org/abs/2212.05124v2)|null|
-|**2023-06-20**|**Transforming Graphs for Enhanced Attribute Clustering: An Innovative Graph Transformer-Based Method**|Shuo Han et.al.|[2306.11307v3](http://arxiv.org/abs/2306.11307v3)|null|
-|**2022-02-10**|**Robust Graph Representation Learning for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v4](http://arxiv.org/abs/2202.04936v4)|null|
-|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v2](http://arxiv.org/abs/2308.05068v2)|null|
-|**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
-|**2023-03-01**|**Treat Different Negatives Differently: Enriching Loss Functions with Domain and Range Constraints for Link Prediction**|Nicolas Hubert et.al.|[2303.00286v3](http://arxiv.org/abs/2303.00286v3)|[link](https://github.com/nicolas-hbt/semantic-lossfunc)|
-|**2023-08-07**|**Comparing biased random walks in graph embedding and link prediction**|Adilson Vital Jr. et.al.|[2308.03636v1](http://arxiv.org/abs/2308.03636v1)|null|
-|**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447v1](http://arxiv.org/abs/2308.03447v1)|[link](https://github.com/liseda-lab/truewalks)|
-|**2023-08-07**|**Local Structure-aware Graph Contrastive Representation Learning**|Kai Yang et.al.|[2308.03271v1](http://arxiv.org/abs/2308.03271v1)|null|
-|**2023-08-07**|**Simple Rule Injection for ComplEx Embeddings**|Haodi Ma et.al.|[2308.03269v1](http://arxiv.org/abs/2308.03269v1)|null|
-|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v2](http://arxiv.org/abs/2305.04622v2)|null|
+|**2023-08-16**|**Optimal spread for spanning subgraphs of Dirac hypergraphs**|Tom Kelly et.al.|[2308.08535v1](http://arxiv.org/abs/2308.08535v1)|null|
+|**2023-08-16**|**Approximation Algorithms for Norm Multiway Cut**|Charlie Carlson et.al.|[2308.08373v1](http://arxiv.org/abs/2308.08373v1)|null|
+|**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
+|**2020-07-25**|**Turán and Ramsey problems for alternating multilinear maps**|Youming Qiao et.al.|[2007.12820v4](http://arxiv.org/abs/2007.12820v4)|null|
+|**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|
+|**2023-08-15**|**Self-supervised Hypergraphs for Learning Multiple World Interpretations**|Alina Marcu et.al.|[2308.07615v1](http://arxiv.org/abs/2308.07615v1)|null|
+|**2023-08-15**|**Computational General Relativity in the Wolfram Language using Gravitas I: Symbolic and Analytic Computation**|Jonathan Gorard et.al.|[2308.07508v1](http://arxiv.org/abs/2308.07508v1)|null|
+|**2023-08-14**|**Counting spanning subgraphs in dense hypergraphs**|Richard Montgomery et.al.|[2308.07195v1](http://arxiv.org/abs/2308.07195v1)|null|
+|**2021-07-07**|**Wireless Network Scheduling with Discrete Propagation Delays: Theorems and Algorithms**|Shenghao Yang et.al.|[2107.03083v3](http://arxiv.org/abs/2107.03083v3)|null|
+|**2020-08-13**|**Coloring bipartite graphs with semi-small list size**|Daniel G. Zhu et.al.|[2008.06040v2](http://arxiv.org/abs/2008.06040v2)|null|
+|**2022-07-05**|**Many cliques in bounded-degree hypergraphs**|Rachel Kirsch et.al.|[2207.02336v2](http://arxiv.org/abs/2207.02336v2)|null|
+|**2023-08-11**|**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**|Fanglong Yao et.al.|[2308.06207v1](http://arxiv.org/abs/2308.06207v1)|null|
+|**2023-08-09**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
+|**2023-08-09**|**Cycles in graphs and in hypergraphs**|E. Alkin et.al.|[2308.05175v1](http://arxiv.org/abs/2308.05175v1)|null|
+|**2023-08-09**|**Scalable Hypergraph Visualization**|Peter Oliver et.al.|[2308.05043v1](http://arxiv.org/abs/2308.05043v1)|null|
+
+## Embedding
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -132,23 +134,21 @@
 |**2023-07-08**|**NLP Meets RNA: Unsupervised Embedding Learning for Ribozymes with Word2Vec**|Andrew Kean Gao et.al.|[2307.05537v1](http://arxiv.org/abs/2307.05537v1)|null|
 |**2023-07-07**|**Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images**|Xiaoyu Bai et.al.|[2307.03535v1](http://arxiv.org/abs/2307.03535v1)|null|
 
-## Variable Selection
-
-### Variable selection
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-16**|**Multiplicative deconvolution under unknown error distribution**|Sergio Brenner Miguel et.al.|[2308.08423v1](http://arxiv.org/abs/2308.08423v1)|null|
-|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v4](http://arxiv.org/abs/2204.03887v4)|null|
-|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v3](http://arxiv.org/abs/2303.03207v3)|null|
-|**2023-08-14**|**LCE: An Augmented Combination of Bagging and Boosting in Python**|Kevin Fauvel et.al.|[2308.07250v2](http://arxiv.org/abs/2308.07250v2)|[link](https://github.com/localcascadeensemble/lce)|
-|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v4](http://arxiv.org/abs/2306.03827v4)|null|
-|**2023-08-14**|**No Regularization is Needed: An Efficient and Effective Model for Incomplete Label Distribution Learning**|Xiang Li et.al.|[2308.07047v1](http://arxiv.org/abs/2308.07047v1)|null|
-|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v2](http://arxiv.org/abs/2308.05517v2)|null|
-|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v2](http://arxiv.org/abs/2206.14303v2)|null|
-|**2023-08-11**|**The N-ary in the Coal Mine: Avoiding Mixture Model Failure with Proper Validation**|Travis Maxfield et.al.|[2308.06347v1](http://arxiv.org/abs/2308.06347v1)|null|
-|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|[link](https://github.com/opengvlab/multitask-model-selector)|
-|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v2](http://arxiv.org/abs/2307.04527v2)|null|
-|**2022-06-16**|**A new method for clustered survival data]{A new method for clustered survival data: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v2](http://arxiv.org/abs/2206.08271v2)|null|
-|**2023-08-11**|**Sampling and Filtering with Markov Chains**|Michael A. Kouritzin et.al.|[2308.06192v1](http://arxiv.org/abs/2308.06192v1)|null|
-|**2023-08-10**|**Inconsistency and Acausality of Model Selection in Bayesian Inverse Problems**|Klaus Mosegaard et.al.|[2308.05858v1](http://arxiv.org/abs/2308.05858v1)|null|
-|**2023-08-10**|**The Galactic Interstellar Object Population: A Framework for Prediction and Inference**|Matthew J. Hopkins et.al.|[2308.05801v1](http://arxiv.org/abs/2308.05801v1)|null|
+|**2023-08-16**|**Independent Distribution Regularization for Private Graph Embedding**|Qi Hu et.al.|[2308.08360v1](http://arxiv.org/abs/2308.08360v1)|[link](https://github.com/hkust-knowcomp/privategraphencoder)|
+|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v5](http://arxiv.org/abs/2301.10405v5)|[link](https://github.com/zjunlp/promptkg)|
+|**2023-08-16**|**Graph Relation Aware Continual Learning**|Qinghua Shen et.al.|[2308.08259v1](http://arxiv.org/abs/2308.08259v1)|null|
+|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889v1](http://arxiv.org/abs/2308.07889v1)|null|
+|**2022-12-09**|**Multi-view Graph Convolutional Networks with Differentiable Node Selection**|Zhaoliang Chen et.al.|[2212.05124v2](http://arxiv.org/abs/2212.05124v2)|null|
+|**2023-06-20**|**Transforming Graphs for Enhanced Attribute Clustering: An Innovative Graph Transformer-Based Method**|Shuo Han et.al.|[2306.11307v3](http://arxiv.org/abs/2306.11307v3)|null|
+|**2022-02-10**|**Robust Graph Representation Learning for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v4](http://arxiv.org/abs/2202.04936v4)|null|
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v2](http://arxiv.org/abs/2308.05068v2)|null|
+|**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
+|**2023-03-01**|**Treat Different Negatives Differently: Enriching Loss Functions with Domain and Range Constraints for Link Prediction**|Nicolas Hubert et.al.|[2303.00286v3](http://arxiv.org/abs/2303.00286v3)|[link](https://github.com/nicolas-hbt/semantic-lossfunc)|
+|**2023-08-07**|**Comparing biased random walks in graph embedding and link prediction**|Adilson Vital Jr. et.al.|[2308.03636v1](http://arxiv.org/abs/2308.03636v1)|null|
+|**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447v1](http://arxiv.org/abs/2308.03447v1)|[link](https://github.com/liseda-lab/truewalks)|
+|**2023-08-07**|**Local Structure-aware Graph Contrastive Representation Learning**|Kai Yang et.al.|[2308.03271v1](http://arxiv.org/abs/2308.03271v1)|null|
+|**2023-08-07**|**Simple Rule Injection for ComplEx Embeddings**|Haodi Ma et.al.|[2308.03269v1](http://arxiv.org/abs/2308.03269v1)|null|
+|**2023-05-08**|**Decomposition of surface into quadrilaterals**|Kostiantyn Cherkashyn et.al.|[2305.04622v2](http://arxiv.org/abs/2305.04622v2)|null|
