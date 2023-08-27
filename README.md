@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-27 07:20:33 Asia/Shanghai
+ Automated deployment @ 2023-08-27 19:18:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,25 +34,6 @@
 |**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335v1](http://arxiv.org/abs/2308.11335v1)|null|
 
 ## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-27**|**Opinion disparity in hypergraphs with community structure**|Nicholas W. Landry et.al.|[2302.13967v2](http://arxiv.org/abs/2302.13967v2)|[link](https://github.com/nwlandry/opinion-disparity-in-hypergraphs)|
-|**2023-08-24**|**Hypergraph Convolutional Networks for Fine-grained ICU Patient Similarity Analysis and Risk Prediction**|Yuxi Liu et.al.|[2308.12575v1](http://arxiv.org/abs/2308.12575v1)|null|
-|**2023-08-23**|**Tiling Dense Hypergraphs**|Richard Lang et.al.|[2308.12281v1](http://arxiv.org/abs/2308.12281v1)|null|
-|**2023-08-23**|**Extremal, enumerative and probabilistic results on ordered hypergraph matchings**|Michael Anastos et.al.|[2308.12268v1](http://arxiv.org/abs/2308.12268v1)|null|
-|**2022-12-30**|**A hypergraph analog of Dirac's Theorem for long cycles in 2-connected graphs**|Alexandr Kostochka et.al.|[2212.14516v2](http://arxiv.org/abs/2212.14516v2)|null|
-|**2023-08-22**|**Graph-like Scheduling Problems and Property B**|John Machacek et.al.|[2308.11587v1](http://arxiv.org/abs/2308.11587v1)|null|
-|**2023-08-22**|**A class of graphs of zero Turán density in a hypercube**|Maria Axenovich et.al.|[2308.11366v1](http://arxiv.org/abs/2308.11366v1)|null|
-|**2023-08-21**|**Multi-Task Hypergraphs for Semi-supervised Learning using Earth Observations**|Mihai Pirvu et.al.|[2308.11021v1](http://arxiv.org/abs/2308.11021v1)|null|
-|**2023-08-21**|**Ramsey numbers of hypergraphs of a given size**|Domagoj Bradač et.al.|[2308.10833v1](http://arxiv.org/abs/2308.10833v1)|null|
-|**2023-08-15**|**Self-supervised Hypergraphs for Learning Multiple World Interpretations**|Alina Marcu et.al.|[2308.07615v2](http://arxiv.org/abs/2308.07615v2)|null|
-|**2023-03-20**|**Counting Homomorphisms from Hypergraphs of Bounded Generalised Hypertree Width: A Logical Characterisation**|Benjamin Scheidt et.al.|[2303.10980v3](http://arxiv.org/abs/2303.10980v3)|null|
-|**2023-08-19**|**The degree threshold for covering with all the connected $3$-graphs with $3$ edges**|Yue Ma et.al.|[2308.10059v1](http://arxiv.org/abs/2308.10059v1)|null|
-|**2023-08-18**|**Hypergraphs with irrational Turán density and many extremal configurations**|Jianfeng Hou et.al.|[2308.09382v1](http://arxiv.org/abs/2308.09382v1)|null|
-|**2023-08-17**|**Algorithms and Computational Study on a Transportation System Integrating Public Transit and Ridesharing of Personal Vehicles**|Qian-Ping Gu et.al.|[2308.09191v1](http://arxiv.org/abs/2308.09191v1)|null|
-|**2023-02-27**|**The Complexity of Recognizing Geometric Hypergraphs**|Daniel Bertschinger et.al.|[2302.13597v2](http://arxiv.org/abs/2302.13597v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -91,6 +72,25 @@
 |**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v3](http://arxiv.org/abs/2306.00274v3)|null|
 |**2023-06-13**|**On the edge-density of the Brownian co-graphon and common ancestors of pairs in the CRT**|Guillaume Chapuy et.al.|[2306.07911v1](http://arxiv.org/abs/2306.07911v1)|null|
 |**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|[link](https://github.com/caoyxuan/w2pgnn)|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-27**|**Opinion disparity in hypergraphs with community structure**|Nicholas W. Landry et.al.|[2302.13967v2](http://arxiv.org/abs/2302.13967v2)|[link](https://github.com/nwlandry/opinion-disparity-in-hypergraphs)|
+|**2023-08-24**|**Hypergraph Convolutional Networks for Fine-grained ICU Patient Similarity Analysis and Risk Prediction**|Yuxi Liu et.al.|[2308.12575v1](http://arxiv.org/abs/2308.12575v1)|null|
+|**2023-08-23**|**Tiling Dense Hypergraphs**|Richard Lang et.al.|[2308.12281v1](http://arxiv.org/abs/2308.12281v1)|null|
+|**2023-08-23**|**Extremal, enumerative and probabilistic results on ordered hypergraph matchings**|Michael Anastos et.al.|[2308.12268v1](http://arxiv.org/abs/2308.12268v1)|null|
+|**2022-12-30**|**A hypergraph analog of Dirac's Theorem for long cycles in 2-connected graphs**|Alexandr Kostochka et.al.|[2212.14516v2](http://arxiv.org/abs/2212.14516v2)|null|
+|**2023-08-22**|**Graph-like Scheduling Problems and Property B**|John Machacek et.al.|[2308.11587v1](http://arxiv.org/abs/2308.11587v1)|null|
+|**2023-08-22**|**A class of graphs of zero Turán density in a hypercube**|Maria Axenovich et.al.|[2308.11366v1](http://arxiv.org/abs/2308.11366v1)|null|
+|**2023-08-21**|**Multi-Task Hypergraphs for Semi-supervised Learning using Earth Observations**|Mihai Pirvu et.al.|[2308.11021v1](http://arxiv.org/abs/2308.11021v1)|null|
+|**2023-08-21**|**Ramsey numbers of hypergraphs of a given size**|Domagoj Bradač et.al.|[2308.10833v1](http://arxiv.org/abs/2308.10833v1)|null|
+|**2023-08-15**|**Self-supervised Hypergraphs for Learning Multiple World Interpretations**|Alina Marcu et.al.|[2308.07615v2](http://arxiv.org/abs/2308.07615v2)|null|
+|**2023-03-20**|**Counting Homomorphisms from Hypergraphs of Bounded Generalised Hypertree Width: A Logical Characterisation**|Benjamin Scheidt et.al.|[2303.10980v3](http://arxiv.org/abs/2303.10980v3)|null|
+|**2023-08-19**|**The degree threshold for covering with all the connected $3$-graphs with $3$ edges**|Yue Ma et.al.|[2308.10059v1](http://arxiv.org/abs/2308.10059v1)|null|
+|**2023-08-18**|**Hypergraphs with irrational Turán density and many extremal configurations**|Jianfeng Hou et.al.|[2308.09382v1](http://arxiv.org/abs/2308.09382v1)|null|
+|**2023-08-17**|**Algorithms and Computational Study on a Transportation System Integrating Public Transit and Ridesharing of Personal Vehicles**|Qian-Ping Gu et.al.|[2308.09191v1](http://arxiv.org/abs/2308.09191v1)|null|
+|**2023-02-27**|**The Complexity of Recognizing Geometric Hypergraphs**|Daniel Bertschinger et.al.|[2302.13597v2](http://arxiv.org/abs/2302.13597v2)|null|
 
 ## Variable Selection
 
