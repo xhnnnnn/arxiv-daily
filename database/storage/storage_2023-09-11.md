@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-11 07:20:40 Asia/Shanghai
+ Automated deployment @ 2023-09-11 19:19:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-09**|**Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization**|Gerard Calvo Bartra et.al.|[2307.05551v2](http://arxiv.org/abs/2307.05551v2)|null|
+|**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332v1](http://arxiv.org/abs/2309.04332v1)|null|
+|**2022-07-06**|**TREE-G: Decision Trees Contesting Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2207.02760v4](http://arxiv.org/abs/2207.02760v4)|[link](https://github.com/tau-mlwell/gta---graph-trees-with-attention)|
+|**2023-08-04**|**Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles**|Ruijin Sun et.al.|[2308.02603v2](http://arxiv.org/abs/2308.02603v2)|null|
+|**2023-05-31**|**Improving Expressivity of Graph Neural Networks using Localization**|Anant Kumar et.al.|[2305.19659v2](http://arxiv.org/abs/2305.19659v2)|null|
+|**2023-09-04**|**On the Robustness of Post-hoc GNN Explainers to Label Noise**|Zhiqiang Zhong et.al.|[2309.01706v2](http://arxiv.org/abs/2309.01706v2)|null|
+|**2023-09-08**|**A Long-Tail Friendly Representation Framework for Artist and Music Similarity**|Haoran Xiang et.al.|[2309.04182v1](http://arxiv.org/abs/2309.04182v1)|null|
+|**2023-09-08**|**Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning**|Sungjun Cho et.al.|[2309.04082v1](http://arxiv.org/abs/2309.04082v1)|null|
+|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375v2](http://arxiv.org/abs/2308.16375v2)|[link](https://github.com/nds-vu/awesome-gnn-privacy)|
+|**2021-10-28**|**A GNN Based Approach to LTL Model Checking**|Prasita Mukherjee et.al.|[2110.14824v2](http://arxiv.org/abs/2110.14824v2)|null|
+|**2023-01-28**|**Node Injection for Class-specific Network Poisoning**|Ansh Kumar Sharma et.al.|[2301.12277v2](http://arxiv.org/abs/2301.12277v2)|[link](https://github.com/rahulk207/nicki)|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|null|
 |**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v2](http://arxiv.org/abs/2306.13186v2)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
 |**2023-09-07**|**Characterizing Lipschitz Stability of GNN for Fairness**|Yaning Jia et.al.|[2309.03648v1](http://arxiv.org/abs/2309.03648v1)|null|
 |**2023-09-07**|**Filtration Surfaces for Dynamic Graph Classification**|Franz Srambical et.al.|[2309.03616v1](http://arxiv.org/abs/2309.03616v1)|null|
-|**2023-09-07**|**Enhancing 5G Radio Planning with Graph Representations and Deep Learning**|Paul Almasan et.al.|[2309.03603v1](http://arxiv.org/abs/2309.03603v1)|null|
-|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190v2](http://arxiv.org/abs/2309.03190v2)|null|
-|**2023-08-04**|**RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification**|Zhengyang Mao et.al.|[2308.02335v2](http://arxiv.org/abs/2308.02335v2)|null|
-|**2023-09-07**|**DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks**|Fahao Chen et.al.|[2309.03523v1](http://arxiv.org/abs/2309.03523v1)|null|
-|**2023-07-17**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461v3](http://arxiv.org/abs/2307.08461v3)|null|
-|**2020-12-11**|**Understanding Spectral Graph Neural Network**|Xinye Chen et.al.|[2012.06660v4](http://arxiv.org/abs/2012.06660v4)|null|
-|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169v2](http://arxiv.org/abs/2309.03169v2)|null|
-|**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139v1](http://arxiv.org/abs/2309.03139v1)|null|
-|**2023-05-25**|**Learning Preconditioner for Conjugate Gradient PDE Solvers**|Yichen Li et.al.|[2305.16432v2](http://arxiv.org/abs/2305.16432v2)|null|
-|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-03-17**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v2](http://arxiv.org/abs/2303.09995v2)|null|
 
 ## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-07**|**Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication**|Iacopo Iacopini et.al.|[2309.03783v1](http://arxiv.org/abs/2309.03783v1)|null|
-|**2023-09-07**|**Looms**|Ron Aharoni et.al.|[2309.03735v1](http://arxiv.org/abs/2309.03735v1)|null|
-|**2023-04-29**|**Spatially-Coupled QDLPC Codes**|Siyi Yang et.al.|[2305.00137v3](http://arxiv.org/abs/2305.00137v3)|null|
-|**2023-09-06**|**Hy-DeFake: Hypergraph Neural Networks for Detecting Fake News in Online Social Networks**|Xing Su et.al.|[2309.02692v1](http://arxiv.org/abs/2309.02692v1)|null|
-|**2023-09-05**|**Exploiting Spatial-temporal Data for Sleep Stage Classification via Hypergraph Learning**|Yuze Liu et.al.|[2309.02124v1](http://arxiv.org/abs/2309.02124v1)|null|
-|**2023-09-05**|**Heteroclinic Dynamics in Network Dynamical Systems with Higher-Order Interactions**|Christian Bick et.al.|[2309.02006v1](http://arxiv.org/abs/2309.02006v1)|null|
-|**2023-09-04**|**Phase Transitions for Binomial Sets Under Linear Forms**|Ryan Jeong et.al.|[2309.01801v1](http://arxiv.org/abs/2309.01801v1)|null|
-|**2022-11-11**|**Constructing cospectral hypergraphs**|Aida Abiad et.al.|[2211.06087v2](http://arxiv.org/abs/2211.06087v2)|null|
-|**2020-08-23**|**Qualitative equivalence between incompatibility and Bell nonlocality**|Shiv Akshar Yadavalli et.al.|[2008.10100v2](http://arxiv.org/abs/2008.10100v2)|null|
-|**2021-09-09**|**Algorithms and Certificates for Boolean CSP Refutation: "Smoothed is no harder than Random"**|Venkatesan Guruswami et.al.|[2109.04415v2](http://arxiv.org/abs/2109.04415v2)|null|
-|**2023-09-01**|**Factoring complete graphs and hypergraphs into factors with few maximal cliques**|Paul Erdős et.al.|[2309.03083v1](http://arxiv.org/abs/2309.03083v1)|null|
-|**2023-05-11**|**Minimal dominating sets enumeration with FPT-delay parameterized by the degeneracy and maximum degree**|Valentin Bartier et.al.|[2305.06974v2](http://arxiv.org/abs/2305.06974v2)|null|
-|**2022-02-28**|**Tower Gaps in Multicolour Ramsey Numbers**|Quentin Dubroff et.al.|[2202.14032v2](http://arxiv.org/abs/2202.14032v2)|null|
-|**2023-08-31**|**Dually conformal hypergraphs**|Endre Boros et.al.|[2309.00098v1](http://arxiv.org/abs/2309.00098v1)|null|
-|**2023-08-27**|**Hypergraph Structure Inference From Data Under Smoothness Prior**|Bohan Tang et.al.|[2308.14172v2](http://arxiv.org/abs/2308.14172v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -91,6 +72,25 @@
 |**2020-06-13**|**Weakly interacting oscillators on dense random graphs**|Gianmarco Bet et.al.|[2006.07670v3](http://arxiv.org/abs/2006.07670v3)|null|
 |**2021-11-18**|**Gradient flows on graphons: existence, convergence, continuity equations**|Sewoong Oh et.al.|[2111.09459v3](http://arxiv.org/abs/2111.09459v3)|null|
 |**2023-06-01**|**Optimal Rate-Matrix Pruning For Large-Scale Heterogeneous Systems**|Zhisheng Zhao et.al.|[2306.00274v3](http://arxiv.org/abs/2306.00274v3)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-08**|**Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach**|Dahee Kim et.al.|[2309.04350v1](http://arxiv.org/abs/2309.04350v1)|null|
+|**2023-05-04**|**Coloring tournaments with few colors: Algorithms and complexity**|Felix Klingelhoefer et.al.|[2305.02922v2](http://arxiv.org/abs/2305.02922v2)|null|
+|**2023-09-08**|**Concomitant Group Testing**|Thach V. Bui et.al.|[2309.04221v1](http://arxiv.org/abs/2309.04221v1)|null|
+|**2022-11-13**|**Firm-worker hypergraphs**|Chao Huang et.al.|[2211.06887v2](http://arxiv.org/abs/2211.06887v2)|null|
+|**2023-09-07**|**Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication**|Iacopo Iacopini et.al.|[2309.03783v1](http://arxiv.org/abs/2309.03783v1)|null|
+|**2023-09-07**|**Looms**|Ron Aharoni et.al.|[2309.03735v1](http://arxiv.org/abs/2309.03735v1)|null|
+|**2023-04-29**|**Spatially-Coupled QDLPC Codes**|Siyi Yang et.al.|[2305.00137v3](http://arxiv.org/abs/2305.00137v3)|null|
+|**2023-09-06**|**Hy-DeFake: Hypergraph Neural Networks for Detecting Fake News in Online Social Networks**|Xing Su et.al.|[2309.02692v1](http://arxiv.org/abs/2309.02692v1)|null|
+|**2023-09-05**|**Exploiting Spatial-temporal Data for Sleep Stage Classification via Hypergraph Learning**|Yuze Liu et.al.|[2309.02124v1](http://arxiv.org/abs/2309.02124v1)|null|
+|**2023-09-05**|**Heteroclinic Dynamics in Network Dynamical Systems with Higher-Order Interactions**|Christian Bick et.al.|[2309.02006v1](http://arxiv.org/abs/2309.02006v1)|null|
+|**2023-09-04**|**Phase Transitions for Binomial Sets Under Linear Forms**|Ryan Jeong et.al.|[2309.01801v1](http://arxiv.org/abs/2309.01801v1)|null|
+|**2022-11-11**|**Constructing cospectral hypergraphs**|Aida Abiad et.al.|[2211.06087v2](http://arxiv.org/abs/2211.06087v2)|null|
+|**2020-08-23**|**Qualitative equivalence between incompatibility and Bell nonlocality**|Shiv Akshar Yadavalli et.al.|[2008.10100v2](http://arxiv.org/abs/2008.10100v2)|null|
+|**2021-09-09**|**Algorithms and Certificates for Boolean CSP Refutation: "Smoothed is no harder than Random"**|Venkatesan Guruswami et.al.|[2109.04415v2](http://arxiv.org/abs/2109.04415v2)|null|
+|**2023-09-01**|**Factoring complete graphs and hypergraphs into factors with few maximal cliques**|Paul Erdős et.al.|[2309.03083v1](http://arxiv.org/abs/2309.03083v1)|null|
 
 ## Embedding
 
@@ -137,7 +137,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-07**|**On Large Language Models' Selection Bias in Multi-Choice Questions**|Chujie Zheng et.al.|[2309.03882v1](http://arxiv.org/abs/2309.03882v1)|null|
+|**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455v1](http://arxiv.org/abs/2309.04455v1)|null|
+|**2023-09-07**|**On Large Language Models' Selection Bias in Multi-Choice Questions**|Chujie Zheng et.al.|[2309.03882v2](http://arxiv.org/abs/2309.03882v2)|null|
 |**2023-09-07**|**Neural lasso: a unifying approach of lasso and neural networks**|David Delgado et.al.|[2309.03770v1](http://arxiv.org/abs/2309.03770v1)|null|
 |**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v1](http://arxiv.org/abs/2309.03742v1)|null|
 |**2023-09-07**|**Identifying spatial interdependence in panel data with large N and small T**|Deborah Gefang et.al.|[2309.03740v1](http://arxiv.org/abs/2309.03740v1)|null|
@@ -151,4 +152,3 @@
 |**2023-09-04**|**Adsorption Characteristics of Refrigerants for Thermochemical Energy Storage in Metal-Organic Frameworks**|J. M. Vicent-Luna et.al.|[2309.01777v1](http://arxiv.org/abs/2309.01777v1)|null|
 |**2023-09-04**|**Generalized Information Criteria for Structured Sparse Models**|Eduardo F. Mendes et.al.|[2309.01764v1](http://arxiv.org/abs/2309.01764v1)|null|
 |**2023-09-04**|**Parameter identifiability and model selection for partial differential equation models of cell invasion**|Yue Liu et.al.|[2309.01476v1](http://arxiv.org/abs/2309.01476v1)|null|
-|**2021-10-24**|**Robust Variable Selection under Cellwise Contamination**|Peng Su et.al.|[2110.12406v3](http://arxiv.org/abs/2110.12406v3)|[link](https://github.com/pengsu517/robcovsel)|
