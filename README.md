@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-17 07:20:57 Asia/Shanghai
+ Automated deployment @ 2023-09-17 19:18:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -46,13 +46,32 @@
 |**2023-08-14**|**Counting spanning subgraphs in dense hypergraphs**|Richard Montgomery et.al.|[2308.07195v2](http://arxiv.org/abs/2308.07195v2)|null|
 |**2023-09-11**|**Enhancing Hyperedge Prediction with Context-Aware Self-Supervised Learning**|Yunyong Ko et.al.|[2309.05798v1](http://arxiv.org/abs/2309.05798v1)|[link](https://github.com/yy-ko/cash)|
 |**2023-09-09**|**A sharp Ramsey theorem for ordered hypergraph matchings**|Lisa Sauermann et.al.|[2309.04813v1](http://arxiv.org/abs/2309.04813v1)|null|
+|**2013-06-13**|**A Multidimensional Szemerédi Theorem in the primes**|Brian Cook et.al.|[1306.3025v4](http://arxiv.org/abs/1306.3025v4)|null|
 |**2022-11-01**|**Alternative polynomial-time algorithm for Bipartite Matching**|Sylvain Guillemot et.al.|[2211.00711v3](http://arxiv.org/abs/2211.00711v3)|null|
 |**2023-09-08**|**Note on polychromatic coloring of hereditary hypergraph families**|Dömötör Pálvölgyi et.al.|[2309.04603v1](http://arxiv.org/abs/2309.04603v1)|null|
 |**2023-09-08**|**Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach**|Dahee Kim et.al.|[2309.04350v1](http://arxiv.org/abs/2309.04350v1)|null|
 |**2023-05-04**|**Coloring tournaments with few colors: Algorithms and complexity**|Felix Klingelhoefer et.al.|[2305.02922v2](http://arxiv.org/abs/2305.02922v2)|null|
 |**2023-09-08**|**Concomitant Group Testing**|Thach V. Bui et.al.|[2309.04221v1](http://arxiv.org/abs/2309.04221v1)|null|
 |**2022-11-13**|**Firm-worker hypergraphs**|Chao Huang et.al.|[2211.06887v2](http://arxiv.org/abs/2211.06887v2)|null|
-|**2023-09-07**|**Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication**|Iacopo Iacopini et.al.|[2309.03783v1](http://arxiv.org/abs/2309.03783v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917v2](http://arxiv.org/abs/2309.00917v2)|[link](https://github.com/tjvsonsbeek/knowledge_graphs_for_radiology_reports)|
+|**2022-10-01**|**LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings**|Xin Xie et.al.|[2210.00305v3](http://arxiv.org/abs/2210.00305v3)|[link](https://github.com/zjunlp/promptkg)|
+|**2023-09-13**|**Digital 3D Smocking Design**|Jing Ren et.al.|[2309.07201v1](http://arxiv.org/abs/2309.07201v1)|null|
+|**2023-09-11**|**Force-directed graph embedding with hops distance**|Hamidreza Lotfalizadeh et.al.|[2309.05865v1](http://arxiv.org/abs/2309.05865v1)|null|
+|**2023-09-11**|**A parameterised model for link prediction using node centrality and similarity measure based on graph embedding**|Haohui Lu et.al.|[2309.05434v1](http://arxiv.org/abs/2309.05434v1)|null|
+|**2023-08-27**|**SPEED: Streaming Partition and Parallel Acceleration for Temporal Interaction Graph Embedding**|Xi Chen et.al.|[2308.14129v2](http://arxiv.org/abs/2308.14129v2)|[link](https://github.com/chenxi1228/SPEED)|
+|**2023-09-09**|**Symplectic Structure-Aware Hamiltonian (Graph) Embeddings**|Jiaxu Liu et.al.|[2309.04885v1](http://arxiv.org/abs/2309.04885v1)|null|
+|**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|[link](https://github.com/tgebhart/sheaf_kg_transind)|
+|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v2](http://arxiv.org/abs/2306.13186v2)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
+|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023v1](http://arxiv.org/abs/2309.03023v1)|[link](https://gitlab.com/patryk.preisner/mkga)|
+|**2023-07-28**|**Spherical and Hyperbolic Toric Topology-Based Codes On Graph Embedding for Ising MRF Models: Classical and Quantum Topology Machine Learning**|Vasiliy Usatyuk et.al.|[2307.15778v2](http://arxiv.org/abs/2307.15778v2)|[link](https://github.com/lcrypto/classical-and-quantum-topology-ml-toric-spherical)|
+|**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659v2](http://arxiv.org/abs/2308.14659v2)|null|
+|**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981v1](http://arxiv.org/abs/2309.01981v1)|null|
+|**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227v1](http://arxiv.org/abs/2309.03227v1)|[link](https://github.com/ysjegal/ysjegal-drug-repositioning)|
+|**2023-08-31**|**Balancing between the Local and Global Structures (LGS) in Graph Embedding**|Jacob Miller et.al.|[2308.16403v2](http://arxiv.org/abs/2308.16403v2)|[link](https://github.com/mickey253/l2g)|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,24 +92,26 @@
 |**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
 |**2023-07-24**|**Graph Limit for Interacting Particle Systems on Weighted Random Graphs**|Nathalie Ayi et.al.|[2307.12801v1](http://arxiv.org/abs/2307.12801v1)|null|
 
-### Graph Embedding
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917v2](http://arxiv.org/abs/2309.00917v2)|[link](https://github.com/tjvsonsbeek/knowledge_graphs_for_radiology_reports)|
-|**2022-10-01**|**LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings**|Xin Xie et.al.|[2210.00305v3](http://arxiv.org/abs/2210.00305v3)|[link](https://github.com/zjunlp/promptkg)|
-|**2023-09-13**|**Digital 3D Smocking Design**|Jing Ren et.al.|[2309.07201v1](http://arxiv.org/abs/2309.07201v1)|null|
-|**2023-09-11**|**Force-directed graph embedding with hops distance**|Hamidreza Lotfalizadeh et.al.|[2309.05865v1](http://arxiv.org/abs/2309.05865v1)|null|
-|**2023-09-11**|**A parameterised model for link prediction using node centrality and similarity measure based on graph embedding**|Haohui Lu et.al.|[2309.05434v1](http://arxiv.org/abs/2309.05434v1)|null|
-|**2023-08-27**|**SPEED: Streaming Partition and Parallel Acceleration for Temporal Interaction Graph Embedding**|Xi Chen et.al.|[2308.14129v2](http://arxiv.org/abs/2308.14129v2)|[link](https://github.com/chenxi1228/SPEED)|
-|**2023-09-09**|**Symplectic Structure-Aware Hamiltonian (Graph) Embeddings**|Jiaxu Liu et.al.|[2309.04885v1](http://arxiv.org/abs/2309.04885v1)|null|
-|**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|[link](https://github.com/tgebhart/sheaf_kg_transind)|
-|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v2](http://arxiv.org/abs/2306.13186v2)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
-|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023v1](http://arxiv.org/abs/2309.03023v1)|[link](https://gitlab.com/patryk.preisner/mkga)|
-|**2023-07-28**|**Spherical and Hyperbolic Toric Topology-Based Codes On Graph Embedding for Ising MRF Models: Classical and Quantum Topology Machine Learning**|Vasiliy Usatyuk et.al.|[2307.15778v2](http://arxiv.org/abs/2307.15778v2)|[link](https://github.com/lcrypto/classical-and-quantum-topology-ml-toric-spherical)|
-|**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659v2](http://arxiv.org/abs/2308.14659v2)|null|
-|**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981v1](http://arxiv.org/abs/2309.01981v1)|null|
-|**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227v1](http://arxiv.org/abs/2309.03227v1)|[link](https://github.com/ysjegal/ysjegal-drug-repositioning)|
-|**2023-08-31**|**Balancing between the Local and Global Structures (LGS) in Graph Embedding**|Jacob Miller et.al.|[2308.16403v2](http://arxiv.org/abs/2308.16403v2)|[link](https://github.com/mickey253/l2g)|
+|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v2](http://arxiv.org/abs/2309.03742v2)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
+|**2023-09-14**|**Causal Entropy and Information Gain for Measuring Causal Control**|Francisco Nunes Ferreira Quialheiro Simoes et.al.|[2309.07703v1](http://arxiv.org/abs/2309.07703v1)|null|
+|**2023-09-13**|**Effect of hyperparameters on variable selection in random forests**|Cesaire J. K. Fouodo et.al.|[2309.06943v1](http://arxiv.org/abs/2309.06943v1)|[link](https://github.com/imbs-hl/rf-hyperparameters-and-variable-selection)|
+|**2022-07-22**|**Direct determination of optimal real-space orbitals for correlated electronic structure of molecules**|Edward F. Valeev et.al.|[2207.10841v3](http://arxiv.org/abs/2207.10841v3)|null|
+|**2023-09-12**|**Semi-supervised Classification of Malware Families Under Extreme Class Imbalance via Hierarchical Non-Negative Matrix Factorization with Automatic Model Selection**|Maksim E. Eren et.al.|[2309.06643v1](http://arxiv.org/abs/2309.06643v1)|null|
+|**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v4](http://arxiv.org/abs/2202.09518v4)|[link](https://github.com/lanl/pyDNMFk)|
+|**2023-07-01**|**ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models**|Uddeshya Upadhyay et.al.|[2307.00398v2](http://arxiv.org/abs/2307.00398v2)|[link](https://github.com/explainableml/probvlm)|
+|**2023-09-12**|**A Consistent and Scalable Algorithm for Best Subset Selection in Single Index Models**|Borui Tang et.al.|[2309.06230v1](http://arxiv.org/abs/2309.06230v1)|null|
+|**2023-07-03**|**Learning permutation symmetries with gips in R**|Adam Chojecki et.al.|[2307.00790v3](http://arxiv.org/abs/2307.00790v3)|[link](https://github.com/przechoj/gips)|
+|**2023-08-01**|**Adaptive MCMC for Bayesian variable selection in generalised linear models and survival models**|Xitong Liang et.al.|[2308.00869v2](http://arxiv.org/abs/2308.00869v2)|null|
+|**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455v1](http://arxiv.org/abs/2309.04455v1)|null|
+|**2023-09-07**|**On Large Language Models' Selection Bias in Multi-Choice Questions**|Chujie Zheng et.al.|[2309.03882v2](http://arxiv.org/abs/2309.03882v2)|null|
+|**2023-09-07**|**Neural lasso: a unifying approach of lasso and neural networks**|David Delgado et.al.|[2309.03770v1](http://arxiv.org/abs/2309.03770v1)|null|
+|**2023-09-07**|**Identifying spatial interdependence in panel data with large N and small T**|Deborah Gefang et.al.|[2309.03740v1](http://arxiv.org/abs/2309.03740v1)|null|
+|**2022-12-10**|**How to select an objective function using information theory**|Timothy O. Hodson et.al.|[2212.06566v2](http://arxiv.org/abs/2212.06566v2)|null|
 
 ## Embedding
 
@@ -131,24 +152,3 @@
 |**2023-08-04**|**Personalization of Stress Mobile Sensing using Self-Supervised Learning**|Tanvir Islam et.al.|[2308.02731v1](http://arxiv.org/abs/2308.02731v1)|null|
 |**2023-08-02**|**EmbeddingTree: Hierarchical Exploration of Entity Features in Embedding**|Yan Zheng et.al.|[2308.01329v1](http://arxiv.org/abs/2308.01329v1)|null|
 |**2023-08-01**|**Self-Supervised Contrastive BERT Fine-tuning for Fusion-based Reviewed-Item Retrieval**|Mohammad Mahdi Abdollah Pour et.al.|[2308.00762v1](http://arxiv.org/abs/2308.00762v1)|[link](https://github.com/d3mlab/rir_data)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v2](http://arxiv.org/abs/2309.03742v2)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
-|**2023-09-14**|**Causal Entropy and Information Gain for Measuring Causal Control**|Francisco Nunes Ferreira Quialheiro Simoes et.al.|[2309.07703v1](http://arxiv.org/abs/2309.07703v1)|null|
-|**2023-09-13**|**Effect of hyperparameters on variable selection in random forests**|Cesaire J. K. Fouodo et.al.|[2309.06943v1](http://arxiv.org/abs/2309.06943v1)|[link](https://github.com/imbs-hl/rf-hyperparameters-and-variable-selection)|
-|**2022-07-22**|**Direct determination of optimal real-space orbitals for correlated electronic structure of molecules**|Edward F. Valeev et.al.|[2207.10841v3](http://arxiv.org/abs/2207.10841v3)|null|
-|**2023-09-12**|**Semi-supervised Classification of Malware Families Under Extreme Class Imbalance via Hierarchical Non-Negative Matrix Factorization with Automatic Model Selection**|Maksim E. Eren et.al.|[2309.06643v1](http://arxiv.org/abs/2309.06643v1)|null|
-|**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v4](http://arxiv.org/abs/2202.09518v4)|[link](https://github.com/lanl/pyDNMFk)|
-|**2023-07-01**|**ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models**|Uddeshya Upadhyay et.al.|[2307.00398v2](http://arxiv.org/abs/2307.00398v2)|[link](https://github.com/explainableml/probvlm)|
-|**2023-09-12**|**A Consistent and Scalable Algorithm for Best Subset Selection in Single Index Models**|Borui Tang et.al.|[2309.06230v1](http://arxiv.org/abs/2309.06230v1)|null|
-|**2023-07-03**|**Learning permutation symmetries with gips in R**|Adam Chojecki et.al.|[2307.00790v3](http://arxiv.org/abs/2307.00790v3)|[link](https://github.com/przechoj/gips)|
-|**2023-08-01**|**Adaptive MCMC for Bayesian variable selection in generalised linear models and survival models**|Xitong Liang et.al.|[2308.00869v2](http://arxiv.org/abs/2308.00869v2)|null|
-|**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455v1](http://arxiv.org/abs/2309.04455v1)|null|
-|**2023-09-07**|**On Large Language Models' Selection Bias in Multi-Choice Questions**|Chujie Zheng et.al.|[2309.03882v2](http://arxiv.org/abs/2309.03882v2)|null|
-|**2023-09-07**|**Neural lasso: a unifying approach of lasso and neural networks**|David Delgado et.al.|[2309.03770v1](http://arxiv.org/abs/2309.03770v1)|null|
-|**2023-09-07**|**Identifying spatial interdependence in panel data with large N and small T**|Deborah Gefang et.al.|[2309.03740v1](http://arxiv.org/abs/2309.03740v1)|null|
-|**2022-12-10**|**How to select an objective function using information theory**|Timothy O. Hodson et.al.|[2212.06566v2](http://arxiv.org/abs/2212.06566v2)|null|
