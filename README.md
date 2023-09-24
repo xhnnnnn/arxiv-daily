@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-24 07:20:17 Asia/Shanghai
+ Automated deployment @ 2023-09-24 19:18:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -25,7 +25,7 @@
 |**2023-09-21**|**Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856v1](http://arxiv.org/abs/2309.11856v1)|[link](https://github.com/saintslab/i-exact)|
 |**2022-05-06**|**Optimal Propagation for Graph Neural Networks**|Beidi Zhao et.al.|[2205.02998v2](http://arxiv.org/abs/2205.02998v2)|null|
 |**2023-09-20**|**Large-scale Pretraining Improves Sample Efficiency of Active Learning based Molecule Virtual Screening**|Zhonglin Cao et.al.|[2309.11687v1](http://arxiv.org/abs/2309.11687v1)|null|
-|**2023-03-24**|**Graph Neural Networks for the Offline Nanosatellite Task Scheduling Problem**|Bruno Machado Pacheco et.al.|[2303.13773v2](http://arxiv.org/abs/2303.13773v2)|null|
+|**2023-03-24**|**Graph Neural Networks for the Offline Nanosatellite Task Scheduling Problem**|Bruno Machado Pacheco et.al.|[2303.13773v2](http://arxiv.org/abs/2303.13773v2)|[link](https://github.com/brunompacheco/sat-gnn)|
 |**2022-06-10**|**Toward Dynamic Stability Assessment of Power Grid Topologies using Graph Neural Networks**|Christian Nauck et.al.|[2206.06369v4](http://arxiv.org/abs/2206.06369v4)|[link](https://github.com/pik-icone/dynamic_stability_datasets_gnn_paper-companion)|
 |**2022-10-30**|**Graph Fuzzy System: Concepts, Models and Algorithms**|Fuping Hu et.al.|[2210.16730v2](http://arxiv.org/abs/2210.16730v2)|null|
 |**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|[link](https://github.com/porscheofficial/sls_sat_solving_with_deep_learning)|
@@ -102,7 +102,7 @@
 |**2020-04-11**|**Robust adaptive variable selection in ultra-high dimensional linear regression models**|Abhik Ghosh et.al.|[2004.05470v3](http://arxiv.org/abs/2004.05470v3)|null|
 |**2022-12-30**|**Through the lens of Sgr A$^*$: identifying and resolving strongly lensed Continuous Gravitational Waves beyond the Einstein radius**|Stefano Savastano et.al.|[2212.14697v2](http://arxiv.org/abs/2212.14697v2)|null|
 |**2023-04-21**|**Quantum information criteria for model selection in quantum state estimation**|Hiroshi Yano et.al.|[2304.10949v2](http://arxiv.org/abs/2304.10949v2)|null|
-|**2023-04-10**|**Discovering dynamics and parameters of nonlinear oscillatory and chaotic systems from partial observations**|George Stepaniants et.al.|[2304.04818v2](http://arxiv.org/abs/2304.04818v2)|null|
+|**2023-04-10**|**Discovering dynamics and parameters of nonlinear oscillatory and chaotic systems from partial observations**|George Stepaniants et.al.|[2304.04818v2](http://arxiv.org/abs/2304.04818v2)|[link](https://github.com/adh18/hiddendynamicsinference)|
 |**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028v1](http://arxiv.org/abs/2309.11028v1)|[link](https://github.com/doerlbh/topologicalrsa)|
 |**2023-09-19**|**Group Spike and Slab Variational Bayes**|Michael Komodromos et.al.|[2309.10378v1](http://arxiv.org/abs/2309.10378v1)|null|
 |**2019-07-15**|**Scalable high-dimensional Bayesian varying coefficient models with unknown within-subject covariance**|Ray Bai et.al.|[1907.06477v9](http://arxiv.org/abs/1907.06477v9)|null|
