@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-21 07:21:56 Asia/Shanghai
+ Automated deployment @ 2023-10-21 19:18:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -25,7 +25,7 @@
 |**2022-06-14**|**Category-Agnostic 6D Pose Estimation with Conditional Neural Processes**|Yumeng Li et.al.|[2206.07162v2](http://arxiv.org/abs/2206.07162v2)|null|
 |**2023-10-19**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580v1](http://arxiv.org/abs/2310.12580v1)|[link](https://github.com/hope-rita/thlm)|
 |**2023-10-19**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565v1](http://arxiv.org/abs/2310.12565v1)|[link](https://github.com/bobowner/open-world-lgl)|
-|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|null|
+|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|[link](https://github.com/syon-li/depwignn)|
 |**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Irene Li et.al.|[2302.06132v3](http://arxiv.org/abs/2302.06132v3)|null|
 |**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
 |**2022-12-19**|**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**|Vardaan Pahuja et.al.|[2212.09724v2](http://arxiv.org/abs/2212.09724v2)|[link](https://github.com/OSU-NLP-Group/KG-R3)|
@@ -33,26 +33,28 @@
 |**2023-10-19**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403v1](http://arxiv.org/abs/2310.12403v1)|null|
 |**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v1](http://arxiv.org/abs/2310.12350v1)|[link](https://github.com/yuening-lab/f2gnn)|
 
-## Embedding
+## Variable Selection
 
-### Embedding Learning
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470v2](http://arxiv.org/abs/2308.16470v2)|[link](https://github.com/shenxiaocam/dm_gnn)|
-|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v3](http://arxiv.org/abs/2305.12530v3)|null|
-|**2023-10-06**|**On the Embedding Collapse when Scaling up Recommendation Models**|Xingzhuo Guo et.al.|[2310.04400v1](http://arxiv.org/abs/2310.04400v1)|null|
-|**2023-10-01**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|[link](https://github.com/sthalles/clove)|
-|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
-|**2023-09-21**|**Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition**|Shuai Wang et.al.|[2309.11730v2](http://arxiv.org/abs/2309.11730v2)|[link](https://github.com/wenet-e2e/wespeaker)|
-|**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072v1](http://arxiv.org/abs/2309.14072v1)|[link](https://github.com/uyoung-jeong/BoIR)|
-|**2022-04-25**|**Tac2Pose: Tactile Object Pose Estimation from the First Touch**|Maria Bauza et.al.|[2204.11701v3](http://arxiv.org/abs/2204.11701v3)|null|
-|**2023-09-14**|**DebCSE: Rethinking Unsupervised Contrastive Sentence Embedding Learning in the Debiasing Perspective**|Pu Miao et.al.|[2309.07396v1](http://arxiv.org/abs/2309.07396v1)|null|
-|**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
-|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|[link](https://github.com/recklessronan/muse)|
-|**2023-05-03**|**DELTA: Dynamic Embedding Learning with Truncated Conscious Attention for CTR Prediction**|Chen Zhu et.al.|[2305.04891v3](http://arxiv.org/abs/2305.04891v3)|null|
-|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v2](http://arxiv.org/abs/2305.10531v2)|null|
-|**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055v1](http://arxiv.org/abs/2308.16055v1)|null|
-|**2023-04-18**|**Dual-Granularity Contrastive Learning for Session-based Recommendation**|Zihan Wang et.al.|[2304.08873v2](http://arxiv.org/abs/2304.08873v2)|null|
+|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v2](http://arxiv.org/abs/2304.09310v2)|null|
+|**2023-10-18**|**Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm**|Anja Zgodic et.al.|[2310.12285v1](http://arxiv.org/abs/2310.12285v1)|null|
+|**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Stream Data**|Tianyu Zhang et.al.|[2310.12140v1](http://arxiv.org/abs/2310.12140v1)|null|
+|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v4](http://arxiv.org/abs/2303.17856v4)|null|
+|**2023-09-04**|**Parameter identifiability and model selection for partial differential equation models of cell invasion**|Yue Liu et.al.|[2309.01476v2](http://arxiv.org/abs/2309.01476v2)|[link](https://github.com/liuyue002/woundhealing)|
+|**2023-10-17**|**Non-parametric Conditional Independence Testing for Mixed Continuous-Categorical Variables: A Novel Method and Numerical Evaluation**|Oana-Iuliana Popescu et.al.|[2310.11132v1](http://arxiv.org/abs/2310.11132v1)|null|
+|**2023-10-17**|**Interview with Adrian Raftery**|Leontine Alkema et.al.|[2310.11095v1](http://arxiv.org/abs/2310.11095v1)|null|
+|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v1](http://arxiv.org/abs/2310.11069v1)|null|
+|**2023-06-16**|**Optimizer's Information Criterion: Dissecting and Correcting Bias in Data-Driven Optimization**|Garud Iyengar et.al.|[2306.10081v2](http://arxiv.org/abs/2306.10081v2)|null|
+|**2021-06-11**|**Optimal Model Selection in Contextual Bandits with Many Classes via Offline Oracles**|Sanath Kumar Krishnamurthy et.al.|[2106.06483v2](http://arxiv.org/abs/2106.06483v2)|null|
+|**2023-10-16**|**Unbiased Estimation of Structured Prediction Error**|Kevin Fry et.al.|[2310.10740v1](http://arxiv.org/abs/2310.10740v1)|null|
+|**2023-10-16**|**Detecting the Undetected: Overcoming Biases in Gravitational-Wave Population Studies**|Ryan Raikman et.al.|[2310.10736v1](http://arxiv.org/abs/2310.10736v1)|[link](https://github.com/rraikman/popsynth-dotproducts)|
+|**2023-10-16**|**Inferring fundamental spacetime symmetries with gravitational-wave memory: from LISA to the Einstein Telescope**|Boris Goncharov et.al.|[2310.10718v1](http://arxiv.org/abs/2310.10718v1)|null|
+|**2023-10-16**|**IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation**|Taejong Joo et.al.|[2310.10611v1](http://arxiv.org/abs/2310.10611v1)|null|
+|**2023-10-16**|**One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging For Cross-Lingual Transfer**|Fabian David Schmidt et.al.|[2310.10532v1](http://arxiv.org/abs/2310.10532v1)|[link](https://github.com/fdschmidt93/ofa-xlt)|
+
+## Embedding
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,7 +75,45 @@
 |**2023-05-17**|**HaSa: Hardness and Structure-Aware Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563v2](http://arxiv.org/abs/2305.10563v2)|[link](https://github.com/honggen-zhang/hasa-ckge)|
 |**2023-10-13**|**Relation-aware Ensemble Learning for Knowledge Graph Embedding**|Ling Yue et.al.|[2310.08917v1](http://arxiv.org/abs/2310.08917v1)|[link](https://github.com/lars-research/relens)|
 
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470v2](http://arxiv.org/abs/2308.16470v2)|[link](https://github.com/shenxiaocam/dm_gnn)|
+|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v3](http://arxiv.org/abs/2305.12530v3)|null|
+|**2023-10-06**|**On the Embedding Collapse when Scaling up Recommendation Models**|Xingzhuo Guo et.al.|[2310.04400v1](http://arxiv.org/abs/2310.04400v1)|null|
+|**2023-10-01**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|[link](https://github.com/sthalles/clove)|
+|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
+|**2023-09-21**|**Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition**|Shuai Wang et.al.|[2309.11730v2](http://arxiv.org/abs/2309.11730v2)|[link](https://github.com/wenet-e2e/wespeaker)|
+|**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072v1](http://arxiv.org/abs/2309.14072v1)|[link](https://github.com/uyoung-jeong/BoIR)|
+|**2022-04-25**|**Tac2Pose: Tactile Object Pose Estimation from the First Touch**|Maria Bauza et.al.|[2204.11701v3](http://arxiv.org/abs/2204.11701v3)|null|
+|**2023-09-14**|**DebCSE: Rethinking Unsupervised Contrastive Sentence Embedding Learning in the Debiasing Perspective**|Pu Miao et.al.|[2309.07396v1](http://arxiv.org/abs/2309.07396v1)|null|
+|**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
+|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|[link](https://github.com/recklessronan/muse)|
+|**2023-05-03**|**DELTA: Dynamic Embedding Learning with Truncated Conscious Attention for CTR Prediction**|Chen Zhu et.al.|[2305.04891v3](http://arxiv.org/abs/2305.04891v3)|null|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v2](http://arxiv.org/abs/2305.10531v2)|null|
+|**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055v1](http://arxiv.org/abs/2308.16055v1)|null|
+|**2023-04-18**|**Dual-Granularity Contrastive Learning for Session-based Recommendation**|Zihan Wang et.al.|[2304.08873v2](http://arxiv.org/abs/2304.08873v2)|null|
+
 ## Graph Model
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v1](http://arxiv.org/abs/2310.11705v1)|null|
+|**2023-08-18**|**Path convergence of Markov chains on large graphs**|Siva Athreya et.al.|[2308.09214v2](http://arxiv.org/abs/2308.09214v2)|null|
+|**2023-10-12**|**Learning Regularized Monotone Graphon Mean-Field Games**|Fengzhuo Zhang et.al.|[2310.08089v1](http://arxiv.org/abs/2310.08089v1)|null|
+|**2023-10-02**|**Subgraph densities and scaling limits of random graphs with a prescribed modular decomposition**|Théo Lenoir et.al.|[2310.01318v1](http://arxiv.org/abs/2310.01318v1)|null|
+|**2023-08-30**|**Computational Lower Bounds for Graphon Estimation via Low-degree Polynomials**|Yuetian Luo et.al.|[2308.15728v2](http://arxiv.org/abs/2308.15728v2)|null|
+|**2023-03-17**|**Scaling limits and universality: Critical percolation on weighted graphs converging to an $L^3$ graphon**|Jnaneshwar Baslingker et.al.|[2303.10082v2](http://arxiv.org/abs/2303.10082v2)|null|
+|**2023-03-29**|**Robust Recovery of Robinson Property in $L^p$-Graphons: A Cut-Norm Approach**|Mahya Ghandehari et.al.|[2303.16598v2](http://arxiv.org/abs/2303.16598v2)|null|
+|**2023-09-12**|**Frequency Convergence of Complexon Shift Operators (Extended Version)**|Purui Zhang et.al.|[2309.07169v2](http://arxiv.org/abs/2309.07169v2)|null|
+|**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v3](http://arxiv.org/abs/2304.05211v3)|null|
+|**2020-05-11**|**Graph sequences sampled from Robinson graphons**|Mahya Ghandehari et.al.|[2005.05253v4](http://arxiv.org/abs/2005.05253v4)|null|
+|**2023-09-11**|**Generalized Graphon Process: Convergence of Graph Frequencies in Stretched Cut Distance**|Xingchao Jian et.al.|[2309.05260v1](http://arxiv.org/abs/2309.05260v1)|null|
+|**2023-04-07**|**Graphon Estimation in bipartite graphs with observable edge labels and unobservable node labels**|Etienne Donier-Meroz et.al.|[2304.03590v2](http://arxiv.org/abs/2304.03590v2)|null|
+|**2022-12-15**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v2](http://arxiv.org/abs/2212.08171v2)|null|
+|**2023-08-22**|**The grapheme-valued Wright-Fisher diffusion with mutation**|Andreas Greven et.al.|[2308.11598v1](http://arxiv.org/abs/2308.11598v1)|null|
+|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v3](http://arxiv.org/abs/2208.14899v3)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,43 +152,3 @@
 |**2023-04-11**|**EESMR: Energy Efficient BFT-SMR for the masses**|Adithya Bhat et.al.|[2304.04998v3](http://arxiv.org/abs/2304.04998v3)|null|
 |**2023-10-14**|**Topology-guided Hypergraph Transformer Network: Unveiling Structural Insights for Improved Representation**|Khaled Mohammed Saifuddin et.al.|[2310.09657v1](http://arxiv.org/abs/2310.09657v1)|null|
 |**2022-08-23**|**Community Detection in the Hypergraph SBM: Exact Recovery Given the Similarity Matrix**|Julia Gaudio et.al.|[2208.12227v3](http://arxiv.org/abs/2208.12227v3)|null|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v1](http://arxiv.org/abs/2310.11705v1)|null|
-|**2023-08-18**|**Path convergence of Markov chains on large graphs**|Siva Athreya et.al.|[2308.09214v2](http://arxiv.org/abs/2308.09214v2)|null|
-|**2023-10-12**|**Learning Regularized Monotone Graphon Mean-Field Games**|Fengzhuo Zhang et.al.|[2310.08089v1](http://arxiv.org/abs/2310.08089v1)|null|
-|**2023-10-02**|**Subgraph densities and scaling limits of random graphs with a prescribed modular decomposition**|Théo Lenoir et.al.|[2310.01318v1](http://arxiv.org/abs/2310.01318v1)|null|
-|**2023-08-30**|**Computational Lower Bounds for Graphon Estimation via Low-degree Polynomials**|Yuetian Luo et.al.|[2308.15728v2](http://arxiv.org/abs/2308.15728v2)|null|
-|**2023-03-17**|**Scaling limits and universality: Critical percolation on weighted graphs converging to an $L^3$ graphon**|Jnaneshwar Baslingker et.al.|[2303.10082v2](http://arxiv.org/abs/2303.10082v2)|null|
-|**2023-03-29**|**Robust Recovery of Robinson Property in $L^p$-Graphons: A Cut-Norm Approach**|Mahya Ghandehari et.al.|[2303.16598v2](http://arxiv.org/abs/2303.16598v2)|null|
-|**2023-09-12**|**Frequency Convergence of Complexon Shift Operators (Extended Version)**|Purui Zhang et.al.|[2309.07169v2](http://arxiv.org/abs/2309.07169v2)|null|
-|**2023-04-11**|**Spatially dense stochastic epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2304.05211v3](http://arxiv.org/abs/2304.05211v3)|null|
-|**2020-05-11**|**Graph sequences sampled from Robinson graphons**|Mahya Ghandehari et.al.|[2005.05253v4](http://arxiv.org/abs/2005.05253v4)|null|
-|**2023-09-11**|**Generalized Graphon Process: Convergence of Graph Frequencies in Stretched Cut Distance**|Xingchao Jian et.al.|[2309.05260v1](http://arxiv.org/abs/2309.05260v1)|null|
-|**2023-04-07**|**Graphon Estimation in bipartite graphs with observable edge labels and unobservable node labels**|Etienne Donier-Meroz et.al.|[2304.03590v2](http://arxiv.org/abs/2304.03590v2)|null|
-|**2022-12-15**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v2](http://arxiv.org/abs/2212.08171v2)|null|
-|**2023-08-22**|**The grapheme-valued Wright-Fisher diffusion with mutation**|Andreas Greven et.al.|[2308.11598v1](http://arxiv.org/abs/2308.11598v1)|null|
-|**2022-08-31**|**Generalizing Körner's graph entropy to graphons**|Viktor Harangi et.al.|[2208.14899v3](http://arxiv.org/abs/2208.14899v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v2](http://arxiv.org/abs/2304.09310v2)|null|
-|**2023-10-18**|**Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm**|Anja Zgodic et.al.|[2310.12285v1](http://arxiv.org/abs/2310.12285v1)|null|
-|**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Stream Data**|Tianyu Zhang et.al.|[2310.12140v1](http://arxiv.org/abs/2310.12140v1)|null|
-|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v4](http://arxiv.org/abs/2303.17856v4)|null|
-|**2023-09-04**|**Parameter identifiability and model selection for partial differential equation models of cell invasion**|Yue Liu et.al.|[2309.01476v2](http://arxiv.org/abs/2309.01476v2)|[link](https://github.com/liuyue002/woundhealing)|
-|**2023-10-17**|**Non-parametric Conditional Independence Testing for Mixed Continuous-Categorical Variables: A Novel Method and Numerical Evaluation**|Oana-Iuliana Popescu et.al.|[2310.11132v1](http://arxiv.org/abs/2310.11132v1)|null|
-|**2023-10-17**|**Interview with Adrian Raftery**|Leontine Alkema et.al.|[2310.11095v1](http://arxiv.org/abs/2310.11095v1)|null|
-|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v1](http://arxiv.org/abs/2310.11069v1)|null|
-|**2023-06-16**|**Optimizer's Information Criterion: Dissecting and Correcting Bias in Data-Driven Optimization**|Garud Iyengar et.al.|[2306.10081v2](http://arxiv.org/abs/2306.10081v2)|null|
-|**2021-06-11**|**Optimal Model Selection in Contextual Bandits with Many Classes via Offline Oracles**|Sanath Kumar Krishnamurthy et.al.|[2106.06483v2](http://arxiv.org/abs/2106.06483v2)|null|
-|**2023-10-16**|**Unbiased Estimation of Structured Prediction Error**|Kevin Fry et.al.|[2310.10740v1](http://arxiv.org/abs/2310.10740v1)|null|
-|**2023-10-16**|**Detecting the Undetected: Overcoming Biases in Gravitational-Wave Population Studies**|Ryan Raikman et.al.|[2310.10736v1](http://arxiv.org/abs/2310.10736v1)|[link](https://github.com/rraikman/popsynth-dotproducts)|
-|**2023-10-16**|**Inferring fundamental spacetime symmetries with gravitational-wave memory: from LISA to the Einstein Telescope**|Boris Goncharov et.al.|[2310.10718v1](http://arxiv.org/abs/2310.10718v1)|null|
-|**2023-10-16**|**IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation**|Taejong Joo et.al.|[2310.10611v1](http://arxiv.org/abs/2310.10611v1)|null|
-|**2023-10-16**|**One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging For Cross-Lingual Transfer**|Fabian David Schmidt et.al.|[2310.10532v1](http://arxiv.org/abs/2310.10532v1)|[link](https://github.com/fdschmidt93/ofa-xlt)|
