@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-18 07:22:42 Asia/Shanghai
+ Automated deployment @ 2023-11-18 19:18:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,7 +33,47 @@
 |**2023-11-15**|**Disentangling the Potential Impacts of Papers into Diffusion, Conformity, and Contribution Values**|Zhikai Xue et.al.|[2311.09262v1](http://arxiv.org/abs/2311.09262v1)|null|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261v1](http://arxiv.org/abs/2311.09261v1)|[link](https://github.com/lars-research/emergnn)|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-14**|**To Sample or Not To Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flows**|Kai Hou Yip et.al.|[2205.07037v2](http://arxiv.org/abs/2205.07037v2)|null|
+|**2023-11-16**|**Co-data Learning for Bayesian Additive Regression Trees**|Jeroen M. Goedhart et.al.|[2311.09997v1](http://arxiv.org/abs/2311.09997v1)|[link](https://github.com/JeroenGoedhart/EB_coBART_paper)|
+|**2023-06-12**|**Conditional Matrix Flows for Gaussian Graphical Models**|Marcello Massimo Negri et.al.|[2306.07255v2](http://arxiv.org/abs/2306.07255v2)|[link](https://github.com/fabricioarendtorres/flowconductor)|
+|**2023-04-10**|**CSST WL preparation I: forecast the impact from non-Gaussian covariances and requirements on systematics-control**|Ji Yao et.al.|[2304.04489v2](http://arxiv.org/abs/2304.04489v2)|null|
+|**2023-11-15**|**To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages**|Benedikt Ebing et.al.|[2311.09404v1](http://arxiv.org/abs/2311.09404v1)|null|
+|**2022-08-29**|**On the Lasso for Graphical Continuous Lyapunov Models**|Philipp Dettling et.al.|[2208.13572v2](http://arxiv.org/abs/2208.13572v2)|null|
+|**2022-10-13**|**Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models**|Maximilian Scholz et.al.|[2210.06927v3](http://arxiv.org/abs/2210.06927v3)|[link](https://github.com/sims1253/bayesfam)|
+|**2023-09-19**|**Group Spike and Slab Variational Bayes**|Michael Komodromos et.al.|[2309.10378v2](http://arxiv.org/abs/2309.10378v2)|[link](https://github.com/mkomod/gsvb)|
+|**2023-08-10**|**The Galactic Interstellar Object Population: A Framework for Prediction and Inference**|Matthew J. Hopkins et.al.|[2308.05801v2](http://arxiv.org/abs/2308.05801v2)|null|
+|**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v2](http://arxiv.org/abs/2208.07086v2)|[link](https://github.com/vandenman/equalitysampler)|
+|**2023-09-15**|**Towards Last-layer Retraining for Group Robustness with Fewer Annotations**|Tyler LaBonte et.al.|[2309.08534v3](http://arxiv.org/abs/2309.08534v3)|[link](https://github.com/tmlabonte/last-layer-retraining)|
+|**2022-08-16**|**Variable Selection in Latent Regression IRT Models via Knockoffs: An Application to International Large-scale Assessment in Education**|Zilong Xie et.al.|[2208.07959v2](http://arxiv.org/abs/2208.07959v2)|null|
+|**2023-11-14**|**Covariance Assisted Multivariate Penalized Additive Regression (CoMPAdRe)**|Neel Desai et.al.|[2311.08484v1](http://arxiv.org/abs/2311.08484v1)|null|
+|**2023-11-14**|**Deconstructing Alien Hunting**|David Kipping et.al.|[2311.08476v1](http://arxiv.org/abs/2311.08476v1)|null|
+|**2023-11-14**|**Comparison of model selection techniques for seafloor scattering statistics**|Derek R Olson et.al.|[2311.08337v1](http://arxiv.org/abs/2311.08337v1)|null|
+
 ## Graph Model
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-16**|**TransCrimeNet: A Transformer-Based Model for Text-Based Crime Prediction in Criminal Networks**|Chen Yang et.al.|[2311.09529v1](http://arxiv.org/abs/2311.09529v1)|null|
+|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v6](http://arxiv.org/abs/2301.10405v6)|[link](https://github.com/zjunlp/promptkg)|
+|**2023-05-31**|**Causal Intervention for Measuring Confidence in Drug-Target Interaction Prediction**|Wenting Ye et.al.|[2306.00041v2](http://arxiv.org/abs/2306.00041v2)|null|
+|**2023-11-13**|**Properly immersed curves in arbitrary surfaces via apparent contours on spines of traversing flows**|Carlo Petronio et.al.|[2311.07221v1](http://arxiv.org/abs/2311.07221v1)|null|
+|**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816v3](http://arxiv.org/abs/2303.12816v3)|null|
+|**2023-10-25**|**Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452v2](http://arxiv.org/abs/2310.16452v2)|null|
+|**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746v1](http://arxiv.org/abs/2311.06746v1)|null|
+|**2023-01-09**|**Topologically Regularized Data Embeddings**|Edith Heiter et.al.|[2301.03338v2](http://arxiv.org/abs/2301.03338v2)|[link](https://github.com/aida-ugent/topoembedding)|
+|**2023-11-07**|**HKTGNN: Hierarchical Knowledge Transferable Graph Neural Network-based Supply Chain Risk Assessment**|Zhanting Zhou et.al.|[2311.04244v1](http://arxiv.org/abs/2311.04244v1)|null|
+|**2023-11-06**|**ViDa: Visualizing DNA hybridization trajectories with biophysics-informed deep graph embeddings**|Chenwei Zhang et.al.|[2311.03411v1](http://arxiv.org/abs/2311.03411v1)|[link](https://github.com/chenwei-zhang/ViDa)|
+|**2023-11-06**|**Visualizing DNA reaction trajectories with deep graph embedding approaches**|Chenwei Zhang et.al.|[2311.03409v1](http://arxiv.org/abs/2311.03409v1)|[link](https://github.com/chenwei-zhang/ViDa)|
+|**2023-10-31**|**EXTRACT: Explainable Transparent Control of Bias in Embeddings**|Zhijin Guo et.al.|[2311.00115v1](http://arxiv.org/abs/2311.00115v1)|null|
+|**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588v1](http://arxiv.org/abs/2310.20588v1)|null|
+|**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475v1](http://arxiv.org/abs/2310.20475v1)|[link](https://github.com/davidlamprecht/linkedpaperswithcode)|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models**|Lorenzo Loconte et.al.|[2305.15944v2](http://arxiv.org/abs/2305.15944v2)|[link](https://github.com/april-tools/gekcs)|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,25 +112,6 @@
 |**2023-08-30**|**Computational Lower Bounds for Graphon Estimation via Low-degree Polynomials**|Yuetian Luo et.al.|[2308.15728v2](http://arxiv.org/abs/2308.15728v2)|null|
 |**2023-03-17**|**Scaling limits and universality: Critical percolation on weighted graphs converging to an $L^3$ graphon**|Jnaneshwar Baslingker et.al.|[2303.10082v2](http://arxiv.org/abs/2303.10082v2)|null|
 |**2023-03-29**|**Robust Recovery of Robinson Property in $L^p$-Graphons: A Cut-Norm Approach**|Mahya Ghandehari et.al.|[2303.16598v2](http://arxiv.org/abs/2303.16598v2)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-16**|**TransCrimeNet: A Transformer-Based Model for Text-Based Crime Prediction in Criminal Networks**|Chen Yang et.al.|[2311.09529v1](http://arxiv.org/abs/2311.09529v1)|null|
-|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v6](http://arxiv.org/abs/2301.10405v6)|[link](https://github.com/zjunlp/promptkg)|
-|**2023-05-31**|**Causal Intervention for Measuring Confidence in Drug-Target Interaction Prediction**|Wenting Ye et.al.|[2306.00041v2](http://arxiv.org/abs/2306.00041v2)|null|
-|**2023-11-13**|**Properly immersed curves in arbitrary surfaces via apparent contours on spines of traversing flows**|Carlo Petronio et.al.|[2311.07221v1](http://arxiv.org/abs/2311.07221v1)|null|
-|**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816v3](http://arxiv.org/abs/2303.12816v3)|null|
-|**2023-10-25**|**Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452v2](http://arxiv.org/abs/2310.16452v2)|null|
-|**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746v1](http://arxiv.org/abs/2311.06746v1)|null|
-|**2023-01-09**|**Topologically Regularized Data Embeddings**|Edith Heiter et.al.|[2301.03338v2](http://arxiv.org/abs/2301.03338v2)|[link](https://github.com/aida-ugent/topoembedding)|
-|**2023-11-07**|**HKTGNN: Hierarchical Knowledge Transferable Graph Neural Network-based Supply Chain Risk Assessment**|Zhanting Zhou et.al.|[2311.04244v1](http://arxiv.org/abs/2311.04244v1)|null|
-|**2023-11-06**|**ViDa: Visualizing DNA hybridization trajectories with biophysics-informed deep graph embeddings**|Chenwei Zhang et.al.|[2311.03411v1](http://arxiv.org/abs/2311.03411v1)|[link](https://github.com/chenwei-zhang/ViDa)|
-|**2023-11-06**|**Visualizing DNA reaction trajectories with deep graph embedding approaches**|Chenwei Zhang et.al.|[2311.03409v1](http://arxiv.org/abs/2311.03409v1)|[link](https://github.com/chenwei-zhang/ViDa)|
-|**2023-10-31**|**EXTRACT: Explainable Transparent Control of Bias in Embeddings**|Zhijin Guo et.al.|[2311.00115v1](http://arxiv.org/abs/2311.00115v1)|null|
-|**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588v1](http://arxiv.org/abs/2310.20588v1)|null|
-|**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475v1](http://arxiv.org/abs/2310.20475v1)|[link](https://github.com/davidlamprecht/linkedpaperswithcode)|
-|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models**|Lorenzo Loconte et.al.|[2305.15944v2](http://arxiv.org/abs/2305.15944v2)|[link](https://github.com/april-tools/gekcs)|
 
 ## Embedding
 
@@ -131,24 +152,3 @@
 |**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588v1](http://arxiv.org/abs/2310.20588v1)|null|
 |**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475v1](http://arxiv.org/abs/2310.20475v1)|[link](https://github.com/davidlamprecht/linkedpaperswithcode)|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models**|Lorenzo Loconte et.al.|[2305.15944v2](http://arxiv.org/abs/2305.15944v2)|[link](https://github.com/april-tools/gekcs)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-14**|**To Sample or Not To Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flows**|Kai Hou Yip et.al.|[2205.07037v2](http://arxiv.org/abs/2205.07037v2)|null|
-|**2023-11-16**|**Co-data Learning for Bayesian Additive Regression Trees**|Jeroen M. Goedhart et.al.|[2311.09997v1](http://arxiv.org/abs/2311.09997v1)|null|
-|**2023-06-12**|**Conditional Matrix Flows for Gaussian Graphical Models**|Marcello Massimo Negri et.al.|[2306.07255v2](http://arxiv.org/abs/2306.07255v2)|[link](https://github.com/fabricioarendtorres/flowconductor)|
-|**2023-04-10**|**CSST WL preparation I: forecast the impact from non-Gaussian covariances and requirements on systematics-control**|Ji Yao et.al.|[2304.04489v2](http://arxiv.org/abs/2304.04489v2)|null|
-|**2023-11-15**|**To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages**|Benedikt Ebing et.al.|[2311.09404v1](http://arxiv.org/abs/2311.09404v1)|null|
-|**2022-08-29**|**On the Lasso for Graphical Continuous Lyapunov Models**|Philipp Dettling et.al.|[2208.13572v2](http://arxiv.org/abs/2208.13572v2)|null|
-|**2022-10-13**|**Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models**|Maximilian Scholz et.al.|[2210.06927v3](http://arxiv.org/abs/2210.06927v3)|[link](https://github.com/sims1253/bayesfam)|
-|**2023-09-19**|**Group Spike and Slab Variational Bayes**|Michael Komodromos et.al.|[2309.10378v2](http://arxiv.org/abs/2309.10378v2)|[link](https://github.com/mkomod/gsvb)|
-|**2023-08-10**|**The Galactic Interstellar Object Population: A Framework for Prediction and Inference**|Matthew J. Hopkins et.al.|[2308.05801v2](http://arxiv.org/abs/2308.05801v2)|null|
-|**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v2](http://arxiv.org/abs/2208.07086v2)|[link](https://github.com/vandenman/equalitysampler)|
-|**2023-09-15**|**Towards Last-layer Retraining for Group Robustness with Fewer Annotations**|Tyler LaBonte et.al.|[2309.08534v3](http://arxiv.org/abs/2309.08534v3)|[link](https://github.com/tmlabonte/last-layer-retraining)|
-|**2022-08-16**|**Variable Selection in Latent Regression IRT Models via Knockoffs: An Application to International Large-scale Assessment in Education**|Zilong Xie et.al.|[2208.07959v2](http://arxiv.org/abs/2208.07959v2)|null|
-|**2023-11-14**|**Covariance Assisted Multivariate Penalized Additive Regression (CoMPAdRe)**|Neel Desai et.al.|[2311.08484v1](http://arxiv.org/abs/2311.08484v1)|null|
-|**2023-11-14**|**Deconstructing Alien Hunting**|David Kipping et.al.|[2311.08476v1](http://arxiv.org/abs/2311.08476v1)|null|
-|**2023-11-14**|**Comparison of model selection techniques for seafloor scattering statistics**|Derek R Olson et.al.|[2311.08337v1](http://arxiv.org/abs/2311.08337v1)|null|
