@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-26 07:22:50 Asia/Shanghai
+ Automated deployment @ 2023-12-26 19:19:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,46 @@
 |**2023-12-21**|**Domain Adaptive Graph Classification**|Siyang Luo et.al.|[2312.13536v1](http://arxiv.org/abs/2312.13536v1)|null|
 |**2023-10-30**|**Coarse-grained crystal graph neural networks for reticular materials design**|Vadim Korolev et.al.|[2310.19500v2](http://arxiv.org/abs/2310.19500v2)|null|
 |**2023-12-20**|**Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach**|Sushil Sharma et.al.|[2312.13104v1](http://arxiv.org/abs/2312.13104v1)|null|
+
+## Embedding
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v2](http://arxiv.org/abs/2305.05107v2)|null|
+|**2022-10-27**|**3D Shape Knowledge Graph for Cross-domain 3D Shape Retrieval**|Rihao Chang et.al.|[2210.15136v2](http://arxiv.org/abs/2210.15136v2)|null|
+|**2023-03-20**|**SGFormer: Semantic Graph Transformer for Point Cloud-based 3D Scene Graph Generation**|Changsheng Lv et.al.|[2303.11048v3](http://arxiv.org/abs/2303.11048v3)|null|
+|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v2](http://arxiv.org/abs/2312.12183v2)|null|
+|**2023-10-19**|**GraphGPT: Graph Instruction Tuning for Large Language Models**|Jiabin Tang et.al.|[2310.13023v2](http://arxiv.org/abs/2310.13023v2)|[link](https://github.com/HKUDS/GraphGPT)|
+|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v7](http://arxiv.org/abs/2301.10405v7)|[link](https://github.com/zjunlp/promptkg)|
+|**2023-12-16**|**Do Similar Entities have Similar Embeddings?**|Nicolas Hubert et.al.|[2312.10370v1](http://arxiv.org/abs/2312.10370v1)|[link](https://github.com/nicolas-hbt/similar-embeddings)|
+|**2023-02-03**|**Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**|Mingyang Chen et.al.|[2302.01859v2](http://arxiv.org/abs/2302.01859v2)|null|
+|**2023-12-15**|**RDR: the Recap, Deliberate, and Respond Method for Enhanced Language Understanding**|Yuxin Zi et.al.|[2312.09932v1](http://arxiv.org/abs/2312.09932v1)|null|
+|**2022-06-09**|**Manifold Graph Signal Restoration using Gradient Graph Laplacian Regularizer**|Fei Chen et.al.|[2206.04245v5](http://arxiv.org/abs/2206.04245v5)|null|
+|**2022-05-02**|**Capturing High-order Structures on Motif-based Graph Nerual Networks**|Kejia Zhang et.al.|[2205.00867v3](http://arxiv.org/abs/2205.00867v3)|null|
+|**2023-12-11**|**Vehicle Lane Change Prediction based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2312.06336v1](http://arxiv.org/abs/2312.06336v1)|null|
+|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v4](http://arxiv.org/abs/2305.02177v4)|[link](https://github.com/garyjiajia/tsg)|
+|**2023-12-08**|**Geometric Thickness of Multigraphs is $\exists \mathbb{R}$-complete**|Henry Förster et.al.|[2312.05010v1](http://arxiv.org/abs/2312.05010v1)|null|
+|**2023-01-13**|**Sem@$K$: Is my knowledge graph embedding model semantic-aware?**|Nicolas Hubert et.al.|[2301.05601v2](http://arxiv.org/abs/2301.05601v2)|[link](https://github.com/nicolas-hbt/benchmark-sematk)|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-12**|**Towards a geometric understanding of Spatio Temporal Graph Convolution Networks**|Pratyusha Das et.al.|[2312.07777v1](http://arxiv.org/abs/2312.07777v1)|[link](https://github.com/daspraty/stg-gradcam)|
+|**2022-08-02**|**Optimal Rates for Regularized Conditional Mean Embedding Learning**|Zhu Li et.al.|[2208.01711v3](http://arxiv.org/abs/2208.01711v3)|null|
+|**2023-12-11**|**Vehicle Lane Change Prediction based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2312.06336v1](http://arxiv.org/abs/2312.06336v1)|null|
+|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v4](http://arxiv.org/abs/2305.12530v4)|null|
+|**2023-12-07**|**Urban Region Representation Learning with Attentive Fusion**|Fengze Sun et.al.|[2312.04606v1](http://arxiv.org/abs/2312.04606v1)|null|
+|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v2](http://arxiv.org/abs/2311.04625v2)|[link](https://github.com/codectr/refinectr)|
+|**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631v2](http://arxiv.org/abs/2311.14631v2)|null|
+|**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v2](http://arxiv.org/abs/2305.09556v2)|null|
+|**2023-11-25**|**SAMv2: A Unified Framework for Learning Appearance, Semantic and Cross-Modality Anatomical Embeddings**|Xiaoyu Bai et.al.|[2311.15111v2](http://arxiv.org/abs/2311.15111v2)|[link](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)|
+|**2023-11-24**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al.|[2311.14339v1](http://arxiv.org/abs/2311.14339v1)|[link](https://github.com/cristianopatricio/concept-based-interpretability-vlm)|
+|**2022-07-05**|**Learning Task Embeddings for Teamwork Adaptation in Multi-Agent Reinforcement Learning**|Lukas Schäfer et.al.|[2207.02249v2](http://arxiv.org/abs/2207.02249v2)|[link](https://github.com/uoe-agents/mate)|
+|**2023-11-19**|**Appearance Codes using Joint Embedding Learning of Multiple Modalities**|Alex Zhang et.al.|[2311.11427v1](http://arxiv.org/abs/2311.11427v1)|[link](https://github.com/edogariu/alex-zhang)|
+|**2023-11-18**|**Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels**|Shu-Lin Xu et.al.|[2311.11019v1](http://arxiv.org/abs/2311.11019v1)|null|
+|**2023-06-18**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v4](http://arxiv.org/abs/2306.10532v4)|null|
+|**2023-11-08**|**Non-Rigid Shape Registration via Deep Functional Maps Prior**|Puhua Jiang et.al.|[2311.04494v1](http://arxiv.org/abs/2311.04494v1)|null|
 
 ## Graph Model
 
@@ -72,46 +112,6 @@
 |**2022-11-03**|**On the continuum limit of epidemiological models on graphs: convergence and approximation results**|Blanca Ayuso de Dios et.al.|[2211.01932v2](http://arxiv.org/abs/2211.01932v2)|null|
 |**2023-10-25**|**Reinforcement Learning for SBM Graphon Games with Re-Sampling**|Peihan Huo et.al.|[2310.16326v1](http://arxiv.org/abs/2310.16326v1)|null|
 |**2023-01-31**|**Graph classes with few $P_4$'s: Universality and Brownian graphon limits**|Théo Lenoir et.al.|[2301.13607v3](http://arxiv.org/abs/2301.13607v3)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107v2](http://arxiv.org/abs/2305.05107v2)|null|
-|**2022-10-27**|**3D Shape Knowledge Graph for Cross-domain 3D Shape Retrieval**|Rihao Chang et.al.|[2210.15136v2](http://arxiv.org/abs/2210.15136v2)|null|
-|**2023-03-20**|**SGFormer: Semantic Graph Transformer for Point Cloud-based 3D Scene Graph Generation**|Changsheng Lv et.al.|[2303.11048v3](http://arxiv.org/abs/2303.11048v3)|null|
-|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v2](http://arxiv.org/abs/2312.12183v2)|null|
-|**2023-10-19**|**GraphGPT: Graph Instruction Tuning for Large Language Models**|Jiabin Tang et.al.|[2310.13023v2](http://arxiv.org/abs/2310.13023v2)|[link](https://github.com/HKUDS/GraphGPT)|
-|**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v7](http://arxiv.org/abs/2301.10405v7)|[link](https://github.com/zjunlp/promptkg)|
-|**2023-12-16**|**Do Similar Entities have Similar Embeddings?**|Nicolas Hubert et.al.|[2312.10370v1](http://arxiv.org/abs/2312.10370v1)|[link](https://github.com/nicolas-hbt/similar-embeddings)|
-|**2023-02-03**|**Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**|Mingyang Chen et.al.|[2302.01859v2](http://arxiv.org/abs/2302.01859v2)|null|
-|**2023-12-15**|**RDR: the Recap, Deliberate, and Respond Method for Enhanced Language Understanding**|Yuxin Zi et.al.|[2312.09932v1](http://arxiv.org/abs/2312.09932v1)|null|
-|**2022-06-09**|**Manifold Graph Signal Restoration using Gradient Graph Laplacian Regularizer**|Fei Chen et.al.|[2206.04245v5](http://arxiv.org/abs/2206.04245v5)|null|
-|**2022-05-02**|**Capturing High-order Structures on Motif-based Graph Nerual Networks**|Kejia Zhang et.al.|[2205.00867v3](http://arxiv.org/abs/2205.00867v3)|null|
-|**2023-12-11**|**Vehicle Lane Change Prediction based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2312.06336v1](http://arxiv.org/abs/2312.06336v1)|null|
-|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v4](http://arxiv.org/abs/2305.02177v4)|[link](https://github.com/garyjiajia/tsg)|
-|**2023-12-08**|**Geometric Thickness of Multigraphs is $\exists \mathbb{R}$-complete**|Henry Förster et.al.|[2312.05010v1](http://arxiv.org/abs/2312.05010v1)|null|
-|**2023-01-13**|**Sem@$K$: Is my knowledge graph embedding model semantic-aware?**|Nicolas Hubert et.al.|[2301.05601v2](http://arxiv.org/abs/2301.05601v2)|[link](https://github.com/nicolas-hbt/benchmark-sematk)|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-12**|**Towards a geometric understanding of Spatio Temporal Graph Convolution Networks**|Pratyusha Das et.al.|[2312.07777v1](http://arxiv.org/abs/2312.07777v1)|[link](https://github.com/daspraty/stg-gradcam)|
-|**2022-08-02**|**Optimal Rates for Regularized Conditional Mean Embedding Learning**|Zhu Li et.al.|[2208.01711v3](http://arxiv.org/abs/2208.01711v3)|null|
-|**2023-12-11**|**Vehicle Lane Change Prediction based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2312.06336v1](http://arxiv.org/abs/2312.06336v1)|null|
-|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v4](http://arxiv.org/abs/2305.12530v4)|null|
-|**2023-12-07**|**Urban Region Representation Learning with Attentive Fusion**|Fengze Sun et.al.|[2312.04606v1](http://arxiv.org/abs/2312.04606v1)|null|
-|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v2](http://arxiv.org/abs/2311.04625v2)|[link](https://github.com/codectr/refinectr)|
-|**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631v2](http://arxiv.org/abs/2311.14631v2)|null|
-|**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v2](http://arxiv.org/abs/2305.09556v2)|null|
-|**2023-11-25**|**SAMv2: A Unified Framework for Learning Appearance, Semantic and Cross-Modality Anatomical Embeddings**|Xiaoyu Bai et.al.|[2311.15111v2](http://arxiv.org/abs/2311.15111v2)|[link](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)|
-|**2023-11-24**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al.|[2311.14339v1](http://arxiv.org/abs/2311.14339v1)|[link](https://github.com/cristianopatricio/concept-based-interpretability-vlm)|
-|**2022-07-05**|**Learning Task Embeddings for Teamwork Adaptation in Multi-Agent Reinforcement Learning**|Lukas Schäfer et.al.|[2207.02249v2](http://arxiv.org/abs/2207.02249v2)|[link](https://github.com/uoe-agents/mate)|
-|**2023-11-19**|**Appearance Codes using Joint Embedding Learning of Multiple Modalities**|Alex Zhang et.al.|[2311.11427v1](http://arxiv.org/abs/2311.11427v1)|[link](https://github.com/edogariu/alex-zhang)|
-|**2023-11-18**|**Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels**|Shu-Lin Xu et.al.|[2311.11019v1](http://arxiv.org/abs/2311.11019v1)|null|
-|**2023-06-18**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v4](http://arxiv.org/abs/2306.10532v4)|null|
-|**2023-11-08**|**Non-Rigid Shape Registration via Deep Functional Maps Prior**|Puhua Jiang et.al.|[2311.04494v1](http://arxiv.org/abs/2311.04494v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
