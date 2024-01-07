@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-07 07:22:30 Asia/Shanghai
+ Automated deployment @ 2024-01-07 19:19:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -21,7 +21,7 @@
 |**2023-12-14**|**Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection**|William Leeney et.al.|[2312.09015v2](http://arxiv.org/abs/2312.09015v2)|null|
 |**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290v1](http://arxiv.org/abs/2401.02290v1)|null|
 |**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v3](http://arxiv.org/abs/2306.11586v3)|null|
-|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143v1](http://arxiv.org/abs/2401.02143v1)|null|
+|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143v1](http://arxiv.org/abs/2401.02143v1)|[link](https://github.com/roytsai27/awesome-gnn4tdl)|
 |**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130v1](http://arxiv.org/abs/2401.02130v1)|null|
 |**2024-01-04**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086v1](http://arxiv.org/abs/2401.02086v1)|[link](https://github.com/zju-daily/gvex)|
 |**2024-01-04**|**Accelerated Band Offset Prediction in Semiconductor Interfaces with DFT and Deep Learning**|Kamal Choudhary et.al.|[2401.02021v1](http://arxiv.org/abs/2401.02021v1)|null|
@@ -34,6 +34,25 @@
 |**2024-01-03**|**MLPs Compass: What is learned when MLPs are combined with PLMs?**|Li Zhou et.al.|[2401.01667v1](http://arxiv.org/abs/2401.01667v1)|null|
 
 ## Graph Model
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-28**|**Robust (rainbow) subdivisions and simplicial cycles**|István Tomon et.al.|[2201.12309v4](http://arxiv.org/abs/2201.12309v4)|null|
+|**2024-01-01**|**Near-optimal constructions of constant weight codes and constant composition codes asymptotically attaining the Johnson bound: the odd distances**|Miao Liu et.al.|[2401.00733v1](http://arxiv.org/abs/2401.00733v1)|null|
+|**2024-01-01**|**Inferring community structure in attributed hypergraphs using stochastic block models**|Kazuki Nakajima et.al.|[2401.00688v1](http://arxiv.org/abs/2401.00688v1)|[link](https://github.com/kazuibasou/hyperneo)|
+|**2023-12-31**|**Matchings and loose cycles in the semirandom hypergraph model**|Michael Molloy et.al.|[2401.00559v1](http://arxiv.org/abs/2401.00559v1)|null|
+|**2023-12-31**|**A binomial random multigraph**|Christos Pelekis et.al.|[2401.00543v1](http://arxiv.org/abs/2401.00543v1)|null|
+|**2023-12-31**|**Ramsey and Turán numbers of sparse hypergraphs**|Jacob Fox et.al.|[2401.00359v1](http://arxiv.org/abs/2401.00359v1)|null|
+|**2023-02-26**|**Nonlinear bias toward complex contagion in uncertain transmission settings**|Guillaume St-Onge et.al.|[2302.13358v2](http://arxiv.org/abs/2302.13358v2)|null|
+|**2023-12-28**|**Efficient Learning of Long-Range and Equivariant Quantum Systems**|Štěpán Šmíd et.al.|[2312.17019v1](http://arxiv.org/abs/2312.17019v1)|null|
+|**2023-12-27**|**Catalytic Transformation from Computationally-Universal to Strictly-Universal Measurement-Based Quantum Computation**|Yuki Takeuchi et.al.|[2312.16433v1](http://arxiv.org/abs/2312.16433v1)|null|
+|**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400v1](http://arxiv.org/abs/2312.16400v1)|[link](https://github.com/georgeguo-cn/lgmrec)|
+|**2023-12-26**|**Polynomial Reconstruction Problem for Hypergraphs**|Joshua Cooper et.al.|[2312.16152v1](http://arxiv.org/abs/2312.16152v1)|null|
+|**2020-11-09**|**Improved List-Decodability of Reed--Solomon Codes via Tree Packings**|Zeyu Guo et.al.|[2011.04453v2](http://arxiv.org/abs/2011.04453v2)|null|
+|**2022-07-01**|**The Structure of Hypergraphs Arising in Cellular Mobile Communication Systems**|Ashwin Ganesan et.al.|[2207.00515v3](http://arxiv.org/abs/2207.00515v3)|null|
+|**2023-12-26**|**Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation**|Zi-Feng Mai et.al.|[2312.15851v1](http://arxiv.org/abs/2312.15851v1)|null|
+|**2023-12-25**|**Spatial-Temporal Interplay in Human Mobility: A Hierarchical Reinforcement Learning Approach with Hypergraph Representation**|Zhaofan Zhang et.al.|[2312.15717v1](http://arxiv.org/abs/2312.15717v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,25 +92,6 @@
 |**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v3](http://arxiv.org/abs/2211.02314v3)|null|
 |**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v2](http://arxiv.org/abs/2306.03698v2)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-28**|**Robust (rainbow) subdivisions and simplicial cycles**|István Tomon et.al.|[2201.12309v4](http://arxiv.org/abs/2201.12309v4)|null|
-|**2024-01-01**|**Near-optimal constructions of constant weight codes and constant composition codes asymptotically attaining the Johnson bound: the odd distances**|Miao Liu et.al.|[2401.00733v1](http://arxiv.org/abs/2401.00733v1)|null|
-|**2024-01-01**|**Inferring community structure in attributed hypergraphs using stochastic block models**|Kazuki Nakajima et.al.|[2401.00688v1](http://arxiv.org/abs/2401.00688v1)|[link](https://github.com/kazuibasou/hyperneo)|
-|**2023-12-31**|**Matchings and loose cycles in the semirandom hypergraph model**|Michael Molloy et.al.|[2401.00559v1](http://arxiv.org/abs/2401.00559v1)|null|
-|**2023-12-31**|**A binomial random multigraph**|Christos Pelekis et.al.|[2401.00543v1](http://arxiv.org/abs/2401.00543v1)|null|
-|**2023-12-31**|**Ramsey and Turán numbers of sparse hypergraphs**|Jacob Fox et.al.|[2401.00359v1](http://arxiv.org/abs/2401.00359v1)|null|
-|**2023-02-26**|**Nonlinear bias toward complex contagion in uncertain transmission settings**|Guillaume St-Onge et.al.|[2302.13358v2](http://arxiv.org/abs/2302.13358v2)|null|
-|**2023-12-28**|**Efficient Learning of Long-Range and Equivariant Quantum Systems**|Štěpán Šmíd et.al.|[2312.17019v1](http://arxiv.org/abs/2312.17019v1)|null|
-|**2023-12-27**|**Catalytic Transformation from Computationally-Universal to Strictly-Universal Measurement-Based Quantum Computation**|Yuki Takeuchi et.al.|[2312.16433v1](http://arxiv.org/abs/2312.16433v1)|null|
-|**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400v1](http://arxiv.org/abs/2312.16400v1)|[link](https://github.com/georgeguo-cn/lgmrec)|
-|**2023-12-26**|**Polynomial Reconstruction Problem for Hypergraphs**|Joshua Cooper et.al.|[2312.16152v1](http://arxiv.org/abs/2312.16152v1)|null|
-|**2020-11-09**|**Improved List-Decodability of Reed--Solomon Codes via Tree Packings**|Zeyu Guo et.al.|[2011.04453v2](http://arxiv.org/abs/2011.04453v2)|null|
-|**2022-07-01**|**The Structure of Hypergraphs Arising in Cellular Mobile Communication Systems**|Ashwin Ganesan et.al.|[2207.00515v3](http://arxiv.org/abs/2207.00515v3)|null|
-|**2023-12-26**|**Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation**|Zi-Feng Mai et.al.|[2312.15851v1](http://arxiv.org/abs/2312.15851v1)|null|
-|**2023-12-25**|**Spatial-Temporal Interplay in Human Mobility: A Hierarchical Reinforcement Learning Approach with Hypergraph Representation**|Zhaofan Zhang et.al.|[2312.15717v1](http://arxiv.org/abs/2312.15717v1)|null|
-
 ## Variable Selection
 
 ### Variable selection
@@ -108,7 +108,7 @@
 |**2024-01-01**|**Downstream Task-Oriented Generative Model Selections on Synthetic Data Training for Fraud Detection Models**|Yinan Cheng et.al.|[2401.00974v1](http://arxiv.org/abs/2401.00974v1)|null|
 |**2024-01-01**|**Automated Model Selection for Tabular Data**|Avinash Amballa et.al.|[2401.00961v1](http://arxiv.org/abs/2401.00961v1)|[link](https://github.com/amballaavinash/modelselection)|
 |**2023-12-31**|**GeoGalactica: A Scientific Large Language Model in Geoscience**|Zhouhan Lin et.al.|[2401.00434v1](http://arxiv.org/abs/2401.00434v1)|[link](https://github.com/geobrain-ai/geogalactica)|
-|**2023-12-31**|**Energetic Variational Gaussian Process Regression for Computer Experiments**|Lulu Kang et.al.|[2401.00395v1](http://arxiv.org/abs/2401.00395v1)|null|
+|**2023-12-31**|**Energetic Variational Gaussian Process Regression for Computer Experiments**|Lulu Kang et.al.|[2401.00395v1](http://arxiv.org/abs/2401.00395v1)|[link](https://github.com/xavierowen/evigp)|
 |**2023-06-24**|**Post-Selection Inference for the Cox Model with Interval-Censored Data**|Jianrui Zhang et.al.|[2306.13870v3](http://arxiv.org/abs/2306.13870v3)|null|
 |**2023-12-28**|**Inconsistency of cross-validation for structure learning in Gaussian graphical models**|Zhao Lyu et.al.|[2312.17047v1](http://arxiv.org/abs/2312.17047v1)|null|
 |**2023-12-28**|**Subsampling MCMC for Bayesian Variable Selection and Model Averaging in BGNLM**|Jon Lachmann et.al.|[2312.16997v1](http://arxiv.org/abs/2312.16997v1)|null|
