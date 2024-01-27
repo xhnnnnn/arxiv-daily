@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-27 07:22:20 Asia/Shanghai
+ Automated deployment @ 2024-01-27 19:18:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,7 +33,47 @@
 |**2024-01-24**|**Topology-aware Embedding Memory for Learning on Expanding Graphs**|Xikun Zhang et.al.|[2401.13200v1](http://arxiv.org/abs/2401.13200v1)|null|
 |**2023-12-20**|**Fast Cell Library Characterization for Design Technology Co-Optimization Based on Graph Neural Networks**|Tianliang Ma et.al.|[2312.12784v2](http://arxiv.org/abs/2312.12784v2)|null|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v3](http://arxiv.org/abs/2302.04715v3)|null|
+|**2024-01-25**|**GammaBayes: a Bayesian pipeline for dark matter detection with CTA**|Liam Pinchbeck et.al.|[2401.13876v1](http://arxiv.org/abs/2401.13876v1)|null|
+|**2024-01-24**|**An Ising Similarity Regression Model for Modeling Multivariate Binary Data**|Zhi Yang Tho et.al.|[2401.13379v1](http://arxiv.org/abs/2401.13379v1)|null|
+|**2024-01-24**|**Assessing Influential Observations in Pain Prediction using fMRI Data**|Dongliang Zhang et.al.|[2401.13208v1](http://arxiv.org/abs/2401.13208v1)|null|
+|**2023-11-17**|**How False Data Affects Machine Learning Models in Electrochemistry?**|Krittapong Deshsorna et.al.|[2311.10795v2](http://arxiv.org/abs/2311.10795v2)|[link](https://github.com/Demodesu/How-False-Data-Affects-Machine-Learning-Models-in-Electrochemistry)|
+|**2024-01-23**|**Gridsemble: Selective Ensembling for False Discovery Rates**|Jenna M. Landy et.al.|[2401.12865v1](http://arxiv.org/abs/2401.12865v1)|[link](https://github.com/jennalandy/gridsemblefdr)|
+|**2023-06-05**|**Data-Driven Online Model Selection With Regret Guarantees**|Aldo Pacchiano et.al.|[2306.02869v3](http://arxiv.org/abs/2306.02869v3)|null|
+|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v1](http://arxiv.org/abs/2401.12697v1)|[link](https://github.com/marcoelba/selectiveinference)|
+|**2023-09-15**|**Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression**|Anja Zgodic et.al.|[2309.08783v3](http://arxiv.org/abs/2309.08783v3)|null|
+|**2024-01-23**|**Towards Improved Variational Inference for Deep Bayesian Models**|Sebastian W. Ober et.al.|[2401.12418v1](http://arxiv.org/abs/2401.12418v1)|null|
+|**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512v1](http://arxiv.org/abs/2401.11512v1)|null|
+|**2024-01-20**|**Comparison of $Λ$CDM and $R_h = ct$ with updated galaxy cluster $f_{gas}$ measurements using Bayesian inference**|Kunj Panchal et.al.|[2401.11138v1](http://arxiv.org/abs/2401.11138v1)|null|
+|**2024-01-20**|**Regularized Estimation of Sparse Spectral Precision Matrices**|Navonil Deb et.al.|[2401.11128v1](http://arxiv.org/abs/2401.11128v1)|null|
+|**2024-01-19**|**Variable selection for partially linear additive models**|Graciela Boente et.al.|[2401.10869v1](http://arxiv.org/abs/2401.10869v1)|[link](https://github.com/alemermartinez/rplam-vs)|
+|**2023-06-30**|**Learned harmonic mean estimation of the marginal likelihood with normalizing flows**|Alicja Polanska et.al.|[2307.00048v3](http://arxiv.org/abs/2307.00048v3)|[link](https://github.com/astro-informatics/harmonic)|
+
 ## Graph Model
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-31**|**Account credibility inference based on news-sharing networks**|Bao Tran Truong et.al.|[2202.00094v2](http://arxiv.org/abs/2202.00094v2)|null|
+|**2024-01-23**|**An embedding-based distance for temporal graphs**|Lorenzo Dall'Amico et.al.|[2401.12843v1](http://arxiv.org/abs/2401.12843v1)|[link](https://github.com/lorenzodallamico/g-dynadist)|
+|**2024-01-22**|**Annular Links from Thompson's Group $T$**|Louisa Liles et.al.|[2401.12065v1](http://arxiv.org/abs/2401.12065v1)|null|
+|**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v2](http://arxiv.org/abs/2312.15591v2)|null|
+|**2023-07-25**|**CTAGE: Curvature-Based Topology-Aware Graph Embedding for Learning Molecular Representations**|Yili Chen et.al.|[2307.13275v2](http://arxiv.org/abs/2307.13275v2)|null|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models**|Lorenzo Loconte et.al.|[2305.15944v3](http://arxiv.org/abs/2305.15944v3)|[link](https://github.com/april-tools/gekcs)|
+|**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220v1](http://arxiv.org/abs/2401.08220v1)|null|
+|**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641v3](http://arxiv.org/abs/2309.15641v3)|null|
+|**2024-01-15**|**A Practical Near Optimal Deployment of Service Function Chains in Edge-to-Cloud Networks**|Rasoul Behravesh et.al.|[2401.07611v1](http://arxiv.org/abs/2401.07611v1)|null|
+|**2024-01-15**|**Temporal Link Prediction Using Graph Embedding Dynamics**|Sanaz Hasanzadeh Fard et.al.|[2401.07516v1](http://arxiv.org/abs/2401.07516v1)|[link](https://github.com/sanaz11-3/temporal-link-prediction)|
+|**2024-01-15**|**Multi-Task DNS Security Analysis via High-Order Heterogeneous Graph Embedding**|Meng Qin et.al.|[2401.07410v1](http://arxiv.org/abs/2401.07410v1)|null|
+|**2024-01-13**|**Edge-Enabled Anomaly Detection and Information Completion for Social Network Knowledge Graphs**|Fan Lu et.al.|[2401.07022v1](http://arxiv.org/abs/2401.07022v1)|null|
+|**2024-01-12**|**Deep Manifold Graph Auto-Encoder for Attributed Graph Embedding**|Bozhen Hu et.al.|[2401.06727v1](http://arxiv.org/abs/2401.06727v1)|null|
+|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655v1](http://arxiv.org/abs/2401.06655v1)|[link](https://github.com/joseluisfalla/qptransfer)|
+|**2024-01-12**|**BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining**|Minjun Kim et.al.|[2401.06443v1](http://arxiv.org/abs/2401.06443v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,25 +112,6 @@
 |**2021-12-16**|**Weisfeiler-Leman Indistinguishability of Graphons**|Jan Böker et.al.|[2112.09001v2](http://arxiv.org/abs/2112.09001v2)|null|
 |**2020-03-10**|**Graphon Signal Processing**|Luana Ruiz et.al.|[2003.05030v6](http://arxiv.org/abs/2003.05030v6)|null|
 |**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v2](http://arxiv.org/abs/2305.15987v2)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-31**|**Account credibility inference based on news-sharing networks**|Bao Tran Truong et.al.|[2202.00094v2](http://arxiv.org/abs/2202.00094v2)|null|
-|**2024-01-23**|**An embedding-based distance for temporal graphs**|Lorenzo Dall'Amico et.al.|[2401.12843v1](http://arxiv.org/abs/2401.12843v1)|[link](https://github.com/lorenzodallamico/g-dynadist)|
-|**2024-01-22**|**Annular Links from Thompson's Group $T$**|Louisa Liles et.al.|[2401.12065v1](http://arxiv.org/abs/2401.12065v1)|null|
-|**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v2](http://arxiv.org/abs/2312.15591v2)|null|
-|**2023-07-25**|**CTAGE: Curvature-Based Topology-Aware Graph Embedding for Learning Molecular Representations**|Yili Chen et.al.|[2307.13275v2](http://arxiv.org/abs/2307.13275v2)|null|
-|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models**|Lorenzo Loconte et.al.|[2305.15944v3](http://arxiv.org/abs/2305.15944v3)|[link](https://github.com/april-tools/gekcs)|
-|**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220v1](http://arxiv.org/abs/2401.08220v1)|null|
-|**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641v3](http://arxiv.org/abs/2309.15641v3)|null|
-|**2024-01-15**|**A Practical Near Optimal Deployment of Service Function Chains in Edge-to-Cloud Networks**|Rasoul Behravesh et.al.|[2401.07611v1](http://arxiv.org/abs/2401.07611v1)|null|
-|**2024-01-15**|**Temporal Link Prediction Using Graph Embedding Dynamics**|Sanaz Hasanzadeh Fard et.al.|[2401.07516v1](http://arxiv.org/abs/2401.07516v1)|[link](https://github.com/sanaz11-3/temporal-link-prediction)|
-|**2024-01-15**|**Multi-Task DNS Security Analysis via High-Order Heterogeneous Graph Embedding**|Meng Qin et.al.|[2401.07410v1](http://arxiv.org/abs/2401.07410v1)|null|
-|**2024-01-13**|**Edge-Enabled Anomaly Detection and Information Completion for Social Network Knowledge Graphs**|Fan Lu et.al.|[2401.07022v1](http://arxiv.org/abs/2401.07022v1)|null|
-|**2024-01-12**|**Deep Manifold Graph Auto-Encoder for Attributed Graph Embedding**|Bozhen Hu et.al.|[2401.06727v1](http://arxiv.org/abs/2401.06727v1)|null|
-|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655v1](http://arxiv.org/abs/2401.06655v1)|[link](https://github.com/joseluisfalla/qptransfer)|
-|**2024-01-12**|**BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining**|Minjun Kim et.al.|[2401.06443v1](http://arxiv.org/abs/2401.06443v1)|null|
 
 ## Embedding
 
@@ -131,24 +152,3 @@
 |**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631v2](http://arxiv.org/abs/2311.14631v2)|null|
 |**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v2](http://arxiv.org/abs/2305.09556v2)|null|
 |**2023-11-24**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al.|[2311.14339v1](http://arxiv.org/abs/2311.14339v1)|[link](https://github.com/cristianopatricio/concept-based-interpretability-vlm)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v3](http://arxiv.org/abs/2302.04715v3)|null|
-|**2024-01-25**|**GammaBayes: a Bayesian pipeline for dark matter detection with CTA**|Liam Pinchbeck et.al.|[2401.13876v1](http://arxiv.org/abs/2401.13876v1)|null|
-|**2024-01-24**|**An Ising Similarity Regression Model for Modeling Multivariate Binary Data**|Zhi Yang Tho et.al.|[2401.13379v1](http://arxiv.org/abs/2401.13379v1)|null|
-|**2024-01-24**|**Assessing Influential Observations in Pain Prediction using fMRI Data**|Dongliang Zhang et.al.|[2401.13208v1](http://arxiv.org/abs/2401.13208v1)|null|
-|**2023-11-17**|**How False Data Affects Machine Learning Models in Electrochemistry?**|Krittapong Deshsorna et.al.|[2311.10795v2](http://arxiv.org/abs/2311.10795v2)|[link](https://github.com/Demodesu/How-False-Data-Affects-Machine-Learning-Models-in-Electrochemistry)|
-|**2024-01-23**|**Gridsemble: Selective Ensembling for False Discovery Rates**|Jenna M. Landy et.al.|[2401.12865v1](http://arxiv.org/abs/2401.12865v1)|[link](https://github.com/jennalandy/gridsemblefdr)|
-|**2023-06-05**|**Data-Driven Online Model Selection With Regret Guarantees**|Aldo Pacchiano et.al.|[2306.02869v3](http://arxiv.org/abs/2306.02869v3)|null|
-|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v1](http://arxiv.org/abs/2401.12697v1)|null|
-|**2023-09-15**|**Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression**|Anja Zgodic et.al.|[2309.08783v3](http://arxiv.org/abs/2309.08783v3)|null|
-|**2024-01-23**|**Towards Improved Variational Inference for Deep Bayesian Models**|Sebastian W. Ober et.al.|[2401.12418v1](http://arxiv.org/abs/2401.12418v1)|null|
-|**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512v1](http://arxiv.org/abs/2401.11512v1)|null|
-|**2024-01-20**|**Comparison of $Λ$CDM and $R_h = ct$ with updated galaxy cluster $f_{gas}$ measurements using Bayesian inference**|Kunj Panchal et.al.|[2401.11138v1](http://arxiv.org/abs/2401.11138v1)|null|
-|**2024-01-20**|**Regularized Estimation of Sparse Spectral Precision Matrices**|Navonil Deb et.al.|[2401.11128v1](http://arxiv.org/abs/2401.11128v1)|null|
-|**2024-01-19**|**Variable selection for partially linear additive models**|Graciela Boente et.al.|[2401.10869v1](http://arxiv.org/abs/2401.10869v1)|[link](https://github.com/alemermartinez/rplam-vs)|
-|**2023-06-30**|**Learned harmonic mean estimation of the marginal likelihood with normalizing flows**|Alicja Polanska et.al.|[2307.00048v3](http://arxiv.org/abs/2307.00048v3)|[link](https://github.com/astro-informatics/harmonic)|
