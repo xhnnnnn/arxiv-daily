@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-03 07:21:08 Asia/Shanghai
+ Automated deployment @ 2024-02-03 19:18:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -54,25 +54,6 @@
 |**2023-05-07**|**Higher-Order Network Interactions through Phase Reduction for Oscillators with Phase-Dependent Amplitude**|Christian Bick et.al.|[2305.04277v2](http://arxiv.org/abs/2305.04277v2)|null|
 |**2024-01-25**|**Computational General Relativity in the Wolfram Language using Gravitas II: ADM Formalism and Numerical Relativity**|Jonathan Gorard et.al.|[2401.14209v1](http://arxiv.org/abs/2401.14209v1)|null|
 
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v1](http://arxiv.org/abs/2401.12686v1)|null|
-|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v2](http://arxiv.org/abs/2401.09030v2)|null|
-|**2024-01-03**|**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**|Anirban Chatterjee et.al.|[2401.01866v2](http://arxiv.org/abs/2401.01866v2)|null|
-|**2023-02-27**|**The Thermodynamic Limit of Spin Systems on Random Graphs**|Amy Searle et.al.|[2303.00731v2](http://arxiv.org/abs/2303.00731v2)|null|
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v2](http://arxiv.org/abs/2401.00665v2)|null|
-|**2024-01-11**|**Sampling and Uniqueness Sets in Graphon Signal Processing**|Alejandro Parada-Mayorga et.al.|[2401.06279v1](http://arxiv.org/abs/2401.06279v1)|null|
-|**2024-01-10**|**Hybrid of node and link communities for graphon estimation**|Arthur Verdeyme et.al.|[2401.05088v1](http://arxiv.org/abs/2401.05088v1)|null|
-|**2024-01-05**|**Reply to 'Comments on Graphon Signal Processing' [arXiv:2310.14683]**|Luana Ruiz et.al.|[2401.05326v1](http://arxiv.org/abs/2401.05326v1)|null|
-|**2023-12-28**|**Probabilistic programming interfaces for random graphs: Markov categories, graphons, and nominal sets**|Nathanael L. Ackerman et.al.|[2312.17127v1](http://arxiv.org/abs/2312.17127v1)|null|
-|**2023-12-26**|**Probability-graphons: Limits of large dense weighted graphs**|Romain Abraham et.al.|[2312.15935v1](http://arxiv.org/abs/2312.15935v1)|null|
-|**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
-|**2023-12-13**|**Sparse graph sequences, generalized graphons and signal processing**|Feng Ji et.al.|[2312.08124v2](http://arxiv.org/abs/2312.08124v2)|null|
-|**2021-12-16**|**Weisfeiler-Leman Indistinguishability of Graphons**|Jan Böker et.al.|[2112.09001v2](http://arxiv.org/abs/2112.09001v2)|null|
-|**2020-03-10**|**Graphon Signal Processing**|Luana Ruiz et.al.|[2003.05030v6](http://arxiv.org/abs/2003.05030v6)|null|
-|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v2](http://arxiv.org/abs/2305.15987v2)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -91,6 +72,25 @@
 |**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641v3](http://arxiv.org/abs/2309.15641v3)|null|
 |**2024-01-15**|**A Practical Near Optimal Deployment of Service Function Chains in Edge-to-Cloud Networks**|Rasoul Behravesh et.al.|[2401.07611v1](http://arxiv.org/abs/2401.07611v1)|null|
 |**2024-01-15**|**Temporal Link Prediction Using Graph Embedding Dynamics**|Sanaz Hasanzadeh Fard et.al.|[2401.07516v1](http://arxiv.org/abs/2401.07516v1)|[link](https://github.com/sanaz11-3/temporal-link-prediction)|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v1](http://arxiv.org/abs/2401.12686v1)|null|
+|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v2](http://arxiv.org/abs/2401.09030v2)|null|
+|**2024-01-03**|**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**|Anirban Chatterjee et.al.|[2401.01866v2](http://arxiv.org/abs/2401.01866v2)|null|
+|**2023-02-27**|**The Thermodynamic Limit of Spin Systems on Random Graphs**|Amy Searle et.al.|[2303.00731v2](http://arxiv.org/abs/2303.00731v2)|null|
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v2](http://arxiv.org/abs/2401.00665v2)|null|
+|**2024-01-11**|**Sampling and Uniqueness Sets in Graphon Signal Processing**|Alejandro Parada-Mayorga et.al.|[2401.06279v1](http://arxiv.org/abs/2401.06279v1)|null|
+|**2024-01-10**|**Hybrid of node and link communities for graphon estimation**|Arthur Verdeyme et.al.|[2401.05088v1](http://arxiv.org/abs/2401.05088v1)|null|
+|**2024-01-05**|**Reply to 'Comments on Graphon Signal Processing' [arXiv:2310.14683]**|Luana Ruiz et.al.|[2401.05326v1](http://arxiv.org/abs/2401.05326v1)|null|
+|**2023-12-28**|**Probabilistic programming interfaces for random graphs: Markov categories, graphons, and nominal sets**|Nathanael L. Ackerman et.al.|[2312.17127v1](http://arxiv.org/abs/2312.17127v1)|null|
+|**2023-12-26**|**Probability-graphons: Limits of large dense weighted graphs**|Romain Abraham et.al.|[2312.15935v1](http://arxiv.org/abs/2312.15935v1)|null|
+|**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
+|**2023-12-13**|**Sparse graph sequences, generalized graphons and signal processing**|Feng Ji et.al.|[2312.08124v2](http://arxiv.org/abs/2312.08124v2)|null|
+|**2021-12-16**|**Weisfeiler-Leman Indistinguishability of Graphons**|Jan Böker et.al.|[2112.09001v2](http://arxiv.org/abs/2112.09001v2)|null|
+|**2020-03-10**|**Graphon Signal Processing**|Luana Ruiz et.al.|[2003.05030v6](http://arxiv.org/abs/2003.05030v6)|null|
+|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v2](http://arxiv.org/abs/2305.15987v2)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
 
 ## Embedding
 
