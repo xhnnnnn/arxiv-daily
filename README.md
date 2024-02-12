@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-12 07:22:02 Asia/Shanghai
+ Automated deployment @ 2024-02-12 19:18:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural Networks**|Michael Y. Fatemi et.al.|[2402.06552v1](http://arxiv.org/abs/2402.06552v1)|[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)|
+|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v2](http://arxiv.org/abs/2402.04915v2)|[link](https://github.com/timd3/moco)|
+|**2024-02-09**|**The Deep Equilibrium Algorithmic Reasoner**|Dobrik Georgiev et.al.|[2402.06445v1](http://arxiv.org/abs/2402.06445v1)|null|
+|**2024-01-25**|**Energy-Efficient Power Allocation in Cell-Free Massive MIMO via Graph Neural Networks**|Ramprasad Raghunath et.al.|[2401.14281v3](http://arxiv.org/abs/2401.14281v3)|[link](https://gitlab.com/ichbinram/ee_cell_free)|
+|**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406v2](http://arxiv.org/abs/2308.16406v2)|[link](https://github.com/zehao-dong/CktGNN)|
+|**2023-09-01**|**Rethinking the Power of Graph Canonization in Graph Representation Learning with Stability**|Zehao Dong et.al.|[2309.00738v3](http://arxiv.org/abs/2309.00738v3)|null|
+|**2024-02-09**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275v1](http://arxiv.org/abs/2402.06275v1)|[link](https://github.com/tumaer/neuralsph)|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v2](http://arxiv.org/abs/2402.05894v2)|null|
+|**2024-02-09**|**N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network**|Thuan Pham et.al.|[2402.06226v1](http://arxiv.org/abs/2402.06226v1)|null|
+|**2024-01-30**|**Time Series Supplier Allocation via Deep Black-Litterman Model**|Jiayuan Luo et.al.|[2401.17350v2](http://arxiv.org/abs/2401.17350v2)|[link](https://github.com/wentaozhang2001/dblm)|
+|**2024-02-09**|**Rethinking Node-wise Propagation for Large-scale Graph Learning**|Xunkai Li et.al.|[2402.06128v1](http://arxiv.org/abs/2402.06128v1)|[link](https://github.com/xkli-allen/atp)|
+|**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816v2](http://arxiv.org/abs/2401.10816v2)|null|
+|**2024-02-08**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040v1](http://arxiv.org/abs/2402.06040v1)|null|
+|**2024-02-08**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030v1](http://arxiv.org/abs/2402.06030v1)|null|
 |**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|[link](https://github.com/dani3lwinter/cohop)|
-|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
-|**2024-01-10**|**LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v3](http://arxiv.org/abs/2401.04855v3)|null|
-|**2024-02-08**|**Rethinking Propagation for Unsupervised Graph Domain Adaptation**|Meihan Liu et.al.|[2402.05660v1](http://arxiv.org/abs/2402.05660v1)|[link](https://github.com/meihan-liu/24aaai-a2gnn)|
-|**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
-|**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071v3](http://arxiv.org/abs/2401.09071v3)|null|
-|**2024-02-08**|**TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning**|Gangda Deng et.al.|[2402.05396v1](http://arxiv.org/abs/2402.05396v1)|null|
-|**2024-02-08**|**Graph Neural Networks for Physical-Layer Security in Multi-User Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378v1](http://arxiv.org/abs/2402.05378v1)|null|
-|**2024-02-07**|**Graph Neural Networks as Fast and High-fidelity Emulators for Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291v1](http://arxiv.org/abs/2402.05291v1)|null|
-|**2023-12-09**|**Factorized Explainer for Graph Neural Networks**|Rundong Huang et.al.|[2312.05596v2](http://arxiv.org/abs/2312.05596v2)|null|
-|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
-|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|[link](https://github.com/nus-hpc-ai-lab/geom)|
-|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
-|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v1](http://arxiv.org/abs/2402.04915v1)|[link](https://github.com/timd3/moco)|
-|**2023-12-03**|**Recurrent Distance Filtering for Graph Representation Learning**|Yuhui Ding et.al.|[2312.01538v2](http://arxiv.org/abs/2312.01538v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-08**|**Pretrained Generative Language Models as General Learning Frameworks for Sequence-Based Tasks**|Ben Fauber et.al.|[2402.05616v1](http://arxiv.org/abs/2402.05616v1)|null|
-|**2021-09-24**|**An overview of variable selection procedures using regularization paths in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v2](http://arxiv.org/abs/2109.12006v2)|null|
-|**2023-11-01**|**Can Large Language Models Capture Public Opinion about Global Warming? An Empirical Assessment of Algorithmic Fidelity and Bias**|S. Lee et.al.|[2311.00217v2](http://arxiv.org/abs/2311.00217v2)|null|
-|**2016-09-23**|**Review of multi-fidelity models**|M. Giselle Fernández-Godino et.al.|[1609.07196v5](http://arxiv.org/abs/1609.07196v5)|null|
-|**2024-02-08**|**Selective linear segmentation for detecting relevant parameter changes**|Arnaud Dufays et.al.|[2402.05329v1](http://arxiv.org/abs/2402.05329v1)|null|
-|**2024-02-07**|**A Bandit Approach with Evolutionary Operators for Model Selection**|Margaux Brégère et.al.|[2402.05144v1](http://arxiv.org/abs/2402.05144v1)|null|
-|**2023-05-17**|**Functional Adaptive Double-Sparsity Estimator for Functional Linear Regression Model with Multiple Functional Covariates**|Cheng Cao et.al.|[2305.10054v3](http://arxiv.org/abs/2305.10054v3)|[link](https://github.com/cheng-0621/faddos)|
-|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v2](http://arxiv.org/abs/2312.16624v2)|null|
-|**2024-02-06**|**A Bias-Variance Decomposition for Ensembles over Multiple Synthetic Datasets**|Ossi Räisä et.al.|[2402.03985v1](http://arxiv.org/abs/2402.03985v1)|null|
-|**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877v1](http://arxiv.org/abs/2402.03877v1)|null|
-|**2023-10-11**|**On the Computational Complexity of Private High-dimensional Model Selection**|Saptarshi Roy et.al.|[2310.07852v2](http://arxiv.org/abs/2310.07852v2)|[link](https://github.com/roysaptaumich/dp-bss)|
-|**2024-02-05**|**Detecting Scams Using Large Language Models**|Liming Jiang et.al.|[2402.03147v1](http://arxiv.org/abs/2402.03147v1)|null|
-|**2024-02-05**|**Best Practices for Text Annotation with Large Language Models**|Petter Törnberg et.al.|[2402.05129v1](http://arxiv.org/abs/2402.05129v1)|null|
-|**2024-02-05**|**Decoding-time Realignment of Language Models**|Tianlin Liu et.al.|[2402.02992v1](http://arxiv.org/abs/2402.02992v1)|null|
-|**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin et.al.|[2311.01256v2](http://arxiv.org/abs/2311.01256v2)|null|
 
 ## Embedding
 
@@ -99,6 +78,9 @@
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09**|**The structural evolution of temporal hypergraphs through the lens of hyper-cores**|Marco Mancastroppa et.al.|[2402.06485v1](http://arxiv.org/abs/2402.06485v1)|null|
+|**2023-06-01**|**Percolation and Topological Properties of Temporal Higher-order Networks**|Leonardo Di Gaetano et.al.|[2306.00779v2](http://arxiv.org/abs/2306.00779v2)|null|
+|**2024-02-09**|**Configuration models for random directed hypergraphs**|Yanna J. Kraakman et.al.|[2402.06466v1](http://arxiv.org/abs/2402.06466v1)|null|
 |**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
 |**2024-02-08**|**Covering a supermodular-like function in a mixed hypergraph**|Hui Gao et.al.|[2402.05458v1](http://arxiv.org/abs/2402.05458v1)|null|
 |**2023-10-31**|**Multipartite entanglement sudden death and birth in randomized hypergraph states**|Vinicius Salem et.al.|[2310.20418v2](http://arxiv.org/abs/2310.20418v2)|null|
@@ -111,13 +93,11 @@
 |**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v1](http://arxiv.org/abs/2402.04062v1)|null|
 |**2024-02-06**|**LightHGNN: Distilling Hypergraph Neural Networks into MLPs for $100\times$ Faster Inference**|Yifan Feng et.al.|[2402.04296v1](http://arxiv.org/abs/2402.04296v1)|null|
 |**2023-06-20**|**A triadic approximation reveals the role of interaction overlap on the spread of complex contagions on higher-order networks**|Giulio Burgio et.al.|[2306.11441v4](http://arxiv.org/abs/2306.11441v4)|null|
-|**2024-02-06**|**Geometric quantum machine learning of BQP$^A$ protocols and latent graph classifiers**|Chukwudubem Umeano et.al.|[2402.03871v1](http://arxiv.org/abs/2402.03871v1)|null|
-|**2024-02-06**|**Patterns in temporal networks with higher-order egocentric structures**|Beatriz Arregui-García et.al.|[2402.03866v1](http://arxiv.org/abs/2402.03866v1)|null|
-|**2021-01-17**|**Extremal Numbers of Hypergraph Suspensions of Even Cycles**|Sayan Mukherjee et.al.|[2101.06743v2](http://arxiv.org/abs/2101.06743v2)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09**|**Dense and nondense limits for uniform random intersection graphs**|Frédérique Bassino et.al.|[2402.06394v1](http://arxiv.org/abs/2402.06394v1)|null|
 |**2024-02-08**|**Non-parametric estimations for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v1](http://arxiv.org/abs/2402.05413v1)|null|
 |**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
 |**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v3](http://arxiv.org/abs/2401.09030v3)|null|
@@ -132,7 +112,6 @@
 |**2023-12-28**|**Probabilistic programming interfaces for random graphs: Markov categories, graphons, and nominal sets**|Nathanael L. Ackerman et.al.|[2312.17127v1](http://arxiv.org/abs/2312.17127v1)|null|
 |**2023-12-26**|**Probability-graphons: Limits of large dense weighted graphs**|Romain Abraham et.al.|[2312.15935v1](http://arxiv.org/abs/2312.15935v1)|null|
 |**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
-|**2023-12-13**|**Sparse graph sequences, generalized graphons and signal processing**|Feng Ji et.al.|[2312.08124v2](http://arxiv.org/abs/2312.08124v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -152,3 +131,24 @@
 |**2024-01-22**|**Annular Links from Thompson's Group $T$**|Louisa Liles et.al.|[2401.12065v1](http://arxiv.org/abs/2401.12065v1)|null|
 |**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v2](http://arxiv.org/abs/2312.15591v2)|null|
 |**2023-07-25**|**CTAGE: Curvature-Based Topology-Aware Graph Embedding for Learning Molecular Representations**|Yili Chen et.al.|[2307.13275v2](http://arxiv.org/abs/2307.13275v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-16**|**Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v2](http://arxiv.org/abs/2310.10461v2)|null|
+|**2023-04-03**|**How Graph Structure and Label Dependencies Contribute to Node Classification in a Large Network of Documents**|Pirmin Lemberger et.al.|[2304.01235v2](http://arxiv.org/abs/2304.01235v2)|[link](https://github.com/toinesayan/node-classification-and-label-dependencies)|
+|**2024-02-08**|**Pretrained Generative Language Models as General Learning Frameworks for Sequence-Based Tasks**|Ben Fauber et.al.|[2402.05616v1](http://arxiv.org/abs/2402.05616v1)|null|
+|**2021-09-24**|**An overview of variable selection procedures using regularization paths in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v2](http://arxiv.org/abs/2109.12006v2)|null|
+|**2023-11-01**|**Can Large Language Models Capture Public Opinion about Global Warming? An Empirical Assessment of Algorithmic Fidelity and Bias**|S. Lee et.al.|[2311.00217v2](http://arxiv.org/abs/2311.00217v2)|null|
+|**2016-09-23**|**Review of multi-fidelity models**|M. Giselle Fernández-Godino et.al.|[1609.07196v5](http://arxiv.org/abs/1609.07196v5)|null|
+|**2024-02-08**|**Selective linear segmentation for detecting relevant parameter changes**|Arnaud Dufays et.al.|[2402.05329v1](http://arxiv.org/abs/2402.05329v1)|null|
+|**2024-02-07**|**A Bandit Approach with Evolutionary Operators for Model Selection**|Margaux Brégère et.al.|[2402.05144v1](http://arxiv.org/abs/2402.05144v1)|null|
+|**2023-05-17**|**Functional Adaptive Double-Sparsity Estimator for Functional Linear Regression Model with Multiple Functional Covariates**|Cheng Cao et.al.|[2305.10054v3](http://arxiv.org/abs/2305.10054v3)|[link](https://github.com/cheng-0621/faddos)|
+|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v2](http://arxiv.org/abs/2312.16624v2)|null|
+|**2024-02-06**|**A Bias-Variance Decomposition for Ensembles over Multiple Synthetic Datasets**|Ossi Räisä et.al.|[2402.03985v1](http://arxiv.org/abs/2402.03985v1)|null|
+|**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877v1](http://arxiv.org/abs/2402.03877v1)|null|
+|**2023-10-11**|**On the Computational Complexity of Private High-dimensional Model Selection**|Saptarshi Roy et.al.|[2310.07852v2](http://arxiv.org/abs/2310.07852v2)|[link](https://github.com/roysaptaumich/dp-bss)|
+|**2024-02-05**|**Detecting Scams Using Large Language Models**|Liming Jiang et.al.|[2402.03147v1](http://arxiv.org/abs/2402.03147v1)|null|
+|**2024-02-05**|**Best Practices for Text Annotation with Large Language Models**|Petter Törnberg et.al.|[2402.05129v1](http://arxiv.org/abs/2402.05129v1)|null|
