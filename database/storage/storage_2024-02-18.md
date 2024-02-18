@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-18 07:20:25 Asia/Shanghai
+ Automated deployment @ 2024-02-18 19:18:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -96,24 +96,24 @@
 
 ## Graph Model
 
-### Hypergraph
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|null|
-|**2018-06-22**|**Acyclicity in finite groups and groupoids**|Martin Otto et.al.|[1806.08664v6](http://arxiv.org/abs/1806.08664v6)|null|
-|**2024-02-15**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149v1](http://arxiv.org/abs/2402.10149v1)|null|
-|**2024-02-15**|**Strict width for Constraint Satisfaction Problems over homogeneous strucures of finite duality**|Tomáš Nagy et.al.|[2402.09951v1](http://arxiv.org/abs/2402.09951v1)|null|
-|**2024-02-15**|**HyperMagNet: A Magnetic Laplacian based Hypergraph Neural Network**|Tatyana Benko et.al.|[2402.09676v1](http://arxiv.org/abs/2402.09676v1)|null|
-|**2024-02-15**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648v1](http://arxiv.org/abs/2402.09648v1)|null|
-|**2024-02-14**|**HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding**|Zhao Li et.al.|[2402.08961v1](http://arxiv.org/abs/2402.08961v1)|null|
-|**2024-02-13**|**Multi-Label Zero-Shot Product Attribute-Value Extraction**|Jiaying Gong et.al.|[2402.08802v1](http://arxiv.org/abs/2402.08802v1)|null|
-|**2024-02-13**|**Almost Tight Bounds for Online Hypergraph Matching**|Thorben Tröbst et.al.|[2402.08775v1](http://arxiv.org/abs/2402.08775v1)|null|
-|**2024-02-11**|**HyperBERT: Mixing Hypergraph-Aware Layers with Language Models for Node Classification on Text-Attributed Hypergraphs**|Adrián Bazaga et.al.|[2402.07309v2](http://arxiv.org/abs/2402.07309v2)|[link](https://github.com/adrianbzg/hyperbert)|
-|**2023-02-19**|**Rewriting Modulo Traced Comonoid Structure**|Dan R. Ghica et.al.|[2302.09631v3](http://arxiv.org/abs/2302.09631v3)|null|
-|**2024-02-12**|**Perfect stable regularity lemma and slice-wise stable hypergraphs**|Artem Chernikov et.al.|[2402.07870v1](http://arxiv.org/abs/2402.07870v1)|null|
-|**2023-05-11**|**Hypergraph dualization with FPT-delay parameterized by the degeneracy and dimension**|Valentin Bartier et.al.|[2305.06974v3](http://arxiv.org/abs/2305.06974v3)|null|
-|**2023-08-31**|**Inference of dynamic hypergraph representations in temporal interaction data**|Alec Kirkley et.al.|[2308.16546v2](http://arxiv.org/abs/2308.16546v2)|[link](https://github.com/aleckirkley/hypergraph-binning)|
-|**2024-02-10**|**Community detection in the hypergraph stochastic block model and reconstruction on hypertrees**|Yuzhou Gu et.al.|[2402.06856v1](http://arxiv.org/abs/2402.06856v1)|null|
+|**2024-02-15**|**Graphons and the $H$-property**|Mohamed-Ali Belabbas et.al.|[2402.09692v1](http://arxiv.org/abs/2402.09692v1)|null|
+|**2024-02-14**|**Persistence of steady-states for dynamical systems on large networks**|Jason J. Bramburger et.al.|[2402.09276v1](http://arxiv.org/abs/2402.09276v1)|null|
+|**2024-02-13**|**Nonlinear Graphon mean-field systems**|Fabio Coppini et.al.|[2402.08628v1](http://arxiv.org/abs/2402.08628v1)|null|
+|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v1](http://arxiv.org/abs/2402.07365v1)|null|
+|**2024-02-09**|**Dense and nondense limits for uniform random intersection graphs**|Frédérique Bassino et.al.|[2402.06394v1](http://arxiv.org/abs/2402.06394v1)|null|
+|**2024-02-08**|**Non-parametric estimations for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v1](http://arxiv.org/abs/2402.05413v1)|null|
+|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
+|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v3](http://arxiv.org/abs/2401.09030v3)|null|
+|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v1](http://arxiv.org/abs/2402.01866v1)|null|
+|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v1](http://arxiv.org/abs/2401.12686v1)|null|
+|**2024-01-03**|**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**|Anirban Chatterjee et.al.|[2401.01866v2](http://arxiv.org/abs/2401.01866v2)|null|
+|**2023-02-27**|**The Thermodynamic Limit of Spin Systems on Random Graphs**|Amy Searle et.al.|[2303.00731v2](http://arxiv.org/abs/2303.00731v2)|null|
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v2](http://arxiv.org/abs/2401.00665v2)|null|
+|**2024-01-11**|**Sampling and Uniqueness Sets in Graphon Signal Processing**|Alejandro Parada-Mayorga et.al.|[2401.06279v1](http://arxiv.org/abs/2401.06279v1)|null|
+|**2024-01-10**|**Hybrid of node and link communities for graphon estimation**|Arthur Verdeyme et.al.|[2401.05088v1](http://arxiv.org/abs/2401.05088v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -134,21 +134,21 @@
 |**2024-01-27**|**Pre-training and Diagnosing Knowledge Base Completion Models**|Vid Kocijan et.al.|[2401.15439v1](http://arxiv.org/abs/2401.15439v1)|[link](https://github.com/vid-koci/kbctransferlearning)|
 |**2022-01-31**|**Account credibility inference based on news-sharing networks**|Bao Tran Truong et.al.|[2202.00094v2](http://arxiv.org/abs/2202.00094v2)|[link](https://github.com/osome-iu/credibility-inference)|
 
-### Graphon
+### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-15**|**Graphons and the $H$-property**|Mohamed-Ali Belabbas et.al.|[2402.09692v1](http://arxiv.org/abs/2402.09692v1)|null|
-|**2024-02-14**|**Persistence of steady-states for dynamical systems on large networks**|Jason J. Bramburger et.al.|[2402.09276v1](http://arxiv.org/abs/2402.09276v1)|null|
-|**2024-02-13**|**Nonlinear Graphon mean-field systems**|Fabio Coppini et.al.|[2402.08628v1](http://arxiv.org/abs/2402.08628v1)|null|
-|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v1](http://arxiv.org/abs/2402.07365v1)|null|
-|**2024-02-09**|**Dense and nondense limits for uniform random intersection graphs**|Frédérique Bassino et.al.|[2402.06394v1](http://arxiv.org/abs/2402.06394v1)|null|
-|**2024-02-08**|**Non-parametric estimations for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v1](http://arxiv.org/abs/2402.05413v1)|null|
-|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
-|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v3](http://arxiv.org/abs/2401.09030v3)|null|
-|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v1](http://arxiv.org/abs/2402.01866v1)|null|
-|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v1](http://arxiv.org/abs/2401.12686v1)|null|
-|**2024-01-03**|**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**|Anirban Chatterjee et.al.|[2401.01866v2](http://arxiv.org/abs/2401.01866v2)|null|
-|**2023-02-27**|**The Thermodynamic Limit of Spin Systems on Random Graphs**|Amy Searle et.al.|[2303.00731v2](http://arxiv.org/abs/2303.00731v2)|null|
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v2](http://arxiv.org/abs/2401.00665v2)|null|
-|**2024-01-11**|**Sampling and Uniqueness Sets in Graphon Signal Processing**|Alejandro Parada-Mayorga et.al.|[2401.06279v1](http://arxiv.org/abs/2401.06279v1)|null|
-|**2024-01-10**|**Hybrid of node and link communities for graphon estimation**|Arthur Verdeyme et.al.|[2401.05088v1](http://arxiv.org/abs/2401.05088v1)|null|
+|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|null|
+|**2018-06-22**|**Acyclicity in finite groups and groupoids**|Martin Otto et.al.|[1806.08664v6](http://arxiv.org/abs/1806.08664v6)|null|
+|**2024-02-15**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149v1](http://arxiv.org/abs/2402.10149v1)|null|
+|**2024-02-15**|**Strict width for Constraint Satisfaction Problems over homogeneous strucures of finite duality**|Tomáš Nagy et.al.|[2402.09951v1](http://arxiv.org/abs/2402.09951v1)|null|
+|**2024-02-15**|**HyperMagNet: A Magnetic Laplacian based Hypergraph Neural Network**|Tatyana Benko et.al.|[2402.09676v1](http://arxiv.org/abs/2402.09676v1)|null|
+|**2024-02-15**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648v1](http://arxiv.org/abs/2402.09648v1)|null|
+|**2024-02-14**|**HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding**|Zhao Li et.al.|[2402.08961v1](http://arxiv.org/abs/2402.08961v1)|null|
+|**2024-02-13**|**Multi-Label Zero-Shot Product Attribute-Value Extraction**|Jiaying Gong et.al.|[2402.08802v1](http://arxiv.org/abs/2402.08802v1)|null|
+|**2024-02-13**|**Almost Tight Bounds for Online Hypergraph Matching**|Thorben Tröbst et.al.|[2402.08775v1](http://arxiv.org/abs/2402.08775v1)|null|
+|**2024-02-11**|**HyperBERT: Mixing Hypergraph-Aware Layers with Language Models for Node Classification on Text-Attributed Hypergraphs**|Adrián Bazaga et.al.|[2402.07309v2](http://arxiv.org/abs/2402.07309v2)|[link](https://github.com/adrianbzg/hyperbert)|
+|**2023-02-19**|**Rewriting Modulo Traced Comonoid Structure**|Dan R. Ghica et.al.|[2302.09631v3](http://arxiv.org/abs/2302.09631v3)|null|
+|**2024-02-12**|**Perfect stable regularity lemma and slice-wise stable hypergraphs**|Artem Chernikov et.al.|[2402.07870v1](http://arxiv.org/abs/2402.07870v1)|null|
+|**2023-05-11**|**Hypergraph dualization with FPT-delay parameterized by the degeneracy and dimension**|Valentin Bartier et.al.|[2305.06974v3](http://arxiv.org/abs/2305.06974v3)|null|
+|**2023-08-31**|**Inference of dynamic hypergraph representations in temporal interaction data**|Alec Kirkley et.al.|[2308.16546v2](http://arxiv.org/abs/2308.16546v2)|[link](https://github.com/aleckirkley/hypergraph-binning)|
+|**2024-02-10**|**Community detection in the hypergraph stochastic block model and reconstruction on hypertrees**|Yuzhou Gu et.al.|[2402.06856v1](http://arxiv.org/abs/2402.06856v1)|null|
