@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-02 07:21:54 Asia/Shanghai
+ Automated deployment @ 2024-03-02 19:20:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,67 +32,6 @@
 |**2023-10-02**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via conditional diffusion model**|Tim Hsu et.al.|[2310.01678v3](http://arxiv.org/abs/2310.01678v3)|[link](https://github.com/llnl/graphite)|
 |**2024-01-15**|**Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis**|Janghoon Ock et.al.|[2401.07408v2](http://arxiv.org/abs/2401.07408v2)|[link](https://github.com/hoon-ock/multi-view)|
 |**2024-02-28**|**GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks**|Amir Jalalirad et.al.|[2402.18630v1](http://arxiv.org/abs/2402.18630v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
-|**2023-11-30**|**Determining the core-collapse supernova explosion mechanism with current and future gravitational-wave observatories**|Jade Powell et.al.|[2311.18221v2](http://arxiv.org/abs/2311.18221v2)|null|
-|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v1](http://arxiv.org/abs/2402.18450v1)|null|
-|**2024-02-28**|**Unveiling the Potential of Robustness in Evaluating Causal Inference Models**|Yiyan Huang et.al.|[2402.18392v1](http://arxiv.org/abs/2402.18392v1)|null|
-|**2024-02-28**|**A network-constrain Weibull AFT model for biomarkers discovery**|Claudia Angelini et.al.|[2402.18242v1](http://arxiv.org/abs/2402.18242v1)|null|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v4](http://arxiv.org/abs/2301.06058v4)|null|
-|**2018-09-12**|**High-dimensional Bayesian Fourier Analysis For Detecting Circadian Gene Expressions**|Silvia Montagna et.al.|[1809.04347v2](http://arxiv.org/abs/1809.04347v2)|null|
-|**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|[link](https://github.com/alexteachey/multimoon_modeling_final_repo)|
-|**2024-02-26**|**Z-AGI Labs at ClimateActivism 2024: Stance and Hate Event Detection on Social Media**|Nikhil Narayan et.al.|[2402.17014v1](http://arxiv.org/abs/2402.17014v1)|null|
-|**2023-10-18**|**Simultaneous Nonparametric Inference of M-regression under Complex Temporal Dynamics**|Miaoshiqi Liu et.al.|[2310.11724v2](http://arxiv.org/abs/2310.11724v2)|null|
-|**2024-02-26**|**Penalized Generative Variable Selection**|Tong Wang et.al.|[2402.16661v1](http://arxiv.org/abs/2402.16661v1)|null|
-|**2024-02-26**|**Information-Enriched Selection of Stationary and Non-Stationary Autoregressions using the Adaptive Lasso**|Thilo Reinschlüssel et.al.|[2402.16580v1](http://arxiv.org/abs/2402.16580v1)|null|
-|**2023-10-16**|**RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models**|Zijun Long et.al.|[2310.10221v2](http://arxiv.org/abs/2310.10221v2)|[link](https://github.com/longkukuhi/armbench)|
-|**2024-02-18**|**Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**|Lanning Wei et.al.|[2402.11641v2](http://arxiv.org/abs/2402.11641v2)|null|
-|**2024-02-23**|**A modified debiased inverse-variance weighted estimator in two-sample summary-data Mendelian randomization**|Youpeng Su et.al.|[2402.15086v1](http://arxiv.org/abs/2402.15086v1)|null|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-28**|**Zero-Shot Aerial Object Detection with Visual Description Regularization**|Zhengqing Zang et.al.|[2402.18233v1](http://arxiv.org/abs/2402.18233v1)|null|
-|**2024-02-28**|**Polos: Multimodal Metric Learning from Human Feedback for Image Captioning**|Yuiga Wada et.al.|[2402.18091v1](http://arxiv.org/abs/2402.18091v1)|null|
-|**2023-10-22**|**ITEm: Unsupervised Image-Text Embedding Learning for eCommerce**|Baohao Liao et.al.|[2311.02084v2](http://arxiv.org/abs/2311.02084v2)|null|
-|**2024-02-26**|**Analysis of Embeddings Learned by End-to-End Machine Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v1](http://arxiv.org/abs/2402.16399v1)|null|
-|**2024-02-26**|**Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding Learning**|Chaoguang Luo et.al.|[2402.16299v1](http://arxiv.org/abs/2402.16299v1)|null|
-|**2024-02-23**|**Improving Sentence Embeddings with an Automatically Generated NLI Dataset**|Soma Sato et.al.|[2402.15132v1](http://arxiv.org/abs/2402.15132v1)|null|
-|**2024-02-16**|**Iterative embedding and reweighting of complex networks reveals community structure**|Bianka Kovács et.al.|[2402.10813v1](http://arxiv.org/abs/2402.10813v1)|[link](https://github.com/biankov/iteremb)|
-|**2024-02-15**|**Representation Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v1](http://arxiv.org/abs/2402.09769v1)|null|
-|**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186v1](http://arxiv.org/abs/2401.17186v1)|[link](https://github.com/yangbang18/clfm)|
-|**2020-12-12**|**Periocular Embedding Learning with Consistent Knowledge Distillation from Face**|Yoon Gyo Jung et.al.|[2012.06746v3](http://arxiv.org/abs/2012.06746v3)|null|
-|**2023-12-01**|**Rule-Guided Joint Embedding Learning over Knowledge Graphs**|Qisong Li et.al.|[2401.02968v2](http://arxiv.org/abs/2401.02968v2)|null|
-|**2024-01-26**|**AM^2-EmoJE: Adaptive Missing-Modality Emotion Recognition in Conversation via Joint Embedding Learning**|Naresh Kumar Devulapally et.al.|[2402.10921v1](http://arxiv.org/abs/2402.10921v1)|null|
-|**2023-11-25**|**UAE: Universal Anatomical Embedding on Multi-modality Medical Images**|Xiaoyu Bai et.al.|[2311.15111v3](http://arxiv.org/abs/2311.15111v3)|[link](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)|
-|**2024-01-12**|**Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering**|Pengfei Zhu et.al.|[2401.06595v1](http://arxiv.org/abs/2401.06595v1)|[link](https://github.com/q086/dyfss)|
-|**2024-01-08**|**Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval**|Priyanka Mandikal et.al.|[2401.04055v1](http://arxiv.org/abs/2401.04055v1)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v1](http://arxiv.org/abs/2402.19195v1)|null|
-|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v3](http://arxiv.org/abs/2312.12183v3)|null|
-|**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v3](http://arxiv.org/abs/2304.05055v3)|null|
-|**2023-10-19**|**Reconstruction of multiplex networks via graph embeddings**|Daniel Kaiser et.al.|[2310.12730v2](http://arxiv.org/abs/2310.12730v2)|null|
-|**2024-02-22**|**FedCQA: Answering Complex Queries on Multi-Source Knowledge Graphs via Federated Learning**|Qi Hu et.al.|[2402.14609v2](http://arxiv.org/abs/2402.14609v2)|null|
-|**2023-03-28**|**Distributed Graph Embedding with Information-Oriented Random Walks**|Peng Fang et.al.|[2303.15702v2](http://arxiv.org/abs/2303.15702v2)|[link](https://github.com/rocmfang/distger)|
-|**2022-04-28**|**Hyperbolic Hierarchical Knowledge Graph Embeddings for Link Prediction in Low Dimensions**|Wenjie Zheng et.al.|[2204.13704v2](http://arxiv.org/abs/2204.13704v2)|null|
-|**2022-03-25**|**Cluster Algebras: Network Science and Machine Learning**|Pierre-Philippe Dechant et.al.|[2203.13847v2](http://arxiv.org/abs/2203.13847v2)|[link](https://github.com/edhirst/clusteralgebrasml)|
-|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v3](http://arxiv.org/abs/2402.08653v3)|null|
-|**2024-02-19**|**Conformally rigid graphs**|Stefan Steinerberger et.al.|[2402.11758v1](http://arxiv.org/abs/2402.11758v1)|null|
-|**2024-02-16**|**Iterative embedding and reweighting of complex networks reveals community structure**|Bianka Kovács et.al.|[2402.10813v1](http://arxiv.org/abs/2402.10813v1)|[link](https://github.com/biankov/iteremb)|
-|**2023-07-15**|**Graph Embedded Intuitionistic Fuzzy Random Vector Functional Link Neural Network for Class Imbalance Learning**|M. A. Ganaie et.al.|[2307.07881v2](http://arxiv.org/abs/2307.07881v2)|[link](https://github.com/mtanveer1/ge-ifrvfl-cil)|
-|**2024-02-15**|**EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion**|Ying Su et.al.|[2402.09666v1](http://arxiv.org/abs/2402.09666v1)|null|
-|**2022-07-14**|**Differentially Private Graph Learning via Sensitivity-Bounded Personalized PageRank**|Alessandro Epasto et.al.|[2207.06944v3](http://arxiv.org/abs/2207.06944v3)|[link](https://github.com/google-research/google-research/tree/master/private_personalized_pagerank)|
-|**2024-02-13**|**Improving Molecule Generation and Drug Discovery with a Knowledge-enhanced Generative Model**|Aditya Malusare et.al.|[2402.08790v1](http://arxiv.org/abs/2402.08790v1)|null|
 
 ## Graph Model
 
@@ -152,3 +91,64 @@
 |**2024-02-15**|**EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion**|Ying Su et.al.|[2402.09666v1](http://arxiv.org/abs/2402.09666v1)|null|
 |**2022-07-14**|**Differentially Private Graph Learning via Sensitivity-Bounded Personalized PageRank**|Alessandro Epasto et.al.|[2207.06944v3](http://arxiv.org/abs/2207.06944v3)|[link](https://github.com/google-research/google-research/tree/master/private_personalized_pagerank)|
 |**2024-02-13**|**Improving Molecule Generation and Drug Discovery with a Knowledge-enhanced Generative Model**|Aditya Malusare et.al.|[2402.08790v1](http://arxiv.org/abs/2402.08790v1)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-28**|**Zero-Shot Aerial Object Detection with Visual Description Regularization**|Zhengqing Zang et.al.|[2402.18233v1](http://arxiv.org/abs/2402.18233v1)|null|
+|**2024-02-28**|**Polos: Multimodal Metric Learning from Human Feedback for Image Captioning**|Yuiga Wada et.al.|[2402.18091v1](http://arxiv.org/abs/2402.18091v1)|null|
+|**2023-10-22**|**ITEm: Unsupervised Image-Text Embedding Learning for eCommerce**|Baohao Liao et.al.|[2311.02084v2](http://arxiv.org/abs/2311.02084v2)|null|
+|**2024-02-26**|**Analysis of Embeddings Learned by End-to-End Machine Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v1](http://arxiv.org/abs/2402.16399v1)|null|
+|**2024-02-26**|**Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding Learning**|Chaoguang Luo et.al.|[2402.16299v1](http://arxiv.org/abs/2402.16299v1)|null|
+|**2024-02-23**|**Improving Sentence Embeddings with an Automatically Generated NLI Dataset**|Soma Sato et.al.|[2402.15132v1](http://arxiv.org/abs/2402.15132v1)|null|
+|**2024-02-16**|**Iterative embedding and reweighting of complex networks reveals community structure**|Bianka Kovács et.al.|[2402.10813v1](http://arxiv.org/abs/2402.10813v1)|[link](https://github.com/biankov/iteremb)|
+|**2024-02-15**|**Representation Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v1](http://arxiv.org/abs/2402.09769v1)|null|
+|**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186v1](http://arxiv.org/abs/2401.17186v1)|[link](https://github.com/yangbang18/clfm)|
+|**2020-12-12**|**Periocular Embedding Learning with Consistent Knowledge Distillation from Face**|Yoon Gyo Jung et.al.|[2012.06746v3](http://arxiv.org/abs/2012.06746v3)|null|
+|**2023-12-01**|**Rule-Guided Joint Embedding Learning over Knowledge Graphs**|Qisong Li et.al.|[2401.02968v2](http://arxiv.org/abs/2401.02968v2)|null|
+|**2024-01-26**|**AM^2-EmoJE: Adaptive Missing-Modality Emotion Recognition in Conversation via Joint Embedding Learning**|Naresh Kumar Devulapally et.al.|[2402.10921v1](http://arxiv.org/abs/2402.10921v1)|null|
+|**2023-11-25**|**UAE: Universal Anatomical Embedding on Multi-modality Medical Images**|Xiaoyu Bai et.al.|[2311.15111v3](http://arxiv.org/abs/2311.15111v3)|[link](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)|
+|**2024-01-12**|**Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering**|Pengfei Zhu et.al.|[2401.06595v1](http://arxiv.org/abs/2401.06595v1)|[link](https://github.com/q086/dyfss)|
+|**2024-01-08**|**Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval**|Priyanka Mandikal et.al.|[2401.04055v1](http://arxiv.org/abs/2401.04055v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v1](http://arxiv.org/abs/2402.19195v1)|null|
+|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v3](http://arxiv.org/abs/2312.12183v3)|null|
+|**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v3](http://arxiv.org/abs/2304.05055v3)|null|
+|**2023-10-19**|**Reconstruction of multiplex networks via graph embeddings**|Daniel Kaiser et.al.|[2310.12730v2](http://arxiv.org/abs/2310.12730v2)|null|
+|**2024-02-22**|**FedCQA: Answering Complex Queries on Multi-Source Knowledge Graphs via Federated Learning**|Qi Hu et.al.|[2402.14609v2](http://arxiv.org/abs/2402.14609v2)|null|
+|**2023-03-28**|**Distributed Graph Embedding with Information-Oriented Random Walks**|Peng Fang et.al.|[2303.15702v2](http://arxiv.org/abs/2303.15702v2)|[link](https://github.com/rocmfang/distger)|
+|**2022-04-28**|**Hyperbolic Hierarchical Knowledge Graph Embeddings for Link Prediction in Low Dimensions**|Wenjie Zheng et.al.|[2204.13704v2](http://arxiv.org/abs/2204.13704v2)|null|
+|**2022-03-25**|**Cluster Algebras: Network Science and Machine Learning**|Pierre-Philippe Dechant et.al.|[2203.13847v2](http://arxiv.org/abs/2203.13847v2)|[link](https://github.com/edhirst/clusteralgebrasml)|
+|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v3](http://arxiv.org/abs/2402.08653v3)|null|
+|**2024-02-19**|**Conformally rigid graphs**|Stefan Steinerberger et.al.|[2402.11758v1](http://arxiv.org/abs/2402.11758v1)|null|
+|**2024-02-16**|**Iterative embedding and reweighting of complex networks reveals community structure**|Bianka Kovács et.al.|[2402.10813v1](http://arxiv.org/abs/2402.10813v1)|[link](https://github.com/biankov/iteremb)|
+|**2023-07-15**|**Graph Embedded Intuitionistic Fuzzy Random Vector Functional Link Neural Network for Class Imbalance Learning**|M. A. Ganaie et.al.|[2307.07881v2](http://arxiv.org/abs/2307.07881v2)|[link](https://github.com/mtanveer1/ge-ifrvfl-cil)|
+|**2024-02-15**|**EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion**|Ying Su et.al.|[2402.09666v1](http://arxiv.org/abs/2402.09666v1)|null|
+|**2022-07-14**|**Differentially Private Graph Learning via Sensitivity-Bounded Personalized PageRank**|Alessandro Epasto et.al.|[2207.06944v3](http://arxiv.org/abs/2207.06944v3)|[link](https://github.com/google-research/google-research/tree/master/private_personalized_pagerank)|
+|**2024-02-13**|**Improving Molecule Generation and Drug Discovery with a Knowledge-enhanced Generative Model**|Aditya Malusare et.al.|[2402.08790v1](http://arxiv.org/abs/2402.08790v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
+|**2023-11-30**|**Determining the core-collapse supernova explosion mechanism with current and future gravitational-wave observatories**|Jade Powell et.al.|[2311.18221v2](http://arxiv.org/abs/2311.18221v2)|null|
+|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v1](http://arxiv.org/abs/2402.18450v1)|null|
+|**2024-02-28**|**Unveiling the Potential of Robustness in Evaluating Causal Inference Models**|Yiyan Huang et.al.|[2402.18392v1](http://arxiv.org/abs/2402.18392v1)|null|
+|**2024-02-28**|**A network-constrain Weibull AFT model for biomarkers discovery**|Claudia Angelini et.al.|[2402.18242v1](http://arxiv.org/abs/2402.18242v1)|null|
+|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v4](http://arxiv.org/abs/2301.06058v4)|null|
+|**2018-09-12**|**High-dimensional Bayesian Fourier Analysis For Detecting Circadian Gene Expressions**|Silvia Montagna et.al.|[1809.04347v2](http://arxiv.org/abs/1809.04347v2)|null|
+|**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|[link](https://github.com/alexteachey/multimoon_modeling_final_repo)|
+|**2024-02-26**|**Z-AGI Labs at ClimateActivism 2024: Stance and Hate Event Detection on Social Media**|Nikhil Narayan et.al.|[2402.17014v1](http://arxiv.org/abs/2402.17014v1)|null|
+|**2023-10-18**|**Simultaneous Nonparametric Inference of M-regression under Complex Temporal Dynamics**|Miaoshiqi Liu et.al.|[2310.11724v2](http://arxiv.org/abs/2310.11724v2)|null|
+|**2024-02-26**|**Penalized Generative Variable Selection**|Tong Wang et.al.|[2402.16661v1](http://arxiv.org/abs/2402.16661v1)|null|
+|**2024-02-26**|**Information-Enriched Selection of Stationary and Non-Stationary Autoregressions using the Adaptive Lasso**|Thilo Reinschlüssel et.al.|[2402.16580v1](http://arxiv.org/abs/2402.16580v1)|null|
+|**2023-10-16**|**RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models**|Zijun Long et.al.|[2310.10221v2](http://arxiv.org/abs/2310.10221v2)|[link](https://github.com/longkukuhi/armbench)|
+|**2024-02-18**|**Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**|Lanning Wei et.al.|[2402.11641v2](http://arxiv.org/abs/2402.11641v2)|null|
+|**2024-02-23**|**A modified debiased inverse-variance weighted estimator in two-sample summary-data Mendelian randomization**|Youpeng Su et.al.|[2402.15086v1](http://arxiv.org/abs/2402.15086v1)|null|
