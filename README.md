@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-09 07:22:57 Asia/Shanghai
+ Automated deployment @ 2024-03-09 19:20:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -19,7 +19,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|null|
 |**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|null|
-|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|[link](https://github.com/oliver-lemke/entropy_aware_message_passing)|
+|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|null|
 |**2023-01-19**|**PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v3](http://arxiv.org/abs/2301.07945v3)|[link](https://github.com/BUAABIGSCity/PDFormer)|
 |**2024-03-07**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605v1](http://arxiv.org/abs/2403.04605v1)|null|
 |**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
@@ -34,25 +34,6 @@
 |**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880v1](http://arxiv.org/abs/2403.03880v1)|[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)|
 
 ## Embedding
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|null|
-|**2023-03-01**|**Treat Different Negatives Differently: Enriching Loss Functions with Domain and Range Constraints for Link Prediction**|Nicolas Hubert et.al.|[2303.00286v4](http://arxiv.org/abs/2303.00286v4)|[link](https://github.com/nicolas-hbt/semantic-lossfunc)|
-|**2023-12-15**|**RDR: the Recap, Deliberate, and Respond Method for Enhanced Language Understanding**|Yuxin Zi et.al.|[2312.09932v2](http://arxiv.org/abs/2312.09932v2)|null|
-|**2024-03-05**|**TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts**|Hyunwook Lee et.al.|[2403.02600v1](http://arxiv.org/abs/2403.02600v1)|[link](https://github.com/hyunwookl/testam)|
-|**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221v1](http://arxiv.org/abs/2403.02221v1)|null|
-|**2024-03-04**|**Bipartite Graph Variational Auto-Encoder with Fair Latent Representation to Account for Sampling Bias in Ecological Networks**|Emre Anakok et.al.|[2403.02011v1](http://arxiv.org/abs/2403.02011v1)|null|
-|**2024-03-04**|**adaptNMT: an open-source, language-agnostic development environment for Neural Machine Translation**|Séamus Lankford et.al.|[2403.02367v1](http://arxiv.org/abs/2403.02367v1)|null|
-|**2022-10-10**|**SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction**|Miao Peng et.al.|[2210.04870v3](http://arxiv.org/abs/2210.04870v3)|[link](https://github.com/gknl/smile)|
-|**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v3](http://arxiv.org/abs/2301.09308v3)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
-|**2024-03-03**|**Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network**|Renjie Xu et.al.|[2403.01501v1](http://arxiv.org/abs/2403.01501v1)|[link](https://github.com/renj-xu/negsc)|
-|**2024-03-01**|**PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems**|Salah Ghamizi et.al.|[2403.00892v1](http://arxiv.org/abs/2403.00892v1)|null|
-|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v1](http://arxiv.org/abs/2402.19195v1)|null|
-|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v3](http://arxiv.org/abs/2312.12183v3)|null|
-|**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v3](http://arxiv.org/abs/2304.05055v3)|null|
-|**2024-02-27**|**PreRoutGNN for Timing Prediction with Order Preserving Partition: Global Circuit Pre-training, Local Delay Learning and Attentional Cell Modeling**|Ruizhe Zhong et.al.|[2403.00012v1](http://arxiv.org/abs/2403.00012v1)|[link](https://github.com/thinklab-sjtu/eda-ai)|
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,26 +54,47 @@
 |**2024-01-26**|**AM^2-EmoJE: Adaptive Missing-Modality Emotion Recognition in Conversation via Joint Embedding Learning**|Naresh Kumar Devulapally et.al.|[2402.10921v1](http://arxiv.org/abs/2402.10921v1)|null|
 |**2023-11-25**|**UAE: Universal Anatomical Embedding on Multi-modality Medical Images**|Xiaoyu Bai et.al.|[2311.15111v3](http://arxiv.org/abs/2311.15111v3)|[link](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)|
 
-## Graph Model
-
-### Graphon
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-05**|**DGAP: Efficient Dynamic Graph Analysis on Persistent Memory**|Abdullah Al Raqibul Islam et.al.|[2403.02665v1](http://arxiv.org/abs/2403.02665v1)|null|
-|**2021-10-26**|**Dynamical Systems on Graph Limits and Their Symmetries**|Christian Bick et.al.|[2110.13686v3](http://arxiv.org/abs/2110.13686v3)|null|
-|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v2](http://arxiv.org/abs/2401.12686v2)|null|
-|**2024-02-15**|**Graphons and the $H$-property**|Mohamed-Ali Belabbas et.al.|[2402.09692v1](http://arxiv.org/abs/2402.09692v1)|null|
-|**2024-02-14**|**Persistence of steady-states for dynamical systems on large networks**|Jason J. Bramburger et.al.|[2402.09276v1](http://arxiv.org/abs/2402.09276v1)|null|
-|**2024-02-13**|**Nonlinear Graphon mean-field systems**|Fabio Coppini et.al.|[2402.08628v1](http://arxiv.org/abs/2402.08628v1)|null|
-|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v1](http://arxiv.org/abs/2402.07365v1)|null|
-|**2024-02-09**|**Dense and nondense limits for uniform random intersection graphs**|Frédérique Bassino et.al.|[2402.06394v1](http://arxiv.org/abs/2402.06394v1)|null|
-|**2024-02-08**|**Non-parametric estimations for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v1](http://arxiv.org/abs/2402.05413v1)|null|
-|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
-|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v3](http://arxiv.org/abs/2401.09030v3)|null|
-|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v1](http://arxiv.org/abs/2402.01866v1)|null|
-|**2024-01-03**|**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**|Anirban Chatterjee et.al.|[2401.01866v2](http://arxiv.org/abs/2401.01866v2)|null|
-|**2023-02-27**|**The Thermodynamic Limit of Spin Systems on Random Graphs**|Amy Searle et.al.|[2303.00731v2](http://arxiv.org/abs/2303.00731v2)|null|
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v2](http://arxiv.org/abs/2401.00665v2)|null|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|null|
+|**2023-03-01**|**Treat Different Negatives Differently: Enriching Loss Functions with Domain and Range Constraints for Link Prediction**|Nicolas Hubert et.al.|[2303.00286v4](http://arxiv.org/abs/2303.00286v4)|[link](https://github.com/nicolas-hbt/semantic-lossfunc)|
+|**2023-12-15**|**RDR: the Recap, Deliberate, and Respond Method for Enhanced Language Understanding**|Yuxin Zi et.al.|[2312.09932v2](http://arxiv.org/abs/2312.09932v2)|null|
+|**2024-03-05**|**TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts**|Hyunwook Lee et.al.|[2403.02600v1](http://arxiv.org/abs/2403.02600v1)|[link](https://github.com/hyunwookl/testam)|
+|**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221v1](http://arxiv.org/abs/2403.02221v1)|null|
+|**2024-03-04**|**Bipartite Graph Variational Auto-Encoder with Fair Latent Representation to Account for Sampling Bias in Ecological Networks**|Emre Anakok et.al.|[2403.02011v1](http://arxiv.org/abs/2403.02011v1)|null|
+|**2024-03-04**|**adaptNMT: an open-source, language-agnostic development environment for Neural Machine Translation**|Séamus Lankford et.al.|[2403.02367v1](http://arxiv.org/abs/2403.02367v1)|null|
+|**2022-10-10**|**SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction**|Miao Peng et.al.|[2210.04870v3](http://arxiv.org/abs/2210.04870v3)|[link](https://github.com/gknl/smile)|
+|**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v3](http://arxiv.org/abs/2301.09308v3)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
+|**2024-03-03**|**Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network**|Renjie Xu et.al.|[2403.01501v1](http://arxiv.org/abs/2403.01501v1)|[link](https://github.com/renj-xu/negsc)|
+|**2024-03-01**|**PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems**|Salah Ghamizi et.al.|[2403.00892v1](http://arxiv.org/abs/2403.00892v1)|null|
+|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v1](http://arxiv.org/abs/2402.19195v1)|null|
+|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v3](http://arxiv.org/abs/2312.12183v3)|null|
+|**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v3](http://arxiv.org/abs/2304.05055v3)|null|
+|**2024-02-27**|**PreRoutGNN for Timing Prediction with Order Preserving Partition: Global Circuit Pre-training, Local Delay Learning and Attentional Cell Modeling**|Ruizhe Zhong et.al.|[2403.00012v1](http://arxiv.org/abs/2403.00012v1)|[link](https://github.com/thinklab-sjtu/eda-ai)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-07**|**Differentiable master equation solver for quantum device characterisation**|David L. Craig et.al.|[2403.04678v1](http://arxiv.org/abs/2403.04678v1)|null|
+|**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100v2](http://arxiv.org/abs/2311.17100v2)|[link](https://github.com/spatialstatisticsupna/inla_groupcv)|
+|**2024-03-07**|**Regularized DeepIV with Model Selection**|Zihao Li et.al.|[2403.04236v1](http://arxiv.org/abs/2403.04236v1)|null|
+|**2022-11-06**|**Collaborative Video Analytics on Distributed Edges with Multiagent Deep Reinforcement Learning**|Guanyu Gao et.al.|[2211.03102v2](http://arxiv.org/abs/2211.03102v2)|null|
+|**2024-03-07**|**A data-centric approach to class-specific bias in image data augmentation**|Athanasios Angelakis et.al.|[2403.04120v1](http://arxiv.org/abs/2403.04120v1)|null|
+|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v2](http://arxiv.org/abs/2205.03014v2)|null|
+|**2024-03-06**|**Bayesian Generalized Distributed Lag Regression with Variable Selection**|Daniel Dempsey et.al.|[2403.03646v1](http://arxiv.org/abs/2403.03646v1)|null|
+|**2024-03-05**|**Regularised Canonical Correlation Analysis: graphical lasso, biplots and beyond**|Lennie Wells et.al.|[2403.02979v1](http://arxiv.org/abs/2403.02979v1)|null|
+|**2024-03-04**|**Boosting Distributional Copula Regression for Bivariate Binary, Discrete and Mixed Responses**|Guillermo Briseño Sanchez et.al.|[2403.02194v1](http://arxiv.org/abs/2403.02194v1)|[link](https://github.com/guillebriseno/boostdistcopreg_bindiscmix)|
+|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v1](http://arxiv.org/abs/2403.01723v1)|null|
+|**2024-03-04**|**Dendrogram of mixing measures: Learning latent hierarchy and model selection for finite mixture models**|Dat Do et.al.|[2403.01684v1](http://arxiv.org/abs/2403.01684v1)|null|
+|**2024-03-03**|**A Unified Model Selection Technique for Spectral Clustering Based Motion Segmentation**|Yuxiang Huang et.al.|[2403.01606v1](http://arxiv.org/abs/2403.01606v1)|null|
+|**2024-03-03**|**On the Model-Agnostic Multi-Source-Free Unsupervised Domain Adaptation**|Jiangbo Pei et.al.|[2403.01582v1](http://arxiv.org/abs/2403.01582v1)|[link](https://github.com/spiresearch/mmda)|
+|**2023-09-01**|**SortedNet, a Place for Every Network and Every Network in its Place: Towards a Generalized Solution for Training Many-in-One Neural Networks**|Mojtaba Valipour et.al.|[2309.00255v2](http://arxiv.org/abs/2309.00255v2)|null|
+|**2024-03-01**|**Fast variable selection for distributional regression with application to continuous glucose monitoring data**|Alexander Coulter et.al.|[2403.00922v1](http://arxiv.org/abs/2403.00922v1)|null|
+
+## Graph Model
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -113,6 +115,25 @@
 |**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v3](http://arxiv.org/abs/2304.05055v3)|null|
 |**2024-02-27**|**PreRoutGNN for Timing Prediction with Order Preserving Partition: Global Circuit Pre-training, Local Delay Learning and Attentional Cell Modeling**|Ruizhe Zhong et.al.|[2403.00012v1](http://arxiv.org/abs/2403.00012v1)|[link](https://github.com/thinklab-sjtu/eda-ai)|
 
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-05**|**DGAP: Efficient Dynamic Graph Analysis on Persistent Memory**|Abdullah Al Raqibul Islam et.al.|[2403.02665v1](http://arxiv.org/abs/2403.02665v1)|[link](https://github.com/dir-lab/dgap)|
+|**2021-10-26**|**Dynamical Systems on Graph Limits and Their Symmetries**|Christian Bick et.al.|[2110.13686v3](http://arxiv.org/abs/2110.13686v3)|null|
+|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v2](http://arxiv.org/abs/2401.12686v2)|null|
+|**2024-02-15**|**Graphons and the $H$-property**|Mohamed-Ali Belabbas et.al.|[2402.09692v1](http://arxiv.org/abs/2402.09692v1)|null|
+|**2024-02-14**|**Persistence of steady-states for dynamical systems on large networks**|Jason J. Bramburger et.al.|[2402.09276v1](http://arxiv.org/abs/2402.09276v1)|null|
+|**2024-02-13**|**Nonlinear Graphon mean-field systems**|Fabio Coppini et.al.|[2402.08628v1](http://arxiv.org/abs/2402.08628v1)|null|
+|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v1](http://arxiv.org/abs/2402.07365v1)|null|
+|**2024-02-09**|**Dense and nondense limits for uniform random intersection graphs**|Frédérique Bassino et.al.|[2402.06394v1](http://arxiv.org/abs/2402.06394v1)|null|
+|**2024-02-08**|**Non-parametric estimations for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v1](http://arxiv.org/abs/2402.05413v1)|null|
+|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
+|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v3](http://arxiv.org/abs/2401.09030v3)|null|
+|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v1](http://arxiv.org/abs/2402.01866v1)|null|
+|**2024-01-03**|**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**|Anirban Chatterjee et.al.|[2401.01866v2](http://arxiv.org/abs/2401.01866v2)|null|
+|**2023-02-27**|**The Thermodynamic Limit of Spin Systems on Random Graphs**|Amy Searle et.al.|[2303.00731v2](http://arxiv.org/abs/2303.00731v2)|null|
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v2](http://arxiv.org/abs/2401.00665v2)|null|
+
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -131,24 +152,3 @@
 |**2024-03-05**|**HINTs: Sensemaking on large collections of documents with Hypergraph visualization and INTelligent agents**|Sam Yu-Te Lee et.al.|[2403.02752v1](http://arxiv.org/abs/2403.02752v1)|null|
 |**2023-10-18**|**Quantum teleportation implies symmetry-protected topological order**|Yifan Hong et.al.|[2310.12227v2](http://arxiv.org/abs/2310.12227v2)|null|
 |**2023-09-21**|**Long-range-enhanced surface codes**|Yifan Hong et.al.|[2309.11719v3](http://arxiv.org/abs/2309.11719v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-07**|**Differentiable master equation solver for quantum device characterisation**|David L. Craig et.al.|[2403.04678v1](http://arxiv.org/abs/2403.04678v1)|null|
-|**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100v2](http://arxiv.org/abs/2311.17100v2)|[link](https://github.com/spatialstatisticsupna/inla_groupcv)|
-|**2024-03-07**|**Regularized DeepIV with Model Selection**|Zihao Li et.al.|[2403.04236v1](http://arxiv.org/abs/2403.04236v1)|null|
-|**2022-11-06**|**Collaborative Video Analytics on Distributed Edges with Multiagent Deep Reinforcement Learning**|Guanyu Gao et.al.|[2211.03102v2](http://arxiv.org/abs/2211.03102v2)|null|
-|**2024-03-07**|**A data-centric approach to class-specific bias in image data augmentation**|Athanasios Angelakis et.al.|[2403.04120v1](http://arxiv.org/abs/2403.04120v1)|null|
-|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v2](http://arxiv.org/abs/2205.03014v2)|null|
-|**2024-03-06**|**Bayesian Generalized Distributed Lag Regression with Variable Selection**|Daniel Dempsey et.al.|[2403.03646v1](http://arxiv.org/abs/2403.03646v1)|null|
-|**2024-03-05**|**Regularised Canonical Correlation Analysis: graphical lasso, biplots and beyond**|Lennie Wells et.al.|[2403.02979v1](http://arxiv.org/abs/2403.02979v1)|null|
-|**2024-03-04**|**Boosting Distributional Copula Regression for Bivariate Binary, Discrete and Mixed Responses**|Guillermo Briseño Sanchez et.al.|[2403.02194v1](http://arxiv.org/abs/2403.02194v1)|null|
-|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v1](http://arxiv.org/abs/2403.01723v1)|null|
-|**2024-03-04**|**Dendrogram of mixing measures: Learning latent hierarchy and model selection for finite mixture models**|Dat Do et.al.|[2403.01684v1](http://arxiv.org/abs/2403.01684v1)|null|
-|**2024-03-03**|**A Unified Model Selection Technique for Spectral Clustering Based Motion Segmentation**|Yuxiang Huang et.al.|[2403.01606v1](http://arxiv.org/abs/2403.01606v1)|null|
-|**2024-03-03**|**On the Model-Agnostic Multi-Source-Free Unsupervised Domain Adaptation**|Jiangbo Pei et.al.|[2403.01582v1](http://arxiv.org/abs/2403.01582v1)|[link](https://github.com/spiresearch/mmda)|
-|**2023-09-01**|**SortedNet, a Place for Every Network and Every Network in its Place: Towards a Generalized Solution for Training Many-in-One Neural Networks**|Mojtaba Valipour et.al.|[2309.00255v2](http://arxiv.org/abs/2309.00255v2)|null|
-|**2024-03-01**|**Fast variable selection for distributional regression with application to continuous glucose monitoring data**|Alexander Coulter et.al.|[2403.00922v1](http://arxiv.org/abs/2403.00922v1)|null|
