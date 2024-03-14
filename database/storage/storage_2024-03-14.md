@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-14 07:21:50 Asia/Shanghai
+ Automated deployment @ 2024-03-14 19:20:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511v2](http://arxiv.org/abs/2312.07511v2)|[link](https://github.com/alexduvalinho/geometric-gnns)|
+|**2024-03-02**|**MuseGraph: Graph-oriented Instruction Tuning of Large Language Models for Generic Graph Mining**|Yanchao Tan et.al.|[2403.04780v2](http://arxiv.org/abs/2403.04780v2)|null|
+|**2024-03-13**|**Link Prediction for Social Networks using Representation Learning and Heuristic-based Features**|Samarth Khanna et.al.|[2403.08613v1](http://arxiv.org/abs/2403.08613v1)|null|
+|**2023-11-24**|**Effective Structural Encodings via Local Curvature Profiles**|Lukas Fesser et.al.|[2311.14864v2](http://arxiv.org/abs/2311.14864v2)|[link](https://github.com/weber-geoml/local_curvature_profile)|
+|**2024-03-13**|**Reproducibility and Geometric Intrinsic Dimensionality: An Investigation on Graph Neural Network Research**|Tobias Hille et.al.|[2403.08438v1](http://arxiv.org/abs/2403.08438v1)|null|
+|**2024-03-13**|**Causal Graph Neural Networks for Wildfire Danger Prediction**|Shan Zhao et.al.|[2403.08414v1](http://arxiv.org/abs/2403.08414v1)|null|
+|**2024-03-13**|**Fast Inference of Removal-Based Node Influence**|Weikai Li et.al.|[2403.08333v1](http://arxiv.org/abs/2403.08333v1)|[link](https://github.com/weikai-li/nora)|
+|**2024-03-12**|**Graph Unlearning with Efficient Partial Retraining**|Jiahao Zhang et.al.|[2403.07353v2](http://arxiv.org/abs/2403.07353v2)|null|
+|**2023-10-18**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v4](http://arxiv.org/abs/2310.11762v4)|[link](https://github.com/sds-lab/qw_loss)|
+|**2024-03-13**|**BG-HGNN: Toward Scalable and Efficient Heterogeneous Graph Neural Network**|Junwei Su et.al.|[2403.08207v1](http://arxiv.org/abs/2403.08207v1)|null|
+|**2024-03-09**|**Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches**|Léo Boisvert et.al.|[2403.06026v2](http://arxiv.org/abs/2403.06026v2)|[link](https://github.com/corail-research/learning-generic-csp)|
+|**2023-06-14**|**A generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture**|Hyun Park et.al.|[2306.08695v2](http://arxiv.org/abs/2306.08695v2)|[link](https://github.com/hyunp2/ghp_mof)|
 |**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849v1](http://arxiv.org/abs/2403.07849v1)|null|
 |**2024-03-12**|**OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**|Christos Koutras et.al.|[2403.07653v1](http://arxiv.org/abs/2403.07653v1)|null|
 |**2024-02-15**|**Clifford Group Equivariant Simplicial Message Passing Networks**|Cong Liu et.al.|[2402.10011v3](http://arxiv.org/abs/2402.10011v3)|[link](https://github.com/congliuuva/clifford-group-equivariant-simplicial-message-passing-networks)|
-|**2024-03-12**|**Towards Graph Foundation Models for Personalization**|Andreas Damianou et.al.|[2403.07478v1](http://arxiv.org/abs/2403.07478v1)|null|
-|**2024-03-12**|**One for All and All for One: GNN-based Control-Flow Attestation for Embedded Devices**|Marco Chilese et.al.|[2403.07465v1](http://arxiv.org/abs/2403.07465v1)|null|
-|**2024-03-01**|**PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems**|Salah Ghamizi et.al.|[2403.00892v2](http://arxiv.org/abs/2403.00892v2)|null|
-|**2021-06-21**|**Customizing Graph Neural Networks using Path Reweighting**|Jianpeng Chen et.al.|[2106.10866v3](http://arxiv.org/abs/2106.10866v3)|[link](https://github.com/cjpcool/customgnn)|
-|**2023-08-25**|**SEGNO: Generalizing Equivariant Graph Neural Networks with Physical Inductive Biases**|Yang Liu et.al.|[2308.13212v2](http://arxiv.org/abs/2308.13212v2)|null|
-|**2024-03-08**|**Jet Discrimination with Quantum Complete Graph Neural Network**|Yi-An Chen et.al.|[2403.04990v2](http://arxiv.org/abs/2403.04990v2)|null|
-|**2024-03-12**|**Graph Unlearning with Efficient Partial Retraining**|Jiahao Zhang et.al.|[2403.07353v1](http://arxiv.org/abs/2403.07353v1)|null|
-|**2024-03-12**|**Graph Data Condensation via Self-expressive Graph Structure Reconstruction**|Zhanyu Liu et.al.|[2403.07294v1](http://arxiv.org/abs/2403.07294v1)|null|
-|**2022-09-02**|**SATformer: Transformer-Based UNSAT Core Learning**|Zhengyuan Shi et.al.|[2209.00953v2](http://arxiv.org/abs/2209.00953v2)|null|
-|**2024-03-11**|**Uncertainty in Graph Neural Networks: A Survey**|Fangxin Wang et.al.|[2403.07185v1](http://arxiv.org/abs/2403.07185v1)|null|
-|**2024-02-12**|**NetInfoF Framework: Measuring and Exploiting Network Usable Information**|Meng-Chieh Lee et.al.|[2402.07999v2](http://arxiv.org/abs/2402.07999v2)|null|
-|**2022-02-17**|**An alternative approach to train neural networks using monotone variational inequality**|Chen Xu et.al.|[2202.08876v4](http://arxiv.org/abs/2202.08876v4)|[link](https://github.com/hamrel-cxu/svi-nn-training)|
 
 ## Graph Model
 
@@ -57,6 +57,8 @@
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-11-12**|**Pósa-type results for Berge-hypergraphs**|Nika Salia et.al.|[2111.06710v3](http://arxiv.org/abs/2111.06710v3)|null|
+|**2024-02-29**|**$C_{10}$ has positive Turán density in the hypercube**|Alexandr Grebennikov et.al.|[2402.19409v2](http://arxiv.org/abs/2402.19409v2)|null|
 |**2023-08-25**|**A lower bound on the multicolor size-Ramsey numbers of paths in hypergraphs**|Deepak Bal et.al.|[2308.13255v2](http://arxiv.org/abs/2308.13255v2)|null|
 |**2023-06-08**|**Sparse Incidence Geometries and Pebble Game Algorithms**|Signe Lundqvist et.al.|[2306.05050v2](http://arxiv.org/abs/2306.05050v2)|null|
 |**2024-03-11**|**The Berge-Füredi conjecture on the chromatic index of hypergraphs with large hyperedges**|Alain Bretto et.al.|[2403.06850v1](http://arxiv.org/abs/2403.06850v1)|null|
@@ -70,8 +72,6 @@
 |**2024-03-08**|**Matchings in multipartite hypergraphs**|Candida Bowtell et.al.|[2403.05219v1](http://arxiv.org/abs/2403.05219v1)|null|
 |**2023-08-26**|**The simpliciality of higher-order networks**|Nicholas W. Landry et.al.|[2308.13918v2](http://arxiv.org/abs/2308.13918v2)|[link](https://github.com/nwlandry/the-simpliciality-of-higher-order-networks)|
 |**2022-08-29**|**The maximal running time of hypergraph bootstrap percolation**|Ivailo Hartarsky et.al.|[2208.13489v3](http://arxiv.org/abs/2208.13489v3)|null|
-|**2024-03-07**|**On the $(k+2,k)$-problem of Brown, Erdős and Sós for $k=5,6,7$**|Stefan Glock et.al.|[2403.04474v1](http://arxiv.org/abs/2403.04474v1)|null|
-|**2024-03-07**|**A Relationship for LYM Inequalities between Boolean Lattices and Linear Lattices with Applications**|Jiuqiang Liu et.al.|[2403.04817v1](http://arxiv.org/abs/2403.04817v1)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -137,6 +137,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v7](http://arxiv.org/abs/2110.06048v7)|null|
+|**2024-03-12**|**TriOS Schwarzschild Orbit Modeling: Robustness of Parameter Inference for Masses and Shapes of Triaxial Galaxies with Supermassive Black Holes**|Jacob Pilawa et.al.|[2403.07996v1](http://arxiv.org/abs/2403.07996v1)|null|
 |**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213v1](http://arxiv.org/abs/2403.07213v1)|null|
 |**2024-03-11**|**Bayesian Bell regression model for fitting of overdispersed count data with application**|Ameer Musa Imran Alhseeni et.al.|[2403.07067v1](http://arxiv.org/abs/2403.07067v1)|null|
 |**2024-03-11**|**Detection of Unobserved Common Causes based on NML Code in Discrete, Mixed, and Continuous Variables**|Masatoshi Kobayashi et.al.|[2403.06499v1](http://arxiv.org/abs/2403.06499v1)|[link](https://github.com/matsushima-lab/cloud)|
@@ -150,5 +152,3 @@
 |**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100v2](http://arxiv.org/abs/2311.17100v2)|[link](https://github.com/spatialstatisticsupna/inla_groupcv)|
 |**2024-03-07**|**Regularized DeepIV with Model Selection**|Zihao Li et.al.|[2403.04236v1](http://arxiv.org/abs/2403.04236v1)|null|
 |**2022-11-06**|**Collaborative Video Analytics on Distributed Edges with Multiagent Deep Reinforcement Learning**|Guanyu Gao et.al.|[2211.03102v2](http://arxiv.org/abs/2211.03102v2)|null|
-|**2024-03-07**|**A data-centric approach to class-specific bias in image data augmentation**|Athanasios Angelakis et.al.|[2403.04120v1](http://arxiv.org/abs/2403.04120v1)|null|
-|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v2](http://arxiv.org/abs/2205.03014v2)|null|
