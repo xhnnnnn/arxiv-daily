@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-07 07:21:35 Asia/Shanghai
+ Automated deployment @ 2024-04-07 19:20:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,25 +34,6 @@
 |**2024-04-02**|**CATGNN: Cost-Efficient and Scalable Distributed Training for Graph Neural Networks**|Xin Huang et.al.|[2404.02300v1](http://arxiv.org/abs/2404.02300v1)|null|
 
 ## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
-|**2023-10-23**|**A sampling construction of graphon 1-norm convergence**|Xingchao Jian et.al.|[2310.14683v2](http://arxiv.org/abs/2310.14683v2)|null|
-|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v2](http://arxiv.org/abs/2402.07365v2)|null|
-|**2024-03-29**|**Mean-Field Limits for Stochastic Interacting Particles on Digraph Measures**|Christian Kuehn et.al.|[2403.20325v1](http://arxiv.org/abs/2403.20325v1)|null|
-|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v2](http://arxiv.org/abs/2402.01866v2)|null|
-|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v2](http://arxiv.org/abs/2311.10610v2)|null|
-|**2023-12-13**|**Modeling Sparse Graph Sequences and Signals Using Generalized Graphons**|Feng Ji et.al.|[2312.08124v3](http://arxiv.org/abs/2312.08124v3)|null|
-|**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
-|**2024-03-20**|**Synchronization in random networks of identical phase oscillators: A graphon approach**|Shriya V. Nagpal et.al.|[2403.13998v1](http://arxiv.org/abs/2403.13998v1)|null|
-|**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213v1](http://arxiv.org/abs/2403.12213v1)|null|
-|**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v2](http://arxiv.org/abs/2302.01856v2)|null|
-|**2024-02-08**|**Non-parametric estimates for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v2](http://arxiv.org/abs/2402.05413v2)|null|
-|**2024-03-05**|**DGAP: Efficient Dynamic Graph Analysis on Persistent Memory**|Abdullah Al Raqibul Islam et.al.|[2403.02665v1](http://arxiv.org/abs/2403.02665v1)|[link](https://github.com/dir-lab/dgap)|
-|**2021-10-26**|**Dynamical Systems on Graph Limits and Their Symmetries**|Christian Bick et.al.|[2110.13686v3](http://arxiv.org/abs/2110.13686v3)|null|
-|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v2](http://arxiv.org/abs/2401.12686v2)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -91,6 +72,46 @@
 |**2024-03-22**|**Ellipsoidal embeddings of graphs**|Michaël Fanuel et.al.|[2403.15023v2](http://arxiv.org/abs/2403.15023v2)|null|
 |**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950v1](http://arxiv.org/abs/2403.14950v1)|[link](https://github.com/nju-websoft/knowla)|
 |**2022-12-21**|**Distant 2-Colored Components on Embeddings Part III: The General Case**|Joshua Nevin et.al.|[2212.11165v2](http://arxiv.org/abs/2212.11165v2)|null|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
+|**2023-10-23**|**A sampling construction of graphon 1-norm convergence**|Xingchao Jian et.al.|[2310.14683v2](http://arxiv.org/abs/2310.14683v2)|null|
+|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v2](http://arxiv.org/abs/2402.07365v2)|null|
+|**2024-03-29**|**Mean-Field Limits for Stochastic Interacting Particles on Digraph Measures**|Christian Kuehn et.al.|[2403.20325v1](http://arxiv.org/abs/2403.20325v1)|null|
+|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v2](http://arxiv.org/abs/2402.01866v2)|null|
+|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v2](http://arxiv.org/abs/2311.10610v2)|null|
+|**2023-12-13**|**Modeling Sparse Graph Sequences and Signals Using Generalized Graphons**|Feng Ji et.al.|[2312.08124v3](http://arxiv.org/abs/2312.08124v3)|null|
+|**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
+|**2024-03-20**|**Synchronization in random networks of identical phase oscillators: A graphon approach**|Shriya V. Nagpal et.al.|[2403.13998v1](http://arxiv.org/abs/2403.13998v1)|null|
+|**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213v1](http://arxiv.org/abs/2403.12213v1)|null|
+|**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v2](http://arxiv.org/abs/2302.01856v2)|null|
+|**2024-02-08**|**Non-parametric estimates for graphon mean-field particle systems**|Erhan Bayraktar et.al.|[2402.05413v2](http://arxiv.org/abs/2402.05413v2)|null|
+|**2024-03-05**|**DGAP: Efficient Dynamic Graph Analysis on Persistent Memory**|Abdullah Al Raqibul Islam et.al.|[2403.02665v1](http://arxiv.org/abs/2403.02665v1)|[link](https://github.com/dir-lab/dgap)|
+|**2021-10-26**|**Dynamical Systems on Graph Limits and Their Symmetries**|Christian Bick et.al.|[2110.13686v3](http://arxiv.org/abs/2110.13686v3)|null|
+|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686v2](http://arxiv.org/abs/2401.12686v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data**|Tianyu Zhang et.al.|[2310.12140v2](http://arxiv.org/abs/2310.12140v2)|null|
+|**2024-01-26**|**High-dimensional forecasting with known knowns and known unknowns**|M. Hashem Pesaran et.al.|[2401.14582v2](http://arxiv.org/abs/2401.14582v2)|[link](https://github.com/Pesaran/High-dimensional-UK-Inflation-Forecast-April-4-2024)|
+|**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685v2](http://arxiv.org/abs/2404.01685v2)|null|
+|**2024-04-03**|**Asymptotically-exact selective inference for quantile regression**|Yumeng Wang et.al.|[2404.03059v1](http://arxiv.org/abs/2404.03059v1)|null|
+|**2024-04-03**|**When Digital Twin Meets Generative AI: Intelligent Closed-Loop Network Management**|Xinyu Huang et.al.|[2404.03025v1](http://arxiv.org/abs/2404.03025v1)|null|
+|**2024-04-03**|**Comparison of the LASSO and Integrative LASSO with Penalty Factors (IPF-LASSO) methods for multi-omics data: Variable selection with Type I error control**|Charlotte Castel et.al.|[2404.02594v1](http://arxiv.org/abs/2404.02594v1)|null|
+|**2022-11-09**|**Bayesian Neural Networks for Macroeconomic Analysis**|Niko Hauzenberger et.al.|[2211.04752v4](http://arxiv.org/abs/2211.04752v4)|null|
+|**2024-04-02**|**DEMO: Dose Exploration, Monitoring, and Optimization Using a Biological Mediator for Clinical Outcomes**|Cheng-Han Yang et.al.|[2404.02120v1](http://arxiv.org/abs/2404.02120v1)|null|
+|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265v2](http://arxiv.org/abs/2403.18265v2)|[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)|
+|**2024-04-02**|**GLEMOS: Benchmark for Instantaneous Graph Learning Model Selection**|Namyong Park et.al.|[2404.01578v1](http://arxiv.org/abs/2404.01578v1)|[link](https://github.com/facebookresearch/glemos)|
+|**2024-04-01**|**A group testing based exploration of age-varying factors in chlamydia infections among Iowa residents**|Yizeng Li et.al.|[2404.01469v1](http://arxiv.org/abs/2404.01469v1)|null|
+|**2017-08-16**|**Bayesian Network Regularized Regression for Modeling Urban Crime Occurrences**|Elizabeth Upton et.al.|[1708.05047v2](http://arxiv.org/abs/1708.05047v2)|null|
+|**2023-12-31**|**Energetic Variational Gaussian Process Regression for Computer Experiments**|Lulu Kang et.al.|[2401.00395v2](http://arxiv.org/abs/2401.00395v2)|[link](https://github.com/xavierowen/evigp)|
+|**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v1](http://arxiv.org/abs/2404.00793v1)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
+|**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458v1](http://arxiv.org/abs/2404.00458v1)|null|
 
 ## Embedding
 
@@ -131,24 +152,3 @@
 |**2024-02-26**|**Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding Learning**|Chaoguang Luo et.al.|[2402.16299v1](http://arxiv.org/abs/2402.16299v1)|null|
 |**2024-02-23**|**Improving Sentence Embeddings with an Automatically Generated NLI Dataset**|Soma Sato et.al.|[2402.15132v1](http://arxiv.org/abs/2402.15132v1)|null|
 |**2024-02-16**|**Iterative embedding and reweighting of complex networks reveals community structure**|Bianka Kovács et.al.|[2402.10813v1](http://arxiv.org/abs/2402.10813v1)|[link](https://github.com/biankov/iteremb)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data**|Tianyu Zhang et.al.|[2310.12140v2](http://arxiv.org/abs/2310.12140v2)|null|
-|**2024-01-26**|**High-dimensional forecasting with known knowns and known unknowns**|M. Hashem Pesaran et.al.|[2401.14582v2](http://arxiv.org/abs/2401.14582v2)|[link](https://github.com/Pesaran/High-dimensional-UK-Inflation-Forecast-April-4-2024)|
-|**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685v2](http://arxiv.org/abs/2404.01685v2)|null|
-|**2024-04-03**|**Asymptotically-exact selective inference for quantile regression**|Yumeng Wang et.al.|[2404.03059v1](http://arxiv.org/abs/2404.03059v1)|null|
-|**2024-04-03**|**When Digital Twin Meets Generative AI: Intelligent Closed-Loop Network Management**|Xinyu Huang et.al.|[2404.03025v1](http://arxiv.org/abs/2404.03025v1)|null|
-|**2024-04-03**|**Comparison of the LASSO and Integrative LASSO with Penalty Factors (IPF-LASSO) methods for multi-omics data: Variable selection with Type I error control**|Charlotte Castel et.al.|[2404.02594v1](http://arxiv.org/abs/2404.02594v1)|null|
-|**2022-11-09**|**Bayesian Neural Networks for Macroeconomic Analysis**|Niko Hauzenberger et.al.|[2211.04752v4](http://arxiv.org/abs/2211.04752v4)|null|
-|**2024-04-02**|**DEMO: Dose Exploration, Monitoring, and Optimization Using a Biological Mediator for Clinical Outcomes**|Cheng-Han Yang et.al.|[2404.02120v1](http://arxiv.org/abs/2404.02120v1)|null|
-|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265v2](http://arxiv.org/abs/2403.18265v2)|[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)|
-|**2024-04-02**|**GLEMOS: Benchmark for Instantaneous Graph Learning Model Selection**|Namyong Park et.al.|[2404.01578v1](http://arxiv.org/abs/2404.01578v1)|[link](https://github.com/facebookresearch/glemos)|
-|**2024-04-01**|**A group testing based exploration of age-varying factors in chlamydia infections among Iowa residents**|Yizeng Li et.al.|[2404.01469v1](http://arxiv.org/abs/2404.01469v1)|null|
-|**2023-12-31**|**Energetic Variational Gaussian Process Regression for Computer Experiments**|Lulu Kang et.al.|[2401.00395v2](http://arxiv.org/abs/2401.00395v2)|[link](https://github.com/xavierowen/evigp)|
-|**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v1](http://arxiv.org/abs/2404.00793v1)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
-|**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458v1](http://arxiv.org/abs/2404.00458v1)|null|
-|**2023-10-10**|**FTFT: Efficient and Robust Fine-Tuning by Transferring Training Dynamics**|Yupei Du et.al.|[2310.06588v2](http://arxiv.org/abs/2310.06588v2)|[link](https://github.com/nlpsoc/ftft)|
