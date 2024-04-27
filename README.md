@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-27 07:22:36 Asia/Shanghai
+ Automated deployment @ 2024-04-27 19:18:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510v2](http://arxiv.org/abs/2404.15510v2)|null|
+|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510v2](http://arxiv.org/abs/2404.15510v2)|[link](https://github.com/neurachip/neurachip)|
 |**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532v1](http://arxiv.org/abs/2404.16532v1)|null|
 |**2024-02-28**|**FlowCyt: A Comparative Study of Deep Learning Approaches for Multi-Class Classification in Flow Cytometry Benchmarking**|Lorenzo Bini et.al.|[2403.00024v2](http://arxiv.org/abs/2403.00024v2)|[link](https://github.com/LorenzoBini4/FlowCyt-Classification-Benchmark)|
 |**2023-05-25**|**IDEA: Invariant Defense for Graph Adversarial Robustness**|Shuchang Tao et.al.|[2305.15792v2](http://arxiv.org/abs/2305.15792v2)|null|
@@ -33,28 +33,26 @@
 |**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687v1](http://arxiv.org/abs/2404.15687v1)|[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)|
 |**2023-11-09**|**Materials Properties Prediction (MAPP): Empowering the prediction of material properties solely based on chemical formulas**|Si-Da Xue et.al.|[2311.05133v2](http://arxiv.org/abs/2311.05133v2)|null|
 
-## Variable Selection
+## Graph Model
 
-### Variable selection
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|null|
-|**2024-04-25**|**Estimating the Number of Components in Finite Mixture Models via Variational Approximation**|Chenyang Wang et.al.|[2404.16746v1](http://arxiv.org/abs/2404.16746v1)|null|
-|**2024-04-25**|**Automated Model Selection for Generalized Linear Models**|Benjamin Schwendinger et.al.|[2404.16560v1](http://arxiv.org/abs/2404.16560v1)|null|
-|**2023-03-14**|**Empirical Bayes inference in sparse high-dimensional generalized linear models**|Yiqi Tang et.al.|[2303.07854v2](http://arxiv.org/abs/2303.07854v2)|null|
-|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v1](http://arxiv.org/abs/2404.16184v1)|null|
-|**2023-03-06**|**Bayesian Variable Selection for Function-on-Scalar Regression Models: a comparative analysis**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v4](http://arxiv.org/abs/2303.03521v4)|null|
-|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v2](http://arxiv.org/abs/2404.14836v2)|null|
-|**2022-11-06**|**EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization**|Guanyu Gao et.al.|[2211.03102v3](http://arxiv.org/abs/2211.03102v3)|null|
-|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
-|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v3](http://arxiv.org/abs/2210.12382v3)|null|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v3](http://arxiv.org/abs/2303.03649v3)|[link](https://github.com/hiendn/panic)|
-|**2024-04-21**|**The relationship of SMBHs and host galaxies at $z<4$ in the deep optical variability-selected AGN sample in the COSMOS field**|Atsushi Hoshi et.al.|[2404.13561v1](http://arxiv.org/abs/2404.13561v1)|null|
-|**2024-04-20**|**Group COMBSS: Group Selection via Continuous Optimization**|Anant Mathur et.al.|[2404.13339v1](http://arxiv.org/abs/2404.13339v1)|null|
-|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v3](http://arxiv.org/abs/2401.03776v3)|null|
-|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v3](http://arxiv.org/abs/2307.04527v3)|null|
-
-## Graph Model
+|**2024-04-25**|**ReliK: A Reliability Measure for Knowledge Graph Embeddings**|Maximilian K. Egger et.al.|[2404.16572v1](http://arxiv.org/abs/2404.16572v1)|null|
+|**2024-01-22**|**Annular Links from Thompson's Group $T$**|Louisa Liles et.al.|[2401.12065v2](http://arxiv.org/abs/2401.12065v2)|null|
+|**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400v2](http://arxiv.org/abs/2312.16400v2)|[link](https://github.com/georgeguo-cn/lgmrec)|
+|**2024-03-07**|**Control-based Graph Embeddings with Data Augmentation for Contrastive Learning**|Obaid Ullah Ahmad et.al.|[2403.04923v2](http://arxiv.org/abs/2403.04923v2)|null|
+|**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809v1](http://arxiv.org/abs/2404.11809v1)|[link](https://github.com/xincanfeng/dimension)|
+|**2021-10-27**|**GenURL: A General Framework for Unsupervised Representation Learning**|Siyuan Li et.al.|[2110.14553v4](http://arxiv.org/abs/2110.14553v4)|[link](https://github.com/Westlake-AI/openmixup)|
+|**2024-04-15**|**Hyperbolic Heterogeneous Graph Attention Networks**|Jongmin Park et.al.|[2404.09456v1](http://arxiv.org/abs/2404.09456v1)|null|
+|**2024-04-14**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167v1](http://arxiv.org/abs/2404.09167v1)|null|
+|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155v1](http://arxiv.org/abs/2404.09155v1)|[link](https://github.com/dellixx/tkbc-lie)|
+|**2024-04-03**|**Incremental Learning with Concept Drift Detection and Prototype-based Embeddings for Graph Stream Classification**|Kleanthis Malialis et.al.|[2404.02572v2](http://arxiv.org/abs/2404.02572v2)|null|
+|**2024-04-09**|**Milgram's experiment in the knowledge space: Individual navigation strategies**|Manran Zhu et.al.|[2404.06591v1](http://arxiv.org/abs/2404.06591v1)|null|
+|**2024-04-09**|**Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery**|Yunqing Li et.al.|[2404.06571v1](http://arxiv.org/abs/2404.06571v1)|null|
+|**2024-04-09**|**scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding**|Ping Xu et.al.|[2404.06167v1](http://arxiv.org/abs/2404.06167v1)|[link](https://github.com/xpgogogo/sccdcg)|
+|**2024-04-09**|**Graph Vertex Embeddings: Distance, Regularization and Community Detection**|Radosław Nowak et.al.|[2404.10784v1](http://arxiv.org/abs/2404.10784v1)|null|
+|**2024-04-08**|**Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**|Jingxin Wang et.al.|[2404.05211v1](http://arxiv.org/abs/2404.05211v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,24 +92,26 @@
 |**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
 |**2024-03-20**|**Synchronization in random networks of identical phase oscillators: A graphon approach**|Shriya V. Nagpal et.al.|[2403.13998v1](http://arxiv.org/abs/2403.13998v1)|null|
 
-### Graph Embedding
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-25**|**ReliK: A Reliability Measure for Knowledge Graph Embeddings**|Maximilian K. Egger et.al.|[2404.16572v1](http://arxiv.org/abs/2404.16572v1)|null|
-|**2024-01-22**|**Annular Links from Thompson's Group $T$**|Louisa Liles et.al.|[2401.12065v2](http://arxiv.org/abs/2401.12065v2)|null|
-|**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400v2](http://arxiv.org/abs/2312.16400v2)|[link](https://github.com/georgeguo-cn/lgmrec)|
-|**2024-03-07**|**Control-based Graph Embeddings with Data Augmentation for Contrastive Learning**|Obaid Ullah Ahmad et.al.|[2403.04923v2](http://arxiv.org/abs/2403.04923v2)|null|
-|**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809v1](http://arxiv.org/abs/2404.11809v1)|[link](https://github.com/xincanfeng/dimension)|
-|**2021-10-27**|**GenURL: A General Framework for Unsupervised Representation Learning**|Siyuan Li et.al.|[2110.14553v4](http://arxiv.org/abs/2110.14553v4)|[link](https://github.com/Westlake-AI/openmixup)|
-|**2024-04-15**|**Hyperbolic Heterogeneous Graph Attention Networks**|Jongmin Park et.al.|[2404.09456v1](http://arxiv.org/abs/2404.09456v1)|null|
-|**2024-04-14**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167v1](http://arxiv.org/abs/2404.09167v1)|null|
-|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155v1](http://arxiv.org/abs/2404.09155v1)|[link](https://github.com/dellixx/tkbc-lie)|
-|**2024-04-03**|**Incremental Learning with Concept Drift Detection and Prototype-based Embeddings for Graph Stream Classification**|Kleanthis Malialis et.al.|[2404.02572v2](http://arxiv.org/abs/2404.02572v2)|null|
-|**2024-04-09**|**Milgram's experiment in the knowledge space: Individual navigation strategies**|Manran Zhu et.al.|[2404.06591v1](http://arxiv.org/abs/2404.06591v1)|null|
-|**2024-04-09**|**Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery**|Yunqing Li et.al.|[2404.06571v1](http://arxiv.org/abs/2404.06571v1)|null|
-|**2024-04-09**|**scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding**|Ping Xu et.al.|[2404.06167v1](http://arxiv.org/abs/2404.06167v1)|[link](https://github.com/xpgogogo/sccdcg)|
-|**2024-04-09**|**Graph Vertex Embeddings: Distance, Regularization and Community Detection**|Radosław Nowak et.al.|[2404.10784v1](http://arxiv.org/abs/2404.10784v1)|null|
-|**2024-04-08**|**Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**|Jingxin Wang et.al.|[2404.05211v1](http://arxiv.org/abs/2404.05211v1)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|null|
+|**2024-04-25**|**Estimating the Number of Components in Finite Mixture Models via Variational Approximation**|Chenyang Wang et.al.|[2404.16746v1](http://arxiv.org/abs/2404.16746v1)|null|
+|**2024-04-25**|**Automated Model Selection for Generalized Linear Models**|Benjamin Schwendinger et.al.|[2404.16560v1](http://arxiv.org/abs/2404.16560v1)|null|
+|**2023-03-14**|**Empirical Bayes inference in sparse high-dimensional generalized linear models**|Yiqi Tang et.al.|[2303.07854v2](http://arxiv.org/abs/2303.07854v2)|null|
+|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v1](http://arxiv.org/abs/2404.16184v1)|null|
+|**2023-03-06**|**Bayesian Variable Selection for Function-on-Scalar Regression Models: a comparative analysis**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v4](http://arxiv.org/abs/2303.03521v4)|null|
+|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v2](http://arxiv.org/abs/2404.14836v2)|null|
+|**2022-11-06**|**EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization**|Guanyu Gao et.al.|[2211.03102v3](http://arxiv.org/abs/2211.03102v3)|null|
+|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
+|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v3](http://arxiv.org/abs/2210.12382v3)|null|
+|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v3](http://arxiv.org/abs/2303.03649v3)|[link](https://github.com/hiendn/panic)|
+|**2024-04-21**|**The relationship of SMBHs and host galaxies at $z<4$ in the deep optical variability-selected AGN sample in the COSMOS field**|Atsushi Hoshi et.al.|[2404.13561v1](http://arxiv.org/abs/2404.13561v1)|null|
+|**2024-04-20**|**Group COMBSS: Group Selection via Continuous Optimization**|Anant Mathur et.al.|[2404.13339v1](http://arxiv.org/abs/2404.13339v1)|null|
+|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v3](http://arxiv.org/abs/2401.03776v3)|null|
+|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v3](http://arxiv.org/abs/2307.04527v3)|null|
 
 ## Embedding
 
