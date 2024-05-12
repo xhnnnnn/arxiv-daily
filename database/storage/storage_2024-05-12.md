@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-12 07:22:07 Asia/Shanghai
+ Automated deployment @ 2024-05-12 19:19:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,26 +33,45 @@
 |**2024-01-29**|**Unveiling Molecular Moieties through Hierarchical Graph Explainability**|Paolo Sortino et.al.|[2402.01744v3](http://arxiv.org/abs/2402.01744v3)|[link](https://github.com/chilab1/hge)|
 |**2024-05-03**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et.al.|[2405.02078v2](http://arxiv.org/abs/2405.02078v2)|null|
 
-## Embedding
+## Graph Model
 
-### Embedding Learning
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-06**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562v2](http://arxiv.org/abs/2405.03562v2)|null|
-|**2023-12-05**|**LLaRA: Large Language-Recommendation Assistant**|Jiayi Liao et.al.|[2312.02445v4](http://arxiv.org/abs/2312.02445v4)|[link](https://github.com/ljy0ustc/llara)|
-|**2024-04-26**|**Process Mining Embeddings: Learning Vector Representations for Petri Nets**|Juan G. Colonna et.al.|[2404.17129v2](http://arxiv.org/abs/2404.17129v2)|[link](https://github.com/juancolonna/petrinet2vec)|
-|**2024-05-02**|**Modeling Activity-Driven Music Listening with PACE**|Lilian Marey et.al.|[2405.01417v1](http://arxiv.org/abs/2405.01417v1)|[link](https://github.com/deezer/modeling_activity_pace)|
-|**2023-10-25**|**Faithful Path Language Modeling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452v3](http://arxiv.org/abs/2310.16452v3)|null|
-|**2023-12-07**|**Urban Region Representation Learning with Attentive Fusion**|Fengze Sun et.al.|[2312.04606v2](http://arxiv.org/abs/2312.04606v2)|[link](https://github.com/miruacle24/hafusion)|
-|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598v1](http://arxiv.org/abs/2404.15598v1)|null|
-|**2023-10-20**|**Knowledge Graph Context-Enhanced Diversified Recommendation**|Xiaolong Liu et.al.|[2310.13253v2](http://arxiv.org/abs/2310.13253v2)|[link](https://github.com/anonym844/kg-diverse)|
-|**2024-04-02**|**Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation**|Zhuoyuan Wang et.al.|[2404.01723v1](http://arxiv.org/abs/2404.01723v1)|null|
-|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v2](http://arxiv.org/abs/2403.12820v2)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
-|**2024-03-26**|**Detection of Deepfake Environmental Audio**|Hafsa Ouajdi et.al.|[2403.17529v1](http://arxiv.org/abs/2403.17529v1)|null|
-|**2023-12-31**|**Analyzing Local Representations of Self-supervised Vision Transformers**|Ani Vanyan et.al.|[2401.00463v2](http://arxiv.org/abs/2401.00463v2)|null|
-|**2024-03-20**|**USE: Dynamic User Modeling with Stateful Sequence Models**|Zhihan Zhou et.al.|[2403.13344v1](http://arxiv.org/abs/2403.13344v1)|null|
-|**2024-03-12**|**Boosting keyword spotting through on-device learnable user speech characteristics**|Cristian Cioflan et.al.|[2403.07802v1](http://arxiv.org/abs/2403.07802v1)|null|
-|**2023-11-24**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al.|[2311.14339v2](http://arxiv.org/abs/2311.14339v2)|[link](https://github.com/cristianopatricio/concept-based-interpretability-vlm)|
+|**2024-05-07**|**The Large Deviation Principle for $W$-random spectral measures**|Mahya Ghandehari et.al.|[2405.04417v1](http://arxiv.org/abs/2405.04417v1)|null|
+|**2023-09-12**|**Spectral Convergence of Complexon Shift Operators**|Purui Zhang et.al.|[2309.07169v4](http://arxiv.org/abs/2309.07169v4)|null|
+|**2024-04-25**|**The asymptotic spectrum distance, graph limits, and the Shannon capacity**|David de Boer et.al.|[2404.16763v1](http://arxiv.org/abs/2404.16763v1)|null|
+|**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v1](http://arxiv.org/abs/2404.13822v1)|null|
+|**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213v2](http://arxiv.org/abs/2403.12213v2)|null|
+|**2024-04-12**|**Graph data augmentation with Gromow-Wasserstein Barycenters**|Andrea Ponti et.al.|[2404.08376v1](http://arxiv.org/abs/2404.08376v1)|null|
+|**2024-04-12**|**Opinion dynamics on signed graphs and graphons: Beyond the piece-wise constant case**|Paolo Frasca et.al.|[2404.08372v1](http://arxiv.org/abs/2404.08372v1)|null|
+|**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
+|**2023-10-23**|**A sampling construction of graphon 1-norm convergence**|Xingchao Jian et.al.|[2310.14683v2](http://arxiv.org/abs/2310.14683v2)|null|
+|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v2](http://arxiv.org/abs/2402.07365v2)|null|
+|**2024-03-29**|**Mean-Field Limits for Stochastic Interacting Particles on Digraph Measures**|Christian Kuehn et.al.|[2403.20325v1](http://arxiv.org/abs/2403.20325v1)|null|
+|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v2](http://arxiv.org/abs/2402.01866v2)|null|
+|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v2](http://arxiv.org/abs/2311.10610v2)|null|
+|**2023-12-13**|**Modeling Sparse Graph Sequences and Signals Using Generalized Graphons**|Feng Ji et.al.|[2312.08124v3](http://arxiv.org/abs/2312.08124v3)|null|
+|**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**A Note on Polychromatic Colorings of Shift-Chains**|Torsten Ueckerdt et.al.|[2405.05296v1](http://arxiv.org/abs/2405.05296v1)|null|
+|**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v1](http://arxiv.org/abs/2405.04773v1)|null|
+|**2024-05-07**|**Isomorphisms between random $d$-hypergraphs**|Théo Lenoir et.al.|[2405.04670v1](http://arxiv.org/abs/2405.04670v1)|null|
+|**2024-05-07**|**Understanding High-Order Network Structure using Permissible Walks on Attributed Hypergraphs**|Enzo Battistella et.al.|[2405.04559v1](http://arxiv.org/abs/2405.04559v1)|null|
+|**2024-04-12**|**Random walks on simplicial complexes**|Thomas Bonis et.al.|[2404.08803v2](http://arxiv.org/abs/2404.08803v2)|null|
+|**2024-05-07**|**Anti-Ramsey numbers of loose paths and cycles in uniform hypergraphs**|Tong Li et.al.|[2405.04349v1](http://arxiv.org/abs/2405.04349v1)|null|
+|**2024-04-09**|**The Overlap Gap Property limits limit swapping in QAOA**|Mark Xin Hong Goh et.al.|[2404.06087v2](http://arxiv.org/abs/2404.06087v2)|null|
+|**2024-04-30**|**A logarithmic approximation of linearly-ordered colourings**|Johan Håstad et.al.|[2404.19556v2](http://arxiv.org/abs/2404.19556v2)|null|
+|**2024-05-06**|**Matroid-reachability-based decomposition into arborescences**|Florian Hörsch et.al.|[2405.03270v1](http://arxiv.org/abs/2405.03270v1)|null|
+|**2024-05-05**|**Saturation in Random Hypergraphs**|Sahar Diskin et.al.|[2405.03061v1](http://arxiv.org/abs/2405.03061v1)|null|
+|**2023-10-24**|**A Behavioral Perspective on Models of Linear Dynamical Networks with Manifest Variables**|Shengling Shi et.al.|[2310.15937v3](http://arxiv.org/abs/2310.15937v3)|null|
+|**2022-06-09**|**Temporal Inductive Logic Reasoning over Hypergraphs**|Yuan Yang et.al.|[2206.05051v2](http://arxiv.org/abs/2206.05051v2)|[link](https://github.com/gblackout/TILR)|
+|**2024-01-30**|**Performance Analysis of Generalized Product Codes with Irregular Degree Distribution**|Sisi Miao et.al.|[2401.16977v3](http://arxiv.org/abs/2401.16977v3)|null|
+|**2024-05-03**|**Hypertree shrinking avoiding low degree vertices**|Karolína Hylasová et.al.|[2405.02049v1](http://arxiv.org/abs/2405.02049v1)|null|
+|**2024-02-05**|**Open-separating dominating codes in graphs**|Dipayan Chakraborty et.al.|[2402.03015v2](http://arxiv.org/abs/2402.03015v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,45 +113,26 @@
 |**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v1](http://arxiv.org/abs/2405.03389v1)|null|
 |**2024-05-05**|**Stability of a Generalized Debiased Lasso with Applications to Resampling-Based Variable Selection**|Jingbo Liu et.al.|[2405.03063v1](http://arxiv.org/abs/2405.03063v1)|null|
 
-## Graph Model
+## Embedding
 
-### Hypergraph
+### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-08**|**A Note on Polychromatic Colorings of Shift-Chains**|Torsten Ueckerdt et.al.|[2405.05296v1](http://arxiv.org/abs/2405.05296v1)|null|
-|**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v1](http://arxiv.org/abs/2405.04773v1)|null|
-|**2024-05-07**|**Isomorphisms between random $d$-hypergraphs**|Théo Lenoir et.al.|[2405.04670v1](http://arxiv.org/abs/2405.04670v1)|null|
-|**2024-05-07**|**Understanding High-Order Network Structure using Permissible Walks on Attributed Hypergraphs**|Enzo Battistella et.al.|[2405.04559v1](http://arxiv.org/abs/2405.04559v1)|null|
-|**2024-04-12**|**Random walks on simplicial complexes**|Thomas Bonis et.al.|[2404.08803v2](http://arxiv.org/abs/2404.08803v2)|null|
-|**2024-05-07**|**Anti-Ramsey numbers of loose paths and cycles in uniform hypergraphs**|Tong Li et.al.|[2405.04349v1](http://arxiv.org/abs/2405.04349v1)|null|
-|**2024-04-09**|**The Overlap Gap Property limits limit swapping in QAOA**|Mark Xin Hong Goh et.al.|[2404.06087v2](http://arxiv.org/abs/2404.06087v2)|null|
-|**2024-04-30**|**A logarithmic approximation of linearly-ordered colourings**|Johan Håstad et.al.|[2404.19556v2](http://arxiv.org/abs/2404.19556v2)|null|
-|**2024-05-06**|**Matroid-reachability-based decomposition into arborescences**|Florian Hörsch et.al.|[2405.03270v1](http://arxiv.org/abs/2405.03270v1)|null|
-|**2024-05-05**|**Saturation in Random Hypergraphs**|Sahar Diskin et.al.|[2405.03061v1](http://arxiv.org/abs/2405.03061v1)|null|
-|**2023-10-24**|**A Behavioral Perspective on Models of Linear Dynamical Networks with Manifest Variables**|Shengling Shi et.al.|[2310.15937v3](http://arxiv.org/abs/2310.15937v3)|null|
-|**2022-06-09**|**Temporal Inductive Logic Reasoning over Hypergraphs**|Yuan Yang et.al.|[2206.05051v2](http://arxiv.org/abs/2206.05051v2)|[link](https://github.com/gblackout/TILR)|
-|**2024-01-30**|**Performance Analysis of Generalized Product Codes with Irregular Degree Distribution**|Sisi Miao et.al.|[2401.16977v3](http://arxiv.org/abs/2401.16977v3)|null|
-|**2024-05-03**|**Hypertree shrinking avoiding low degree vertices**|Karolína Hylasová et.al.|[2405.02049v1](http://arxiv.org/abs/2405.02049v1)|null|
-|**2024-02-05**|**Open-separating dominating codes in graphs**|Dipayan Chakraborty et.al.|[2402.03015v2](http://arxiv.org/abs/2402.03015v2)|null|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-07**|**The Large Deviation Principle for $W$-random spectral measures**|Mahya Ghandehari et.al.|[2405.04417v1](http://arxiv.org/abs/2405.04417v1)|null|
-|**2023-09-12**|**Spectral Convergence of Complexon Shift Operators**|Purui Zhang et.al.|[2309.07169v4](http://arxiv.org/abs/2309.07169v4)|null|
-|**2024-04-25**|**The asymptotic spectrum distance, graph limits, and the Shannon capacity**|David de Boer et.al.|[2404.16763v1](http://arxiv.org/abs/2404.16763v1)|null|
-|**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v1](http://arxiv.org/abs/2404.13822v1)|null|
-|**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213v2](http://arxiv.org/abs/2403.12213v2)|null|
-|**2024-04-12**|**Graph data augmentation with Gromow-Wasserstein Barycenters**|Andrea Ponti et.al.|[2404.08376v1](http://arxiv.org/abs/2404.08376v1)|null|
-|**2024-04-12**|**Opinion dynamics on signed graphs and graphons: Beyond the piece-wise constant case**|Paolo Frasca et.al.|[2404.08372v1](http://arxiv.org/abs/2404.08372v1)|null|
-|**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
-|**2023-10-23**|**A sampling construction of graphon 1-norm convergence**|Xingchao Jian et.al.|[2310.14683v2](http://arxiv.org/abs/2310.14683v2)|null|
-|**2024-02-12**|**A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents**|Mathieu Laurière et.al.|[2402.07365v2](http://arxiv.org/abs/2402.07365v2)|null|
-|**2024-03-29**|**Mean-Field Limits for Stochastic Interacting Particles on Digraph Measures**|Christian Kuehn et.al.|[2403.20325v1](http://arxiv.org/abs/2403.20325v1)|null|
-|**2024-02-02**|**Parametric Bootstrap on Networks with Non-Exchangeable Nodes**|Zhixuan Shao et.al.|[2402.01866v2](http://arxiv.org/abs/2402.01866v2)|null|
-|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v2](http://arxiv.org/abs/2311.10610v2)|null|
-|**2023-12-13**|**Modeling Sparse Graph Sequences and Signals Using Generalized Graphons**|Feng Ji et.al.|[2312.08124v3](http://arxiv.org/abs/2312.08124v3)|null|
-|**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
+|**2024-05-06**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562v2](http://arxiv.org/abs/2405.03562v2)|null|
+|**2023-12-05**|**LLaRA: Large Language-Recommendation Assistant**|Jiayi Liao et.al.|[2312.02445v4](http://arxiv.org/abs/2312.02445v4)|[link](https://github.com/ljy0ustc/llara)|
+|**2024-04-26**|**Process Mining Embeddings: Learning Vector Representations for Petri Nets**|Juan G. Colonna et.al.|[2404.17129v2](http://arxiv.org/abs/2404.17129v2)|[link](https://github.com/juancolonna/petrinet2vec)|
+|**2024-05-02**|**Modeling Activity-Driven Music Listening with PACE**|Lilian Marey et.al.|[2405.01417v1](http://arxiv.org/abs/2405.01417v1)|[link](https://github.com/deezer/modeling_activity_pace)|
+|**2023-10-25**|**Faithful Path Language Modeling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452v3](http://arxiv.org/abs/2310.16452v3)|null|
+|**2023-12-07**|**Urban Region Representation Learning with Attentive Fusion**|Fengze Sun et.al.|[2312.04606v2](http://arxiv.org/abs/2312.04606v2)|[link](https://github.com/miruacle24/hafusion)|
+|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598v1](http://arxiv.org/abs/2404.15598v1)|null|
+|**2023-10-20**|**Knowledge Graph Context-Enhanced Diversified Recommendation**|Xiaolong Liu et.al.|[2310.13253v2](http://arxiv.org/abs/2310.13253v2)|[link](https://github.com/anonym844/kg-diverse)|
+|**2024-04-02**|**Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation**|Zhuoyuan Wang et.al.|[2404.01723v1](http://arxiv.org/abs/2404.01723v1)|null|
+|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v2](http://arxiv.org/abs/2403.12820v2)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
+|**2024-03-26**|**Detection of Deepfake Environmental Audio**|Hafsa Ouajdi et.al.|[2403.17529v1](http://arxiv.org/abs/2403.17529v1)|null|
+|**2023-12-31**|**Analyzing Local Representations of Self-supervised Vision Transformers**|Ani Vanyan et.al.|[2401.00463v2](http://arxiv.org/abs/2401.00463v2)|null|
+|**2024-03-20**|**USE: Dynamic User Modeling with Stateful Sequence Models**|Zhihan Zhou et.al.|[2403.13344v1](http://arxiv.org/abs/2403.13344v1)|null|
+|**2024-03-12**|**Boosting keyword spotting through on-device learnable user speech characteristics**|Cristian Cioflan et.al.|[2403.07802v1](http://arxiv.org/abs/2403.07802v1)|null|
+|**2023-11-24**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al.|[2311.14339v2](http://arxiv.org/abs/2311.14339v2)|[link](https://github.com/cristianopatricio/concept-based-interpretability-vlm)|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
