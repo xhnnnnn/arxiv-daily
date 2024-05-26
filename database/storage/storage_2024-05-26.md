@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-26 07:22:25 Asia/Shanghai
+ Automated deployment @ 2024-05-26 19:20:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -54,25 +54,6 @@
 |**2024-05-11**|**CTRL: Continuous-Time Representation Learning on Temporal Heterogeneous Information Network**|Chenglin Li et.al.|[2405.08013v1](http://arxiv.org/abs/2405.08013v1)|null|
 |**2024-05-08**|**Untargeted Adversarial Attack on Knowledge Graph Embeddings**|Tianzhe Zhao et.al.|[2405.10970v1](http://arxiv.org/abs/2405.10970v1)|null|
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-23**|**Connectoids I: a universal end space theory**|Nathan Bowler et.al.|[2405.14704v1](http://arxiv.org/abs/2405.14704v1)|null|
-|**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v2](http://arxiv.org/abs/2402.04062v2)|null|
-|**2024-05-23**|**Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification**|Yijia Zheng et.al.|[2405.14286v1](http://arxiv.org/abs/2405.14286v1)|null|
-|**2024-05-23**|**The Boolean polynomial polytope with multiple choice constraints**|Sihong Shao et.al.|[2405.14207v1](http://arxiv.org/abs/2405.14207v1)|null|
-|**2024-05-23**|**Attending to Topological Spaces: The Cellular Transformer**|Rubén Ballester et.al.|[2405.14094v1](http://arxiv.org/abs/2405.14094v1)|null|
-|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph**|Daniel T. Chang et.al.|[2405.12235v2](http://arxiv.org/abs/2405.12235v2)|null|
-|**2024-02-08**|**Simplifying Hypergraph Neural Networks**|Bohan Tang et.al.|[2402.05569v3](http://arxiv.org/abs/2402.05569v3)|null|
-|**2024-05-22**|**Ada-HGNN: Adaptive Sampling for Scalable Hypergraph Neural Networks**|Shuai Wang et.al.|[2405.13372v1](http://arxiv.org/abs/2405.13372v1)|null|
-|**2024-05-22**|**Accelerated Evaluation of Ollivier-Ricci Curvature Lower Bounds: Bridging Theory and Computation**|Wonwoo Kang et.al.|[2405.13302v1](http://arxiv.org/abs/2405.13302v1)|null|
-|**2023-09-27**|**Artin-Ihara L-functions for hypergraphs**|Mason Eyler et.al.|[2309.15873v2](http://arxiv.org/abs/2309.15873v2)|null|
-|**2023-10-14**|**Topology-guided Hypergraph Transformer Network: Unveiling Structural Insights for Improved Representation**|Khaled Mohammed Saifuddin et.al.|[2310.09657v2](http://arxiv.org/abs/2310.09657v2)|null|
-|**2024-01-30**|**A criterion for Andrásfai--Erdős--Sós type theorems and applications**|Jianfeng Hou et.al.|[2401.17219v4](http://arxiv.org/abs/2401.17219v4)|null|
-|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183v1](http://arxiv.org/abs/2405.12183v1)|[link](https://github.com/scutft-ml/mogc)|
-|**2023-12-11**|**On the approximability of random-hypergraph MAX-3-XORSAT problems with quantum algorithms**|Eliot Kapit et.al.|[2312.06104v3](http://arxiv.org/abs/2312.06104v3)|null|
-|**2023-05-07**|**Random Turán theorem for expansions of spanning subgraphs of tight trees**|Jiaxi Nie et.al.|[2305.04193v3](http://arxiv.org/abs/2305.04193v3)|null|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -91,6 +72,25 @@
 |**2024-04-12**|**Opinion dynamics on signed graphs and graphons: Beyond the piece-wise constant case**|Paolo Frasca et.al.|[2404.08372v1](http://arxiv.org/abs/2404.08372v1)|null|
 |**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
 |**2023-10-23**|**A sampling construction of graphon 1-norm convergence**|Xingchao Jian et.al.|[2310.14683v2](http://arxiv.org/abs/2310.14683v2)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23**|**Connectoids I: a universal end space theory**|Nathan Bowler et.al.|[2405.14704v1](http://arxiv.org/abs/2405.14704v1)|null|
+|**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v2](http://arxiv.org/abs/2402.04062v2)|null|
+|**2024-05-23**|**Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification**|Yijia Zheng et.al.|[2405.14286v1](http://arxiv.org/abs/2405.14286v1)|null|
+|**2024-05-23**|**The Boolean polynomial polytope with multiple choice constraints**|Sihong Shao et.al.|[2405.14207v1](http://arxiv.org/abs/2405.14207v1)|null|
+|**2024-05-23**|**Attending to Topological Spaces: The Cellular Transformer**|Rubén Ballester et.al.|[2405.14094v1](http://arxiv.org/abs/2405.14094v1)|null|
+|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph**|Daniel T. Chang et.al.|[2405.12235v2](http://arxiv.org/abs/2405.12235v2)|null|
+|**2024-02-08**|**Simplifying Hypergraph Neural Networks**|Bohan Tang et.al.|[2402.05569v3](http://arxiv.org/abs/2402.05569v3)|null|
+|**2024-05-22**|**Ada-HGNN: Adaptive Sampling for Scalable Hypergraph Neural Networks**|Shuai Wang et.al.|[2405.13372v1](http://arxiv.org/abs/2405.13372v1)|null|
+|**2024-05-22**|**Accelerated Evaluation of Ollivier-Ricci Curvature Lower Bounds: Bridging Theory and Computation**|Wonwoo Kang et.al.|[2405.13302v1](http://arxiv.org/abs/2405.13302v1)|null|
+|**2023-09-27**|**Artin-Ihara L-functions for hypergraphs**|Mason Eyler et.al.|[2309.15873v2](http://arxiv.org/abs/2309.15873v2)|null|
+|**2023-10-14**|**Topology-guided Hypergraph Transformer Network: Unveiling Structural Insights for Improved Representation**|Khaled Mohammed Saifuddin et.al.|[2310.09657v2](http://arxiv.org/abs/2310.09657v2)|null|
+|**2024-01-30**|**A criterion for Andrásfai--Erdős--Sós type theorems and applications**|Jianfeng Hou et.al.|[2401.17219v4](http://arxiv.org/abs/2401.17219v4)|null|
+|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183v1](http://arxiv.org/abs/2405.12183v1)|[link](https://github.com/scutft-ml/mogc)|
+|**2023-12-11**|**On the approximability of random-hypergraph MAX-3-XORSAT problems with quantum algorithms**|Eliot Kapit et.al.|[2312.06104v3](http://arxiv.org/abs/2312.06104v3)|null|
+|**2023-05-07**|**Random Turán theorem for expansions of spanning subgraphs of tight trees**|Jiaxi Nie et.al.|[2305.04193v3](http://arxiv.org/abs/2305.04193v3)|null|
 
 ## Embedding
 
@@ -138,6 +138,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-23**|**AnyLoss: Transforming Classification Metrics into Loss Functions**|Doheon Han et.al.|[2405.14745v1](http://arxiv.org/abs/2405.14745v1)|null|
+|**2022-07-08**|**Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**|Shunyu Liu et.al.|[2207.03902v4](http://arxiv.org/abs/2207.03902v4)|[link](https://github.com/liushunyu/opt)|
 |**2024-03-03**|**Selection, Ensemble, and Adaptation: Advancing Multi-Source-Free Domain Adaptation via Architecture Zoo**|Jiangbo Pei et.al.|[2403.01582v2](http://arxiv.org/abs/2403.01582v2)|null|
 |**2024-02-06**|**A Bias-Variance Decomposition for Ensembles over Multiple Synthetic Datasets**|Ossi Räisä et.al.|[2402.03985v2](http://arxiv.org/abs/2402.03985v2)|null|
 |**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190v2](http://arxiv.org/abs/2405.10190v2)|null|
@@ -151,4 +152,3 @@
 |**2024-05-19**|**Movie Revenue Prediction using Machine Learning Models**|Vikranth Udandarao et.al.|[2405.11651v1](http://arxiv.org/abs/2405.11651v1)|[link](https://github.com/vikranth3140/movie-revenue-prediction)|
 |**2024-05-19**|**A comparative study of augmented inverse propensity weighted estimators using outcome-adaptive lasso and other penalized regression methods**|Wataru Hongo et.al.|[2405.11522v1](http://arxiv.org/abs/2405.11522v1)|null|
 |**2023-01-07**|**ExcelFormer: Can a DNN be a Sure Bet for Tabular Prediction?**|Jintai Chen et.al.|[2301.02819v4](http://arxiv.org/abs/2301.02819v4)|[link](https://github.com/whatashot/excelformer)|
-|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v3](http://arxiv.org/abs/2210.05983v3)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
