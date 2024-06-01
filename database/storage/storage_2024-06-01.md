@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-01 07:23:47 Asia/Shanghai
+ Automated deployment @ 2024-06-01 19:23:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Graph Model
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-30**|**Hypergraph-Aided Task-Resource Matching for Maximizing Value of Task Completion in Collaborative IoT Systems**|Botao Zhu et.al.|[2405.20055v1](http://arxiv.org/abs/2405.20055v1)|null|
-|**2024-05-30**|**On the Random Minimum Spanning Subgraph Problem for Hypergraphs**|Nikita Zvonkov et.al.|[2405.20016v1](http://arxiv.org/abs/2405.20016v1)|null|
-|**2024-05-29**|**Sparse High Dimensional Expanders via Local Lifts**|Inbar Ben Yaacov et.al.|[2405.19191v1](http://arxiv.org/abs/2405.19191v1)|null|
-|**2024-05-29**|**Global and local observability of hypergraphs**|Chencheng Zhang et.al.|[2405.18969v1](http://arxiv.org/abs/2405.18969v1)|null|
-|**2023-03-10**|**CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network**|Yumeng Song et.al.|[2303.06213v2](http://arxiv.org/abs/2303.06213v2)|null|
-|**2023-12-06**|**Non-backtracking eigenvalues and eigenvectors of random regular graphs and hypergraphs**|Xiangyi Zhu et.al.|[2312.03300v2](http://arxiv.org/abs/2312.03300v2)|null|
-|**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v2](http://arxiv.org/abs/2405.04773v2)|null|
-|**2024-05-28**|**Weak saturation rank: a failure of linear algebraic approach to weak saturation**|Nikolai Terekhov et.al.|[2405.17857v1](http://arxiv.org/abs/2405.17857v1)|null|
-|**2024-05-27**|**On the Construction of Singular and Cospectral Hypergraphs**|Liya Jess Kurian et.al.|[2405.16839v1](http://arxiv.org/abs/2405.16839v1)|null|
-|**2024-05-27**|**Hypergraph Laplacian Eigenmaps and Face Recognition Problems**|Loc Hoang Tran et.al.|[2405.16748v1](http://arxiv.org/abs/2405.16748v1)|null|
-|**2024-05-23**|**Attending to Topological Spaces: The Cellular Transformer**|Rubén Ballester et.al.|[2405.14094v2](http://arxiv.org/abs/2405.14094v2)|null|
-|**2024-05-26**|**Generalized Ramsey numbers via conflict-free hypergraph matchings**|Andrew Lane et.al.|[2405.16653v1](http://arxiv.org/abs/2405.16653v1)|null|
-|**2024-05-26**|**DPHGNN: A Dual Perspective Hypergraph Neural Networks**|Siddhant Saxena et.al.|[2405.16616v1](http://arxiv.org/abs/2405.16616v1)|null|
-|**2023-07-10**|**Extremal numbers and Sidorenko's conjecture**|David Conlon et.al.|[2307.04588v2](http://arxiv.org/abs/2307.04588v2)|null|
-|**2024-05-26**|**SE3Set: Harnessing equivariant hypergraph neural networks for molecular representation learning**|Hongfei Wu et.al.|[2405.16511v1](http://arxiv.org/abs/2405.16511v1)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -73,6 +54,25 @@
 |**2022-10-24**|**RulE: Knowledge Graph Reasoning with Rule Embedding**|Xiaojuan Tang et.al.|[2210.14905v3](http://arxiv.org/abs/2210.14905v3)|[link](https://github.com/xiaojuantang/rule)|
 |**2024-05-20**|**Formulation and evaluation of ocean dynamics problems as optimization problems for quantum annealing machines**|Takuro Matsuta et.al.|[2405.11782v1](http://arxiv.org/abs/2405.11782v1)|null|
 
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-30**|**Hypergraph-Aided Task-Resource Matching for Maximizing Value of Task Completion in Collaborative IoT Systems**|Botao Zhu et.al.|[2405.20055v1](http://arxiv.org/abs/2405.20055v1)|null|
+|**2024-05-30**|**On the Random Minimum Spanning Subgraph Problem for Hypergraphs**|Nikita Zvonkov et.al.|[2405.20016v1](http://arxiv.org/abs/2405.20016v1)|null|
+|**2024-05-29**|**Sparse High Dimensional Expanders via Local Lifts**|Inbar Ben Yaacov et.al.|[2405.19191v1](http://arxiv.org/abs/2405.19191v1)|null|
+|**2024-05-29**|**Global and local observability of hypergraphs**|Chencheng Zhang et.al.|[2405.18969v1](http://arxiv.org/abs/2405.18969v1)|null|
+|**2023-03-10**|**CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network**|Yumeng Song et.al.|[2303.06213v2](http://arxiv.org/abs/2303.06213v2)|null|
+|**2023-12-06**|**Non-backtracking eigenvalues and eigenvectors of random regular graphs and hypergraphs**|Xiangyi Zhu et.al.|[2312.03300v2](http://arxiv.org/abs/2312.03300v2)|null|
+|**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v2](http://arxiv.org/abs/2405.04773v2)|null|
+|**2024-05-28**|**Weak saturation rank: a failure of linear algebraic approach to weak saturation**|Nikolai Terekhov et.al.|[2405.17857v1](http://arxiv.org/abs/2405.17857v1)|null|
+|**2024-05-27**|**On the Construction of Singular and Cospectral Hypergraphs**|Liya Jess Kurian et.al.|[2405.16839v1](http://arxiv.org/abs/2405.16839v1)|null|
+|**2024-05-27**|**Hypergraph Laplacian Eigenmaps and Face Recognition Problems**|Loc Hoang Tran et.al.|[2405.16748v1](http://arxiv.org/abs/2405.16748v1)|null|
+|**2024-05-23**|**Attending to Topological Spaces: The Cellular Transformer**|Rubén Ballester et.al.|[2405.14094v2](http://arxiv.org/abs/2405.14094v2)|null|
+|**2024-05-26**|**Generalized Ramsey numbers via conflict-free hypergraph matchings**|Andrew Lane et.al.|[2405.16653v1](http://arxiv.org/abs/2405.16653v1)|null|
+|**2024-05-26**|**DPHGNN: A Dual Perspective Hypergraph Neural Networks**|Siddhant Saxena et.al.|[2405.16616v1](http://arxiv.org/abs/2405.16616v1)|null|
+|**2023-07-10**|**Extremal numbers and Sidorenko's conjecture**|David Conlon et.al.|[2307.04588v2](http://arxiv.org/abs/2307.04588v2)|null|
+|**2024-05-26**|**SE3Set: Harnessing equivariant hypergraph neural networks for molecular representation learning**|Hongfei Wu et.al.|[2405.16511v1](http://arxiv.org/abs/2405.16511v1)|null|
+
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -91,27 +91,6 @@
 |**2024-04-25**|**The asymptotic spectrum distance, graph limits, and the Shannon capacity**|David de Boer et.al.|[2404.16763v1](http://arxiv.org/abs/2404.16763v1)|null|
 |**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v1](http://arxiv.org/abs/2404.13822v1)|null|
 |**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213v2](http://arxiv.org/abs/2403.12213v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-30**|**Reduced Rank Regression for Mixed Predictor and Response Variables**|Mark de Rooij et.al.|[2405.19865v1](http://arxiv.org/abs/2405.19865v1)|null|
-|**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v3](http://arxiv.org/abs/2210.09279v3)|[link](https://github.com/shounakchattopadhyay/said)|
-|**2024-05-29**|**Clustering-Based Validation Splits for Domain Generalisation**|Andrea Napoli et.al.|[2405.19461v1](http://arxiv.org/abs/2405.19461v1)|null|
-|**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v2](http://arxiv.org/abs/2402.01533v2)|null|
-|**2024-05-29**|**Exploring Human-in-the-Loop Test-Time Adaptation by Synergizing Active Learning and Model Selection**|Yushu Li et.al.|[2405.18911v1](http://arxiv.org/abs/2405.18911v1)|null|
-|**2024-01-01**|**Automated Model Selection for Tabular Data**|Avinash Amballa et.al.|[2401.00961v2](http://arxiv.org/abs/2401.00961v2)|[link](https://github.com/amballaavinash/modelselection)|
-|**2024-05-28**|**The Evolution of Multimodal Model Architectures**|Shakti N. Wadekar et.al.|[2405.17927v1](http://arxiv.org/abs/2405.17927v1)|null|
-|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v5](http://arxiv.org/abs/2401.03776v5)|null|
-|**2024-05-28**|**Strong-lensing cosmography using third-generation gravitational-wave detectors**|Souvik Jana et.al.|[2405.17805v1](http://arxiv.org/abs/2405.17805v1)|null|
-|**2024-05-28**|**NASPrecision: Neural Architecture Search-Driven Multi-Stage Learning for Surface Roughness Prediction in Ultra-Precision Machining**|Penghui Ruan et.al.|[2405.17757v1](http://arxiv.org/abs/2405.17757v1)|null|
-|**2023-06-05**|**Bivariate Causal Discovery using Bayesian Model Selection**|Anish Dhir et.al.|[2306.02931v2](http://arxiv.org/abs/2306.02931v2)|null|
-|**2024-05-27**|**The Economic Implications of Large Language Model Selection on Earnings and Return on Investment: A Decision Theoretic Model**|Geraldo Xexéo et.al.|[2405.17637v1](http://arxiv.org/abs/2405.17637v1)|null|
-|**2023-02-15**|**Best Arm Identification for Stochastic Rising Bandits**|Marco Mussi et.al.|[2302.07510v3](http://arxiv.org/abs/2302.07510v3)|[link](https://github.com/montenegroalessandro/bestarmidsrb)|
-|**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v3](http://arxiv.org/abs/2404.00793v3)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
-|**2024-05-27**|**Measuring Exploration: Review and Systematic Evaluation of Modelling to Generate Alternatives Methods in Macro-Energy Systems Planning Models**|Michael Lau et.al.|[2405.17342v1](http://arxiv.org/abs/2405.17342v1)|null|
 
 ## Embedding
 
@@ -152,3 +131,24 @@
 |**2024-05-21**|**MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation**|Zhaoning Yu et.al.|[2405.12519v1](http://arxiv.org/abs/2405.12519v1)|null|
 |**2022-10-24**|**RulE: Knowledge Graph Reasoning with Rule Embedding**|Xiaojuan Tang et.al.|[2210.14905v3](http://arxiv.org/abs/2210.14905v3)|[link](https://github.com/xiaojuantang/rule)|
 |**2024-05-20**|**Formulation and evaluation of ocean dynamics problems as optimization problems for quantum annealing machines**|Takuro Matsuta et.al.|[2405.11782v1](http://arxiv.org/abs/2405.11782v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-30**|**Reduced Rank Regression for Mixed Predictor and Response Variables**|Mark de Rooij et.al.|[2405.19865v1](http://arxiv.org/abs/2405.19865v1)|null|
+|**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v3](http://arxiv.org/abs/2210.09279v3)|[link](https://github.com/shounakchattopadhyay/said)|
+|**2024-05-29**|**Clustering-Based Validation Splits for Domain Generalisation**|Andrea Napoli et.al.|[2405.19461v1](http://arxiv.org/abs/2405.19461v1)|null|
+|**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v2](http://arxiv.org/abs/2402.01533v2)|null|
+|**2024-05-29**|**Exploring Human-in-the-Loop Test-Time Adaptation by Synergizing Active Learning and Model Selection**|Yushu Li et.al.|[2405.18911v1](http://arxiv.org/abs/2405.18911v1)|null|
+|**2024-01-01**|**Automated Model Selection for Tabular Data**|Avinash Amballa et.al.|[2401.00961v2](http://arxiv.org/abs/2401.00961v2)|[link](https://github.com/amballaavinash/modelselection)|
+|**2024-05-28**|**The Evolution of Multimodal Model Architectures**|Shakti N. Wadekar et.al.|[2405.17927v1](http://arxiv.org/abs/2405.17927v1)|null|
+|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v5](http://arxiv.org/abs/2401.03776v5)|null|
+|**2024-05-28**|**Strong-lensing cosmography using third-generation gravitational-wave detectors**|Souvik Jana et.al.|[2405.17805v1](http://arxiv.org/abs/2405.17805v1)|null|
+|**2024-05-28**|**NASPrecision: Neural Architecture Search-Driven Multi-Stage Learning for Surface Roughness Prediction in Ultra-Precision Machining**|Penghui Ruan et.al.|[2405.17757v1](http://arxiv.org/abs/2405.17757v1)|null|
+|**2023-06-05**|**Bivariate Causal Discovery using Bayesian Model Selection**|Anish Dhir et.al.|[2306.02931v2](http://arxiv.org/abs/2306.02931v2)|null|
+|**2024-05-27**|**The Economic Implications of Large Language Model Selection on Earnings and Return on Investment: A Decision Theoretic Model**|Geraldo Xexéo et.al.|[2405.17637v1](http://arxiv.org/abs/2405.17637v1)|null|
+|**2023-02-15**|**Best Arm Identification for Stochastic Rising Bandits**|Marco Mussi et.al.|[2302.07510v3](http://arxiv.org/abs/2302.07510v3)|[link](https://github.com/montenegroalessandro/bestarmidsrb)|
+|**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v3](http://arxiv.org/abs/2404.00793v3)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
+|**2024-05-27**|**Measuring Exploration: Review and Systematic Evaluation of Modelling to Generate Alternatives Methods in Macro-Energy Systems Planning Models**|Michael Lau et.al.|[2405.17342v1](http://arxiv.org/abs/2405.17342v1)|null|
