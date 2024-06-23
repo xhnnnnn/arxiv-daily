@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-23 07:23:04 Asia/Shanghai
+ Automated deployment @ 2024-06-23 19:19:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,25 +34,6 @@
 |**2024-06-19**|**Root Cause Localization for Microservice Systems in Cloud-edge Collaborative Environments**|Yuhan Zhu et.al.|[2406.13604v1](http://arxiv.org/abs/2406.13604v1)|null|
 
 ## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-08**|**Improved Lower Bounds for Property B**|Karl Grill et.al.|[2403.05674v3](http://arxiv.org/abs/2403.05674v3)|null|
-|**2024-06-20**|**Tight bounds for rainbow partial $F$-tiling in edge-colored complete hypergraphs**|Jinghua Deng et.al.|[2406.14083v1](http://arxiv.org/abs/2406.14083v1)|null|
-|**2023-11-29**|**A stability result for Berge-$K_{3,t}$ $r$-graphs and its applications**|Junpeng Zhou et.al.|[2311.17573v2](http://arxiv.org/abs/2311.17573v2)|null|
-|**2024-06-19**|**Quantum Networks: from Multipartite Entanglement to Hypergraph Immersion**|Yu Tian et.al.|[2406.13452v1](http://arxiv.org/abs/2406.13452v1)|null|
-|**2024-06-19**|**When $t$-intersecting hypergraphs admit bounded $c$-strong colourings**|Kevin Hendrey et.al.|[2406.13402v1](http://arxiv.org/abs/2406.13402v1)|null|
-|**2024-05-23**|**The Boolean polynomial polytope with multiple choice constraints**|Sihong Shao et.al.|[2405.14207v2](http://arxiv.org/abs/2405.14207v2)|null|
-|**2024-06-19**|**On dual-ABAB-free and related hypergraphs**|Balázs Keszegh et.al.|[2406.13321v1](http://arxiv.org/abs/2406.13321v1)|null|
-|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph**|Daniel T. Chang et.al.|[2405.12235v4](http://arxiv.org/abs/2405.12235v4)|null|
-|**2024-06-18**|**Heritability of Kőnig's Property from finite edge sets**|Marc Kaufmann et.al.|[2406.12540v1](http://arxiv.org/abs/2406.12540v1)|null|
-|**2022-11-18**|**On the Ramsey number of daisies II**|Marcelo Sales et.al.|[2211.10385v2](http://arxiv.org/abs/2211.10385v2)|null|
-|**2022-11-18**|**On the Ramsey number of daisies I**|Pavel Pudlák et.al.|[2211.10377v2](http://arxiv.org/abs/2211.10377v2)|null|
-|**2024-06-17**|**The connection between the chromatic numbers of a hypergraph and its $1$-intersection graph**|Zoltán L. Blázsik et.al.|[2406.12118v1](http://arxiv.org/abs/2406.12118v1)|null|
-|**2024-06-17**|**Relational Learning in Pre-Trained Models: A Theory from Hypergraph Recovery Perspective**|Yang Chen et.al.|[2406.11249v1](http://arxiv.org/abs/2406.11249v1)|null|
-|**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242v1](http://arxiv.org/abs/2406.11242v1)|null|
-|**2024-06-16**|**Fair Computation Offloading for RSMA-Assisted Mobile Edge Computing Networks**|Ding Xu et.al.|[2406.10895v1](http://arxiv.org/abs/2406.10895v1)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,26 +73,24 @@
 |**2024-06-05**|**Combinatorial Optimization with Automated Graph Neural Networks**|Yang Liu et.al.|[2406.02872v2](http://arxiv.org/abs/2406.02872v2)|[link](https://github.com/amazon-science/co-with-gnns-example)|
 |**2024-06-08**|**DUPLEX: Dual GAT for Complex Embedding of Directed Graphs**|Zhaoru Ke et.al.|[2406.05391v1](http://arxiv.org/abs/2406.05391v1)|[link](https://github.com/alipay/duplex)|
 
-## Variable Selection
-
-### Variable selection
+### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|[link](https://github.com/aeon-toolkit/aeon)|
-|**2024-06-20**|**On integral priors for multiple comparison in Bayesian model selection**|Diego Salmerón et.al.|[2406.14184v1](http://arxiv.org/abs/2406.14184v1)|null|
-|**2024-06-20**|**Coverage of Credible Sets for Regression under Variable Selection**|Samhita Pal et.al.|[2406.13938v1](http://arxiv.org/abs/2406.13938v1)|null|
-|**2024-06-19**|**Encoder vs Decoder: Comparative Analysis of Encoder and Decoder Language Models on Multilingual NLU Tasks**|Dan Saattrup Nielsen et.al.|[2406.13469v1](http://arxiv.org/abs/2406.13469v1)|null|
-|**2024-06-19**|**Empirical Evaluation of Integrated Trust Mechanism to Improve Trust in E-commerce Services**|Siddiqui Muhammad Yasir et.al.|[2406.13299v1](http://arxiv.org/abs/2406.13299v1)|null|
-|**2024-02-07**|**A Bandit Approach with Evolutionary Operators for Model Selection**|Margaux Brégère et.al.|[2402.05144v2](http://arxiv.org/abs/2402.05144v2)|null|
-|**2024-06-18**|**A Comparative Study of Continuous Sign Language Recognition Techniques**|Sarah Alyami et.al.|[2406.12369v1](http://arxiv.org/abs/2406.12369v1)|null|
-|**2024-06-18**|**Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models**|Minseok Choi et.al.|[2406.12354v1](http://arxiv.org/abs/2406.12354v1)|null|
-|**2024-01-07**|**Uncertainty Quantification on Clinical Trial Outcome Prediction**|Tianyi Chen et.al.|[2401.03482v2](http://arxiv.org/abs/2401.03482v2)|[link](https://github.com/vincent-1125/uncertainty-quantification-on-clinical-trial-outcome-prediction)|
-|**2024-06-18**|**Lasso regularization for mixture experiments with noise variables**|Manuel González-Navarrete et.al.|[2406.12237v1](http://arxiv.org/abs/2406.12237v1)|null|
-|**2024-06-18**|**Model Selection for Causal Modeling in Missing Exposure Problems**|Yuliang Shi et.al.|[2406.12171v1](http://arxiv.org/abs/2406.12171v1)|null|
-|**2024-06-18**|**Statistical Uncertainty in Word Embeddings: GloVe-V**|Andrea Vallebueno et.al.|[2406.12165v1](http://arxiv.org/abs/2406.12165v1)|null|
-|**2024-01-25**|**High-dimensional Outlier Detection via Stability**|Qiang Heng et.al.|[2401.14359v3](http://arxiv.org/abs/2401.14359v3)|null|
-|**2024-06-17**|**Efficient Sequential Decision Making with Large Language Models**|Dingyang Chen et.al.|[2406.12125v1](http://arxiv.org/abs/2406.12125v1)|null|
-|**2024-06-17**|**Prompt Design Matters for Computational Social Science Tasks but in Unpredictable Ways**|Shubham Atreja et.al.|[2406.11980v1](http://arxiv.org/abs/2406.11980v1)|null|
+|**2024-03-08**|**Improved Lower Bounds for Property B**|Karl Grill et.al.|[2403.05674v3](http://arxiv.org/abs/2403.05674v3)|null|
+|**2024-06-20**|**Tight bounds for rainbow partial $F$-tiling in edge-colored complete hypergraphs**|Jinghua Deng et.al.|[2406.14083v1](http://arxiv.org/abs/2406.14083v1)|null|
+|**2023-11-29**|**A stability result for Berge-$K_{3,t}$ $r$-graphs and its applications**|Junpeng Zhou et.al.|[2311.17573v2](http://arxiv.org/abs/2311.17573v2)|null|
+|**2024-06-19**|**Quantum Networks: from Multipartite Entanglement to Hypergraph Immersion**|Yu Tian et.al.|[2406.13452v1](http://arxiv.org/abs/2406.13452v1)|null|
+|**2024-06-19**|**When $t$-intersecting hypergraphs admit bounded $c$-strong colourings**|Kevin Hendrey et.al.|[2406.13402v1](http://arxiv.org/abs/2406.13402v1)|null|
+|**2024-05-23**|**The Boolean polynomial polytope with multiple choice constraints**|Sihong Shao et.al.|[2405.14207v2](http://arxiv.org/abs/2405.14207v2)|null|
+|**2024-06-19**|**On dual-ABAB-free and related hypergraphs**|Balázs Keszegh et.al.|[2406.13321v1](http://arxiv.org/abs/2406.13321v1)|null|
+|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph**|Daniel T. Chang et.al.|[2405.12235v4](http://arxiv.org/abs/2405.12235v4)|null|
+|**2024-06-18**|**Heritability of Kőnig's Property from finite edge sets**|Marc Kaufmann et.al.|[2406.12540v1](http://arxiv.org/abs/2406.12540v1)|null|
+|**2022-11-18**|**On the Ramsey number of daisies II**|Marcelo Sales et.al.|[2211.10385v2](http://arxiv.org/abs/2211.10385v2)|null|
+|**2022-11-18**|**On the Ramsey number of daisies I**|Pavel Pudlák et.al.|[2211.10377v2](http://arxiv.org/abs/2211.10377v2)|null|
+|**2024-06-17**|**The connection between the chromatic numbers of a hypergraph and its $1$-intersection graph**|Zoltán L. Blázsik et.al.|[2406.12118v1](http://arxiv.org/abs/2406.12118v1)|null|
+|**2024-06-17**|**Relational Learning in Pre-Trained Models: A Theory from Hypergraph Recovery Perspective**|Yang Chen et.al.|[2406.11249v1](http://arxiv.org/abs/2406.11249v1)|null|
+|**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242v1](http://arxiv.org/abs/2406.11242v1)|null|
+|**2024-06-16**|**Fair Computation Offloading for RSMA-Assisted Mobile Edge Computing Networks**|Ding Xu et.al.|[2406.10895v1](http://arxiv.org/abs/2406.10895v1)|null|
 
 ## Embedding
 
@@ -152,3 +131,24 @@
 |**2024-01-11**|**Block-Diagonal Orthogonal Relation and Matrix Entity for Knowledge Graph Embedding**|Yihua Zhu et.al.|[2401.05967v2](http://arxiv.org/abs/2401.05967v2)|[link](https://github.com/yihuazhu111/orthogonale)|
 |**2024-06-05**|**Combinatorial Optimization with Automated Graph Neural Networks**|Yang Liu et.al.|[2406.02872v2](http://arxiv.org/abs/2406.02872v2)|[link](https://github.com/amazon-science/co-with-gnns-example)|
 |**2024-06-08**|**DUPLEX: Dual GAT for Complex Embedding of Directed Graphs**|Zhaoru Ke et.al.|[2406.05391v1](http://arxiv.org/abs/2406.05391v1)|[link](https://github.com/alipay/duplex)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|[link](https://github.com/aeon-toolkit/aeon)|
+|**2024-06-20**|**On integral priors for multiple comparison in Bayesian model selection**|Diego Salmerón et.al.|[2406.14184v1](http://arxiv.org/abs/2406.14184v1)|null|
+|**2024-06-20**|**Coverage of Credible Sets for Regression under Variable Selection**|Samhita Pal et.al.|[2406.13938v1](http://arxiv.org/abs/2406.13938v1)|null|
+|**2024-06-19**|**Encoder vs Decoder: Comparative Analysis of Encoder and Decoder Language Models on Multilingual NLU Tasks**|Dan Saattrup Nielsen et.al.|[2406.13469v1](http://arxiv.org/abs/2406.13469v1)|null|
+|**2024-06-19**|**Empirical Evaluation of Integrated Trust Mechanism to Improve Trust in E-commerce Services**|Siddiqui Muhammad Yasir et.al.|[2406.13299v1](http://arxiv.org/abs/2406.13299v1)|null|
+|**2024-02-07**|**A Bandit Approach with Evolutionary Operators for Model Selection**|Margaux Brégère et.al.|[2402.05144v2](http://arxiv.org/abs/2402.05144v2)|null|
+|**2024-06-18**|**A Comparative Study of Continuous Sign Language Recognition Techniques**|Sarah Alyami et.al.|[2406.12369v1](http://arxiv.org/abs/2406.12369v1)|null|
+|**2024-06-18**|**Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models**|Minseok Choi et.al.|[2406.12354v1](http://arxiv.org/abs/2406.12354v1)|null|
+|**2024-01-07**|**Uncertainty Quantification on Clinical Trial Outcome Prediction**|Tianyi Chen et.al.|[2401.03482v2](http://arxiv.org/abs/2401.03482v2)|[link](https://github.com/vincent-1125/uncertainty-quantification-on-clinical-trial-outcome-prediction)|
+|**2024-06-18**|**Lasso regularization for mixture experiments with noise variables**|Manuel González-Navarrete et.al.|[2406.12237v1](http://arxiv.org/abs/2406.12237v1)|null|
+|**2024-06-18**|**Model Selection for Causal Modeling in Missing Exposure Problems**|Yuliang Shi et.al.|[2406.12171v1](http://arxiv.org/abs/2406.12171v1)|null|
+|**2024-06-18**|**Statistical Uncertainty in Word Embeddings: GloVe-V**|Andrea Vallebueno et.al.|[2406.12165v1](http://arxiv.org/abs/2406.12165v1)|null|
+|**2024-01-25**|**High-dimensional Outlier Detection via Stability**|Qiang Heng et.al.|[2401.14359v3](http://arxiv.org/abs/2401.14359v3)|null|
+|**2024-06-17**|**Efficient Sequential Decision Making with Large Language Models**|Dingyang Chen et.al.|[2406.12125v1](http://arxiv.org/abs/2406.12125v1)|null|
+|**2024-06-17**|**Prompt Design Matters for Computational Social Science Tasks but in Unpredictable Ways**|Shubham Atreja et.al.|[2406.11980v1](http://arxiv.org/abs/2406.11980v1)|null|
