@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-20 07:24:16 Asia/Shanghai
+ Automated deployment @ 2024-07-20 19:20:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -34,6 +34,25 @@
 |**2024-07-17**|**A Brief Review of Quantum Machine Learning for Financial Services**|Mina Doosti et.al.|[2407.12618v1](http://arxiv.org/abs/2407.12618v1)|null|
 
 ## Graph Model
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-16**|**The maximum sum of the sizes of all intersections within $m$-size families**|Sumin Huang et.al.|[2407.12171v1](http://arxiv.org/abs/2407.12171v1)|null|
+|**2024-07-16**|**Explicit solutions of the Bass and SI models on hypernetworks**|Gadi Fibich et.al.|[2407.12123v1](http://arxiv.org/abs/2407.12123v1)|null|
+|**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407v1](http://arxiv.org/abs/2407.11407v1)|null|
+|**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150v2](http://arxiv.org/abs/2407.08150v2)|null|
+|**2024-07-15**|**Competition between group interactions and nonlinearity in voter dynamics on hypergraphs**|Jihye Kim et.al.|[2407.11261v1](http://arxiv.org/abs/2407.11261v1)|null|
+|**2024-07-15**|**On full-separating sets in graphs**|Dipayan Chakraborty et.al.|[2407.10595v1](http://arxiv.org/abs/2407.10595v1)|null|
+|**2023-10-31**|**Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs**|Gonzalo Contreras-Aso et.al.|[2310.20335v2](http://arxiv.org/abs/2310.20335v2)|[link](https://github.com/lacomarca-lab/non-uniform-hypergraphs)|
+|**2023-09-07**|**Looms**|Ron Aharoni et.al.|[2309.03735v2](http://arxiv.org/abs/2309.03735v2)|null|
+|**2024-07-11**|**Nonverbal Interaction Detection**|Jianan Wei et.al.|[2407.08133v2](http://arxiv.org/abs/2407.08133v2)|null|
+|**2024-05-29**|**Sparse High Dimensional Expanders via Local Lifts**|Inbar Ben Yaacov et.al.|[2405.19191v2](http://arxiv.org/abs/2405.19191v2)|null|
+|**2022-12-30**|**Hypergraph Counting and Mixed $p$-Spin Glass Models under Replica Symmetry**|Partha S. Dey et.al.|[2212.14571v2](http://arxiv.org/abs/2212.14571v2)|null|
+|**2024-07-12**|**The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges**|Sitao Luan et.al.|[2407.09618v1](http://arxiv.org/abs/2407.09618v1)|null|
+|**2024-07-12**|**STD-LLM: Understanding Both Spatial and Temporal Properties of Spatial-Temporal Data with LLMs**|Yiheng Huang et.al.|[2407.09096v1](http://arxiv.org/abs/2407.09096v1)|null|
+|**2023-10-19**|**Zarankiewicz numbers near the triple system threshold**|Guangzhou Chen et.al.|[2310.12685v2](http://arxiv.org/abs/2310.12685v2)|null|
+|**2024-07-11**|**Intersections of matroids**|Ron Aharoni et.al.|[2407.08789v1](http://arxiv.org/abs/2407.08789v1)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,25 +91,6 @@
 |**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v4](http://arxiv.org/abs/2305.18256v4)|[link](https://github.com/bdi-lab/hynt)|
 |**2024-07-02**|**Spectral Graph Reasoning Network for Hyperspectral Image Classification**|Huiling Wang et.al.|[2407.02647v2](http://arxiv.org/abs/2407.02647v2)|null|
 |**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705v1](http://arxiv.org/abs/2407.05705v1)|[link](https://github.com/seukgcode/fastkge)|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-16**|**The maximum sum of the sizes of all intersections within $m$-size families**|Sumin Huang et.al.|[2407.12171v1](http://arxiv.org/abs/2407.12171v1)|null|
-|**2024-07-16**|**Explicit solutions of the Bass and SI models on hypernetworks**|Gadi Fibich et.al.|[2407.12123v1](http://arxiv.org/abs/2407.12123v1)|null|
-|**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407v1](http://arxiv.org/abs/2407.11407v1)|null|
-|**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150v2](http://arxiv.org/abs/2407.08150v2)|null|
-|**2024-07-15**|**Competition between group interactions and nonlinearity in voter dynamics on hypergraphs**|Jihye Kim et.al.|[2407.11261v1](http://arxiv.org/abs/2407.11261v1)|null|
-|**2024-07-15**|**On full-separating sets in graphs**|Dipayan Chakraborty et.al.|[2407.10595v1](http://arxiv.org/abs/2407.10595v1)|null|
-|**2023-10-31**|**Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs**|Gonzalo Contreras-Aso et.al.|[2310.20335v2](http://arxiv.org/abs/2310.20335v2)|[link](https://github.com/lacomarca-lab/non-uniform-hypergraphs)|
-|**2023-09-07**|**Looms**|Ron Aharoni et.al.|[2309.03735v2](http://arxiv.org/abs/2309.03735v2)|null|
-|**2024-07-11**|**Nonverbal Interaction Detection**|Jianan Wei et.al.|[2407.08133v2](http://arxiv.org/abs/2407.08133v2)|null|
-|**2024-05-29**|**Sparse High Dimensional Expanders via Local Lifts**|Inbar Ben Yaacov et.al.|[2405.19191v2](http://arxiv.org/abs/2405.19191v2)|null|
-|**2022-12-30**|**Hypergraph Counting and Mixed $p$-Spin Glass Models under Replica Symmetry**|Partha S. Dey et.al.|[2212.14571v2](http://arxiv.org/abs/2212.14571v2)|null|
-|**2024-07-12**|**The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges**|Sitao Luan et.al.|[2407.09618v1](http://arxiv.org/abs/2407.09618v1)|null|
-|**2024-07-12**|**STD-LLM: Understanding Both Spatial and Temporal Properties of Spatial-Temporal Data with LLMs**|Yiheng Huang et.al.|[2407.09096v1](http://arxiv.org/abs/2407.09096v1)|null|
-|**2023-10-19**|**Zarankiewicz numbers near the triple system threshold**|Guangzhou Chen et.al.|[2310.12685v2](http://arxiv.org/abs/2310.12685v2)|null|
-|**2024-07-11**|**Intersections of matroids**|Ron Aharoni et.al.|[2407.08789v1](http://arxiv.org/abs/2407.08789v1)|null|
 
 ## Variable Selection
 
