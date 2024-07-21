@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-21 07:23:24 Asia/Shanghai
+ Automated deployment @ 2024-07-21 19:20:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,46 @@
 |**2024-07-17**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671v1](http://arxiv.org/abs/2407.12671v1)|[link](https://github.com/manoskary/graphmuse)|
 |**2024-07-17**|**Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial Vehicles Surveillance in Day and Night Dual Visions**|Alam Noor et.al.|[2407.12647v1](http://arxiv.org/abs/2407.12647v1)|null|
 |**2024-07-17**|**A Brief Review of Quantum Machine Learning for Financial Services**|Mina Doosti et.al.|[2407.12618v1](http://arxiv.org/abs/2407.12618v1)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616v1](http://arxiv.org/abs/2407.12616v1)|null|
+|**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v2](http://arxiv.org/abs/2407.09212v2)|null|
+|**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v1](http://arxiv.org/abs/2407.10649v1)|null|
+|**2024-07-14**|**Few-Shot Bioacoustic Event Detection with Frame-Level Embedding Learning System**|PengYuan Zhao et.al.|[2407.10182v1](http://arxiv.org/abs/2407.10182v1)|null|
+|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v1](http://arxiv.org/abs/2407.07171v1)|[link](https://github.com/yyliu01/it2)|
+|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517v2](http://arxiv.org/abs/2406.06517v2)|[link](https://github.com/mengflz/pathotme)|
+|**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
+|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|[link](https://github.com/yali-f/hc-glad)|
+|**2024-06-19**|**Communication-Efficient Federated Knowledge Graph Embedding with Entity-Wise Top-K Sparsification**|Xiaoxiong Zhang et.al.|[2406.13225v1](http://arxiv.org/abs/2406.13225v1)|null|
+|**2024-06-17**|**Personalized Federated Knowledge Graph Embedding with Client-Wise Relation Graph**|Xiaoxiong Zhang et.al.|[2406.11943v1](http://arxiv.org/abs/2406.11943v1)|null|
+|**2024-03-26**|**Detection of Deepfake Environmental Audio**|Hafsa Ouajdi et.al.|[2403.17529v2](http://arxiv.org/abs/2403.17529v2)|null|
+|**2024-06-11**|**Holistic Memory Diversification for Incremental Learning in Growing Graphs**|Ziyue Qiao et.al.|[2406.07413v1](http://arxiv.org/abs/2406.07413v1)|null|
+|**2023-10-06**|**On the Embedding Collapse when Scaling up Recommendation Models**|Xingzhuo Guo et.al.|[2310.04400v2](http://arxiv.org/abs/2310.04400v2)|null|
+|**2022-05-31**|**EMS: Efficient and Effective Massively Multilingual Sentence Embedding Learning**|Zhuoyuan Mao et.al.|[2205.15744v2](http://arxiv.org/abs/2205.15744v2)|[link](https://github.com/mao-ku/ems)|
+|**2024-05-30**|**Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective**|Xingyi Zhang et.al.|[2405.19649v1](http://arxiv.org/abs/2405.19649v1)|[link](https://github.com/YukinoAsuna/PPREI)|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
+|**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821v1](http://arxiv.org/abs/2407.11821v1)|null|
+|**2024-07-16**|**Discrete-Time Quantum Walks: A Quantum Advantage for Graph Representation**|Boxuan Ai et.al.|[2407.11630v1](http://arxiv.org/abs/2407.11630v1)|null|
+|**2024-03-04**|**Bipartite Graph Variational Auto-Encoder with Fair Latent Representation to Account for Sampling Bias in Ecological Networks**|Emre Anakok et.al.|[2403.02011v2](http://arxiv.org/abs/2403.02011v2)|null|
+|**2024-04-23**|**CausalLP: Learning causal relations with weighted knowledge graph link prediction**|Utkarshani Jaimini et.al.|[2405.02327v2](http://arxiv.org/abs/2405.02327v2)|[link](https://github.com/causalkg/causallp)|
+|**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909v1](http://arxiv.org/abs/2407.08909v1)|null|
+|**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
+|**2024-07-10**|**STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**|Aaron Zolnai-Lucas et.al.|[2407.12860v1](http://arxiv.org/abs/2407.12860v1)|null|
+|**2024-03-19**|**Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks**|Zhenyuan Li et.al.|[2403.12541v2](http://arxiv.org/abs/2403.12541v2)|null|
+|**2023-12-01**|**VEXIR2Vec: An Architecture-Neutral Embedding Framework for Binary Similarity**|S. VenkataKeerthy et.al.|[2312.00507v2](http://arxiv.org/abs/2312.00507v2)|[link](https://github.com/systemsecuritystorm/awesome-binary-similarity)|
+|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655v2](http://arxiv.org/abs/2401.06655v2)|[link](https://github.com/joseluisfalla/qptransfer)|
+|**2024-07-09**|**Performance Evaluation of Knowledge Graph Embedding Approaches under Non-adversarial Attacks**|Sourabh Kapoor et.al.|[2407.06855v1](http://arxiv.org/abs/2407.06855v1)|null|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v4](http://arxiv.org/abs/2305.18256v4)|[link](https://github.com/bdi-lab/hynt)|
+|**2024-07-02**|**Spectral Graph Reasoning Network for Hyperspectral Image Classification**|Huiling Wang et.al.|[2407.02647v2](http://arxiv.org/abs/2407.02647v2)|null|
+|**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705v1](http://arxiv.org/abs/2407.05705v1)|[link](https://github.com/seukgcode/fastkge)|
 
 ## Graph Model
 
@@ -112,43 +152,3 @@
 |**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation**|Yanis Lalou et.al.|[2407.11676v1](http://arxiv.org/abs/2407.11676v1)|[link](https://github.com/scikit-adaptation/skada-bench)|
 |**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v2](http://arxiv.org/abs/2407.06259v2)|[link](https://github.com/cosmostatistics/ebms_mcmc)|
 |**2024-07-15**|**CLAMS: A System for Zero-Shot Model Selection for Clustering**|Prabhant Singh et.al.|[2407.11286v1](http://arxiv.org/abs/2407.11286v1)|null|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616v1](http://arxiv.org/abs/2407.12616v1)|null|
-|**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v2](http://arxiv.org/abs/2407.09212v2)|null|
-|**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v1](http://arxiv.org/abs/2407.10649v1)|null|
-|**2024-07-14**|**Few-Shot Bioacoustic Event Detection with Frame-Level Embedding Learning System**|PengYuan Zhao et.al.|[2407.10182v1](http://arxiv.org/abs/2407.10182v1)|null|
-|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v1](http://arxiv.org/abs/2407.07171v1)|[link](https://github.com/yyliu01/it2)|
-|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517v2](http://arxiv.org/abs/2406.06517v2)|[link](https://github.com/mengflz/pathotme)|
-|**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
-|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|[link](https://github.com/yali-f/hc-glad)|
-|**2024-06-19**|**Communication-Efficient Federated Knowledge Graph Embedding with Entity-Wise Top-K Sparsification**|Xiaoxiong Zhang et.al.|[2406.13225v1](http://arxiv.org/abs/2406.13225v1)|null|
-|**2024-06-17**|**Personalized Federated Knowledge Graph Embedding with Client-Wise Relation Graph**|Xiaoxiong Zhang et.al.|[2406.11943v1](http://arxiv.org/abs/2406.11943v1)|null|
-|**2024-03-26**|**Detection of Deepfake Environmental Audio**|Hafsa Ouajdi et.al.|[2403.17529v2](http://arxiv.org/abs/2403.17529v2)|null|
-|**2024-06-11**|**Holistic Memory Diversification for Incremental Learning in Growing Graphs**|Ziyue Qiao et.al.|[2406.07413v1](http://arxiv.org/abs/2406.07413v1)|null|
-|**2023-10-06**|**On the Embedding Collapse when Scaling up Recommendation Models**|Xingzhuo Guo et.al.|[2310.04400v2](http://arxiv.org/abs/2310.04400v2)|null|
-|**2022-05-31**|**EMS: Efficient and Effective Massively Multilingual Sentence Embedding Learning**|Zhuoyuan Mao et.al.|[2205.15744v2](http://arxiv.org/abs/2205.15744v2)|[link](https://github.com/mao-ku/ems)|
-|**2024-05-30**|**Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective**|Xingyi Zhang et.al.|[2405.19649v1](http://arxiv.org/abs/2405.19649v1)|[link](https://github.com/YukinoAsuna/PPREI)|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
-|**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821v1](http://arxiv.org/abs/2407.11821v1)|null|
-|**2024-07-16**|**Discrete-Time Quantum Walks: A Quantum Advantage for Graph Representation**|Boxuan Ai et.al.|[2407.11630v1](http://arxiv.org/abs/2407.11630v1)|null|
-|**2024-03-04**|**Bipartite Graph Variational Auto-Encoder with Fair Latent Representation to Account for Sampling Bias in Ecological Networks**|Emre Anakok et.al.|[2403.02011v2](http://arxiv.org/abs/2403.02011v2)|null|
-|**2024-04-23**|**CausalLP: Learning causal relations with weighted knowledge graph link prediction**|Utkarshani Jaimini et.al.|[2405.02327v2](http://arxiv.org/abs/2405.02327v2)|[link](https://github.com/causalkg/causallp)|
-|**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909v1](http://arxiv.org/abs/2407.08909v1)|null|
-|**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
-|**2024-07-10**|**STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**|Aaron Zolnai-Lucas et.al.|[2407.12860v1](http://arxiv.org/abs/2407.12860v1)|null|
-|**2024-03-19**|**Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks**|Zhenyuan Li et.al.|[2403.12541v2](http://arxiv.org/abs/2403.12541v2)|null|
-|**2023-12-01**|**VEXIR2Vec: An Architecture-Neutral Embedding Framework for Binary Similarity**|S. VenkataKeerthy et.al.|[2312.00507v2](http://arxiv.org/abs/2312.00507v2)|[link](https://github.com/systemsecuritystorm/awesome-binary-similarity)|
-|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655v2](http://arxiv.org/abs/2401.06655v2)|[link](https://github.com/joseluisfalla/qptransfer)|
-|**2024-07-09**|**Performance Evaluation of Knowledge Graph Embedding Approaches under Non-adversarial Attacks**|Sourabh Kapoor et.al.|[2407.06855v1](http://arxiv.org/abs/2407.06855v1)|null|
-|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v4](http://arxiv.org/abs/2305.18256v4)|[link](https://github.com/bdi-lab/hynt)|
-|**2024-07-02**|**Spectral Graph Reasoning Network for Hyperspectral Image Classification**|Huiling Wang et.al.|[2407.02647v2](http://arxiv.org/abs/2407.02647v2)|null|
-|**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705v1](http://arxiv.org/abs/2407.05705v1)|[link](https://github.com/seukgcode/fastkge)|
