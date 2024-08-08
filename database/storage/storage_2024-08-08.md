@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-08 07:23:59 Asia/Shanghai
+ Automated deployment @ 2024-08-08 19:23:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -17,9 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877v1](http://arxiv.org/abs/2408.03877v1)|null|
+|**2024-06-03**|**AIFS -- ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465v2](http://arxiv.org/abs/2406.01465v2)|null|
+|**2024-08-07**|**Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks**|Jie Peng et.al.|[2408.03669v1](http://arxiv.org/abs/2408.03669v1)|null|
+|**2024-08-06**|**A Study on Quantum Graph Neural Networks Applied to Molecular Physics**|Simone Piperno et.al.|[2408.03427v1](http://arxiv.org/abs/2408.03427v1)|null|
+|**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
 |**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166v1](http://arxiv.org/abs/2408.03166v1)|null|
-|**2023-05-17**|**SIGMA: Similarity-based Efficient Global Aggregation for Heterophilous Graph Neural Networks**|Haoyu Liu et.al.|[2305.09958v3](http://arxiv.org/abs/2305.09958v3)|[link](https://github.com/conferencescode/simga)|
+|**2023-05-17**|**SIGMA: Similarity-based Efficient Global Aggregation for Heterophilous Graph Neural Networks**|Haoyu Liu et.al.|[2305.09958v3](http://arxiv.org/abs/2305.09958v3)|[link](https://github.com/conferencescode/sigma)|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899v1](http://arxiv.org/abs/2408.02899v1)|null|
 |**2023-09-15**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach**|Karuna Bhaila et.al.|[2309.08569v2](http://arxiv.org/abs/2309.08569v2)|[link](https://github.com/karuna-bhaila/rgnn)|
 |**2022-11-08**|**Review of coreference resolution in English and Persian**|Hassan Haji Mohammadi et.al.|[2211.04428v2](http://arxiv.org/abs/2211.04428v2)|null|
@@ -27,11 +32,6 @@
 |**2024-06-17**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714v2](http://arxiv.org/abs/2406.11714v2)|[link](https://github.com/Danial-sb/SE2P)|
 |**2024-07-01**|**Bridging Smoothness and Approximation: Theoretical Insights into Over-Smoothing in Graph Neural Networks**|Guangrui Yang et.al.|[2407.01281v2](http://arxiv.org/abs/2407.01281v2)|null|
 |**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111v1](http://arxiv.org/abs/2408.02111v1)|null|
-|**2024-08-04**|**Optimal and efficient text counterfactuals using Graph Neural Networks**|Dimitris Lymperopoulos et.al.|[2408.01969v1](http://arxiv.org/abs/2408.01969v1)|null|
-|**2024-08-04**|**Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification**|Honglin Gao et.al.|[2408.01964v1](http://arxiv.org/abs/2408.01964v1)|null|
-|**2024-08-04**|**Bilateral Trade Flow Prediction by Gravity-informed Graph Auto-encoder**|Naoto Minakawa et.al.|[2408.01938v1](http://arxiv.org/abs/2408.01938v1)|null|
-|**2024-08-04**|**A Comprehensive Survey on GNN Characterization**|Meng Wu et.al.|[2408.01902v1](http://arxiv.org/abs/2408.01902v1)|null|
-|**2024-07-31**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165v2](http://arxiv.org/abs/2408.00165v2)|null|
 
 ## Graph Model
 
@@ -57,6 +57,8 @@
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Cooperative colorings of hypergraphs**|Xuqing Bai et.al.|[2408.03727v1](http://arxiv.org/abs/2408.03727v1)|null|
+|**2024-08-06**|**Random Turán Problems for Hypergraph Expansions**|Jiaxi Nie et.al.|[2408.03406v1](http://arxiv.org/abs/2408.03406v1)|null|
 |**2024-08-06**|**Hypergraph Extensions of Spectral Turán Theorem**|Lele Liu et.al.|[2408.03122v1](http://arxiv.org/abs/2408.03122v1)|null|
 |**2024-08-05**|**Non-symmetric GHZ states; weighted hypergraph and controlled-unitary graph representations**|Hrachya Zakaryan et.al.|[2408.02740v1](http://arxiv.org/abs/2408.02740v1)|null|
 |**2024-02-22**|**High-arity PAC learning via exchangeability**|Leonardo N. Coregliano et.al.|[2402.14294v2](http://arxiv.org/abs/2402.14294v2)|null|
@@ -70,8 +72,6 @@
 |**2023-12-27**|**Catalytic Transformation from Computationally Universal to Strictly Universal Measurement-Based Quantum Computation**|Yuki Takeuchi et.al.|[2312.16433v2](http://arxiv.org/abs/2312.16433v2)|null|
 |**2024-07-30**|**On the energy barrier of hypergraph product codes**|Guangqi Zhao et.al.|[2407.20526v1](http://arxiv.org/abs/2407.20526v1)|null|
 |**2024-07-29**|**How to burn a Latin square**|Anthony Bonato et.al.|[2407.20370v1](http://arxiv.org/abs/2407.20370v1)|null|
-|**2024-07-29**|**Multilevel polynomial partitioning and semialgebraic hypergraphs: regularity, Turán, and Zarankiewicz results**|Jonathan Tidor et.al.|[2407.20221v1](http://arxiv.org/abs/2407.20221v1)|null|
-|**2024-07-29**|**Structure-Aware Simplification for Hypergraph Visualization**|Peter Oliver et.al.|[2407.19621v1](http://arxiv.org/abs/2407.19621v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -97,11 +97,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
 |**2023-06-27**|**Advances in projection predictive inference**|Yann McLatchie et.al.|[2306.15581v2](http://arxiv.org/abs/2306.15581v2)|[link](https://github.com/yannmclatchie/projpred-workflow)|
 |**2019-12-07**|**Deep Variable-Block Chain with Adaptive Variable Selection**|Lixiang Zhang et.al.|[1912.03573v2](http://arxiv.org/abs/1912.03573v2)|null|
 |**2024-08-05**|**Cosmological constraints from calibrated $E_p-E_{iso}$ gamma-ray burst correlation by using DESI 2024 data release**|Anna Chiara Alfano et.al.|[2408.02536v1](http://arxiv.org/abs/2408.02536v1)|null|
 |**2024-01-24**|**Fast Partition-Based Cross-Validation With Centering and Scaling for $\mathbf{X}^\mathbf{T}\mathbf{X}$ and $\mathbf{X}^\mathbf{T}\mathbf{Y}$**|Ole-Christian Galbo Engstrøm et.al.|[2401.13185v2](http://arxiv.org/abs/2401.13185v2)|null|
-|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280v1](http://arxiv.org/abs/2408.02280v1)|null|
+|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280v1](http://arxiv.org/abs/2408.02280v1)|[link](https://github.com/atraxus/ha-es)|
 |**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044v2](http://arxiv.org/abs/2404.05044v2)|null|
 |**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v1](http://arxiv.org/abs/2408.02060v1)|null|
 |**2024-08-01**|**Within-vector viral dynamics challenges how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya**|Léa Loisel et.al.|[2408.00409v2](http://arxiv.org/abs/2408.00409v2)|null|
@@ -111,7 +112,6 @@
 |**2024-08-01**|**A Dirichlet stochastic block model for composition-weighted networks**|Iuliia Promskaia et.al.|[2408.00651v1](http://arxiv.org/abs/2408.00651v1)|null|
 |**2024-03-07**|**Differentiable master equation solver for quantum device characterisation**|David L. Craig et.al.|[2403.04678v2](http://arxiv.org/abs/2403.04678v2)|null|
 |**2022-01-13**|**Space-time extremes of severe US thunderstorm environments**|Jonathan Koh et.al.|[2201.05102v3](http://arxiv.org/abs/2201.05102v3)|null|
-|**2023-11-14**|**Semi-parametric local variable selection under misspecification**|David Rossell et.al.|[2401.10235v3](http://arxiv.org/abs/2401.10235v3)|[link](https://github.com/davidrusi/paper_examples)|
 
 ## Embedding
 
