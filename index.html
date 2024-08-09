@@ -1,0 +1,1894 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="Embedding/Embedding%20Learning/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.31">
+    
+    
+      
+        <title>arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.3cba04c6.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","UA-145083103-1",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#arxiv-daily" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              arxiv-daily
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/xhnnnnn/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/xhnnnnn/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#network-statistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Statistics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Network Statistics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#network-bootstrap" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Bootstrap
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#graph-neural-network" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Neural Network
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#embedding" class="md-nav__link">
+    <span class="md-ellipsis">
+      Embedding
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Embedding">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#graph-embedding" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Embedding
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#embedding-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Embedding Learning
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#graph-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Model
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Graph Model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#graph-embedding_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Embedding
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#graphon" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graphon
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hypergraph" class="md-nav__link">
+    <span class="md-ellipsis">
+      Hypergraph
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variable-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable Selection
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Variable Selection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#variable-selection_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable selection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Embedding
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Embedding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Embedding/Embedding%20Learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Embedding Learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Embedding/Graph%20Embedding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Graph Embedding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Graph Model
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Graph Model
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Graph%20Model/Graph%20Embedding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Graph Embedding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Graph%20Model/Graphon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Graphon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Graph%20Model/Hypergraph/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hypergraph
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Network Statistics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Network Statistics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Network%20Statistics/Graph%20Neural%20Network/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Graph Neural Network
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Network%20Statistics/Network%20Bootstrap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Network Bootstrap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Variable Selection
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Variable Selection
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Variable%20Selection/Variable%20selection/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Variable selection
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#network-statistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Statistics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Network Statistics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#network-bootstrap" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Bootstrap
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#graph-neural-network" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Neural Network
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#embedding" class="md-nav__link">
+    <span class="md-ellipsis">
+      Embedding
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Embedding">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#graph-embedding" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Embedding
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#embedding-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Embedding Learning
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#graph-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Model
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Graph Model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#graph-embedding_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Embedding
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#graphon" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graphon
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hypergraph" class="md-nav__link">
+    <span class="md-ellipsis">
+      Hypergraph
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variable-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable Selection
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Variable Selection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#variable-selection_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable selection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="arxiv-daily">arxiv-daily</h1>
+<p>Automated deployment @ 2024-08-09 19:22:13 Asia/Shanghai</p>
+<blockquote>
+<p>Welcome to contribute! Add your topics and keywords in <a href="https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml"><code>topic.yml</code></a>.
+You can also view historical data through the <a href="https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage">storage</a>.</p>
+</blockquote>
+<h2 id="network-statistics">Network Statistics</h2>
+<h3 id="network-bootstrap">Network Bootstrap</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2022-03-02</strong></td>
+<td style="text-align: center;"><strong>Improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise</strong></td>
+<td style="text-align: center;">Li Meng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2203.01004v3">2203.01004v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2022-08-03</strong></td>
+<td style="text-align: center;"><strong>One Node at a Time: Node-Level Network Classification</strong></td>
+<td style="text-align: center;">Saray Shai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2208.02162v1">2208.02162v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2020-04-14</strong></td>
+<td style="text-align: center;"><strong>Edgeworth expansions for network moments</strong></td>
+<td style="text-align: center;">Yuan Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2004.06615v2">2004.06615v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/yzhanghf/NetworkEdgeworthExpansion">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2020-12-01</strong></td>
+<td style="text-align: center;"><strong>Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes</strong></td>
+<td style="text-align: center;">Damien Bouchabou et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2012.02300v1">2012.02300v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2013-03-18</strong></td>
+<td style="text-align: center;"><strong>Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles</strong></td>
+<td style="text-align: center;">Gregory Norcie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/1303.4155v2">1303.4155v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="graph-neural-network">Graph Neural Network</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs</strong></td>
+<td style="text-align: center;">Daniil A. Boiko et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04520v1">2408.04520v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/gomesgroup/simg">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>Understanding and Modeling Job Marketplace with Pretrained Language Models</strong></td>
+<td style="text-align: center;">Yaochen Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04381v1">2408.04381v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-01-15</strong></td>
+<td style="text-align: center;"><strong>Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis</strong></td>
+<td style="text-align: center;">Janghoon Ock et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2401.07408v3">2401.07408v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/hoon-ock/multi-view">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks</strong></td>
+<td style="text-align: center;">Zepu Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04193v1">2408.04193v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech</strong></td>
+<td style="text-align: center;">Khai Le-Duc et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04174v1">2408.04174v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-04-08</strong></td>
+<td style="text-align: center;"><strong>Rapid and Precise Topological Comparison with Merge Tree Neural Networks</strong></td>
+<td style="text-align: center;">Yu Qin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2404.05879v2">2404.05879v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-07</strong></td>
+<td style="text-align: center;"><strong>Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic Assignment</strong></td>
+<td style="text-align: center;">Tong Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04131v1">2408.04131v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-07</strong></td>
+<td style="text-align: center;"><strong>Deep Generative Models for Subgraph Prediction</strong></td>
+<td style="text-align: center;">Erfaneh Mahmoudzadeh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04053v1">2408.04053v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-07</strong></td>
+<td style="text-align: center;"><strong>Knowledge Probing for Graph Representation Learning</strong></td>
+<td style="text-align: center;">Mingyu Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03877v1">2408.03877v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-03</strong></td>
+<td style="text-align: center;"><strong>AIFS -- ECMWF's data-driven forecasting system</strong></td>
+<td style="text-align: center;">Simon Lang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.01465v2">2406.01465v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-07</strong></td>
+<td style="text-align: center;"><strong>Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks</strong></td>
+<td style="text-align: center;">Jie Peng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03669v1">2408.03669v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-06</strong></td>
+<td style="text-align: center;"><strong>A Study on Quantum Graph Neural Networks Applied to Molecular Physics</strong></td>
+<td style="text-align: center;">Simone Piperno et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03427v1">2408.03427v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-06</strong></td>
+<td style="text-align: center;"><strong>MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis</strong></td>
+<td style="text-align: center;">Wenqi Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03358v1">2408.03358v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-06</strong></td>
+<td style="text-align: center;"><strong>RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning</strong></td>
+<td style="text-align: center;">Jiapeng Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03195v1">2408.03195v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-06</strong></td>
+<td style="text-align: center;"><strong>CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs</strong></td>
+<td style="text-align: center;">Shangfei Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03166v1">2408.03166v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h2 id="embedding">Embedding</h2>
+<h3 id="graph-embedding">Graph Embedding</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2022-06-07</strong></td>
+<td style="text-align: center;"><strong>Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding</strong></td>
+<td style="text-align: center;">Yichen Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2206.02963v3">2206.02963v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-10-17</strong></td>
+<td style="text-align: center;"><strong>Privacy-Preserving Graph Embedding based on Local Differential Privacy</strong></td>
+<td style="text-align: center;">Zening Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2310.11060v2">2310.11060v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/Zening-Li/PrivGE">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-02</strong></td>
+<td style="text-align: center;"><strong>Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation</strong></td>
+<td style="text-align: center;">Yunwen Xia et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.01342v1">2408.01342v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora</strong></td>
+<td style="text-align: center;">Dingkun Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21714v1">2407.21714v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>Ironing the Graphs: Toward a Correct Geometric Analysis of Large-Scale Graphs</strong></td>
+<td style="text-align: center;">Saloua Naama et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21609v1">2407.21609v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-29</strong></td>
+<td style="text-align: center;"><strong>Fairness Through Controlled (Un)Awareness in Node Embeddings</strong></td>
+<td style="text-align: center;">Dennis Vetter et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.20024v1">2407.20024v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-27</strong></td>
+<td style="text-align: center;"><strong>Semantic Communication Enhanced by Knowledge Graph Representation Learning</strong></td>
+<td style="text-align: center;">Nour Hello et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.19338v1">2407.19338v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-23</strong></td>
+<td style="text-align: center;"><strong>Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning</strong></td>
+<td style="text-align: center;">Yufeng Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.16715v2">2407.16715v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-23</strong></td>
+<td style="text-align: center;"><strong>On The Expressive Power of Knowledge Graph Embedding Methods</strong></td>
+<td style="text-align: center;">Jiexing Gao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.16326v2">2407.16326v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-09-04</strong></td>
+<td style="text-align: center;"><strong>Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates</strong></td>
+<td style="text-align: center;">Yongseung Jegal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2309.03227v2">2309.03227v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/ysjegal/ysjegal-drug-repositioning">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-24</strong></td>
+<td style="text-align: center;"><strong>Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs</strong></td>
+<td style="text-align: center;">Elisavet Koutsiana et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.18278v1">2407.18278v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-09-09</strong></td>
+<td style="text-align: center;"><strong>Symplectic Structure-Aware Hamiltonian (Graph) Embeddings</strong></td>
+<td style="text-align: center;">Jiaxu Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2309.04885v4">2309.04885v4</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2019-08-02</strong></td>
+<td style="text-align: center;"><strong>Dimers on Riemann surfaces I: Temperleyan forests</strong></td>
+<td style="text-align: center;">Nathanaël Berestycki et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/1908.00832v3">1908.00832v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-19</strong></td>
+<td style="text-align: center;"><strong>QuOp: A Quantum Operator Representation for Nodes</strong></td>
+<td style="text-align: center;">Andrew Vlasic et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.14281v1">2407.14281v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-08</strong></td>
+<td style="text-align: center;"><strong>DUPLEX: Dual GAT for Complex Embedding of Directed Graphs</strong></td>
+<td style="text-align: center;">Zhaoru Ke et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.05391v2">2406.05391v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/alipay/duplex">link</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="embedding-learning">Embedding Learning</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-08-05</strong></td>
+<td style="text-align: center;"><strong>On Probabilistic Embeddings in Optimal Dimension Reduction</strong></td>
+<td style="text-align: center;">Ryan Murray et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.02433v1">2408.02433v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-11-08</strong></td>
+<td style="text-align: center;"><strong>A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction</strong></td>
+<td style="text-align: center;">Fangye Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2311.04625v3">2311.04625v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/codectr/refinectr">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-23</strong></td>
+<td style="text-align: center;"><strong>Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples</strong></td>
+<td style="text-align: center;">Soma Sato et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.15132v2">2402.15132v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-30</strong></td>
+<td style="text-align: center;"><strong>Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning</strong></td>
+<td style="text-align: center;">Omer Nacar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21139v2">2407.21139v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-04-26</strong></td>
+<td style="text-align: center;"><strong>Process Mining Embeddings: Learning Vector Representations for Petri Nets</strong></td>
+<td style="text-align: center;">Juan G. Colonna et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2404.17129v3">2404.17129v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/juancolonna/petrinet2vec">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation</strong></td>
+<td style="text-align: center;">Lin Teng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21328v1">2407.21328v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-26</strong></td>
+<td style="text-align: center;"><strong>Temporal Persistence and Intercorrelation of Embeddings Learned by an End-to-End Deep Learning Eye Movement-driven Biometrics Pipeline</strong></td>
+<td style="text-align: center;">Mehedi Hasan Raju et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.16399v2">2402.16399v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-09</strong></td>
+<td style="text-align: center;"><strong>ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation</strong></td>
+<td style="text-align: center;">Yuyuan Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.07171v2">2407.07171v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/yyliu01/it2">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-17</strong></td>
+<td style="text-align: center;"><strong>Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models</strong></td>
+<td style="text-align: center;">Donggeun Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.12616v1">2407.12616v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-12</strong></td>
+<td style="text-align: center;"><strong>Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning</strong></td>
+<td style="text-align: center;">Yunjie He et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.09212v2">2407.09212v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-15</strong></td>
+<td style="text-align: center;"><strong>APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation</strong></td>
+<td style="text-align: center;">Wangyu Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.10649v1">2407.10649v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-14</strong></td>
+<td style="text-align: center;"><strong>Few-Shot Bioacoustic Event Detection with Frame-Level Embedding Learning System</strong></td>
+<td style="text-align: center;">PengYuan Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.10182v1">2407.10182v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-10</strong></td>
+<td style="text-align: center;"><strong>Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction</strong></td>
+<td style="text-align: center;">Fangliangzi Meng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.06517v2">2406.06517v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/mengflz/pathotme">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-25</strong></td>
+<td style="text-align: center;"><strong>Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search</strong></td>
+<td style="text-align: center;">Pipi Peng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.17745v3">2406.17745v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-02</strong></td>
+<td style="text-align: center;"><strong>HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</strong></td>
+<td style="text-align: center;">Yali Fu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.02057v1">2407.02057v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/yali-f/hc-glad">link</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="graph-model">Graph Model</h2>
+<h3 id="graph-embedding_1">Graph Embedding</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2022-06-07</strong></td>
+<td style="text-align: center;"><strong>Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding</strong></td>
+<td style="text-align: center;">Yichen Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2206.02963v3">2206.02963v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-10-17</strong></td>
+<td style="text-align: center;"><strong>Privacy-Preserving Graph Embedding based on Local Differential Privacy</strong></td>
+<td style="text-align: center;">Zening Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2310.11060v2">2310.11060v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/Zening-Li/PrivGE">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-02</strong></td>
+<td style="text-align: center;"><strong>Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation</strong></td>
+<td style="text-align: center;">Yunwen Xia et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.01342v1">2408.01342v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora</strong></td>
+<td style="text-align: center;">Dingkun Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21714v1">2407.21714v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>Ironing the Graphs: Toward a Correct Geometric Analysis of Large-Scale Graphs</strong></td>
+<td style="text-align: center;">Saloua Naama et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21609v1">2407.21609v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-29</strong></td>
+<td style="text-align: center;"><strong>Fairness Through Controlled (Un)Awareness in Node Embeddings</strong></td>
+<td style="text-align: center;">Dennis Vetter et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.20024v1">2407.20024v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-27</strong></td>
+<td style="text-align: center;"><strong>Semantic Communication Enhanced by Knowledge Graph Representation Learning</strong></td>
+<td style="text-align: center;">Nour Hello et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.19338v1">2407.19338v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-23</strong></td>
+<td style="text-align: center;"><strong>Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning</strong></td>
+<td style="text-align: center;">Yufeng Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.16715v2">2407.16715v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-23</strong></td>
+<td style="text-align: center;"><strong>On The Expressive Power of Knowledge Graph Embedding Methods</strong></td>
+<td style="text-align: center;">Jiexing Gao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.16326v2">2407.16326v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-09-04</strong></td>
+<td style="text-align: center;"><strong>Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates</strong></td>
+<td style="text-align: center;">Yongseung Jegal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2309.03227v2">2309.03227v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/ysjegal/ysjegal-drug-repositioning">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-24</strong></td>
+<td style="text-align: center;"><strong>Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs</strong></td>
+<td style="text-align: center;">Elisavet Koutsiana et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.18278v1">2407.18278v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-09-09</strong></td>
+<td style="text-align: center;"><strong>Symplectic Structure-Aware Hamiltonian (Graph) Embeddings</strong></td>
+<td style="text-align: center;">Jiaxu Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2309.04885v4">2309.04885v4</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2019-08-02</strong></td>
+<td style="text-align: center;"><strong>Dimers on Riemann surfaces I: Temperleyan forests</strong></td>
+<td style="text-align: center;">Nathanaël Berestycki et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/1908.00832v3">1908.00832v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-19</strong></td>
+<td style="text-align: center;"><strong>QuOp: A Quantum Operator Representation for Nodes</strong></td>
+<td style="text-align: center;">Andrew Vlasic et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.14281v1">2407.14281v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-08</strong></td>
+<td style="text-align: center;"><strong>DUPLEX: Dual GAT for Complex Embedding of Directed Graphs</strong></td>
+<td style="text-align: center;">Zhaoru Ke et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.05391v2">2406.05391v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/alipay/duplex">link</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="graphon">Graphon</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-08-05</strong></td>
+<td style="text-align: center;"><strong>Graphon branching processes and fractional isomorphism</strong></td>
+<td style="text-align: center;">Jan Hladký et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.02528v1">2408.02528v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-01</strong></td>
+<td style="text-align: center;"><strong>Ginzburg--Landau Functionals in the Large-Graph Limit</strong></td>
+<td style="text-align: center;">Edith Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.00422v1">2408.00422v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2022-09-18</strong></td>
+<td style="text-align: center;"><strong>Weak randomness in graphons and theons</strong></td>
+<td style="text-align: center;">Leonardo N. Coregliano et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2209.08638v3">2209.08638v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-19</strong></td>
+<td style="text-align: center;"><strong>Corrections to and improvements on results from "The Laplacian spectrum of large graphs sampled from graphons"</strong></td>
+<td style="text-align: center;">Federica Garin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.14422v1">2407.14422v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-08</strong></td>
+<td style="text-align: center;"><strong>Probability graphons: the right convergence point of view</strong></td>
+<td style="text-align: center;">Giulio Zucal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.05998v1">2407.05998v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-03</strong></td>
+<td style="text-align: center;"><strong>Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization</strong></td>
+<td style="text-align: center;">Yan Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.02765v1">2407.02765v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-05-27</strong></td>
+<td style="text-align: center;"><strong>Graphon Particle Systems, Part I: Spatio-Temporal Approximation and Law of Large Numbers</strong></td>
+<td style="text-align: center;">Yan Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.16760v2">2405.16760v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-28</strong></td>
+<td style="text-align: center;"><strong>Quadratic Optimal Control of Graphon Q-noise Linear Systems</strong></td>
+<td style="text-align: center;">Alex Dunyak et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.00212v1">2407.00212v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-21</strong></td>
+<td style="text-align: center;"><strong>Breaking Consensus in Kinetic Opinion Formation Models on Graphons</strong></td>
+<td style="text-align: center;">Bertram Düring et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.14431v2">2403.14431v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-07-25</strong></td>
+<td style="text-align: center;"><strong>Transferability of Graph Neural Networks using Graphon and Sampling Theories</strong></td>
+<td style="text-align: center;">A. Martina Neuman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2307.13206v2">2307.13206v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-03-17</strong></td>
+<td style="text-align: center;"><strong>Scaling limits and universality: Critical percolation on weighted graphs converging to an $L^3$ graphon</strong></td>
+<td style="text-align: center;">Jnaneshwar Baslingker et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2303.10082v3">2303.10082v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-13</strong></td>
+<td style="text-align: center;"><strong>Nonlinear Graphon mean-field systems</strong></td>
+<td style="text-align: center;">Fabio Coppini et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.08628v3">2402.08628v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-12</strong></td>
+<td style="text-align: center;"><strong>On the equivalence of quasirandomness and exchangeable representations independent from lower-order variables</strong></td>
+<td style="text-align: center;">Leonardo N. Coregliano et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.08195v1">2406.08195v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-10</strong></td>
+<td style="text-align: center;"><strong>Unified Fourier bases for GSP on stochastic block model graphs</strong></td>
+<td style="text-align: center;">Mahya Ghandehari et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.06306v1">2406.06306v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-05-08</strong></td>
+<td style="text-align: center;"><strong>Graphon Mean Field Games with a Representative Player: Analysis and Learning Algorithm</strong></td>
+<td style="text-align: center;">Fuzhong Zhou et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.08005v2">2405.08005v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="hypergraph">Hypergraph</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-01-29</strong></td>
+<td style="text-align: center;"><strong>Turán Densities for Daisies and Hypercubes</strong></td>
+<td style="text-align: center;">David Ellis et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2401.16289v6">2401.16289v6</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-07</strong></td>
+<td style="text-align: center;"><strong>Cooperative colorings of hypergraphs</strong></td>
+<td style="text-align: center;">Xuqing Bai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03727v1">2408.03727v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-06</strong></td>
+<td style="text-align: center;"><strong>Random Turán Problems for Hypergraph Expansions</strong></td>
+<td style="text-align: center;">Jiaxi Nie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03406v1">2408.03406v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-06</strong></td>
+<td style="text-align: center;"><strong>Hypergraph Extensions of Spectral Turán Theorem</strong></td>
+<td style="text-align: center;">Lele Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.03122v1">2408.03122v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-05</strong></td>
+<td style="text-align: center;"><strong>Non-symmetric GHZ states; weighted hypergraph and controlled-unitary graph representations</strong></td>
+<td style="text-align: center;">Hrachya Zakaryan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.02740v1">2408.02740v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-22</strong></td>
+<td style="text-align: center;"><strong>High-arity PAC learning via exchangeability</strong></td>
+<td style="text-align: center;">Leonardo N. Coregliano et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.14294v2">2402.14294v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2021-09-30</strong></td>
+<td style="text-align: center;"><strong>A polynomial resultant approach to algebraic constructions of extremal graphs</strong></td>
+<td style="text-align: center;">Tao Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2109.15148v3">2109.15148v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-01-24</strong></td>
+<td style="text-align: center;"><strong>Faster Combinatorial k-Clique Algorithms</strong></td>
+<td style="text-align: center;">Amir Abboud et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2401.13502v2">2401.13502v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-12-15</strong></td>
+<td style="text-align: center;"><strong>Beyond the Holographic Entropy Cone via Cycle Flows</strong></td>
+<td style="text-align: center;">Temple He et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2312.10137v2">2312.10137v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-02</strong></td>
+<td style="text-align: center;"><strong>Cascading failures with group support in interdependent hypergraphs</strong></td>
+<td style="text-align: center;">Lei Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.01172v1">2408.01172v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-16</strong></td>
+<td style="text-align: center;"><strong>Fair Computation Offloading for RSMA-Assisted Mobile Edge Computing Networks</strong></td>
+<td style="text-align: center;">Ding Xu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.10895v2">2406.10895v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-02</strong></td>
+<td style="text-align: center;"><strong>Multimodal Fusion via Hypergraph Autoencoder and Contrastive Learning for Emotion Recognition in Conversation</strong></td>
+<td style="text-align: center;">Zijian Yi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.00970v1">2408.00970v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction</strong></td>
+<td style="text-align: center;">Seongju Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21635v1">2407.21635v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-12-27</strong></td>
+<td style="text-align: center;"><strong>Catalytic Transformation from Computationally Universal to Strictly Universal Measurement-Based Quantum Computation</strong></td>
+<td style="text-align: center;">Yuki Takeuchi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2312.16433v2">2312.16433v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-30</strong></td>
+<td style="text-align: center;"><strong>On the energy barrier of hypergraph product codes</strong></td>
+<td style="text-align: center;">Guangqi Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.20526v1">2407.20526v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h2 id="variable-selection">Variable Selection</h2>
+<h3 id="variable-selection_1">Variable selection</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization</strong></td>
+<td style="text-align: center;">Xin Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04400v1">2408.04400v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>Advances in Bayesian model selection consistency for high-dimensional generalized linear models</strong></td>
+<td style="text-align: center;">Jeyong Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04359v1">2408.04359v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-08</strong></td>
+<td style="text-align: center;"><strong>A robust approach for generalized linear models based on maximum Lq-likelihood procedure</strong></td>
+<td style="text-align: center;">Felipe Osorio et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04176v1">2408.04176v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-07</strong></td>
+<td style="text-align: center;"><strong>Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives</strong></td>
+<td style="text-align: center;">Aida Afshar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.04046v1">2408.04046v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-09-07</strong></td>
+<td style="text-align: center;"><strong>Efficient estimation and correction of selection-induced bias with order statistics</strong></td>
+<td style="text-align: center;">Yann McLatchie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2309.03742v3">2309.03742v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/yannmclatchie/model-selection-uncertainty">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-06-27</strong></td>
+<td style="text-align: center;"><strong>Advances in projection predictive inference</strong></td>
+<td style="text-align: center;">Yann McLatchie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2306.15581v2">2306.15581v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/yannmclatchie/projpred-workflow">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2019-12-07</strong></td>
+<td style="text-align: center;"><strong>Deep Variable-Block Chain with Adaptive Variable Selection</strong></td>
+<td style="text-align: center;">Lixiang Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/1912.03573v2">1912.03573v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-05</strong></td>
+<td style="text-align: center;"><strong>Cosmological constraints from calibrated $E_p-E_{iso}$ gamma-ray burst correlation by using DESI 2024 data release</strong></td>
+<td style="text-align: center;">Anna Chiara Alfano et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.02536v1">2408.02536v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-01-24</strong></td>
+<td style="text-align: center;"><strong>Fast Partition-Based Cross-Validation With Centering and Scaling for $\mathbf{X}^\mathbf{T}\mathbf{X}$ and $\mathbf{X}^\mathbf{T}\mathbf{Y}$</strong></td>
+<td style="text-align: center;">Ole-Christian Galbo Engstrøm et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2401.13185v2">2401.13185v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-05</strong></td>
+<td style="text-align: center;"><strong>Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost</strong></td>
+<td style="text-align: center;">Jannis Maier et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.02280v1">2408.02280v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/atraxus/ha-es">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-04-07</strong></td>
+<td style="text-align: center;"><strong>Clinical Trials Protocol Authoring using LLMs</strong></td>
+<td style="text-align: center;">Morteza Maleki et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2404.05044v2">2404.05044v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-04</strong></td>
+<td style="text-align: center;"><strong>Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection</strong></td>
+<td style="text-align: center;">Tianyu Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.02060v1">2408.02060v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-01</strong></td>
+<td style="text-align: center;"><strong>Within-vector viral dynamics challenges how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya</strong></td>
+<td style="text-align: center;">Léa Loisel et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.00409v2">2408.00409v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-05-06</strong></td>
+<td style="text-align: center;"><strong>Don't Waste Your Time: Early Stopping Cross-Validation</strong></td>
+<td style="text-align: center;">Edward Bergman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.03389v2">2405.03389v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/automl/dontwasteyourtime-early-stopping">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-02</strong></td>
+<td style="text-align: center;"><strong>The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models</strong></td>
+<td style="text-align: center;">Hannah Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.01285v1">2408.01285v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.indexes"], "search": "assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
