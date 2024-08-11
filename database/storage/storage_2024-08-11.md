@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-11 07:25:20 Asia/Shanghai
+ Automated deployment @ 2024-08-11 19:20:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,67 +32,6 @@
 |**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
 |**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166v1](http://arxiv.org/abs/2408.03166v1)|null|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
-|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v3](http://arxiv.org/abs/2311.04625v3)|[link](https://github.com/codectr/refinectr)|
-|**2024-02-23**|**Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples**|Soma Sato et.al.|[2402.15132v2](http://arxiv.org/abs/2402.15132v2)|null|
-|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
-|**2024-04-26**|**Process Mining Embeddings: Learning Vector Representations for Petri Nets**|Juan G. Colonna et.al.|[2404.17129v3](http://arxiv.org/abs/2404.17129v3)|[link](https://github.com/juancolonna/petrinet2vec)|
-|**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328v1](http://arxiv.org/abs/2407.21328v1)|null|
-|**2024-02-26**|**Temporal Persistence and Intercorrelation of Embeddings Learned by an End-to-End Deep Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v2](http://arxiv.org/abs/2402.16399v2)|null|
-|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v2](http://arxiv.org/abs/2407.07171v2)|[link](https://github.com/yyliu01/it2)|
-|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616v1](http://arxiv.org/abs/2407.12616v1)|null|
-|**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v2](http://arxiv.org/abs/2407.09212v2)|null|
-|**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v1](http://arxiv.org/abs/2407.10649v1)|null|
-|**2024-07-14**|**Few-Shot Bioacoustic Event Detection with Frame-Level Embedding Learning System**|PengYuan Zhao et.al.|[2407.10182v1](http://arxiv.org/abs/2407.10182v1)|null|
-|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517v2](http://arxiv.org/abs/2406.06517v2)|[link](https://github.com/mengflz/pathotme)|
-|**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
-|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|[link](https://github.com/yali-f/hc-glad)|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-07**|**Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding**|Yichen Liu et.al.|[2206.02963v3](http://arxiv.org/abs/2206.02963v3)|null|
-|**2023-10-17**|**Privacy-Preserving Graph Embedding based on Local Differential Privacy**|Zening Li et.al.|[2310.11060v2](http://arxiv.org/abs/2310.11060v2)|[link](https://github.com/Zening-Li/PrivGE)|
-|**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342v1](http://arxiv.org/abs/2408.01342v1)|null|
-|**2024-07-31**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
-|**2024-07-31**|**Ironing the Graphs: Toward a Correct Geometric Analysis of Large-Scale Graphs**|Saloua Naama et.al.|[2407.21609v1](http://arxiv.org/abs/2407.21609v1)|null|
-|**2024-07-29**|**Fairness Through Controlled (Un)Awareness in Node Embeddings**|Dennis Vetter et.al.|[2407.20024v1](http://arxiv.org/abs/2407.20024v1)|null|
-|**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
-|**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v2](http://arxiv.org/abs/2407.16715v2)|null|
-|**2024-07-23**|**On The Expressive Power of Knowledge Graph Embedding Methods**|Jiexing Gao et.al.|[2407.16326v2](http://arxiv.org/abs/2407.16326v2)|null|
-|**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227v2](http://arxiv.org/abs/2309.03227v2)|[link](https://github.com/ysjegal/ysjegal-drug-repositioning)|
-|**2024-07-24**|**Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs**|Elisavet Koutsiana et.al.|[2407.18278v1](http://arxiv.org/abs/2407.18278v1)|null|
-|**2023-09-09**|**Symplectic Structure-Aware Hamiltonian (Graph) Embeddings**|Jiaxu Liu et.al.|[2309.04885v4](http://arxiv.org/abs/2309.04885v4)|null|
-|**2019-08-02**|**Dimers on Riemann surfaces I: Temperleyan forests**|Nathanaël Berestycki et.al.|[1908.00832v3](http://arxiv.org/abs/1908.00832v3)|null|
-|**2024-07-19**|**QuOp: A Quantum Operator Representation for Nodes**|Andrew Vlasic et.al.|[2407.14281v1](http://arxiv.org/abs/2407.14281v1)|null|
-|**2024-06-08**|**DUPLEX: Dual GAT for Complex Embedding of Directed Graphs**|Zhaoru Ke et.al.|[2406.05391v2](http://arxiv.org/abs/2406.05391v2)|[link](https://github.com/alipay/duplex)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
-|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
-|**2024-08-08**|**A robust approach for generalized linear models based on maximum Lq-likelihood procedure**|Felipe Osorio et.al.|[2408.04176v1](http://arxiv.org/abs/2408.04176v1)|null|
-|**2024-08-07**|**Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives**|Aida Afshar et.al.|[2408.04046v1](http://arxiv.org/abs/2408.04046v1)|null|
-|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
-|**2023-06-27**|**Advances in projection predictive inference**|Yann McLatchie et.al.|[2306.15581v2](http://arxiv.org/abs/2306.15581v2)|[link](https://github.com/yannmclatchie/projpred-workflow)|
-|**2019-12-07**|**Deep Variable-Block Chain with Adaptive Variable Selection**|Lixiang Zhang et.al.|[1912.03573v2](http://arxiv.org/abs/1912.03573v2)|null|
-|**2024-08-05**|**Cosmological constraints from calibrated $E_p-E_{iso}$ gamma-ray burst correlation by using DESI 2024 data release**|Anna Chiara Alfano et.al.|[2408.02536v1](http://arxiv.org/abs/2408.02536v1)|null|
-|**2024-01-24**|**Fast Partition-Based Cross-Validation With Centering and Scaling for $\mathbf{X}^\mathbf{T}\mathbf{X}$ and $\mathbf{X}^\mathbf{T}\mathbf{Y}$**|Ole-Christian Galbo Engstrøm et.al.|[2401.13185v2](http://arxiv.org/abs/2401.13185v2)|null|
-|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280v1](http://arxiv.org/abs/2408.02280v1)|[link](https://github.com/atraxus/ha-es)|
-|**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044v2](http://arxiv.org/abs/2404.05044v2)|null|
-|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v1](http://arxiv.org/abs/2408.02060v1)|null|
-|**2024-08-01**|**Within-vector viral dynamics challenges how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya**|Léa Loisel et.al.|[2408.00409v2](http://arxiv.org/abs/2408.00409v2)|null|
-|**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v2](http://arxiv.org/abs/2405.03389v2)|[link](https://github.com/automl/dontwasteyourtime-early-stopping)|
-|**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285v1](http://arxiv.org/abs/2408.01285v1)|null|
 
 ## Graph Model
 
@@ -152,3 +91,64 @@
 |**2024-06-12**|**On the equivalence of quasirandomness and exchangeable representations independent from lower-order variables**|Leonardo N. Coregliano et.al.|[2406.08195v1](http://arxiv.org/abs/2406.08195v1)|null|
 |**2024-06-10**|**Unified Fourier bases for GSP on stochastic block model graphs**|Mahya Ghandehari et.al.|[2406.06306v1](http://arxiv.org/abs/2406.06306v1)|null|
 |**2024-05-08**|**Graphon Mean Field Games with a Representative Player: Analysis and Learning Algorithm**|Fuzhong Zhou et.al.|[2405.08005v2](http://arxiv.org/abs/2405.08005v2)|null|
+
+## Embedding
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-07**|**Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding**|Yichen Liu et.al.|[2206.02963v3](http://arxiv.org/abs/2206.02963v3)|null|
+|**2023-10-17**|**Privacy-Preserving Graph Embedding based on Local Differential Privacy**|Zening Li et.al.|[2310.11060v2](http://arxiv.org/abs/2310.11060v2)|[link](https://github.com/Zening-Li/PrivGE)|
+|**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342v1](http://arxiv.org/abs/2408.01342v1)|null|
+|**2024-07-31**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
+|**2024-07-31**|**Ironing the Graphs: Toward a Correct Geometric Analysis of Large-Scale Graphs**|Saloua Naama et.al.|[2407.21609v1](http://arxiv.org/abs/2407.21609v1)|null|
+|**2024-07-29**|**Fairness Through Controlled (Un)Awareness in Node Embeddings**|Dennis Vetter et.al.|[2407.20024v1](http://arxiv.org/abs/2407.20024v1)|null|
+|**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
+|**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v2](http://arxiv.org/abs/2407.16715v2)|null|
+|**2024-07-23**|**On The Expressive Power of Knowledge Graph Embedding Methods**|Jiexing Gao et.al.|[2407.16326v2](http://arxiv.org/abs/2407.16326v2)|null|
+|**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227v2](http://arxiv.org/abs/2309.03227v2)|[link](https://github.com/ysjegal/ysjegal-drug-repositioning)|
+|**2024-07-24**|**Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs**|Elisavet Koutsiana et.al.|[2407.18278v1](http://arxiv.org/abs/2407.18278v1)|null|
+|**2023-09-09**|**Symplectic Structure-Aware Hamiltonian (Graph) Embeddings**|Jiaxu Liu et.al.|[2309.04885v4](http://arxiv.org/abs/2309.04885v4)|null|
+|**2019-08-02**|**Dimers on Riemann surfaces I: Temperleyan forests**|Nathanaël Berestycki et.al.|[1908.00832v3](http://arxiv.org/abs/1908.00832v3)|null|
+|**2024-07-19**|**QuOp: A Quantum Operator Representation for Nodes**|Andrew Vlasic et.al.|[2407.14281v1](http://arxiv.org/abs/2407.14281v1)|null|
+|**2024-06-08**|**DUPLEX: Dual GAT for Complex Embedding of Directed Graphs**|Zhaoru Ke et.al.|[2406.05391v2](http://arxiv.org/abs/2406.05391v2)|[link](https://github.com/alipay/duplex)|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
+|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v3](http://arxiv.org/abs/2311.04625v3)|[link](https://github.com/codectr/refinectr)|
+|**2024-02-23**|**Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples**|Soma Sato et.al.|[2402.15132v2](http://arxiv.org/abs/2402.15132v2)|null|
+|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
+|**2024-04-26**|**Process Mining Embeddings: Learning Vector Representations for Petri Nets**|Juan G. Colonna et.al.|[2404.17129v3](http://arxiv.org/abs/2404.17129v3)|[link](https://github.com/juancolonna/petrinet2vec)|
+|**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328v1](http://arxiv.org/abs/2407.21328v1)|null|
+|**2024-02-26**|**Temporal Persistence and Intercorrelation of Embeddings Learned by an End-to-End Deep Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v2](http://arxiv.org/abs/2402.16399v2)|null|
+|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v2](http://arxiv.org/abs/2407.07171v2)|[link](https://github.com/yyliu01/it2)|
+|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616v1](http://arxiv.org/abs/2407.12616v1)|null|
+|**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v2](http://arxiv.org/abs/2407.09212v2)|null|
+|**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v1](http://arxiv.org/abs/2407.10649v1)|null|
+|**2024-07-14**|**Few-Shot Bioacoustic Event Detection with Frame-Level Embedding Learning System**|PengYuan Zhao et.al.|[2407.10182v1](http://arxiv.org/abs/2407.10182v1)|null|
+|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517v2](http://arxiv.org/abs/2406.06517v2)|[link](https://github.com/mengflz/pathotme)|
+|**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
+|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|[link](https://github.com/yali-f/hc-glad)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
+|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
+|**2024-08-08**|**A robust approach for generalized linear models based on maximum Lq-likelihood procedure**|Felipe Osorio et.al.|[2408.04176v1](http://arxiv.org/abs/2408.04176v1)|null|
+|**2024-08-07**|**Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives**|Aida Afshar et.al.|[2408.04046v1](http://arxiv.org/abs/2408.04046v1)|null|
+|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
+|**2023-06-27**|**Advances in projection predictive inference**|Yann McLatchie et.al.|[2306.15581v2](http://arxiv.org/abs/2306.15581v2)|[link](https://github.com/yannmclatchie/projpred-workflow)|
+|**2019-12-07**|**Deep Variable-Block Chain with Adaptive Variable Selection**|Lixiang Zhang et.al.|[1912.03573v2](http://arxiv.org/abs/1912.03573v2)|null|
+|**2024-08-05**|**Cosmological constraints from calibrated $E_p-E_{iso}$ gamma-ray burst correlation by using DESI 2024 data release**|Anna Chiara Alfano et.al.|[2408.02536v1](http://arxiv.org/abs/2408.02536v1)|null|
+|**2024-01-24**|**Fast Partition-Based Cross-Validation With Centering and Scaling for $\mathbf{X}^\mathbf{T}\mathbf{X}$ and $\mathbf{X}^\mathbf{T}\mathbf{Y}$**|Ole-Christian Galbo Engstrøm et.al.|[2401.13185v2](http://arxiv.org/abs/2401.13185v2)|null|
+|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280v1](http://arxiv.org/abs/2408.02280v1)|[link](https://github.com/atraxus/ha-es)|
+|**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044v2](http://arxiv.org/abs/2404.05044v2)|null|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v1](http://arxiv.org/abs/2408.02060v1)|null|
+|**2024-08-01**|**Within-vector viral dynamics challenges how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya**|Léa Loisel et.al.|[2408.00409v2](http://arxiv.org/abs/2408.00409v2)|null|
+|**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v2](http://arxiv.org/abs/2405.03389v2)|[link](https://github.com/automl/dontwasteyourtime-early-stopping)|
+|**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285v1](http://arxiv.org/abs/2408.01285v1)|null|
