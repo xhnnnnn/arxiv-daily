@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-25 07:24:06 Asia/Shanghai
+ Automated deployment @ 2024-08-25 19:23:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2024-08-21**|**Time Series Foundation Models and Deep Learning Architectures for Earthquake Temporal and Spatial Nowcasting**|Alireza Jafari et.al.|[2408.11990v1](http://arxiv.org/abs/2408.11990v1)|null|
 |**2023-06-23**|**PathMLP: Smooth Path Towards High-order Homophily**|Jiajun Zhou et.al.|[2306.13532v2](http://arxiv.org/abs/2306.13532v2)|null|
 |**2024-08-21**|**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**|Daniele Malitesta et.al.|[2408.11762v1](http://arxiv.org/abs/2408.11762v1)|[link](https://github.com/sisinflab/topology-graph-collaborative-filtering)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-14**|**Neural interval-censored survival regression with feature selection**|Carlos García Meixide et.al.|[2206.06885v3](http://arxiv.org/abs/2206.06885v3)|[link](https://github.com/meixide/spinet)|
-|**2024-08-22**|**Disclosure risk assessment with Bayesian non-parametric hierarchical modelling**|Marco Battiston et.al.|[2408.12521v1](http://arxiv.org/abs/2408.12521v1)|null|
-|**2024-08-22**|**Do we need wavelets in the late Universe?**|Luis A. Escamilla et.al.|[2408.12516v1](http://arxiv.org/abs/2408.12516v1)|null|
-|**2024-08-22**|**Multiple testing for signal-agnostic searches of new physics with machine learning**|Gaia Grosso et.al.|[2408.12296v1](http://arxiv.org/abs/2408.12296v1)|[link](https://github.com/mletizia/multiple-testing-nplm)|
-|**2024-08-22**|**Decorrelated forward regression for high dimensional data analysis**|Xuejun Jiang et.al.|[2408.12272v1](http://arxiv.org/abs/2408.12272v1)|null|
-|**2024-03-30**|**Covariate-Elaborated Robust Partial Information Transfer with Conditional Spike-and-Slab Prior**|Ruqian Zhang et.al.|[2404.03764v2](http://arxiv.org/abs/2404.03764v2)|null|
-|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v3](http://arxiv.org/abs/2309.02468v3)|[link](https://github.com/uncertaintyquantification/aiuq-matlab)|
-|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v3](http://arxiv.org/abs/2406.19380v3)|[link](https://github.com/yandex-research/tabred)|
-|**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976v1](http://arxiv.org/abs/2408.10976v1)|null|
-|**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v2](http://arxiv.org/abs/2210.02247v2)|null|
-|**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
-|**2024-08-19**|**Spatial Knockoff Bayesian Variable Selection in Genome-Wide Association Studies**|Justin J. Van Ee et.al.|[2408.10401v1](http://arxiv.org/abs/2408.10401v1)|null|
-|**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193v1](http://arxiv.org/abs/2408.10193v1)|null|
-|**2021-10-13**|**Singer separation for karaoke content generation**|Hsuan-Yu Lin et.al.|[2110.06707v4](http://arxiv.org/abs/2110.06707v4)|null|
-|**2024-08-17**|**Identifying Technical Debt and Its Types Across Diverse Software Projects Issues**|Karthik Shivashankar et.al.|[2408.09128v1](http://arxiv.org/abs/2408.09128v1)|null|
 
 ## Embedding
 
@@ -96,25 +75,6 @@
 
 ## Graph Model
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-22**|**Improved accuracy for decoding surface codes with matching synthesis**|Cody Jones et.al.|[2408.12135v1](http://arxiv.org/abs/2408.12135v1)|null|
-|**2024-08-22**|**Controllability and Observability of Temporal Hypergraphs**|Anqi Dong et.al.|[2408.12085v1](http://arxiv.org/abs/2408.12085v1)|null|
-|**2024-08-21**|**Counting simplicial pairs in hypergraphs**|Jordan Barrett et.al.|[2408.11806v1](http://arxiv.org/abs/2408.11806v1)|null|
-|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph and More**|Daniel T. Chang et.al.|[2405.12235v5](http://arxiv.org/abs/2405.12235v5)|null|
-|**2022-08-01**|**Fast erasure decoder for hypergraph product codes**|Nicholas Connolly et.al.|[2208.01002v3](http://arxiv.org/abs/2208.01002v3)|[link](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
-|**2024-08-21**|**Hypergraph Learning based Recommender System for Anomaly Detection, Control and Optimization**|Sakhinana Sagar Srinivas et.al.|[2408.11359v1](http://arxiv.org/abs/2408.11359v1)|null|
-|**2024-08-21**|**Vision HgNN: An Electron-Micrograph is Worth Hypergraph of Hypernodes**|Sakhinana Sagar Srinivas et.al.|[2408.11351v1](http://arxiv.org/abs/2408.11351v1)|null|
-|**2024-08-20**|**Realizability of hypergraphs and high-dimensional contingency tables with random degrees and marginals**|Nicholas Christo et.al.|[2408.11116v1](http://arxiv.org/abs/2408.11116v1)|null|
-|**2024-08-20**|**Colour-bias perfect matchings in hypergraphs**|Hiêp Hàn et.al.|[2408.11016v1](http://arxiv.org/abs/2408.11016v1)|null|
-|**2024-08-20**|**Combinatorial alphabet-dependent bounds for insdel codes**|Xiangliang Kong et.al.|[2408.10961v1](http://arxiv.org/abs/2408.10961v1)|null|
-|**2024-08-05**|**Various Properties of Various Ultrafilters, Various Graph Width Parameters, and Various Connectivity Systems**|Takaaki Fujita et.al.|[2408.02299v5](http://arxiv.org/abs/2408.02299v5)|null|
-|**2024-08-16**|**Short proof of the hypergraph container theorem**|Rajko Nenadov et.al.|[2408.08514v2](http://arxiv.org/abs/2408.08514v2)|null|
-|**2024-04-09**|**The Overlap Gap Property limits limit swapping in QAOA**|Mark Xin Hong Goh et.al.|[2404.06087v3](http://arxiv.org/abs/2404.06087v3)|null|
-|**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v2](http://arxiv.org/abs/2408.07084v2)|null|
-|**2024-08-19**|**Palettes determine uniform Turán density**|Ander Lamaison et.al.|[2408.09643v1](http://arxiv.org/abs/2408.09643v1)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -134,6 +94,25 @@
 |**2023-10-17**|**Privacy-Preserving Graph Embedding based on Local Differential Privacy**|Zening Li et.al.|[2310.11060v2](http://arxiv.org/abs/2310.11060v2)|[link](https://github.com/Zening-Li/PrivGE)|
 |**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342v1](http://arxiv.org/abs/2408.01342v1)|null|
 
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**Improved accuracy for decoding surface codes with matching synthesis**|Cody Jones et.al.|[2408.12135v1](http://arxiv.org/abs/2408.12135v1)|null|
+|**2024-08-22**|**Controllability and Observability of Temporal Hypergraphs**|Anqi Dong et.al.|[2408.12085v1](http://arxiv.org/abs/2408.12085v1)|null|
+|**2024-08-21**|**Counting simplicial pairs in hypergraphs**|Jordan Barrett et.al.|[2408.11806v1](http://arxiv.org/abs/2408.11806v1)|null|
+|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph and More**|Daniel T. Chang et.al.|[2405.12235v5](http://arxiv.org/abs/2405.12235v5)|null|
+|**2022-08-01**|**Fast erasure decoder for hypergraph product codes**|Nicholas Connolly et.al.|[2208.01002v3](http://arxiv.org/abs/2208.01002v3)|[link](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
+|**2024-08-21**|**Hypergraph Learning based Recommender System for Anomaly Detection, Control and Optimization**|Sakhinana Sagar Srinivas et.al.|[2408.11359v1](http://arxiv.org/abs/2408.11359v1)|null|
+|**2024-08-21**|**Vision HgNN: An Electron-Micrograph is Worth Hypergraph of Hypernodes**|Sakhinana Sagar Srinivas et.al.|[2408.11351v1](http://arxiv.org/abs/2408.11351v1)|null|
+|**2024-08-20**|**Realizability of hypergraphs and high-dimensional contingency tables with random degrees and marginals**|Nicholas Christo et.al.|[2408.11116v1](http://arxiv.org/abs/2408.11116v1)|null|
+|**2024-08-20**|**Colour-bias perfect matchings in hypergraphs**|Hiêp Hàn et.al.|[2408.11016v1](http://arxiv.org/abs/2408.11016v1)|null|
+|**2024-08-20**|**Combinatorial alphabet-dependent bounds for insdel codes**|Xiangliang Kong et.al.|[2408.10961v1](http://arxiv.org/abs/2408.10961v1)|null|
+|**2024-08-05**|**Various Properties of Various Ultrafilters, Various Graph Width Parameters, and Various Connectivity Systems**|Takaaki Fujita et.al.|[2408.02299v5](http://arxiv.org/abs/2408.02299v5)|null|
+|**2024-08-16**|**Short proof of the hypergraph container theorem**|Rajko Nenadov et.al.|[2408.08514v2](http://arxiv.org/abs/2408.08514v2)|null|
+|**2024-04-09**|**The Overlap Gap Property limits limit swapping in QAOA**|Mark Xin Hong Goh et.al.|[2404.06087v3](http://arxiv.org/abs/2404.06087v3)|null|
+|**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v2](http://arxiv.org/abs/2408.07084v2)|null|
+|**2024-08-19**|**Palettes determine uniform Turán density**|Ander Lamaison et.al.|[2408.09643v1](http://arxiv.org/abs/2408.09643v1)|null|
+
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -152,3 +131,24 @@
 |**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v2](http://arxiv.org/abs/2307.13206v2)|null|
 |**2023-03-17**|**Scaling limits and universality: Critical percolation on weighted graphs converging to an $L^3$ graphon**|Jnaneshwar Baslingker et.al.|[2303.10082v3](http://arxiv.org/abs/2303.10082v3)|null|
 |**2024-02-13**|**Nonlinear Graphon mean-field systems**|Fabio Coppini et.al.|[2402.08628v3](http://arxiv.org/abs/2402.08628v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Neural interval-censored survival regression with feature selection**|Carlos García Meixide et.al.|[2206.06885v3](http://arxiv.org/abs/2206.06885v3)|[link](https://github.com/meixide/spinet)|
+|**2024-08-22**|**Disclosure risk assessment with Bayesian non-parametric hierarchical modelling**|Marco Battiston et.al.|[2408.12521v1](http://arxiv.org/abs/2408.12521v1)|null|
+|**2024-08-22**|**Do we need wavelets in the late Universe?**|Luis A. Escamilla et.al.|[2408.12516v1](http://arxiv.org/abs/2408.12516v1)|null|
+|**2024-08-22**|**Multiple testing for signal-agnostic searches of new physics with machine learning**|Gaia Grosso et.al.|[2408.12296v1](http://arxiv.org/abs/2408.12296v1)|[link](https://github.com/mletizia/multiple-testing-nplm)|
+|**2024-08-22**|**Decorrelated forward regression for high dimensional data analysis**|Xuejun Jiang et.al.|[2408.12272v1](http://arxiv.org/abs/2408.12272v1)|null|
+|**2024-03-30**|**Covariate-Elaborated Robust Partial Information Transfer with Conditional Spike-and-Slab Prior**|Ruqian Zhang et.al.|[2404.03764v2](http://arxiv.org/abs/2404.03764v2)|null|
+|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v3](http://arxiv.org/abs/2309.02468v3)|[link](https://github.com/uncertaintyquantification/aiuq-matlab)|
+|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v3](http://arxiv.org/abs/2406.19380v3)|[link](https://github.com/yandex-research/tabred)|
+|**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976v1](http://arxiv.org/abs/2408.10976v1)|null|
+|**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v2](http://arxiv.org/abs/2210.02247v2)|null|
+|**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
+|**2024-08-19**|**Spatial Knockoff Bayesian Variable Selection in Genome-Wide Association Studies**|Justin J. Van Ee et.al.|[2408.10401v1](http://arxiv.org/abs/2408.10401v1)|null|
+|**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193v1](http://arxiv.org/abs/2408.10193v1)|null|
+|**2021-10-13**|**Singer separation for karaoke content generation**|Hsuan-Yu Lin et.al.|[2110.06707v4](http://arxiv.org/abs/2110.06707v4)|null|
+|**2024-08-17**|**Identifying Technical Debt and Its Types Across Diverse Software Projects Issues**|Karthik Shivashankar et.al.|[2408.09128v1](http://arxiv.org/abs/2408.09128v1)|null|
