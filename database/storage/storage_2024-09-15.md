@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-15 07:24:38 Asia/Shanghai
+ Automated deployment @ 2024-09-15 19:21:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2024-09-11**|**Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling**|Nicholas Beaver et.al.|[2409.07664v1](http://arxiv.org/abs/2409.07664v1)|[link](https://github.com/nicholasjbeaver/HEA-Energy-Sampling)|
 |**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679v2](http://arxiv.org/abs/2312.17679v2)|[link](https://github.com/kayzliu/godm)|
 |**2024-09-11**|**Leveraging User-Generated Reviews for Recommender Systems with Dynamic Headers**|Shanu Vashishtha et.al.|[2409.07627v1](http://arxiv.org/abs/2409.07627v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237v1](http://arxiv.org/abs/2409.08237v1)|null|
+|**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234v1](http://arxiv.org/abs/2409.08234v1)|[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
+|**2024-07-22**|**Using LASSO for Variable Selection in Exponential Random Graph models**|Sergio Buttazzo et.al.|[2407.15674v2](http://arxiv.org/abs/2407.15674v2)|null|
+|**2024-01-31**|**Penalized G-estimation for effect modifier selection in a structural nested mean model for repeated outcomes**|Ajmery Jaman et.al.|[2402.00154v3](http://arxiv.org/abs/2402.00154v3)|null|
+|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v4](http://arxiv.org/abs/2402.18450v4)|null|
+|**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314v1](http://arxiv.org/abs/2409.07314v1)|null|
+|**2023-11-03**|**Bayesian Quantile Regression with Subset Selection: A Posterior Summarization Perspective**|Joseph Feldman et.al.|[2311.02043v3](http://arxiv.org/abs/2311.02043v3)|null|
+|**2024-09-11**|**Order selection in GARMA models for count time series: a Bayesian perspective**|Katerine Zuniga Lastra et.al.|[2409.07263v1](http://arxiv.org/abs/2409.07263v1)|null|
+|**2023-02-06**|**Surrogate uncertainty estimation for your time series forecasting black-box: learn when to trust**|Leonid Erlygin et.al.|[2302.02834v2](http://arxiv.org/abs/2302.02834v2)|null|
+|**2024-09-09**|**Use Model Averaging instead of Model Selection in Pulsar Timing**|Rutger van Haasteren et.al.|[2409.06050v1](http://arxiv.org/abs/2409.06050v1)|null|
+|**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|
+|**2023-10-18**|**Self-convolved Bootstrap for M-regression under Complex Temporal Dynamics**|Miaoshiqi Liu et.al.|[2310.11724v3](http://arxiv.org/abs/2310.11724v3)|null|
+|**2024-09-08**|**Reynolds stress decay modeling informed by anisotropically forced homogeneous turbulence**|Ty Homan et.al.|[2409.05179v1](http://arxiv.org/abs/2409.05179v1)|null|
+|**2024-09-07**|**Evolutionary emergence of biological intelligence**|Takuya Isomura et.al.|[2409.04928v1](http://arxiv.org/abs/2409.04928v1)|null|
+|**2024-09-06**|**Towards Safer Online Spaces: Simulating and Assessing Intervention Strategies for Eating Disorder Discussions**|Louis Penafiel et.al.|[2409.04043v1](http://arxiv.org/abs/2409.04043v1)|null|
 
 ## Graph Model
 
@@ -131,24 +152,3 @@
 |**2024-08-27**|**Signals as submanifolds, and configurations of points**|Tatyana Barron et.al.|[2408.15375v1](http://arxiv.org/abs/2408.15375v1)|null|
 |**2024-08-15**|**Conformalized Answer Set Prediction for Knowledge Graph Embedding**|Yuqicheng Zhu et.al.|[2408.08248v2](http://arxiv.org/abs/2408.08248v2)|null|
 |**2024-08-21**|**Distributed-Memory Parallel Algorithms for Sparse Matrix and Sparse Tall-and-Skinny Matrix Multiplication**|Isuru Ranawaka et.al.|[2408.11988v1](http://arxiv.org/abs/2408.11988v1)|[link](https://github.com/HipGraph/DistGraph)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237v1](http://arxiv.org/abs/2409.08237v1)|null|
-|**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234v1](http://arxiv.org/abs/2409.08234v1)|[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
-|**2024-07-22**|**Using LASSO for Variable Selection in Exponential Random Graph models**|Sergio Buttazzo et.al.|[2407.15674v2](http://arxiv.org/abs/2407.15674v2)|null|
-|**2024-01-31**|**Penalized G-estimation for effect modifier selection in a structural nested mean model for repeated outcomes**|Ajmery Jaman et.al.|[2402.00154v3](http://arxiv.org/abs/2402.00154v3)|null|
-|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v4](http://arxiv.org/abs/2402.18450v4)|null|
-|**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314v1](http://arxiv.org/abs/2409.07314v1)|null|
-|**2023-11-03**|**Bayesian Quantile Regression with Subset Selection: A Posterior Summarization Perspective**|Joseph Feldman et.al.|[2311.02043v3](http://arxiv.org/abs/2311.02043v3)|null|
-|**2024-09-11**|**Order selection in GARMA models for count time series: a Bayesian perspective**|Katerine Zuniga Lastra et.al.|[2409.07263v1](http://arxiv.org/abs/2409.07263v1)|null|
-|**2023-02-06**|**Surrogate uncertainty estimation for your time series forecasting black-box: learn when to trust**|Leonid Erlygin et.al.|[2302.02834v2](http://arxiv.org/abs/2302.02834v2)|null|
-|**2024-09-09**|**Use Model Averaging instead of Model Selection in Pulsar Timing**|Rutger van Haasteren et.al.|[2409.06050v1](http://arxiv.org/abs/2409.06050v1)|null|
-|**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|
-|**2023-10-18**|**Self-convolved Bootstrap for M-regression under Complex Temporal Dynamics**|Miaoshiqi Liu et.al.|[2310.11724v3](http://arxiv.org/abs/2310.11724v3)|null|
-|**2024-09-08**|**Reynolds stress decay modeling informed by anisotropically forced homogeneous turbulence**|Ty Homan et.al.|[2409.05179v1](http://arxiv.org/abs/2409.05179v1)|null|
-|**2024-09-07**|**Evolutionary emergence of biological intelligence**|Takuya Isomura et.al.|[2409.04928v1](http://arxiv.org/abs/2409.04928v1)|null|
-|**2024-09-06**|**Towards Safer Online Spaces: Simulating and Assessing Intervention Strategies for Eating Disorder Discussions**|Louis Penafiel et.al.|[2409.04043v1](http://arxiv.org/abs/2409.04043v1)|null|
