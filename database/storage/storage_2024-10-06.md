@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-06 07:25:29 Asia/Shanghai
+ Automated deployment @ 2024-10-06 19:22:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -78,6 +78,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v4](http://arxiv.org/abs/2405.15429v4)|[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)|
 |**2024-10-03**|**A fast algorithm for computing a planar support for non-piercing rectangles**|Ambar Pal et.al.|[2410.02449v1](http://arxiv.org/abs/2410.02449v1)|null|
+|**2019-07-02**|**A robust graph-based approach to observational equivalence**|Dan R. Ghica et.al.|[1907.01257v3](http://arxiv.org/abs/1907.01257v3)|null|
 |**2024-10-02**|**HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks**|Sadaf Sadeghian et.al.|[2410.02087v1](http://arxiv.org/abs/2410.02087v1)|[link](https://github.com/ubc-systopia/HyperBrain)|
 |**2024-05-23**|**Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification**|Yijia Zheng et.al.|[2405.14286v2](http://arxiv.org/abs/2405.14286v2)|null|
 |**2024-10-02**|**Large Cuts in Hypergraphs via Energy**|Eero Räty et.al.|[2410.01682v1](http://arxiv.org/abs/2410.01682v1)|null|
@@ -90,7 +91,27 @@
 |**2022-12-05**|**Comparing list-color functions of uniform hypergraphs with their chromatic polynomials (III)**|Fengming Dong et.al.|[2212.02045v4](http://arxiv.org/abs/2212.02045v4)|null|
 |**2024-08-27**|**Pushing Tree Decompositions Forward Along Graph Homomorphisms**|Benjamin Merlin Bumpus et.al.|[2408.15184v3](http://arxiv.org/abs/2408.15184v3)|null|
 |**2024-09-30**|**An El-Zahar Type Theorem in $3$-graphs under Codegree Condition**|Yangyang Cheng et.al.|[2409.20535v1](http://arxiv.org/abs/2409.20535v1)|null|
-|**2024-09-30**|**Efficient Approximation of Fractional Hypertree Width**|Viktoriia Korchemna et.al.|[2409.20172v1](http://arxiv.org/abs/2409.20172v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**|Liangze Jiang et.al.|[2410.02735v1](http://arxiv.org/abs/2410.02735v1)|null|
+|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
+|**2024-07-10**|**On Leakage of Code Generation Evaluation Datasets**|Alexandre Matton et.al.|[2407.07565v3](http://arxiv.org/abs/2407.07565v3)|null|
+|**2024-02-12**|**Local Projections Inference with High-Dimensional Covariates without Sparsity**|Jooyoung Cha et.al.|[2402.07743v2](http://arxiv.org/abs/2402.07743v2)|null|
+|**2022-10-28**|**Estimation of Heterogeneous Treatment Effects Using a Conditional Moment Based Approach**|Xiaolin Sun et.al.|[2210.15829v4](http://arxiv.org/abs/2210.15829v4)|null|
+|**2024-06-18**|**Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models**|Minseok Choi et.al.|[2406.12354v2](http://arxiv.org/abs/2406.12354v2)|null|
+|**2024-02-06**|**Large language models as linguistic simulators and cognitive models in human research**|Zhicheng Lin et.al.|[2402.04470v3](http://arxiv.org/abs/2402.04470v3)|null|
+|**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793v1](http://arxiv.org/abs/2410.01793v1)|null|
+|**2024-06-12**|**Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs**|Lin Shi et.al.|[2406.07791v5](http://arxiv.org/abs/2406.07791v5)|null|
+|**2024-10-02**|**Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders**|Andreea Iana et.al.|[2410.01470v1](http://arxiv.org/abs/2410.01470v1)|null|
+|**2024-10-02**|**On discretely structured logistic models and their moments**|Benjamin J. Walker et.al.|[2410.01862v1](http://arxiv.org/abs/2410.01862v1)|null|
+|**2024-10-01**|**Development of a Statistical Predictive Model for Daily Water Table Depth and Important Variables Selection for Inference**|Alokesh Manna et.al.|[2410.01001v1](http://arxiv.org/abs/2410.01001v1)|null|
+|**2024-09-13**|**Model-independent variable selection via the rule-based variable priority**|Min Lu et.al.|[2409.09003v3](http://arxiv.org/abs/2409.09003v3)|null|
+|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v2](http://arxiv.org/abs/2311.12098v2)|null|
+|**2024-09-25**|**A flexible approach: variable selection procedures with multilayer FDR control via e-values**|Chengyao Yu et.al.|[2409.17039v2](http://arxiv.org/abs/2409.17039v2)|null|
 
 ## Embedding
 
@@ -131,24 +152,3 @@
 |**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328v1](http://arxiv.org/abs/2407.21328v1)|null|
 |**2024-02-26**|**Temporal Persistence and Intercorrelation of Embeddings Learned by an End-to-End Deep Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v2](http://arxiv.org/abs/2402.16399v2)|null|
 |**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v2](http://arxiv.org/abs/2407.07171v2)|[link](https://github.com/yyliu01/it2)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-03**|**OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**|Liangze Jiang et.al.|[2410.02735v1](http://arxiv.org/abs/2410.02735v1)|null|
-|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
-|**2024-07-10**|**On Leakage of Code Generation Evaluation Datasets**|Alexandre Matton et.al.|[2407.07565v3](http://arxiv.org/abs/2407.07565v3)|null|
-|**2024-02-12**|**Local Projections Inference with High-Dimensional Covariates without Sparsity**|Jooyoung Cha et.al.|[2402.07743v2](http://arxiv.org/abs/2402.07743v2)|null|
-|**2022-10-28**|**Estimation of Heterogeneous Treatment Effects Using a Conditional Moment Based Approach**|Xiaolin Sun et.al.|[2210.15829v4](http://arxiv.org/abs/2210.15829v4)|null|
-|**2024-06-18**|**Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models**|Minseok Choi et.al.|[2406.12354v2](http://arxiv.org/abs/2406.12354v2)|null|
-|**2024-02-06**|**Large language models as linguistic simulators and cognitive models in human research**|Zhicheng Lin et.al.|[2402.04470v3](http://arxiv.org/abs/2402.04470v3)|null|
-|**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793v1](http://arxiv.org/abs/2410.01793v1)|null|
-|**2024-06-12**|**Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs**|Lin Shi et.al.|[2406.07791v5](http://arxiv.org/abs/2406.07791v5)|null|
-|**2024-10-02**|**Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders**|Andreea Iana et.al.|[2410.01470v1](http://arxiv.org/abs/2410.01470v1)|null|
-|**2024-10-02**|**On discretely structured logistic models and their moments**|Benjamin J. Walker et.al.|[2410.01862v1](http://arxiv.org/abs/2410.01862v1)|null|
-|**2024-10-01**|**Development of a Statistical Predictive Model for Daily Water Table Depth and Important Variables Selection for Inference**|Alokesh Manna et.al.|[2410.01001v1](http://arxiv.org/abs/2410.01001v1)|null|
-|**2024-09-13**|**Model-independent variable selection via the rule-based variable priority**|Min Lu et.al.|[2409.09003v3](http://arxiv.org/abs/2409.09003v3)|null|
-|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v2](http://arxiv.org/abs/2311.12098v2)|null|
-|**2024-09-25**|**A flexible approach: variable selection procedures with multilayer FDR control via e-values**|Chengyao Yu et.al.|[2409.17039v2](http://arxiv.org/abs/2409.17039v2)|null|
