@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-09 07:27:11 Asia/Shanghai
+ Automated deployment @ 2024-10-09 19:24:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,7 +33,26 @@
 |**2024-10-05**|**Unveiling the Impact of Local Homophily on GNN Fairness: In-Depth Analysis and New Benchmarks**|Donald Loveland et.al.|[2410.04287v1](http://arxiv.org/abs/2410.04287v1)|null|
 |**2024-10-05**|**Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis**|Mengfang Sun et.al.|[2410.04283v1](http://arxiv.org/abs/2410.04283v1)|null|
 
-## Embedding
+## Graph Model
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18**|**Quantum teleportation implies symmetry-protected topological order**|Yifan Hong et.al.|[2310.12227v3](http://arxiv.org/abs/2310.12227v3)|null|
+|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171v1](http://arxiv.org/abs/2410.05171v1)|null|
+|**2022-12-16**|**Finite Hypergraph Families with Rich Extremal Turán Constructions via Mixing Patterns**|Xizhi Liu et.al.|[2212.08636v3](http://arxiv.org/abs/2212.08636v3)|null|
+|**2024-08-10**|**A Versatile Framework for Attributed Network Clustering via K-Nearest Neighbor Augmentation**|Yiran Li et.al.|[2408.05459v2](http://arxiv.org/abs/2408.05459v2)|[link](https://github.com/gongyguo/ANCKA)|
+|**2024-10-04**|**SPHINX: Structural Prediction using Hypergraph Inference Network**|Iulia Duta et.al.|[2410.03208v1](http://arxiv.org/abs/2410.03208v1)|null|
+|**2023-09-28**|**Deeper but smaller: Higher-order interactions increase linear stability but shrink basins**|Yuanzhao Zhang et.al.|[2309.16581v3](http://arxiv.org/abs/2309.16581v3)|[link](https://github.com/maximelucas/basins_and_triangles)|
+|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v4](http://arxiv.org/abs/2405.15429v4)|[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)|
+|**2024-10-03**|**A fast algorithm for computing a planar support for non-piercing rectangles**|Ambar Pal et.al.|[2410.02449v1](http://arxiv.org/abs/2410.02449v1)|null|
+|**2019-07-02**|**A robust graph-based approach to observational equivalence**|Dan R. Ghica et.al.|[1907.01257v3](http://arxiv.org/abs/1907.01257v3)|null|
+|**2024-10-02**|**HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks**|Sadaf Sadeghian et.al.|[2410.02087v1](http://arxiv.org/abs/2410.02087v1)|[link](https://github.com/ubc-systopia/HyperBrain)|
+|**2024-05-23**|**Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification**|Yijia Zheng et.al.|[2405.14286v2](http://arxiv.org/abs/2405.14286v2)|null|
+|**2024-10-02**|**Large Cuts in Hypergraphs via Energy**|Eero Räty et.al.|[2410.01682v1](http://arxiv.org/abs/2410.01682v1)|null|
+|**2024-02-08**|**Training-Free Message Passing for Learning on Hypergraphs**|Bohan Tang et.al.|[2402.05569v4](http://arxiv.org/abs/2402.05569v4)|null|
+|**2020-09-18**|**Efficient Constant-Factor Approximate Enumeration of Minimal Subsets for Monotone Properties with Weight Constraints**|Yasuaki Kobayashi et.al.|[2009.08830v5](http://arxiv.org/abs/2009.08830v5)|null|
+|**2024-09-13**|**Critical Thresholds for Maximum Cardinality Matching on General Hypergraphs**|Christopher Sumnicht et.al.|[2409.09155v2](http://arxiv.org/abs/2409.09155v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -53,27 +72,6 @@
 |**2024-09-30**|**Whole-Graph Representation Learning For the Classification of Signed Networks**|Noé Cecillon et.al.|[2409.20073v1](http://arxiv.org/abs/2409.20073v1)|[link](https://github.com/CompNet/SWGE)|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977v1](http://arxiv.org/abs/2409.19977v1)|[link](https://github.com/changyi7231/nfe)|
 |**2024-09-27**|**On the average squared radius of gyration of a family of embeddings of subdivision graphs**|Jason Cantarella et.al.|[2409.18767v1](http://arxiv.org/abs/2409.18767v1)|null|
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-23**|**Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems**|Matthew Kolodner et.al.|[2409.14682v1](http://arxiv.org/abs/2409.14682v1)|null|
-|**2024-09-19**|**Learning Multi-Manifold Embedding for Out-Of-Distribution Detection**|Jeng-Lin Li et.al.|[2409.12479v1](http://arxiv.org/abs/2409.12479v1)|null|
-|**2024-09-05**|**A Survey on Signed Graph Embedding: Methods and Applications**|Shrabani Ghosh et.al.|[2409.03916v1](http://arxiv.org/abs/2409.03916v1)|null|
-|**2024-09-02**|**A wall model for separated flows: embedded learning to improve a posteriori performance**|Zhideng Zhou et.al.|[2409.00984v1](http://arxiv.org/abs/2409.00984v1)|null|
-|**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914v1](http://arxiv.org/abs/2408.15914v1)|null|
-|**2024-07-12**|**Generating $SROI^-$ Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v4](http://arxiv.org/abs/2407.09212v4)|[link](https://github.com/royahe/acone)|
-|**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v2](http://arxiv.org/abs/2310.17712v2)|null|
-|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
-|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v3](http://arxiv.org/abs/2311.04625v3)|[link](https://github.com/codectr/refinectr)|
-|**2024-02-23**|**Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples**|Soma Sato et.al.|[2402.15132v2](http://arxiv.org/abs/2402.15132v2)|null|
-|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
-|**2024-04-26**|**Process Mining Embeddings: Learning Vector Representations for Petri Nets**|Juan G. Colonna et.al.|[2404.17129v3](http://arxiv.org/abs/2404.17129v3)|[link](https://github.com/juancolonna/petrinet2vec)|
-|**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328v1](http://arxiv.org/abs/2407.21328v1)|[link](https://github.com/tl9792/kgpl)|
-|**2024-02-26**|**Temporal Persistence and Intercorrelation of Embeddings Learned by an End-to-End Deep Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v2](http://arxiv.org/abs/2402.16399v2)|null|
-|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v2](http://arxiv.org/abs/2407.07171v2)|[link](https://github.com/yyliu01/it2)|
-
-## Graph Model
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,6 +92,27 @@
 |**2024-08-14**|**Probability graphons and P-variables: two equivalent viewpoints for dense weighted graph limits**|Giulio Zucal et.al.|[2408.07572v1](http://arxiv.org/abs/2408.07572v1)|null|
 |**2023-08-30**|**Computational Lower Bounds for Graphon Estimation via Low-degree Polynomials**|Yuetian Luo et.al.|[2308.15728v4](http://arxiv.org/abs/2308.15728v4)|null|
 
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-23**|**Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems**|Matthew Kolodner et.al.|[2409.14682v1](http://arxiv.org/abs/2409.14682v1)|null|
+|**2024-09-19**|**Learning Multi-Manifold Embedding for Out-Of-Distribution Detection**|Jeng-Lin Li et.al.|[2409.12479v1](http://arxiv.org/abs/2409.12479v1)|null|
+|**2024-09-05**|**A Survey on Signed Graph Embedding: Methods and Applications**|Shrabani Ghosh et.al.|[2409.03916v1](http://arxiv.org/abs/2409.03916v1)|null|
+|**2024-09-02**|**A wall model for separated flows: embedded learning to improve a posteriori performance**|Zhideng Zhou et.al.|[2409.00984v1](http://arxiv.org/abs/2409.00984v1)|null|
+|**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914v1](http://arxiv.org/abs/2408.15914v1)|null|
+|**2024-07-12**|**Generating $SROI^-$ Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v4](http://arxiv.org/abs/2407.09212v4)|[link](https://github.com/royahe/acone)|
+|**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v2](http://arxiv.org/abs/2310.17712v2)|null|
+|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
+|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v3](http://arxiv.org/abs/2311.04625v3)|[link](https://github.com/codectr/refinectr)|
+|**2024-02-23**|**Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples**|Soma Sato et.al.|[2402.15132v2](http://arxiv.org/abs/2402.15132v2)|null|
+|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
+|**2024-04-26**|**Process Mining Embeddings: Learning Vector Representations for Petri Nets**|Juan G. Colonna et.al.|[2404.17129v3](http://arxiv.org/abs/2404.17129v3)|[link](https://github.com/juancolonna/petrinet2vec)|
+|**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328v1](http://arxiv.org/abs/2407.21328v1)|[link](https://github.com/tl9792/kgpl)|
+|**2024-02-26**|**Temporal Persistence and Intercorrelation of Embeddings Learned by an End-to-End Deep Learning Eye Movement-driven Biometrics Pipeline**|Mehedi Hasan Raju et.al.|[2402.16399v2](http://arxiv.org/abs/2402.16399v2)|null|
+|**2024-07-09**|**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**|Yuyuan Liu et.al.|[2407.07171v2](http://arxiv.org/abs/2407.07171v2)|[link](https://github.com/yyliu01/it2)|
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,25 +131,6 @@
 |**2024-09-30**|**Whole-Graph Representation Learning For the Classification of Signed Networks**|Noé Cecillon et.al.|[2409.20073v1](http://arxiv.org/abs/2409.20073v1)|[link](https://github.com/CompNet/SWGE)|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977v1](http://arxiv.org/abs/2409.19977v1)|[link](https://github.com/changyi7231/nfe)|
 |**2024-09-27**|**On the average squared radius of gyration of a family of embeddings of subdivision graphs**|Jason Cantarella et.al.|[2409.18767v1](http://arxiv.org/abs/2409.18767v1)|null|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-18**|**Quantum teleportation implies symmetry-protected topological order**|Yifan Hong et.al.|[2310.12227v3](http://arxiv.org/abs/2310.12227v3)|null|
-|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171v1](http://arxiv.org/abs/2410.05171v1)|null|
-|**2022-12-16**|**Finite Hypergraph Families with Rich Extremal Turán Constructions via Mixing Patterns**|Xizhi Liu et.al.|[2212.08636v3](http://arxiv.org/abs/2212.08636v3)|null|
-|**2024-08-10**|**A Versatile Framework for Attributed Network Clustering via K-Nearest Neighbor Augmentation**|Yiran Li et.al.|[2408.05459v2](http://arxiv.org/abs/2408.05459v2)|[link](https://github.com/gongyguo/ANCKA)|
-|**2024-10-04**|**SPHINX: Structural Prediction using Hypergraph Inference Network**|Iulia Duta et.al.|[2410.03208v1](http://arxiv.org/abs/2410.03208v1)|null|
-|**2023-09-28**|**Deeper but smaller: Higher-order interactions increase linear stability but shrink basins**|Yuanzhao Zhang et.al.|[2309.16581v3](http://arxiv.org/abs/2309.16581v3)|[link](https://github.com/maximelucas/basins_and_triangles)|
-|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v4](http://arxiv.org/abs/2405.15429v4)|[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)|
-|**2024-10-03**|**A fast algorithm for computing a planar support for non-piercing rectangles**|Ambar Pal et.al.|[2410.02449v1](http://arxiv.org/abs/2410.02449v1)|null|
-|**2019-07-02**|**A robust graph-based approach to observational equivalence**|Dan R. Ghica et.al.|[1907.01257v3](http://arxiv.org/abs/1907.01257v3)|null|
-|**2024-10-02**|**HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks**|Sadaf Sadeghian et.al.|[2410.02087v1](http://arxiv.org/abs/2410.02087v1)|[link](https://github.com/ubc-systopia/HyperBrain)|
-|**2024-05-23**|**Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification**|Yijia Zheng et.al.|[2405.14286v2](http://arxiv.org/abs/2405.14286v2)|null|
-|**2024-10-02**|**Large Cuts in Hypergraphs via Energy**|Eero Räty et.al.|[2410.01682v1](http://arxiv.org/abs/2410.01682v1)|null|
-|**2024-02-08**|**Training-Free Message Passing for Learning on Hypergraphs**|Bohan Tang et.al.|[2402.05569v4](http://arxiv.org/abs/2402.05569v4)|null|
-|**2020-09-18**|**Efficient Constant-Factor Approximate Enumeration of Minimal Subsets for Monotone Properties with Weight Constraints**|Yasuaki Kobayashi et.al.|[2009.08830v5](http://arxiv.org/abs/2009.08830v5)|null|
-|**2024-09-13**|**Critical Thresholds for Maximum Cardinality Matching on General Hypergraphs**|Christopher Sumnicht et.al.|[2409.09155v2](http://arxiv.org/abs/2409.09155v2)|null|
 
 ## Variable Selection
 
