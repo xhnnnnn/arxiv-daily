@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-27 07:25:41 Asia/Shanghai
+ Automated deployment @ 2024-10-27 19:22:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -33,28 +33,66 @@
 |**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
 |**2024-10-17**|**Multi-frame Detection via Graph Neural Networks: A Link Prediction Approach**|Zhihao Lin et.al.|[2410.13436v2](http://arxiv.org/abs/2410.13436v2)|null|
 
-## Variable Selection
+## Embedding
 
-### Variable selection
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v1](http://arxiv.org/abs/2410.18653v1)|[link](https://github.com/YecanLee/2BeOETG)|
-|**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
-|**2024-10-24**|**Robust function-on-function interaction regression**|Ufuk Beyaztas et.al.|[2410.18338v1](http://arxiv.org/abs/2410.18338v1)|null|
-|**2024-10-23**|**Stabilizing black-box model selection with the inflated argmax**|Melissa Adrian et.al.|[2410.18268v1](http://arxiv.org/abs/2410.18268v1)|null|
-|**2024-10-22**|**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**|Zhenhao Zhang et.al.|[2410.16722v2](http://arxiv.org/abs/2410.16722v2)|null|
-|**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v2](http://arxiv.org/abs/2406.14856v2)|null|
-|**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v2](http://arxiv.org/abs/2410.16577v2)|null|
-|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
-|**2024-10-23**|**e-Values for Real-Time Residential Electricity Demand Forecast Model Selection**|Fabian Backhaus et.al.|[2410.17800v1](http://arxiv.org/abs/2410.17800v1)|null|
-|**2024-10-22**|**Impact of relativistic waveforms in LISA's science objectives with extreme-mass-ratio inspirals**|Hassan Khalvati et.al.|[2410.17310v1](http://arxiv.org/abs/2410.17310v1)|null|
-|**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238v1](http://arxiv.org/abs/2410.17238v1)|[link](https://github.com/geekan/metagpt)|
-|**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v1](http://arxiv.org/abs/2410.17108v1)|null|
-|**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v2](http://arxiv.org/abs/2406.15819v2)|[link](https://github.com/qiushuo0913/DT-powered-AMS)|
-|**2024-10-21**|**High-Fidelity Transfer of Functional Priors for Wide Bayesian Neural Networks by Learning Activations**|Marcin Sendera et.al.|[2410.15777v1](http://arxiv.org/abs/2410.15777v1)|[link](https://github.com/gmum/bnn-functional-priors)|
-|**2024-10-17**|**A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes**|Jake Robertson et.al.|[2410.13286v2](http://arxiv.org/abs/2410.13286v2)|[link](https://github.com/jr2021/ManyFairHPO-AIES)|
+|**2023-11-05**|**Pointer Networks with Q-Learning for Combinatorial Optimization**|Alessandro Barro et.al.|[2311.02629v4](http://arxiv.org/abs/2311.02629v4)|null|
+|**2024-10-24**|**DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection**|Zhonghao Jiang et.al.|[2410.18479v1](http://arxiv.org/abs/2410.18479v1)|null|
+|**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345v1](http://arxiv.org/abs/2410.18345v1)|null|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310v2](http://arxiv.org/abs/2408.06310v2)|[link](https://github.com/sevinjt/owl2vec4oa)|
+|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196v1](http://arxiv.org/abs/2410.16196v1)|null|
+|**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981v1](http://arxiv.org/abs/2410.15981v1)|null|
+|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v2](http://arxiv.org/abs/2402.19195v2)|null|
+|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
+|**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|[link](https://github.com/ins1stenc3/gder)|
+|**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733v1](http://arxiv.org/abs/2410.14733v1)|null|
+|**2024-10-14**|**Optimal Time Complexity Algorithms for Computing General Random Walk Graph Kernels on Sparse Graphs**|Krzysztof Choromanski et.al.|[2410.10368v2](http://arxiv.org/abs/2410.10368v2)|null|
+|**2024-10-15**|**Unleashing the Power of LLMs as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v1](http://arxiv.org/abs/2410.11235v1)|null|
+|**2024-10-14**|**DGRO: Diameter-Guided Ring Optimization for Integrated Research Infrastructure Membership**|Shixun Wu et.al.|[2410.11142v1](http://arxiv.org/abs/2410.11142v1)|null|
+|**2024-10-14**|**Basis number of bounded genus graphs**|Florian Lehner et.al.|[2410.10566v1](http://arxiv.org/abs/2410.10566v1)|null|
+|**2024-10-14**|**SpeGCL: Self-supervised Graph Spectrum Contrastive Learning without Positive Samples**|Yuntao Shou et.al.|[2410.10365v1](http://arxiv.org/abs/2410.10365v1)|null|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-14**|**A Simple Baseline for Predicting Events with Auto-Regressive Tabular Transformers**|Alex Stein et.al.|[2410.10648v2](http://arxiv.org/abs/2410.10648v2)|[link](https://github.com/alexstein0/event_prediction_step)|
+|**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v3](http://arxiv.org/abs/2310.17712v3)|null|
+|**2024-10-20**|**Causality for Large Language Models**|Anpeng Wu et.al.|[2410.15319v1](http://arxiv.org/abs/2410.15319v1)|[link](https://github.com/causal-machine-learning-lab/awesome-causal-llm)|
+|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v2](http://arxiv.org/abs/2407.02057v2)|[link](https://github.com/yali-f/hc-glad)|
+|**2023-10-13**|**EHI: End-to-end Learning of Hierarchical Index for Efficient Dense Retrieval**|Ramnath Kumar et.al.|[2310.08891v2](http://arxiv.org/abs/2310.08891v2)|null|
+|**2024-09-23**|**Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems**|Matthew Kolodner et.al.|[2409.14682v1](http://arxiv.org/abs/2409.14682v1)|null|
+|**2024-09-19**|**Learning Multi-Manifold Embedding for Out-Of-Distribution Detection**|Jeng-Lin Li et.al.|[2409.12479v1](http://arxiv.org/abs/2409.12479v1)|null|
+|**2024-09-05**|**A Survey on Signed Graph Embedding: Methods and Applications**|Shrabani Ghosh et.al.|[2409.03916v1](http://arxiv.org/abs/2409.03916v1)|null|
+|**2024-09-02**|**A wall model for separated flows: embedded learning to improve a posteriori performance**|Zhideng Zhou et.al.|[2409.00984v1](http://arxiv.org/abs/2409.00984v1)|null|
+|**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914v1](http://arxiv.org/abs/2408.15914v1)|null|
+|**2024-07-12**|**Generating $SROI^-$ Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v4](http://arxiv.org/abs/2407.09212v4)|[link](https://github.com/royahe/acone)|
+|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
+|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v3](http://arxiv.org/abs/2311.04625v3)|[link](https://github.com/codectr/refinectr)|
+|**2024-02-23**|**Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples**|Soma Sato et.al.|[2402.15132v2](http://arxiv.org/abs/2402.15132v2)|null|
+|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
 
 ## Graph Model
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-05**|**Pointer Networks with Q-Learning for Combinatorial Optimization**|Alessandro Barro et.al.|[2311.02629v4](http://arxiv.org/abs/2311.02629v4)|null|
+|**2024-10-24**|**DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection**|Zhonghao Jiang et.al.|[2410.18479v1](http://arxiv.org/abs/2410.18479v1)|null|
+|**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345v1](http://arxiv.org/abs/2410.18345v1)|null|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310v2](http://arxiv.org/abs/2408.06310v2)|[link](https://github.com/sevinjt/owl2vec4oa)|
+|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196v1](http://arxiv.org/abs/2410.16196v1)|null|
+|**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981v1](http://arxiv.org/abs/2410.15981v1)|null|
+|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v2](http://arxiv.org/abs/2402.19195v2)|null|
+|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
+|**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|[link](https://github.com/ins1stenc3/gder)|
+|**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733v1](http://arxiv.org/abs/2410.14733v1)|null|
+|**2024-10-14**|**Optimal Time Complexity Algorithms for Computing General Random Walk Graph Kernels on Sparse Graphs**|Krzysztof Choromanski et.al.|[2410.10368v2](http://arxiv.org/abs/2410.10368v2)|null|
+|**2024-10-15**|**Unleashing the Power of LLMs as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v1](http://arxiv.org/abs/2410.11235v1)|null|
+|**2024-10-14**|**DGRO: Diameter-Guided Ring Optimization for Integrated Research Infrastructure Membership**|Shixun Wu et.al.|[2410.11142v1](http://arxiv.org/abs/2410.11142v1)|null|
+|**2024-10-14**|**Basis number of bounded genus graphs**|Florian Lehner et.al.|[2410.10566v1](http://arxiv.org/abs/2410.10566v1)|null|
+|**2024-10-14**|**SpeGCL: Self-supervised Graph Spectrum Contrastive Learning without Positive Samples**|Yuntao Shou et.al.|[2410.10365v1](http://arxiv.org/abs/2410.10365v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,61 +132,23 @@
 |**2024-09-03**|**Graphons of Line Graphs**|Sevvandi Kandanaarachchi et.al.|[2409.01656v2](http://arxiv.org/abs/2409.01656v2)|null|
 |**2024-08-05**|**Graphon branching processes and fractional isomorphism**|Jan Hladký et.al.|[2408.02528v2](http://arxiv.org/abs/2408.02528v2)|null|
 
-### Graph Embedding
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-05**|**Pointer Networks with Q-Learning for Combinatorial Optimization**|Alessandro Barro et.al.|[2311.02629v4](http://arxiv.org/abs/2311.02629v4)|null|
-|**2024-10-24**|**DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection**|Zhonghao Jiang et.al.|[2410.18479v1](http://arxiv.org/abs/2410.18479v1)|null|
-|**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345v1](http://arxiv.org/abs/2410.18345v1)|null|
-|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310v2](http://arxiv.org/abs/2408.06310v2)|[link](https://github.com/sevinjt/owl2vec4oa)|
-|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196v1](http://arxiv.org/abs/2410.16196v1)|null|
-|**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981v1](http://arxiv.org/abs/2410.15981v1)|null|
-|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v2](http://arxiv.org/abs/2402.19195v2)|null|
-|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
-|**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|[link](https://github.com/ins1stenc3/gder)|
-|**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733v1](http://arxiv.org/abs/2410.14733v1)|null|
-|**2024-10-14**|**Optimal Time Complexity Algorithms for Computing General Random Walk Graph Kernels on Sparse Graphs**|Krzysztof Choromanski et.al.|[2410.10368v2](http://arxiv.org/abs/2410.10368v2)|null|
-|**2024-10-15**|**Unleashing the Power of LLMs as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v1](http://arxiv.org/abs/2410.11235v1)|null|
-|**2024-10-14**|**DGRO: Diameter-Guided Ring Optimization for Integrated Research Infrastructure Membership**|Shixun Wu et.al.|[2410.11142v1](http://arxiv.org/abs/2410.11142v1)|null|
-|**2024-10-14**|**Basis number of bounded genus graphs**|Florian Lehner et.al.|[2410.10566v1](http://arxiv.org/abs/2410.10566v1)|null|
-|**2024-10-14**|**SpeGCL: Self-supervised Graph Spectrum Contrastive Learning without Positive Samples**|Yuntao Shou et.al.|[2410.10365v1](http://arxiv.org/abs/2410.10365v1)|null|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-14**|**A Simple Baseline for Predicting Events with Auto-Regressive Tabular Transformers**|Alex Stein et.al.|[2410.10648v2](http://arxiv.org/abs/2410.10648v2)|[link](https://github.com/alexstein0/event_prediction_step)|
-|**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v3](http://arxiv.org/abs/2310.17712v3)|null|
-|**2024-10-20**|**Causality for Large Language Models**|Anpeng Wu et.al.|[2410.15319v1](http://arxiv.org/abs/2410.15319v1)|[link](https://github.com/causal-machine-learning-lab/awesome-causal-llm)|
-|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v2](http://arxiv.org/abs/2407.02057v2)|[link](https://github.com/yali-f/hc-glad)|
-|**2023-10-13**|**EHI: End-to-end Learning of Hierarchical Index for Efficient Dense Retrieval**|Ramnath Kumar et.al.|[2310.08891v2](http://arxiv.org/abs/2310.08891v2)|null|
-|**2024-09-23**|**Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems**|Matthew Kolodner et.al.|[2409.14682v1](http://arxiv.org/abs/2409.14682v1)|null|
-|**2024-09-19**|**Learning Multi-Manifold Embedding for Out-Of-Distribution Detection**|Jeng-Lin Li et.al.|[2409.12479v1](http://arxiv.org/abs/2409.12479v1)|null|
-|**2024-09-05**|**A Survey on Signed Graph Embedding: Methods and Applications**|Shrabani Ghosh et.al.|[2409.03916v1](http://arxiv.org/abs/2409.03916v1)|null|
-|**2024-09-02**|**A wall model for separated flows: embedded learning to improve a posteriori performance**|Zhideng Zhou et.al.|[2409.00984v1](http://arxiv.org/abs/2409.00984v1)|null|
-|**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914v1](http://arxiv.org/abs/2408.15914v1)|null|
-|**2024-07-12**|**Generating $SROI^-$ Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v4](http://arxiv.org/abs/2407.09212v4)|[link](https://github.com/royahe/acone)|
-|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
-|**2023-11-08**|**A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction**|Fangye Wang et.al.|[2311.04625v3](http://arxiv.org/abs/2311.04625v3)|[link](https://github.com/codectr/refinectr)|
-|**2024-02-23**|**Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples**|Soma Sato et.al.|[2402.15132v2](http://arxiv.org/abs/2402.15132v2)|null|
-|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-05**|**Pointer Networks with Q-Learning for Combinatorial Optimization**|Alessandro Barro et.al.|[2311.02629v4](http://arxiv.org/abs/2311.02629v4)|null|
-|**2024-10-24**|**DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection**|Zhonghao Jiang et.al.|[2410.18479v1](http://arxiv.org/abs/2410.18479v1)|null|
-|**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345v1](http://arxiv.org/abs/2410.18345v1)|null|
-|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310v2](http://arxiv.org/abs/2408.06310v2)|[link](https://github.com/sevinjt/owl2vec4oa)|
-|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196v1](http://arxiv.org/abs/2410.16196v1)|null|
-|**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981v1](http://arxiv.org/abs/2410.15981v1)|null|
-|**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v2](http://arxiv.org/abs/2402.19195v2)|null|
-|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
-|**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|[link](https://github.com/ins1stenc3/gder)|
-|**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733v1](http://arxiv.org/abs/2410.14733v1)|null|
-|**2024-10-14**|**Optimal Time Complexity Algorithms for Computing General Random Walk Graph Kernels on Sparse Graphs**|Krzysztof Choromanski et.al.|[2410.10368v2](http://arxiv.org/abs/2410.10368v2)|null|
-|**2024-10-15**|**Unleashing the Power of LLMs as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v1](http://arxiv.org/abs/2410.11235v1)|null|
-|**2024-10-14**|**DGRO: Diameter-Guided Ring Optimization for Integrated Research Infrastructure Membership**|Shixun Wu et.al.|[2410.11142v1](http://arxiv.org/abs/2410.11142v1)|null|
-|**2024-10-14**|**Basis number of bounded genus graphs**|Florian Lehner et.al.|[2410.10566v1](http://arxiv.org/abs/2410.10566v1)|null|
-|**2024-10-14**|**SpeGCL: Self-supervised Graph Spectrum Contrastive Learning without Positive Samples**|Yuntao Shou et.al.|[2410.10365v1](http://arxiv.org/abs/2410.10365v1)|null|
+|**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v1](http://arxiv.org/abs/2410.18653v1)|[link](https://github.com/YecanLee/2BeOETG)|
+|**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
+|**2024-10-24**|**Robust function-on-function interaction regression**|Ufuk Beyaztas et.al.|[2410.18338v1](http://arxiv.org/abs/2410.18338v1)|null|
+|**2024-10-23**|**Stabilizing black-box model selection with the inflated argmax**|Melissa Adrian et.al.|[2410.18268v1](http://arxiv.org/abs/2410.18268v1)|null|
+|**2024-10-22**|**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**|Zhenhao Zhang et.al.|[2410.16722v2](http://arxiv.org/abs/2410.16722v2)|null|
+|**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v2](http://arxiv.org/abs/2406.14856v2)|null|
+|**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v2](http://arxiv.org/abs/2410.16577v2)|null|
+|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
+|**2024-10-23**|**e-Values for Real-Time Residential Electricity Demand Forecast Model Selection**|Fabian Backhaus et.al.|[2410.17800v1](http://arxiv.org/abs/2410.17800v1)|null|
+|**2024-10-22**|**Impact of relativistic waveforms in LISA's science objectives with extreme-mass-ratio inspirals**|Hassan Khalvati et.al.|[2410.17310v1](http://arxiv.org/abs/2410.17310v1)|null|
+|**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238v1](http://arxiv.org/abs/2410.17238v1)|[link](https://github.com/geekan/metagpt)|
+|**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v1](http://arxiv.org/abs/2410.17108v1)|[link](https://github.com/vshirvaikar/MPmodel)|
+|**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v2](http://arxiv.org/abs/2406.15819v2)|[link](https://github.com/qiushuo0913/DT-powered-AMS)|
+|**2024-10-21**|**High-Fidelity Transfer of Functional Priors for Wide Bayesian Neural Networks by Learning Activations**|Marcin Sendera et.al.|[2410.15777v1](http://arxiv.org/abs/2410.15777v1)|[link](https://github.com/gmum/bnn-functional-priors)|
+|**2024-10-17**|**A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes**|Jake Robertson et.al.|[2410.13286v2](http://arxiv.org/abs/2410.13286v2)|[link](https://github.com/jr2021/ManyFairHPO-AIES)|
