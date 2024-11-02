@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-02 07:26:17 Asia/Shanghai
+ Automated deployment @ 2024-11-02 19:22:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -28,53 +28,13 @@
 |**2024-10-31**|**Reducing Oversmoothing through Informed Weight Initialization in Graph Neural Networks**|Dimitrios Kelesis et.al.|[2410.23830v1](http://arxiv.org/abs/2410.23830v1)|null|
 |**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812v1](http://arxiv.org/abs/2410.23812v1)|null|
 |**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753v1](http://arxiv.org/abs/2410.23753v1)|[link](https://github.com/akulen/alphagateau)|
-|**2024-10-31**|**Exploring Consistency in Graph Representations:from Graph Kernels to Graph Neural Networks**|Xuyuan Liu et.al.|[2410.23748v1](http://arxiv.org/abs/2410.23748v1)|null|
+|**2024-10-31**|**Exploring Consistency in Graph Representations:from Graph Kernels to Graph Neural Networks**|Xuyuan Liu et.al.|[2410.23748v1](http://arxiv.org/abs/2410.23748v1)|[link](https://github.com/graphminddartmouth/graph-consistency)|
 |**2024-10-31**|**Towards Dynamic Message Passing on Graphs**|Junshu Sun et.al.|[2410.23686v1](http://arxiv.org/abs/2410.23686v1)|null|
 |**2024-07-26**|**Scalable Graph Compressed Convolutions**|Junshu Sun et.al.|[2407.18480v2](http://arxiv.org/abs/2407.18480v2)|[link](https://github.com/sunjss/cocn)|
 |**2024-07-02**|**DiGRAF: Diffeomorphic Graph-Adaptive Activation Function**|Krishna Sri Ipsit Mantri et.al.|[2407.02013v2](http://arxiv.org/abs/2407.02013v2)|null|
 |**2024-10-30**|**Multi-fidelity Machine Learning for Uncertainty Quantification and Optimization**|Ruda Zhang et.al.|[2410.23482v1](http://arxiv.org/abs/2410.23482v1)|null|
 
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-28**|**Accelerated Bayesian parameter estimation and model selection for gravitational waves with normalizing flows**|Alicja Polanska et.al.|[2410.21076v2](http://arxiv.org/abs/2410.21076v2)|null|
-|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v7](http://arxiv.org/abs/2008.11140v7)|null|
-|**2024-10-31**|**Leveraging LLMs for MT in Crisis Scenarios: a blueprint for low-resource languages**|Séamus Lankford et.al.|[2410.23890v1](http://arxiv.org/abs/2410.23890v1)|null|
-|**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164v2](http://arxiv.org/abs/2407.12164v2)|null|
-|**2024-05-22**|**Symmetric Linear Bandits with Hidden Symmetry**|Nam Phuong Tran et.al.|[2405.13899v2](http://arxiv.org/abs/2405.13899v2)|null|
-|**2024-10-28**|**Approximate Bayesian Computation with Statistical Distances for Model Selection**|Christian Angelopoulos et.al.|[2410.21603v2](http://arxiv.org/abs/2410.21603v2)|null|
-|**2024-06-20**|**Exploring Design Choices for Building Language-Specific LLMs**|Atula Tejaswi et.al.|[2406.14670v2](http://arxiv.org/abs/2406.14670v2)|[link](https://github.com/atutej/token-language-adaptation)|
-|**2024-10-30**|**Uniform Sampling of Negative Edge Weights in Shortest Path Networks**|Lukas Geis et.al.|[2410.22717v1](http://arxiv.org/abs/2410.22717v1)|null|
-|**2022-04-17**|**Multi-Model Subset Selection**|Anthony-Alexander Christidis et.al.|[2204.08100v4](http://arxiv.org/abs/2204.08100v4)|null|
-|**2024-04-16**|**Exploring the Role of Token in Transformer-based Time Series Forecasting**|Jianqi Zhang et.al.|[2404.10337v3](http://arxiv.org/abs/2404.10337v3)|[link](https://github.com/jlu-phycomputer/t2b-pe)|
-|**2024-10-29**|**Bayesian shared parameter joint models for heterogeneous populations**|Sida Chen et.al.|[2410.22534v1](http://arxiv.org/abs/2410.22534v1)|null|
-|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425v1](http://arxiv.org/abs/2410.22425v1)|null|
-|**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248v1](http://arxiv.org/abs/2410.22248v1)|null|
-|**2024-10-29**|**Are Decoder-Only Large Language Models the Silver Bullet for Code Search?**|Yuxuan Chen et.al.|[2410.22240v1](http://arxiv.org/abs/2410.22240v1)|null|
-|**2024-10-29**|**Bayesian Stability Selection and Inference on Inclusion Probabilities**|Mahdi Nouraie et.al.|[2410.21914v1](http://arxiv.org/abs/2410.21914v1)|null|
-
 ## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
-|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
-|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
-|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
-|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
-|**2024-10-15**|**Interacting particle systems on sparse $W$-random graphs**|Carla Crucianelli et.al.|[2410.11240v1](http://arxiv.org/abs/2410.11240v1)|null|
-|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746v1](http://arxiv.org/abs/2410.08746v1)|null|
-|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
-|**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
-|**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
-|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
-|**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v2](http://arxiv.org/abs/2404.13822v2)|null|
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v3](http://arxiv.org/abs/2401.00665v3)|null|
-|**2024-09-03**|**Graphons of Line Graphs**|Sevvandi Kandanaarachchi et.al.|[2409.01656v2](http://arxiv.org/abs/2409.01656v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -99,7 +59,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-31**|**Partial Algebraic Shifting**|Antony Della Vecchia et.al.|[2410.24044v1](http://arxiv.org/abs/2410.24044v1)|null|
-|**2024-10-31**|**Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting**|Zongjiang Shang et.al.|[2410.23992v1](http://arxiv.org/abs/2410.23992v1)|[link](https://github.com/shangzongjiang/Ada-MSHyper)|
+|**2024-10-31**|**Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting**|Zongjiang Shang et.al.|[2410.23992v1](http://arxiv.org/abs/2410.23992v1)|null|
 |**2024-10-24**|**Improving Information Diffusion Prediction by Tackling Noise and Sparsity Challenges**|Songbo Yang et.al.|[2410.18492v3](http://arxiv.org/abs/2410.18492v3)|null|
 |**2024-10-31**|**Matroidal Cycles and Hypergraph Families**|Ragnar Freij-Hollanti et.al.|[2410.23932v1](http://arxiv.org/abs/2410.23932v1)|null|
 |**2024-10-31**|**Clustering Coefficient Reflecting Pairwise Relationships within Hyperedges**|Rikuya Miyashita et.al.|[2410.23799v1](http://arxiv.org/abs/2410.23799v1)|null|
@@ -113,6 +73,46 @@
 |**2023-11-07**|**Structure and inference in hypergraphs with node attributes**|Anna Badalyan et.al.|[2311.03857v2](http://arxiv.org/abs/2311.03857v2)|[link](https://github.com/badalyananna/hycosbm)|
 |**2024-10-30**|**Cops & Robber on Periodic Temporal Graphs**|Jean-Lou De Carufel et.al.|[2410.22618v1](http://arxiv.org/abs/2410.22618v1)|null|
 |**2024-10-29**|**Hypergraph-based multi-scale spatio-temporal graph convolution network for Time-Series anomaly detection**|Hongyi Xu et.al.|[2410.22256v1](http://arxiv.org/abs/2410.22256v1)|null|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
+|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
+|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
+|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
+|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
+|**2024-10-15**|**Interacting particle systems on sparse $W$-random graphs**|Carla Crucianelli et.al.|[2410.11240v1](http://arxiv.org/abs/2410.11240v1)|null|
+|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746v1](http://arxiv.org/abs/2410.08746v1)|null|
+|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
+|**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
+|**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
+|**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v2](http://arxiv.org/abs/2404.13822v2)|null|
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé Pi et.al.|[2401.00665v3](http://arxiv.org/abs/2401.00665v3)|null|
+|**2024-09-03**|**Graphons of Line Graphs**|Sevvandi Kandanaarachchi et.al.|[2409.01656v2](http://arxiv.org/abs/2409.01656v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Accelerated Bayesian parameter estimation and model selection for gravitational waves with normalizing flows**|Alicja Polanska et.al.|[2410.21076v2](http://arxiv.org/abs/2410.21076v2)|null|
+|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v7](http://arxiv.org/abs/2008.11140v7)|null|
+|**2024-10-31**|**Leveraging LLMs for MT in Crisis Scenarios: a blueprint for low-resource languages**|Séamus Lankford et.al.|[2410.23890v1](http://arxiv.org/abs/2410.23890v1)|null|
+|**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164v2](http://arxiv.org/abs/2407.12164v2)|null|
+|**2024-05-22**|**Symmetric Linear Bandits with Hidden Symmetry**|Nam Phuong Tran et.al.|[2405.13899v2](http://arxiv.org/abs/2405.13899v2)|[link](https://github.com/namtrankekl/symmetric-linear-bandit-with-hidden-symmetry)|
+|**2024-10-28**|**Approximate Bayesian Computation with Statistical Distances for Model Selection**|Christian Angelopoulos et.al.|[2410.21603v2](http://arxiv.org/abs/2410.21603v2)|null|
+|**2024-06-20**|**Exploring Design Choices for Building Language-Specific LLMs**|Atula Tejaswi et.al.|[2406.14670v2](http://arxiv.org/abs/2406.14670v2)|[link](https://github.com/atutej/token-language-adaptation)|
+|**2024-10-30**|**Uniform Sampling of Negative Edge Weights in Shortest Path Networks**|Lukas Geis et.al.|[2410.22717v1](http://arxiv.org/abs/2410.22717v1)|null|
+|**2022-04-17**|**Multi-Model Subset Selection**|Anthony-Alexander Christidis et.al.|[2204.08100v4](http://arxiv.org/abs/2204.08100v4)|null|
+|**2024-04-16**|**Exploring the Role of Token in Transformer-based Time Series Forecasting**|Jianqi Zhang et.al.|[2404.10337v3](http://arxiv.org/abs/2404.10337v3)|[link](https://github.com/jlu-phycomputer/t2b-pe)|
+|**2024-10-29**|**Bayesian shared parameter joint models for heterogeneous populations**|Sida Chen et.al.|[2410.22534v1](http://arxiv.org/abs/2410.22534v1)|null|
+|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425v1](http://arxiv.org/abs/2410.22425v1)|[link](https://github.com/jimgammell/gan_side_channel_leakage_detector)|
+|**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248v1](http://arxiv.org/abs/2410.22248v1)|null|
+|**2024-10-29**|**Are Decoder-Only Large Language Models the Silver Bullet for Code Search?**|Yuxuan Chen et.al.|[2410.22240v1](http://arxiv.org/abs/2410.22240v1)|[link](https://github.com/georgepitt/decoderllms-codesearch)|
+|**2024-10-29**|**Bayesian Stability Selection and Inference on Inclusion Probabilities**|Mahdi Nouraie et.al.|[2410.21914v1](http://arxiv.org/abs/2410.21914v1)|[link](https://github.com/mahdinouraie/bayesian-stability-selection)|
 
 ## Embedding
 
