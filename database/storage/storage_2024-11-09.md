@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-09 07:25:49 Asia/Shanghai
+ Automated deployment @ 2024-11-09 19:21:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -97,6 +97,25 @@
 
 ## Graph Model
 
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
+|**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
+|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
+|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
+|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
+|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
+|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
+|**2024-10-15**|**Interacting particle systems on sparse $W$-random graphs**|Carla Crucianelli et.al.|[2410.11240v1](http://arxiv.org/abs/2410.11240v1)|null|
+|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746v1](http://arxiv.org/abs/2410.08746v1)|null|
+|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
+|**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
+|**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
+|**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v2](http://arxiv.org/abs/2404.13822v2)|null|
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -134,22 +153,3 @@
 |**2024-07-29**|**Multilevel polynomial partitioning and semialgebraic hypergraphs: regularity, Turán, and Zarankiewicz results**|Jonathan Tidor et.al.|[2407.20221v3](http://arxiv.org/abs/2407.20221v3)|null|
 |**2024-02-14**|**HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding**|Zhao Li et.al.|[2402.08961v3](http://arxiv.org/abs/2402.08961v3)|null|
 |**2024-11-04**|**The Turán Density of 4-Uniform Tight Cycles**|Maya Sankar et.al.|[2411.01782v1](http://arxiv.org/abs/2411.01782v1)|null|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
-|**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
-|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
-|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
-|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
-|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
-|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
-|**2024-10-15**|**Interacting particle systems on sparse $W$-random graphs**|Carla Crucianelli et.al.|[2410.11240v1](http://arxiv.org/abs/2410.11240v1)|null|
-|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746v1](http://arxiv.org/abs/2410.08746v1)|null|
-|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
-|**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
-|**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
-|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
-|**2024-04-22**|**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**|Anirban Chatterjee et.al.|[2404.13822v2](http://arxiv.org/abs/2404.13822v2)|null|
