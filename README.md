@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-14 07:26:14 Asia/Shanghai
+ Automated deployment @ 2024-11-14 19:24:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -18,21 +18,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-13**|**Flow reconstruction in time-varying geometries using graph neural networks**|Bogdan A. Danciu et.al.|[2411.08764v1](http://arxiv.org/abs/2411.08764v1)|null|
+|**2024-11-13**|**ScaleNet: Scale Invariance Learning in Directed Graphs**|Qin Jiang et.al.|[2411.08758v1](http://arxiv.org/abs/2411.08758v1)|[link](https://github.com/qin87/scalenet)|
+|**2024-11-13**|**Gaussian Mixture Models Based Augmentation Enhances GNN Generalization**|Yassine Abbahaddou et.al.|[2411.08638v1](http://arxiv.org/abs/2411.08638v1)|[link](https://github.com/abbahaddou/GMM-GDA)|
+|**2024-11-13**|**TDGCN-Based Mobile Multiuser Physical-Layer Authentication for EI-Enabled IIoT**|Rui Meng et.al.|[2411.08628v1](http://arxiv.org/abs/2411.08628v1)|null|
+|**2024-10-17**|**GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation**|Ziwei Yang et.al.|[2410.13178v2](http://arxiv.org/abs/2410.13178v2)|null|
+|**2024-11-13**|**Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks**|Azmine Toushik Wasi et.al.|[2411.08550v1](http://arxiv.org/abs/2411.08550v1)|null|
+|**2024-11-05**|**DM4Steal: Diffusion Model For Link Stealing Attack On Graph Neural Networks**|Jinyin Chen et.al.|[2411.03364v2](http://arxiv.org/abs/2411.03364v2)|null|
+|**2024-11-13**|**A Heterogeneous Graph Neural Network Fusing Functional and Structural Connectivity for MCI Diagnosis**|Feiyu Yin et.al.|[2411.08424v1](http://arxiv.org/abs/2411.08424v1)|null|
+|**2024-11-13**|**Federated Graph Learning with Graphless Clients**|Xingbo Fu et.al.|[2411.08374v1](http://arxiv.org/abs/2411.08374v1)|null|
+|**2024-10-14**|**Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix**|Seungwoo Han et.al.|[2410.10758v3](http://arxiv.org/abs/2410.10758v3)|null|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v2](http://arxiv.org/abs/2411.07207v2)|null|
 |**2024-11-04**|**On the Utilization of Unique Node Identifiers in Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2411.02271v2](http://arxiv.org/abs/2411.02271v2)|null|
 |**2024-07-12**|**Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v2](http://arxiv.org/abs/2407.09434v2)|null|
 |**2024-06-07**|**A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**|Zhiyang Wang et.al.|[2406.05225v5](http://arxiv.org/abs/2406.05225v5)|null|
 |**2024-03-26**|**Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network**|Yilun Zheng et.al.|[2403.17351v2](http://arxiv.org/abs/2403.17351v2)|[link](https://github.com/zylMozart/HiGNN)|
-|**2024-11-12**|**Rethinking Structure Learning For Graph Neural Networks**|Yilun Zheng et.al.|[2411.07672v1](http://arxiv.org/abs/2411.07672v1)|null|
-|**2024-11-12**|**Is Graph Convolution Always Beneficial For Every Feature?**|Yilun Zheng et.al.|[2411.07663v1](http://arxiv.org/abs/2411.07663v1)|null|
-|**2024-11-12**|**xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer**|Marvin Sextro et.al.|[2411.07643v1](http://arxiv.org/abs/2411.07643v1)|null|
-|**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608v1](http://arxiv.org/abs/2411.07608v1)|null|
-|**2023-06-12**|**Graph Agent Network: Empowering Nodes with Inference Capabilities for Adversarial Resilience**|Ao Liu et.al.|[2306.06909v4](http://arxiv.org/abs/2306.06909v4)|null|
-|**2024-03-26**|**Identifying Backdoored Graphs in Graph Neural Network Training: An Explanation-Based Approach with Novel Metrics**|Jane Downer et.al.|[2403.18136v2](http://arxiv.org/abs/2403.18136v2)|null|
-|**2024-09-13**|**An Efficient Privacy-aware Split Learning Framework for Satellite Communications**|Jianfei Sun et.al.|[2409.08538v2](http://arxiv.org/abs/2409.08538v2)|null|
-|**2024-11-12**|**Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling**|Jinming Xing et.al.|[2411.07482v1](http://arxiv.org/abs/2411.07482v1)|null|
-|**2024-11-12**|**Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes**|Jesse He et.al.|[2411.07467v1](http://arxiv.org/abs/2411.07467v1)|null|
-|**2023-11-02**|**Explainable Identification of Hate Speech towards Islam using Graph Neural Networks**|Azmine Toushik Wasi et.al.|[2311.04916v4](http://arxiv.org/abs/2311.04916v4)|null|
-|**2024-06-02**|**Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets**|Joshua Collyer et.al.|[2406.02606v2](http://arxiv.org/abs/2406.02606v2)|[link](https://github.com/br0kej/kyn)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-03**|**Variable selection in convex nonparametric least squares via structured Lasso: An application to the Swedish electricity distribution networks**|Zhiqiang Liao et.al.|[2409.01911v2](http://arxiv.org/abs/2409.01911v2)|[link](https://github.com/zhiqiangliao/HDCR)|
+|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v4](http://arxiv.org/abs/2206.04902v4)|null|
+|**2024-11-13**|**Adaptive Shrinkage with a Nonparametric Bayesian Lasso**|Santiago Marin et.al.|[2411.08262v1](http://arxiv.org/abs/2411.08262v1)|null|
+|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v1](http://arxiv.org/abs/2411.08205v1)|null|
+|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
+|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
+|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
+|**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
+|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v2](http://arxiv.org/abs/2408.07066v2)|null|
+|**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069v1](http://arxiv.org/abs/2411.06069v1)|null|
+|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v3](http://arxiv.org/abs/2302.10160v3)|[link](https://github.com/kw2934/krr)|
+|**2024-01-29**|**Is K-fold cross validation the best model selection method for Machine Learning?**|Juan M Gorriz et.al.|[2401.16407v2](http://arxiv.org/abs/2401.16407v2)|null|
+|**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v3](http://arxiv.org/abs/2406.14856v3)|null|
+|**2023-10-07**|**Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line**|Eungyeup Kim et.al.|[2310.04941v2](http://arxiv.org/abs/2310.04941v2)|null|
 
 ## Graph Model
 
@@ -55,25 +76,6 @@
 |**2024-11-01**|**MBExplainer: Multilevel bandit-based explanations for downstream models with augmented graph embeddings**|Ashkan Golgoon et.al.|[2411.00287v1](http://arxiv.org/abs/2411.00287v1)|null|
 |**2024-10-31**|**Detecting text level intellectual influence with knowledge graph embeddings**|Lucian Li et.al.|[2410.24021v1](http://arxiv.org/abs/2410.24021v1)|null|
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-12**|**Codegree conditions for (fractional) Steiner triple systems**|Michael Zheng et.al.|[2411.07981v1](http://arxiv.org/abs/2411.07981v1)|null|
-|**2024-11-11**|**Positive codegree Andrásfai--Erdős--Sós theorem for the generalized triangle**|Xizhi Liu et.al.|[2411.07090v2](http://arxiv.org/abs/2411.07090v2)|null|
-|**2024-11-12**|**Asymptotically sharp bounds for cancellative and union-free hypergraphs**|Miao Liu et.al.|[2411.07908v1](http://arxiv.org/abs/2411.07908v1)|null|
-|**2023-10-31**|**A Knowledge Compilation Take on Binary Polynomial Optimization**|Florent Capelli et.al.|[2311.00149v2](http://arxiv.org/abs/2311.00149v2)|null|
-|**2024-11-12**|**Containers with non-uniform co-degree conditions, and an application to nearly orthogonal sets**|Rajko Nenadov et.al.|[2411.07549v1](http://arxiv.org/abs/2411.07549v1)|null|
-|**2024-01-22**|**Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation**|Jiachen Li et.al.|[2401.12275v2](http://arxiv.org/abs/2401.12275v2)|null|
-|**2024-11-11**|**New matrices for spectral hypergraph theory, I**|R. Vishnupriya et.al.|[2411.07214v1](http://arxiv.org/abs/2411.07214v1)|null|
-|**2024-04-09**|**The Overlap Gap Property limits limit swapping in QAOA**|Mark Xin Hong Goh et.al.|[2404.06087v4](http://arxiv.org/abs/2404.06087v4)|null|
-|**2024-11-11**|**Phase Transitions via Complex Extensions of Markov Chains**|Jingcheng Liu et.al.|[2411.06857v1](http://arxiv.org/abs/2411.06857v1)|null|
-|**2024-10-08**|**Exploring growing complex systems with higher-order interactions**|Soo Min Oh et.al.|[2410.06279v2](http://arxiv.org/abs/2410.06279v2)|null|
-|**2024-11-09**|**Generalizing Hyperedge Expansion for Hyper-relational Knowledge Graph Modeling**|Yu Liu et.al.|[2411.06191v1](http://arxiv.org/abs/2411.06191v1)|null|
-|**2024-04-02**|**Growth of regular partitions 4: strong regularity and the pairs partition**|C. Terry et.al.|[2404.02030v2](http://arxiv.org/abs/2404.02030v2)|null|
-|**2024-04-02**|**Growth of regular partitions 3: strong regularity and the vertex partition**|C. Terry et.al.|[2404.02024v2](http://arxiv.org/abs/2404.02024v2)|null|
-|**2024-11-08**|**A New Class of Geometrically Defined Hypergraphs Arising from the Hadwiger Nelson Problem**|Sean Fiscus et.al.|[2411.05931v1](http://arxiv.org/abs/2411.05931v1)|null|
-|**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692v1](http://arxiv.org/abs/2411.05692v1)|[link](https://github.com/rayabhisek123/autoregad-hgformer)|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -92,6 +94,25 @@
 |**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
 |**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
 |**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-13**|**Cellular sheaf Laplacians on the set of simplices of symmetric simplicial set induced by hypergraph**|Seongjin Choi et.al.|[2411.08458v1](http://arxiv.org/abs/2411.08458v1)|null|
+|**2024-11-12**|**Fibers of point cloud persistence**|David Beers et.al.|[2411.08201v1](http://arxiv.org/abs/2411.08201v1)|null|
+|**2024-11-12**|**New matrices for spectral hypergraph theory, II**|R. Vishnupriya et.al.|[2411.08137v1](http://arxiv.org/abs/2411.08137v1)|null|
+|**2024-11-12**|**Codegree conditions for (fractional) Steiner triple systems**|Michael Zheng et.al.|[2411.07981v1](http://arxiv.org/abs/2411.07981v1)|null|
+|**2024-11-11**|**Positive codegree Andrásfai--Erdős--Sós theorem for the generalized triangle**|Xizhi Liu et.al.|[2411.07090v2](http://arxiv.org/abs/2411.07090v2)|null|
+|**2024-11-12**|**Asymptotically sharp bounds for cancellative and union-free hypergraphs**|Miao Liu et.al.|[2411.07908v1](http://arxiv.org/abs/2411.07908v1)|null|
+|**2023-10-31**|**A Knowledge Compilation Take on Binary Polynomial Optimization**|Florent Capelli et.al.|[2311.00149v2](http://arxiv.org/abs/2311.00149v2)|null|
+|**2024-11-12**|**Containers with non-uniform co-degree conditions, and an application to nearly orthogonal sets**|Rajko Nenadov et.al.|[2411.07549v1](http://arxiv.org/abs/2411.07549v1)|null|
+|**2024-01-22**|**Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation**|Jiachen Li et.al.|[2401.12275v2](http://arxiv.org/abs/2401.12275v2)|null|
+|**2024-11-11**|**New matrices for spectral hypergraph theory, I**|R. Vishnupriya et.al.|[2411.07214v1](http://arxiv.org/abs/2411.07214v1)|null|
+|**2021-09-06**|**Matrix hypercontractivity, streaming algorithms and LDCs: the large alphabet case**|Srinivasan Arunachalam et.al.|[2109.02600v3](http://arxiv.org/abs/2109.02600v3)|null|
+|**2024-04-09**|**The Overlap Gap Property limits limit swapping in QAOA**|Mark Xin Hong Goh et.al.|[2404.06087v4](http://arxiv.org/abs/2404.06087v4)|null|
+|**2024-11-11**|**Phase Transitions via Complex Extensions of Markov Chains**|Jingcheng Liu et.al.|[2411.06857v1](http://arxiv.org/abs/2411.06857v1)|null|
+|**2024-10-08**|**Exploring growing complex systems with higher-order interactions**|Soo Min Oh et.al.|[2410.06279v2](http://arxiv.org/abs/2410.06279v2)|null|
+|**2024-11-09**|**Generalizing Hyperedge Expansion for Hyper-relational Knowledge Graph Modeling**|Yu Liu et.al.|[2411.06191v1](http://arxiv.org/abs/2411.06191v1)|null|
 
 ## Embedding
 
@@ -132,24 +153,3 @@
 |**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914v1](http://arxiv.org/abs/2408.15914v1)|null|
 |**2024-07-12**|**Generating $SROI^-$ Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v4](http://arxiv.org/abs/2407.09212v4)|[link](https://github.com/royahe/acone)|
 |**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433v1](http://arxiv.org/abs/2408.02433v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
-|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
-|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
-|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
-|**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
-|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v2](http://arxiv.org/abs/2408.07066v2)|null|
-|**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069v1](http://arxiv.org/abs/2411.06069v1)|null|
-|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v3](http://arxiv.org/abs/2302.10160v3)|[link](https://github.com/kw2934/krr)|
-|**2024-01-29**|**Is K-fold cross validation the best model selection method for Machine Learning?**|Juan M Gorriz et.al.|[2401.16407v2](http://arxiv.org/abs/2401.16407v2)|null|
-|**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v3](http://arxiv.org/abs/2406.14856v3)|null|
-|**2023-10-07**|**Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line**|Eungyeup Kim et.al.|[2310.04941v2](http://arxiv.org/abs/2310.04941v2)|null|
-|**2024-11-07**|**Dark energy constraints using gamma-ray burst correlations with DESI 2024 data**|Anna Chiara Alfano et.al.|[2411.04878v1](http://arxiv.org/abs/2411.04878v1)|null|
-|**2024-06-13**|**A geometric approach to informed MCMC sampling**|Vivekananda Roy et.al.|[2406.09010v2](http://arxiv.org/abs/2406.09010v2)|null|
-|**2024-04-04**|**Predictive Analytics of Varieties of Potatoes**|Fabiana Ferracina et.al.|[2404.03701v4](http://arxiv.org/abs/2404.03701v4)|[link](https://github.com/fabstat/burbank)|
-|**2024-11-07**|**Deep Learning Models for UAV-Assisted Bridge Inspection: A YOLO Benchmark Analysis**|Trong-Nhan Phan et.al.|[2411.04475v1](http://arxiv.org/abs/2411.04475v1)|null|
