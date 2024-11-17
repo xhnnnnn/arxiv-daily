@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-17 07:27:49 Asia/Shanghai
+ Automated deployment @ 2024-11-17 19:23:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,25 +36,6 @@
 
 ## Graph Model
 
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-08**|**Stochastic Graphon Games with Memory**|Eyal Neuman et.al.|[2411.05896v1](http://arxiv.org/abs/2411.05896v1)|null|
-|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
-|**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
-|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
-|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
-|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
-|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
-|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
-|**2024-10-15**|**Interacting particle systems on sparse $W$-random graphs**|Carla Crucianelli et.al.|[2410.11240v1](http://arxiv.org/abs/2410.11240v1)|null|
-|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746v1](http://arxiv.org/abs/2410.08746v1)|null|
-|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
-|**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
-|**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
-|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
-
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -74,6 +55,25 @@
 |**2024-11-11**|**Phase Transitions via Complex Extensions of Markov Chains**|Jingcheng Liu et.al.|[2411.06857v1](http://arxiv.org/abs/2411.06857v1)|null|
 |**2024-10-08**|**Exploring growing complex systems with higher-order interactions**|Soo Min Oh et.al.|[2410.06279v2](http://arxiv.org/abs/2410.06279v2)|null|
 
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-08**|**Stochastic Graphon Games with Memory**|Eyal Neuman et.al.|[2411.05896v1](http://arxiv.org/abs/2411.05896v1)|null|
+|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
+|**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
+|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
+|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
+|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
+|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
+|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
+|**2024-10-15**|**Interacting particle systems on sparse $W$-random graphs**|Carla Crucianelli et.al.|[2410.11240v1](http://arxiv.org/abs/2410.11240v1)|null|
+|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746v1](http://arxiv.org/abs/2410.08746v1)|null|
+|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
+|**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
+|**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373v1](http://arxiv.org/abs/2410.00373v1)|[link](https://github.com/dreamzz5/st-expert)|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v1](http://arxiv.org/abs/2409.16903v1)|null|
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -92,27 +92,6 @@
 |**2024-05-01**|**Robustness of graph embedding methods for community detection**|Zhi-Feng Wei et.al.|[2405.00636v2](http://arxiv.org/abs/2405.00636v2)|[link](https://github.com/zf-wei/Robustness-of-Graph-Embeddings-for-Community-Detection)|
 |**2024-11-01**|**MBExplainer: Multilevel bandit-based explanations for downstream models with augmented graph embeddings**|Ashkan Golgoon et.al.|[2411.00287v1](http://arxiv.org/abs/2411.00287v1)|null|
 |**2024-10-31**|**Detecting text level intellectual influence with knowledge graph embeddings**|Lucian Li et.al.|[2410.24021v1](http://arxiv.org/abs/2410.24021v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|[link](https://github.com/shams-mehdi/aib9_openmm)|
-|**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301v1](http://arxiv.org/abs/2411.09301v1)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
-|**2024-11-14**|**On the Selection Stability of Stability Selection and Its Applications**|Mahdi Nouraie et.al.|[2411.09097v1](http://arxiv.org/abs/2411.09097v1)|[link](https://github.com/MahdiNouraie/Stable-Stability-Selection)|
-|**2024-09-03**|**Variable selection in convex nonparametric least squares via structured Lasso: An application to the Swedish electricity distribution networks**|Zhiqiang Liao et.al.|[2409.01911v2](http://arxiv.org/abs/2409.01911v2)|[link](https://github.com/zhiqiangliao/HDCR)|
-|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v4](http://arxiv.org/abs/2206.04902v4)|null|
-|**2024-11-13**|**Adaptive Shrinkage with a Nonparametric Bayesian Lasso**|Santiago Marin et.al.|[2411.08262v1](http://arxiv.org/abs/2411.08262v1)|null|
-|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v1](http://arxiv.org/abs/2411.08205v1)|null|
-|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
-|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
-|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
-|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
-|**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
-|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v2](http://arxiv.org/abs/2408.07066v2)|null|
-|**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069v1](http://arxiv.org/abs/2411.06069v1)|null|
-|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v3](http://arxiv.org/abs/2302.10160v3)|[link](https://github.com/kw2934/krr)|
 
 ## Embedding
 
@@ -153,3 +132,24 @@
 |**2024-05-01**|**Robustness of graph embedding methods for community detection**|Zhi-Feng Wei et.al.|[2405.00636v2](http://arxiv.org/abs/2405.00636v2)|[link](https://github.com/zf-wei/Robustness-of-Graph-Embeddings-for-Community-Detection)|
 |**2024-11-01**|**MBExplainer: Multilevel bandit-based explanations for downstream models with augmented graph embeddings**|Ashkan Golgoon et.al.|[2411.00287v1](http://arxiv.org/abs/2411.00287v1)|null|
 |**2024-10-31**|**Detecting text level intellectual influence with knowledge graph embeddings**|Lucian Li et.al.|[2410.24021v1](http://arxiv.org/abs/2410.24021v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|[link](https://github.com/shams-mehdi/aib9_openmm)|
+|**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301v1](http://arxiv.org/abs/2411.09301v1)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
+|**2024-11-14**|**On the Selection Stability of Stability Selection and Its Applications**|Mahdi Nouraie et.al.|[2411.09097v1](http://arxiv.org/abs/2411.09097v1)|[link](https://github.com/MahdiNouraie/stabplot)|
+|**2024-09-03**|**Variable selection in convex nonparametric least squares via structured Lasso: An application to the Swedish electricity distribution networks**|Zhiqiang Liao et.al.|[2409.01911v2](http://arxiv.org/abs/2409.01911v2)|[link](https://github.com/zhiqiangliao/HDCR)|
+|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v4](http://arxiv.org/abs/2206.04902v4)|null|
+|**2024-11-13**|**Adaptive Shrinkage with a Nonparametric Bayesian Lasso**|Santiago Marin et.al.|[2411.08262v1](http://arxiv.org/abs/2411.08262v1)|null|
+|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v1](http://arxiv.org/abs/2411.08205v1)|null|
+|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
+|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
+|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
+|**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
+|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v2](http://arxiv.org/abs/2408.07066v2)|null|
+|**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069v1](http://arxiv.org/abs/2411.06069v1)|null|
+|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v3](http://arxiv.org/abs/2302.10160v3)|[link](https://github.com/kw2934/krr)|
