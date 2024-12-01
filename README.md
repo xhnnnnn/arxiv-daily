@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-01 07:26:23 Asia/Shanghai
+ Automated deployment @ 2024-12-01 19:23:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-27**|**Perturbation Ontology based Graph Attention Networks**|Yichen Wang et.al.|[2411.18520v1](http://arxiv.org/abs/2411.18520v1)|null|
 |**2023-11-17**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v5](http://arxiv.org/abs/2311.10270v5)|null|
-|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321v1](http://arxiv.org/abs/2411.18321v1)|null|
+|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321v1](http://arxiv.org/abs/2411.18321v1)|[link](https://github.com/lascavana/objvalprediction)|
 |**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708v2](http://arxiv.org/abs/2402.14708v2)|null|
 |**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782v2](http://arxiv.org/abs/2410.11782v2)|null|
 |**2023-10-17**|**Enhancing Signed Graph Neural Networks through Curriculum-Based Training**|Zeyu Zhang et.al.|[2310.11083v2](http://arxiv.org/abs/2310.11083v2)|[link](https://github.com/alex-zeyu/csg)|
@@ -33,27 +33,6 @@
 |**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676v1](http://arxiv.org/abs/2411.17676v1)|null|
 |**2024-09-12**|**CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217v2](http://arxiv.org/abs/2409.08217v2)|null|
 |**2022-01-28**|**Orientation-Aware Graph Neural Networks for Protein Structure Representation Learning**|Jiahan Li et.al.|[2201.13299v5](http://arxiv.org/abs/2201.13299v5)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-27**|**Multi-response linear regression estimation based on low-rank pre-smoothing**|Xinle Tian et.al.|[2411.18334v1](http://arxiv.org/abs/2411.18334v1)|null|
-|**2024-10-24**|**Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766v2](http://arxiv.org/abs/2410.18766v2)|null|
-|**2024-11-21**|**Analysis of hidden-charm pentaquarks as triangle singularities via deep learning**|Darwin Alexander O. Co et.al.|[2411.14044v2](http://arxiv.org/abs/2411.14044v2)|null|
-|**2024-09-09**|**Use Model Averaging instead of Model Selection in Pulsar Timing**|Rutger van Haasteren et.al.|[2409.06050v2](http://arxiv.org/abs/2409.06050v2)|null|
-|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265v3](http://arxiv.org/abs/2403.18265v3)|[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)|
-|**2024-11-27**|**Optimized Conformal Selection: Powerful Selective Inference After Conformity Score Optimization**|Tian Bai et.al.|[2411.17983v1](http://arxiv.org/abs/2411.17983v1)|null|
-|**2024-11-06**|**Rising Rested Bandits: Lower Bounds and Efficient Algorithms**|Marco Fiandri et.al.|[2411.14446v2](http://arxiv.org/abs/2411.14446v2)|null|
-|**2024-11-26**|**DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**|Boqi Li et.al.|[2411.17917v1](http://arxiv.org/abs/2411.17917v1)|null|
-|**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910v1](http://arxiv.org/abs/2411.17910v1)|null|
-|**2024-11-26**|**Sparse twoblock dimension reduction for simultaneous compression and variable selection in two blocks of variables**|Sven Serneels et.al.|[2411.17859v1](http://arxiv.org/abs/2411.17859v1)|null|
-|**2024-11-26**|**Variable selection via fused sparse-group lasso penalized multi-state models incorporating molecular data**|Kaya Miah et.al.|[2411.17394v1](http://arxiv.org/abs/2411.17394v1)|null|
-|**2024-11-26**|**ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss**|Yunyi Liu et.al.|[2411.17301v1](http://arxiv.org/abs/2411.17301v1)|null|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v1](http://arxiv.org/abs/2411.17284v1)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
-|**2023-02-07**|**Examination of Nonlinear Longitudinal Processes with Latent Variables, Latent Processes, Latent Changes, and Latent Classes in the Structural Equation Modeling Framework: The R package nlpsem**|Jin Liu et.al.|[2302.03237v5](http://arxiv.org/abs/2302.03237v5)|null|
-|**2023-11-07**|**Unsupervised Video Summarization via Iterative Training and Simplified GAN**|Hanqing Li et.al.|[2311.03745v2](http://arxiv.org/abs/2311.03745v2)|[link](https://github.com/hanklee97121/SUM-SR-5iter)|
 
 ## Graph Model
 
@@ -76,6 +55,25 @@
 |**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610v3](http://arxiv.org/abs/2311.10610v3)|null|
 |**2024-10-01**|**Minimax Optimal Probability Matrix Estimation For Graphon With Spectral Decay**|Yuchen Chen et.al.|[2410.01073v1](http://arxiv.org/abs/2410.01073v1)|null|
 
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20**|**Single-cell Curriculum Learning-based Deep Graph Embedding Clustering**|Huifa Li et.al.|[2408.10511v3](http://arxiv.org/abs/2408.10511v3)|[link](https://github.com/LFD-byte/scCLG)|
+|**2024-11-25**|**Local Intrinsic Dimensionality for Dynamic Graph Embeddings**|Dušica Knežević et.al.|[2411.16145v1](http://arxiv.org/abs/2411.16145v1)|null|
+|**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134v1](http://arxiv.org/abs/2411.16134v1)|[link](https://github.com/yuj0e/marvel)|
+|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v2](http://arxiv.org/abs/2411.12950v2)|null|
+|**2024-08-19**|**Integrability of Generalised Skew-Symmetric Replicator Equations via Graph Embeddings**|Matthew Visomirski et.al.|[2408.09983v2](http://arxiv.org/abs/2408.09983v2)|null|
+|**2024-11-22**|**Domain and Range Aware Synthetic Negatives Generation for Knowledge Graph Embedding Models**|Alberto Bernardi et.al.|[2411.14858v1](http://arxiv.org/abs/2411.14858v1)|null|
+|**2024-11-20**|**Scalable Deep Metric Learning on Attributed Graphs**|Xiang Li et.al.|[2411.13014v1](http://arxiv.org/abs/2411.13014v1)|null|
+|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v1](http://arxiv.org/abs/2411.11531v1)|null|
+|**2024-11-18**|**Multi-Hyperbolic Space-based Heterogeneous Graph Attention Network**|Jongmin Park et.al.|[2411.11283v1](http://arxiv.org/abs/2411.11283v1)|null|
+|**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v2](http://arxiv.org/abs/2406.10965v2)|null|
+|**2024-11-17**|**Knowledge-enhanced Transformer for Multivariate Long Sequence Time-series Forecasting**|Shubham Tanaji Kakde et.al.|[2411.11046v1](http://arxiv.org/abs/2411.11046v1)|null|
+|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v1](http://arxiv.org/abs/2411.10000v1)|null|
+|**2024-06-04**|**Fast and Scalable Multi-Kernel Encoder Classifier**|Cencheng Shen et.al.|[2406.02189v2](http://arxiv.org/abs/2406.02189v2)|null|
+|**2024-11-10**|**Class Granularity: How richly does your knowledge graph represent the real world?**|Sumin Seo et.al.|[2411.06385v1](http://arxiv.org/abs/2411.06385v1)|null|
+|**2022-11-02**|**Hierarchies over Vector Space: Orienting Word and Graph Embeddings**|Xingzhi Guo et.al.|[2211.01430v2](http://arxiv.org/abs/2211.01430v2)|null|
+
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -95,6 +93,29 @@
 |**2024-08-09**|**Federated Hypergraph Learning: Hyperedge Completion with Local Differential Privacy**|Linfeng Luo et.al.|[2408.05160v2](http://arxiv.org/abs/2408.05160v2)|null|
 |**2024-11-24**|**Finding hypergraph immersion is fixed-parameter tractable**|Xiangyi Meng et.al.|[2411.16017v1](http://arxiv.org/abs/2411.16017v1)|null|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-27**|**Multi-response linear regression estimation based on low-rank pre-smoothing**|Xinle Tian et.al.|[2411.18334v1](http://arxiv.org/abs/2411.18334v1)|null|
+|**2024-10-24**|**Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766v2](http://arxiv.org/abs/2410.18766v2)|null|
+|**2024-11-21**|**Analysis of hidden-charm pentaquarks as triangle singularities via deep learning**|Darwin Alexander O. Co et.al.|[2411.14044v2](http://arxiv.org/abs/2411.14044v2)|null|
+|**2024-09-09**|**Use Model Averaging instead of Model Selection in Pulsar Timing**|Rutger van Haasteren et.al.|[2409.06050v2](http://arxiv.org/abs/2409.06050v2)|null|
+|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265v3](http://arxiv.org/abs/2403.18265v3)|[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)|
+|**2024-11-27**|**Optimized Conformal Selection: Powerful Selective Inference After Conformity Score Optimization**|Tian Bai et.al.|[2411.17983v1](http://arxiv.org/abs/2411.17983v1)|null|
+|**2024-11-06**|**Rising Rested Bandits: Lower Bounds and Efficient Algorithms**|Marco Fiandri et.al.|[2411.14446v2](http://arxiv.org/abs/2411.14446v2)|null|
+|**2024-11-26**|**DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**|Boqi Li et.al.|[2411.17917v1](http://arxiv.org/abs/2411.17917v1)|null|
+|**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910v1](http://arxiv.org/abs/2411.17910v1)|null|
+|**2024-11-26**|**Sparse twoblock dimension reduction for simultaneous compression and variable selection in two blocks of variables**|Sven Serneels et.al.|[2411.17859v1](http://arxiv.org/abs/2411.17859v1)|null|
+|**2024-11-26**|**Variable selection via fused sparse-group lasso penalized multi-state models incorporating molecular data**|Kaya Miah et.al.|[2411.17394v1](http://arxiv.org/abs/2411.17394v1)|null|
+|**2024-11-26**|**ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss**|Yunyi Liu et.al.|[2411.17301v1](http://arxiv.org/abs/2411.17301v1)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v1](http://arxiv.org/abs/2411.17284v1)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
+|**2023-02-07**|**Examination of Nonlinear Longitudinal Processes with Latent Variables, Latent Processes, Latent Changes, and Latent Classes in the Structural Equation Modeling Framework: The R package nlpsem**|Jin Liu et.al.|[2302.03237v5](http://arxiv.org/abs/2302.03237v5)|null|
+|**2023-11-07**|**Unsupervised Video Summarization via Iterative Training and Simplified GAN**|Hanqing Li et.al.|[2311.03745v2](http://arxiv.org/abs/2311.03745v2)|[link](https://github.com/hanklee97121/SUM-SR-5iter)|
+
+## Embedding
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -113,8 +134,6 @@
 |**2024-06-04**|**Fast and Scalable Multi-Kernel Encoder Classifier**|Cencheng Shen et.al.|[2406.02189v2](http://arxiv.org/abs/2406.02189v2)|null|
 |**2024-11-10**|**Class Granularity: How richly does your knowledge graph represent the real world?**|Sumin Seo et.al.|[2411.06385v1](http://arxiv.org/abs/2411.06385v1)|null|
 |**2022-11-02**|**Hierarchies over Vector Space: Orienting Word and Graph Embeddings**|Xingzhi Guo et.al.|[2211.01430v2](http://arxiv.org/abs/2211.01430v2)|null|
-
-## Embedding
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -134,22 +153,3 @@
 |**2024-09-05**|**A Survey on Signed Graph Embedding: Methods and Applications**|Shrabani Ghosh et.al.|[2409.03916v1](http://arxiv.org/abs/2409.03916v1)|null|
 |**2024-09-02**|**A wall model for separated flows: embedded learning to improve a posteriori performance**|Zhideng Zhou et.al.|[2409.00984v1](http://arxiv.org/abs/2409.00984v1)|null|
 |**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914v1](http://arxiv.org/abs/2408.15914v1)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-20**|**Single-cell Curriculum Learning-based Deep Graph Embedding Clustering**|Huifa Li et.al.|[2408.10511v3](http://arxiv.org/abs/2408.10511v3)|[link](https://github.com/LFD-byte/scCLG)|
-|**2024-11-25**|**Local Intrinsic Dimensionality for Dynamic Graph Embeddings**|Dušica Knežević et.al.|[2411.16145v1](http://arxiv.org/abs/2411.16145v1)|null|
-|**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134v1](http://arxiv.org/abs/2411.16134v1)|[link](https://github.com/yuj0e/marvel)|
-|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v2](http://arxiv.org/abs/2411.12950v2)|null|
-|**2024-08-19**|**Integrability of Generalised Skew-Symmetric Replicator Equations via Graph Embeddings**|Matthew Visomirski et.al.|[2408.09983v2](http://arxiv.org/abs/2408.09983v2)|null|
-|**2024-11-22**|**Domain and Range Aware Synthetic Negatives Generation for Knowledge Graph Embedding Models**|Alberto Bernardi et.al.|[2411.14858v1](http://arxiv.org/abs/2411.14858v1)|null|
-|**2024-11-20**|**Scalable Deep Metric Learning on Attributed Graphs**|Xiang Li et.al.|[2411.13014v1](http://arxiv.org/abs/2411.13014v1)|null|
-|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v1](http://arxiv.org/abs/2411.11531v1)|null|
-|**2024-11-18**|**Multi-Hyperbolic Space-based Heterogeneous Graph Attention Network**|Jongmin Park et.al.|[2411.11283v1](http://arxiv.org/abs/2411.11283v1)|null|
-|**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v2](http://arxiv.org/abs/2406.10965v2)|null|
-|**2024-11-17**|**Knowledge-enhanced Transformer for Multivariate Long Sequence Time-series Forecasting**|Shubham Tanaji Kakde et.al.|[2411.11046v1](http://arxiv.org/abs/2411.11046v1)|null|
-|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v1](http://arxiv.org/abs/2411.10000v1)|null|
-|**2024-06-04**|**Fast and Scalable Multi-Kernel Encoder Classifier**|Cencheng Shen et.al.|[2406.02189v2](http://arxiv.org/abs/2406.02189v2)|null|
-|**2024-11-10**|**Class Granularity: How richly does your knowledge graph represent the real world?**|Sumin Seo et.al.|[2411.06385v1](http://arxiv.org/abs/2411.06385v1)|null|
-|**2022-11-02**|**Hierarchies over Vector Space: Orienting Word and Graph Embeddings**|Xingzhi Guo et.al.|[2211.01430v2](http://arxiv.org/abs/2211.01430v2)|null|
