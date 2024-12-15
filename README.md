@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-15 07:26:33 Asia/Shanghai
+ Automated deployment @ 2024-12-15 19:23:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -37,24 +37,24 @@
 
 ## Graph Model
 
-### Graphon
+### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-04**|**Constrained portfolio game with heterogeneous agents**|Zongxia Liang et.al.|[2412.03070v1](http://arxiv.org/abs/2412.03070v1)|null|
-|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v2](http://arxiv.org/abs/2409.16903v2)|null|
-|**2024-11-20**|**Graphon-Theoretic Approach to Central Limit Theorems for $ε$-Independence**|Guillaume Cébron et.al.|[2411.13062v2](http://arxiv.org/abs/2411.13062v2)|null|
-|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v5](http://arxiv.org/abs/2201.12272v5)|null|
-|**2024-11-28**|**A Partial Characterization of Robinsonian $L^p$ Graphons**|Teddy Mishura et.al.|[2411.18886v1](http://arxiv.org/abs/2411.18886v1)|null|
-|**2024-11-20**|**On cospectral graphons**|Jan Hladký et.al.|[2411.13229v1](http://arxiv.org/abs/2411.13229v1)|null|
-|**2024-11-08**|**Stochastic Graphon Games with Memory**|Eyal Neuman et.al.|[2411.05896v1](http://arxiv.org/abs/2411.05896v1)|null|
-|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
-|**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
-|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
-|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
-|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
-|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
-|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
+|**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$-body density matrix**|Irakli Giorgadze et.al.|[2412.09576v1](http://arxiv.org/abs/2412.09576v1)|null|
+|**2022-04-08**|**Rewriting for Symmetric Monoidal Categories with Commutative (Co)Monoid Structure**|Aleksandar Milosavljevic et.al.|[2204.04274v3](http://arxiv.org/abs/2204.04274v3)|null|
+|**2024-12-12**|**Random Turán Problems for $K_{s,t}$ Expansions**|Jiaxi Nie et.al.|[2412.09367v1](http://arxiv.org/abs/2412.09367v1)|null|
+|**2024-04-01**|**Larger Nearly Orthogonal Sets over Finite Fields**|Ishay Haviv et.al.|[2404.01057v2](http://arxiv.org/abs/2404.01057v2)|null|
+|**2024-12-11**|**Cluster Decomposition for Improved Erasure Decoding of Quantum LDPC Codes**|Hanwen Yao et.al.|[2412.08817v1](http://arxiv.org/abs/2412.08817v1)|null|
+|**2024-12-11**|**Parameterised Complexity of Consistent Query Answering via Graph Representations**|Teemu Hankala et.al.|[2412.08324v1](http://arxiv.org/abs/2412.08324v1)|null|
+|**2024-11-28**|**Towards Data-centric Machine Learning on Directed Graphs: a Survey**|Henan Sun et.al.|[2412.01849v2](http://arxiv.org/abs/2412.01849v2)|null|
+|**2024-12-11**|**When entropy meets Turán: new proofs and hypergraph Turán results**|Ting-Wei Chao et.al.|[2412.08075v1](http://arxiv.org/abs/2412.08075v1)|null|
+|**2023-12-09**|**Persistent Topological Laplacians -- a Survey**|Xiaoqi Wei et.al.|[2312.07563v2](http://arxiv.org/abs/2312.07563v2)|null|
+|**2023-12-18**|**Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation**|Yang Li et.al.|[2312.11018v2](http://arxiv.org/abs/2312.11018v2)|[link](https://github.com/aai-lab/hed)|
+|**2023-05-04**|**Comparing list-color functions of uniform hypergraphs with their chromatic polynomials**|Fengming Dong et.al.|[2305.02497v4](http://arxiv.org/abs/2305.02497v4)|null|
+|**2023-08-27**|**On the $C$-diversity of intersecting hypergraphs**|Peter Frankl et.al.|[2308.14028v2](http://arxiv.org/abs/2308.14028v2)|null|
+|**2024-12-09**|**Hypermodularity and community detection in higher-order networks**|Charo I. del Genio et.al.|[2412.06935v1](http://arxiv.org/abs/2412.06935v1)|null|
+|**2024-12-09**|**On Zarankiewicz's Problem for Intersection Hypergraphs of Geometric Objects**|Timothy M. Chan et.al.|[2412.06490v1](http://arxiv.org/abs/2412.06490v1)|null|
+|**2024-11-28**|**Better Approximation for Weighted $k$-Matroid Intersection**|Neta Singer et.al.|[2411.19366v2](http://arxiv.org/abs/2411.19366v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,24 +75,24 @@
 |**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134v1](http://arxiv.org/abs/2411.16134v1)|[link](https://github.com/yuj0e/marvel)|
 |**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v2](http://arxiv.org/abs/2411.12950v2)|null|
 
-### Hypergraph
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$-body density matrix**|Irakli Giorgadze et.al.|[2412.09576v1](http://arxiv.org/abs/2412.09576v1)|null|
-|**2022-04-08**|**Rewriting for Symmetric Monoidal Categories with Commutative (Co)Monoid Structure**|Aleksandar Milosavljevic et.al.|[2204.04274v3](http://arxiv.org/abs/2204.04274v3)|null|
-|**2024-12-12**|**Random Turán Problems for $K_{s,t}$ Expansions**|Jiaxi Nie et.al.|[2412.09367v1](http://arxiv.org/abs/2412.09367v1)|null|
-|**2024-04-01**|**Larger Nearly Orthogonal Sets over Finite Fields**|Ishay Haviv et.al.|[2404.01057v2](http://arxiv.org/abs/2404.01057v2)|null|
-|**2024-12-11**|**Cluster Decomposition for Improved Erasure Decoding of Quantum LDPC Codes**|Hanwen Yao et.al.|[2412.08817v1](http://arxiv.org/abs/2412.08817v1)|null|
-|**2024-12-11**|**Parameterised Complexity of Consistent Query Answering via Graph Representations**|Teemu Hankala et.al.|[2412.08324v1](http://arxiv.org/abs/2412.08324v1)|null|
-|**2024-11-28**|**Towards Data-centric Machine Learning on Directed Graphs: a Survey**|Henan Sun et.al.|[2412.01849v2](http://arxiv.org/abs/2412.01849v2)|null|
-|**2024-12-11**|**When entropy meets Turán: new proofs and hypergraph Turán results**|Ting-Wei Chao et.al.|[2412.08075v1](http://arxiv.org/abs/2412.08075v1)|null|
-|**2023-12-09**|**Persistent Topological Laplacians -- a Survey**|Xiaoqi Wei et.al.|[2312.07563v2](http://arxiv.org/abs/2312.07563v2)|null|
-|**2023-12-18**|**Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation**|Yang Li et.al.|[2312.11018v2](http://arxiv.org/abs/2312.11018v2)|[link](https://github.com/aai-lab/hed)|
-|**2023-05-04**|**Comparing list-color functions of uniform hypergraphs with their chromatic polynomials**|Fengming Dong et.al.|[2305.02497v4](http://arxiv.org/abs/2305.02497v4)|null|
-|**2023-08-27**|**On the $C$-diversity of intersecting hypergraphs**|Peter Frankl et.al.|[2308.14028v2](http://arxiv.org/abs/2308.14028v2)|null|
-|**2024-12-09**|**Hypermodularity and community detection in higher-order networks**|Charo I. del Genio et.al.|[2412.06935v1](http://arxiv.org/abs/2412.06935v1)|null|
-|**2024-12-09**|**On Zarankiewicz's Problem for Intersection Hypergraphs of Geometric Objects**|Timothy M. Chan et.al.|[2412.06490v1](http://arxiv.org/abs/2412.06490v1)|null|
-|**2024-11-28**|**Better Approximation for Weighted $k$-Matroid Intersection**|Neta Singer et.al.|[2411.19366v2](http://arxiv.org/abs/2411.19366v2)|null|
+|**2024-12-04**|**Constrained portfolio game with heterogeneous agents**|Zongxia Liang et.al.|[2412.03070v1](http://arxiv.org/abs/2412.03070v1)|null|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v2](http://arxiv.org/abs/2409.16903v2)|null|
+|**2024-11-20**|**Graphon-Theoretic Approach to Central Limit Theorems for $ε$-Independence**|Guillaume Cébron et.al.|[2411.13062v2](http://arxiv.org/abs/2411.13062v2)|null|
+|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v5](http://arxiv.org/abs/2201.12272v5)|null|
+|**2024-11-28**|**A Partial Characterization of Robinsonian $L^p$ Graphons**|Teddy Mishura et.al.|[2411.18886v1](http://arxiv.org/abs/2411.18886v1)|null|
+|**2024-11-20**|**On cospectral graphons**|Jan Hladký et.al.|[2411.13229v1](http://arxiv.org/abs/2411.13229v1)|null|
+|**2024-11-08**|**Stochastic Graphon Games with Memory**|Eyal Neuman et.al.|[2411.05896v1](http://arxiv.org/abs/2411.05896v1)|null|
+|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
+|**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
+|**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
+|**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
+|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v2](http://arxiv.org/abs/2310.11705v2)|null|
+|**2023-05-05**|**Connectivity of inhomogeneous random graphs II**|Jan Hladký et.al.|[2305.03607v2](http://arxiv.org/abs/2305.03607v2)|null|
+|**2024-10-17**|**Large Deviations of Hawkes Processes on Structured Sparse Disordered Graphs**|Daniele Avitabile et.al.|[2410.13682v1](http://arxiv.org/abs/2410.13682v1)|null|
 
 ## Embedding
 
