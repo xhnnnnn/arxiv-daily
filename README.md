@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-29 07:25:29 Asia/Shanghai
+ Automated deployment @ 2024-12-29 19:21:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,47 +35,7 @@
 |**2024-12-12**|**TransferLight: Zero-Shot Traffic Signal Control on any Road-Network**|Johann Schmidt et.al.|[2412.09719v2](http://arxiv.org/abs/2412.09719v2)|null|
 |**2024-12-23**|**LASE: Learned Adjacency Spectral Embeddings**|Sofía Pérez Casulo et.al.|[2412.17734v1](http://arxiv.org/abs/2412.17734v1)|[link](https://github.com/sofiperez91/lase)|
 
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594v1](http://arxiv.org/abs/2412.18594v1)|null|
-|**2024-05-29**|**Exploring Human-in-the-Loop Test-Time Adaptation by Synergizing Active Learning and Model Selection**|Yushu Li et.al.|[2405.18911v3](http://arxiv.org/abs/2405.18911v3)|[link](https://github.com/yushu-li/hiltta)|
-|**2023-11-21**|**Fast and Interpretable Mortality Risk Scores for Critical Care Patients**|Chloe Qinyu Zhu et.al.|[2311.13015v3](http://arxiv.org/abs/2311.13015v3)|[link](https://github.com/muhangtian/gfr-experiments)|
-|**2024-12-24**|**Fréchet regression for multi-label feature selection with implicit regularization**|Dou El Kefel Mansouri et.al.|[2412.18247v1](http://arxiv.org/abs/2412.18247v1)|null|
-|**2020-10-20**|**A Comparative Study of Imputation Methods for Multivariate Ordinal Data**|Chayut Wongkamthong et.al.|[2010.10471v5](http://arxiv.org/abs/2010.10471v5)|[link](https://github.com/ChayutWo/Nonparam-oridinal-nominal)|
-|**2024-12-24**|**PCM Selector: Penalized Covariate-Mediator Selection Operator for Evaluating Linear Causal Effects**|Hisayoshi Nanmo et.al.|[2412.18180v1](http://arxiv.org/abs/2412.18180v1)|null|
-|**2024-11-28**|**Improved order selection method for hidden Markov models: a case study with movement data**|Fanny Dupont et.al.|[2411.18826v2](http://arxiv.org/abs/2411.18826v2)|null|
-|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
-|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284v1](http://arxiv.org/abs/2412.17284v1)|[link](https://github.com/henryyu23/das)|
-|**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164v3](http://arxiv.org/abs/2407.12164v3)|[link](https://github.com/andrew-miao/RPO)|
-|**2024-12-19**|**YOLOv11 Optimization for Efficient Resource Utilization**|Areeg Fahad Rasheed et.al.|[2412.14790v2](http://arxiv.org/abs/2412.14790v2)|[link](https://github.com/areeg94fahad/yolov11)|
-|**2024-12-19**|**Boosting Distributional Copula Regression for Bivariate Right-Censored Time-to-Event Data**|Guillermo Briseno-Sanchez et.al.|[2412.15041v2](http://arxiv.org/abs/2412.15041v2)|null|
-|**2024-12-20**|**pyRheo: An open-source Python package for complex rheology**|Isaac Y. Miranda-Valdez et.al.|[2412.15941v1](http://arxiv.org/abs/2412.15941v1)|[link](https://github.com/mirandi1/pyRheo)|
-|**2024-12-20**|**Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning**|Sungjin Park et.al.|[2412.15797v1](http://arxiv.org/abs/2412.15797v1)|null|
-|**2024-12-08**|**Fast QR updating methods for statistical applications**|Mauro Bernardi et.al.|[2412.05905v2](http://arxiv.org/abs/2412.05905v2)|null|
-
 ## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-24**|**Hypergraph Attacks via Injecting Homogeneous Nodes into Elite Hyperedges**|Meixia He et.al.|[2412.18365v1](http://arxiv.org/abs/2412.18365v1)|null|
-|**2024-12-23**|**Correlation hypergraph: a new representation of a quantum marginal independence pattern**|Veronika E. Hubeny et.al.|[2412.18018v1](http://arxiv.org/abs/2412.18018v1)|null|
-|**2024-12-23**|**Group Testing with General Correlation Using Hypergraphs**|Hesam Nikpey et.al.|[2412.17751v1](http://arxiv.org/abs/2412.17751v1)|null|
-|**2024-12-19**|**DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching**|Xiaofei Huang et.al.|[2412.14535v2](http://arxiv.org/abs/2412.14535v2)|null|
-|**2024-01-17**|**MSHyper: Multi-Scale Hypergraph Transformer for Long-Range Time Series Forecasting**|Zongjiang Shang et.al.|[2401.09261v2](http://arxiv.org/abs/2401.09261v2)|[link](https://github.com/shangzongjiang/MSHyper)|
-|**2024-12-18**|**MixRec: Heterogeneous Graph Collaborative Filtering**|Lianghao Xia et.al.|[2412.13825v2](http://arxiv.org/abs/2412.13825v2)|[link](https://github.com/hkuds/mixrec)|
-|**2024-12-21**|**Effective Context Modeling Framework for Emotion Recognition in Conversations**|Cuong Tran Van et.al.|[2412.16444v1](http://arxiv.org/abs/2412.16444v1)|null|
-|**2022-02-21**|**Learning Low Degree Hypergraphs**|Eric Balkanski et.al.|[2202.09989v3](http://arxiv.org/abs/2202.09989v3)|null|
-|**2024-12-20**|**Hypergraph clustering using Ricci curvature: an edge transport perspective**|Olympio Hacquard et.al.|[2412.15695v1](http://arxiv.org/abs/2412.15695v1)|null|
-|**2024-12-19**|**The hypergraph removal process**|Felix Joos et.al.|[2412.15039v1](http://arxiv.org/abs/2412.15039v1)|null|
-|**2024-12-19**|**On the set of associated radicals of powers of monomial ideals**|Nguyen Thu Hang et.al.|[2412.14904v1](http://arxiv.org/abs/2412.14904v1)|null|
-|**2024-12-19**|**A hypergraph bandwidth theorem**|Richard Lang et.al.|[2412.14891v1](http://arxiv.org/abs/2412.14891v1)|null|
-|**2024-12-19**|**Asymptotically Enumerating Independent Sets in Regular $k$-Partite $k$-Uniform Hypergraphs**|Patrick Arras et.al.|[2412.14845v1](http://arxiv.org/abs/2412.14845v1)|null|
-|**2024-12-19**|**Dynamical Cavity Method for Hypergraphs and its Application to Quenches in the k-XOR-SAT Problem**|Aude Maier et.al.|[2412.14794v1](http://arxiv.org/abs/2412.14794v1)|null|
-|**2024-06-19**|**Multipartite Entanglement Routing as a Hypergraph Immersion Problem**|Yu Tian et.al.|[2406.13452v2](http://arxiv.org/abs/2406.13452v2)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -95,6 +55,25 @@
 |**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
 |**2024-10-18**|**Opinion dynamics on dense dynamic random graphs**|Simone Baldassarri et.al.|[2410.14618v2](http://arxiv.org/abs/2410.14618v2)|null|
 |**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24**|**Hypergraph Attacks via Injecting Homogeneous Nodes into Elite Hyperedges**|Meixia He et.al.|[2412.18365v1](http://arxiv.org/abs/2412.18365v1)|null|
+|**2024-12-23**|**Correlation hypergraph: a new representation of a quantum marginal independence pattern**|Veronika E. Hubeny et.al.|[2412.18018v1](http://arxiv.org/abs/2412.18018v1)|null|
+|**2024-12-23**|**Group Testing with General Correlation Using Hypergraphs**|Hesam Nikpey et.al.|[2412.17751v1](http://arxiv.org/abs/2412.17751v1)|null|
+|**2024-12-19**|**DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching**|Xiaofei Huang et.al.|[2412.14535v2](http://arxiv.org/abs/2412.14535v2)|null|
+|**2024-01-17**|**MSHyper: Multi-Scale Hypergraph Transformer for Long-Range Time Series Forecasting**|Zongjiang Shang et.al.|[2401.09261v2](http://arxiv.org/abs/2401.09261v2)|[link](https://github.com/shangzongjiang/MSHyper)|
+|**2024-12-18**|**MixRec: Heterogeneous Graph Collaborative Filtering**|Lianghao Xia et.al.|[2412.13825v2](http://arxiv.org/abs/2412.13825v2)|[link](https://github.com/hkuds/mixrec)|
+|**2024-12-21**|**Effective Context Modeling Framework for Emotion Recognition in Conversations**|Cuong Tran Van et.al.|[2412.16444v1](http://arxiv.org/abs/2412.16444v1)|null|
+|**2022-02-21**|**Learning Low Degree Hypergraphs**|Eric Balkanski et.al.|[2202.09989v3](http://arxiv.org/abs/2202.09989v3)|null|
+|**2024-12-20**|**Hypergraph clustering using Ricci curvature: an edge transport perspective**|Olympio Hacquard et.al.|[2412.15695v1](http://arxiv.org/abs/2412.15695v1)|null|
+|**2024-12-19**|**The hypergraph removal process**|Felix Joos et.al.|[2412.15039v1](http://arxiv.org/abs/2412.15039v1)|null|
+|**2024-12-19**|**On the set of associated radicals of powers of monomial ideals**|Nguyen Thu Hang et.al.|[2412.14904v1](http://arxiv.org/abs/2412.14904v1)|null|
+|**2024-12-19**|**A hypergraph bandwidth theorem**|Richard Lang et.al.|[2412.14891v1](http://arxiv.org/abs/2412.14891v1)|null|
+|**2024-12-19**|**Asymptotically Enumerating Independent Sets in Regular $k$-Partite $k$-Uniform Hypergraphs**|Patrick Arras et.al.|[2412.14845v1](http://arxiv.org/abs/2412.14845v1)|null|
+|**2024-12-19**|**Dynamical Cavity Method for Hypergraphs and its Application to Quenches in the k-XOR-SAT Problem**|Aude Maier et.al.|[2412.14794v1](http://arxiv.org/abs/2412.14794v1)|null|
+|**2024-06-19**|**Multipartite Entanglement Routing as a Hypergraph Immersion Problem**|Yu Tian et.al.|[2406.13452v2](http://arxiv.org/abs/2406.13452v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -154,3 +133,24 @@
 |**2024-10-14**|**A Simple Baseline for Predicting Events with Auto-Regressive Tabular Transformers**|Alex Stein et.al.|[2410.10648v3](http://arxiv.org/abs/2410.10648v3)|[link](https://github.com/alexstein0/event_prediction_step)|
 |**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v3](http://arxiv.org/abs/2310.17712v3)|null|
 |**2024-10-20**|**Causality for Large Language Models**|Anpeng Wu et.al.|[2410.15319v1](http://arxiv.org/abs/2410.15319v1)|[link](https://github.com/causal-machine-learning-lab/awesome-causal-llm)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594v1](http://arxiv.org/abs/2412.18594v1)|null|
+|**2024-05-29**|**Exploring Human-in-the-Loop Test-Time Adaptation by Synergizing Active Learning and Model Selection**|Yushu Li et.al.|[2405.18911v3](http://arxiv.org/abs/2405.18911v3)|[link](https://github.com/yushu-li/hiltta)|
+|**2023-11-21**|**Fast and Interpretable Mortality Risk Scores for Critical Care Patients**|Chloe Qinyu Zhu et.al.|[2311.13015v3](http://arxiv.org/abs/2311.13015v3)|[link](https://github.com/muhangtian/gfr-experiments)|
+|**2024-12-24**|**Fréchet regression for multi-label feature selection with implicit regularization**|Dou El Kefel Mansouri et.al.|[2412.18247v1](http://arxiv.org/abs/2412.18247v1)|null|
+|**2020-10-20**|**A Comparative Study of Imputation Methods for Multivariate Ordinal Data**|Chayut Wongkamthong et.al.|[2010.10471v5](http://arxiv.org/abs/2010.10471v5)|[link](https://github.com/ChayutWo/Nonparam-oridinal-nominal)|
+|**2024-12-24**|**PCM Selector: Penalized Covariate-Mediator Selection Operator for Evaluating Linear Causal Effects**|Hisayoshi Nanmo et.al.|[2412.18180v1](http://arxiv.org/abs/2412.18180v1)|null|
+|**2024-11-28**|**Improved order selection method for hidden Markov models: a case study with movement data**|Fanny Dupont et.al.|[2411.18826v2](http://arxiv.org/abs/2411.18826v2)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
+|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284v1](http://arxiv.org/abs/2412.17284v1)|[link](https://github.com/henryyu23/das)|
+|**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164v3](http://arxiv.org/abs/2407.12164v3)|[link](https://github.com/andrew-miao/RPO)|
+|**2024-12-19**|**YOLOv11 Optimization for Efficient Resource Utilization**|Areeg Fahad Rasheed et.al.|[2412.14790v2](http://arxiv.org/abs/2412.14790v2)|[link](https://github.com/areeg94fahad/yolov11)|
+|**2024-12-19**|**Boosting Distributional Copula Regression for Bivariate Right-Censored Time-to-Event Data**|Guillermo Briseno-Sanchez et.al.|[2412.15041v2](http://arxiv.org/abs/2412.15041v2)|null|
+|**2024-12-20**|**pyRheo: An open-source Python package for complex rheology**|Isaac Y. Miranda-Valdez et.al.|[2412.15941v1](http://arxiv.org/abs/2412.15941v1)|[link](https://github.com/mirandi1/pyRheo)|
+|**2024-12-20**|**Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning**|Sungjin Park et.al.|[2412.15797v1](http://arxiv.org/abs/2412.15797v1)|null|
+|**2024-12-08**|**Fast QR updating methods for statistical applications**|Mauro Bernardi et.al.|[2412.05905v2](http://arxiv.org/abs/2412.05905v2)|null|
