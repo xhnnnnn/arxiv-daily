@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-07 07:26:04 Asia/Shanghai
+ Automated deployment @ 2025-01-07 19:23:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -19,44 +19,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-05**|**Higher Order Structures For Graph Explanations**|Akshit Sinha et.al.|[2406.03253v6](http://arxiv.org/abs/2406.03253v6)|null|
-|**2025-01-03**|**A Probabilistic Model for Node Classification in Directed Graphs**|Diego Huerta et.al.|[2501.01630v1](http://arxiv.org/abs/2501.01630v1)|null|
-|**2024-12-30**|**Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction**|Yuan Mi et.al.|[2412.20962v2](http://arxiv.org/abs/2412.20962v2)|null|
-|**2025-01-02**|**HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation**|Runsong Jia et.al.|[2501.01203v1](http://arxiv.org/abs/2501.01203v1)|null|
-|**2024-12-19**|**Improving Graph Neural Network Training Efficiency By Using Top Non-Robust Samples In The Training Set**|Yongyu Wang et.al.|[2412.14738v4](http://arxiv.org/abs/2412.14738v4)|null|
-|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594v5](http://arxiv.org/abs/2408.12594v5)|[link](https://github.com/jaygagaga/pronog)|
-|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v2](http://arxiv.org/abs/2412.19302v2)|[link](https://github.com/hkuds/reclm)|
-|**2025-01-01**|**Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**|Haoyang Li et.al.|[2501.00773v1](http://arxiv.org/abs/2501.00773v1)|null|
-|**2025-01-01**|**Avoiding Oversmoothing in Deep Graph Neural Networks: A Multiplicative Ergodic Analysis**|Ziang Chen et.al.|[2501.00762v1](http://arxiv.org/abs/2501.00762v1)|null|
-|**2025-01-01**|**AttriReBoost: A Gradient-Free Propagation Optimization Method for Cold Start Mitigation in Attribute Missing Graphs**|Mengran Li et.al.|[2501.00743v1](http://arxiv.org/abs/2501.00743v1)|[link](https://github.com/limengran98/arb)|
-|**2025-01-01**|**KAN KAN Buff Signed Graph Neural Networks?**|Muhieddine Shebaro et.al.|[2501.00709v1](http://arxiv.org/abs/2501.00709v1)|null|
-|**2023-11-10**|**A Computationally Efficient Hybrid Neural Network Architecture for Porous Media: Integrating Convolutional and Graph Neural Networks for Improved Property Predictions**|Qingqi Zhao et.al.|[2311.06418v2](http://arxiv.org/abs/2311.06418v2)|null|
-|**2024-12-31**|**Hierarchical equivariant graph neural networks for forecasting collective motion in vortex clusters and microswimmers**|Alec J. Linot et.al.|[2501.00626v1](http://arxiv.org/abs/2501.00626v1)|null|
-|**2024-02-13**|**Mixture of Link Predictors on Graphs**|Li Ma et.al.|[2402.08583v2](http://arxiv.org/abs/2402.08583v2)|[link](https://github.com/ml-ml/link-moe)|
-|**2024-12-31**|**Unbiased GNN Learning via Fairness-Aware Subgraph Diffusion**|Abdullah Alchihabi et.al.|[2501.00595v1](http://arxiv.org/abs/2501.00595v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-07**|**Triple equivalence for the emergence of biological intelligence**|Takuya Isomura et.al.|[2409.04928v3](http://arxiv.org/abs/2409.04928v3)|null|
-|**2023-07-14**|**Sparsified Simultaneous Confidence Intervals for High-Dimensional Linear Models**|Xiaorui Zhu et.al.|[2307.07574v2](http://arxiv.org/abs/2307.07574v2)|null|
-|**2025-01-02**|**Penalized Quasi-likelihood for High-dimensional Longitudinal Data via Within-cluster Resampling**|Yue Ma et.al.|[2501.01021v1](http://arxiv.org/abs/2501.01021v1)|null|
-|**2025-01-01**|**Sparse identification of evolution equations via Bayesian model selection**|Tim W. Kroll et.al.|[2501.01476v1](http://arxiv.org/abs/2501.01476v1)|null|
-|**2025-01-01**|**A Graphical Approach to State Variable Selection in Off-policy Learning**|Joakim Blach Andersen et.al.|[2501.00854v1](http://arxiv.org/abs/2501.00854v1)|null|
-|**2025-01-01**|**Penalized weighted GEEs for high-dimensional longitudinal data with informative cluter size**|Yue Ma et.al.|[2501.00839v1](http://arxiv.org/abs/2501.00839v1)|null|
-|**2024-12-31**|**Compositional Covariate Importance Testing via Partial Conjunction of Bivariate Hypotheses**|Ritwik Bhaduri et.al.|[2501.00566v1](http://arxiv.org/abs/2501.00566v1)|null|
-|**2024-12-31**|**Variability-Aware Machine Learning Model Selection: Feature Modeling, Instantiation, and Experimental Case Study**|Cristina Tavares et.al.|[2501.00532v1](http://arxiv.org/abs/2501.00532v1)|null|
-|**2024-12-30**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149v1](http://arxiv.org/abs/2501.00149v1)|null|
-|**2024-12-30**|**An Unsupervised Anomaly Detection in Electricity Consumption Using Reinforcement Learning and Time Series Forest Based Framework**|Jihan Ghanim et.al.|[2501.00107v1](http://arxiv.org/abs/2501.00107v1)|null|
-|**2021-10-07**|**A Model Selection Approach for Corruption Robust Reinforcement Learning**|Chen-Yu Wei et.al.|[2110.03580v2](http://arxiv.org/abs/2110.03580v2)|null|
-|**2024-12-29**|**Adversarial Negotiation Dynamics in Generative Language Models**|Arinbjörn Kolbeinsson et.al.|[2501.00069v1](http://arxiv.org/abs/2501.00069v1)|null|
-|**2024-12-29**|**Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data**|Cristian Castiglione et.al.|[2412.20509v1](http://arxiv.org/abs/2412.20509v1)|[link](https://github.com/CristianCastiglione/sgdGMF)|
-|**2023-12-08**|**Deep Bayes Factors**|Jungeum Kim et.al.|[2312.05411v3](http://arxiv.org/abs/2312.05411v3)|null|
-|**2024-12-25**|**Recommending Pre-Trained Models for IoT Devices**|Parth V. Patil et.al.|[2412.18972v1](http://arxiv.org/abs/2412.18972v1)|null|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v1](http://arxiv.org/abs/2501.03228v1)|null|
+|**2022-11-09**|**Attention to the strengths of physical interactions: Transformer and graph-based event classification for particle physics experiments**|Luc Builtjes et.al.|[2211.05143v3](http://arxiv.org/abs/2211.05143v3)|null|
+|**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113v1](http://arxiv.org/abs/2501.03113v1)|null|
+|**2024-12-30**|**Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction**|Yuan Mi et.al.|[2412.20962v3](http://arxiv.org/abs/2412.20962v3)|null|
+|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v2](http://arxiv.org/abs/2408.17252v2)|null|
+|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981v1](http://arxiv.org/abs/2501.02981v1)|null|
+|**2025-01-06**|**LOHA: Direct Graph Spectral Contrastive Learning Between Low-pass and High-pass Views**|Ziyun Zou et.al.|[2501.02969v1](http://arxiv.org/abs/2501.02969v1)|null|
+|**2025-01-06**|**DarkFarseer: Inductive Spatio-temporal Kriging via Hidden Style Enhancement and Sparsity-Noise Mitigation**|Zhuoxuan Liang et.al.|[2501.02808v1](http://arxiv.org/abs/2501.02808v1)|null|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v2](http://arxiv.org/abs/2407.03217v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
+|**2025-01-06**|**GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection**|Saba Fathi Rabooki et.al.|[2501.02796v1](http://arxiv.org/abs/2501.02796v1)|null|
+|**2025-01-06**|**Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training**|Ting Wang et.al.|[2501.02767v1](http://arxiv.org/abs/2501.02767v1)|[link](https://github.com/cityu-t/rcp-gnn)|
+|**2025-01-06**|**Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?**|Fei Gao et.al.|[2501.02766v1](http://arxiv.org/abs/2501.02766v1)|null|
+|**2024-10-09**|**Multi-Task Program Error Repair and Explanatory Diagnosis**|Zhenyu Xu et.al.|[2410.07271v2](http://arxiv.org/abs/2410.07271v2)|null|
+|**2025-01-06**|**Enhancing Robot Route Optimization in Smart Logistics with Transformer and GNN Integration**|Hao Luo et.al.|[2501.02749v1](http://arxiv.org/abs/2501.02749v1)|null|
+|**2025-01-06**|**OpenGU: A Comprehensive Benchmark for Graph Unlearning**|Bowen Fan et.al.|[2501.02728v1](http://arxiv.org/abs/2501.02728v1)|null|
 
 ## Graph Model
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-06**|**A note on improved bounds for hypergraph rainbow matching problems**|Candida Bowtell et.al.|[2501.03216v1](http://arxiv.org/abs/2501.03216v1)|null|
+|**2024-11-25**|**Double complexes for configuration spaces and hypergraphs on manifolds**|Shiquan Ren et.al.|[2411.16545v2](http://arxiv.org/abs/2411.16545v2)|null|
+|**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v3](http://arxiv.org/abs/2408.07084v3)|null|
+|**2025-01-05**|**Evolving Skeletons: Motion Dynamics in Action Recognition**|Jushang Qiu et.al.|[2501.02593v1](http://arxiv.org/abs/2501.02593v1)|null|
+|**2025-01-02**|**Strongly Positive Semi-Definite Tensors and Strongly SOS Tensors**|Liqun Qi et.al.|[2501.01250v2](http://arxiv.org/abs/2501.01250v2)|null|
+|**2025-01-04**|**On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing**|Jianwei Wang et.al.|[2501.02191v1](http://arxiv.org/abs/2501.02191v1)|[link](https://github.com/guaiyoui/unimp)|
+|**2025-01-03**|**Uncertainty-Aware Label Refinement on Hypergraphs for Personalized Federated Facial Expression Recognition**|Hu Ding et.al.|[2501.01816v1](http://arxiv.org/abs/2501.01816v1)|null|
+|**2025-01-02**|**Denoising Diffused Embeddings: a Generative Approach for Hypergraphs**|Shihao Wu et.al.|[2501.01541v1](http://arxiv.org/abs/2501.01541v1)|null|
+|**2025-01-02**|**ST-HCSS: Deep Spatio-Temporal Hypergraph Convolutional Neural Network for Soft Sensing**|Hwa Hui Tew et.al.|[2501.02016v1](http://arxiv.org/abs/2501.02016v1)|[link](https://github.com/htew0001/st-hcss)|
+|**2025-01-02**|**Connected ideals of chordal graphs**|Kanoy Kumar Das et.al.|[2501.01112v1](http://arxiv.org/abs/2501.01112v1)|null|
+|**2024-07-19**|**Higher-order triadic percolation on random hypergraphs**|Hanlin Sun et.al.|[2407.14213v2](http://arxiv.org/abs/2407.14213v2)|null|
+|**2024-11-11**|**Phase Transitions via Complex Extensions of Markov Chains**|Jingcheng Liu et.al.|[2411.06857v2](http://arxiv.org/abs/2411.06857v2)|null|
+|**2022-10-17**|**A multidimensional Ramsey Theorem**|António Girão et.al.|[2210.09227v2](http://arxiv.org/abs/2210.09227v2)|null|
+|**2024-12-30**|**Alon-Tarsi for hypergraphs**|Marcin Anholcer et.al.|[2501.00157v1](http://arxiv.org/abs/2501.00157v1)|null|
+|**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,25 +74,6 @@
 |**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
 |**2024-11-02**|**Convolutional Filtering with RKHS Algebras**|Alejandro Parada-Mayorga et.al.|[2411.01341v1](http://arxiv.org/abs/2411.01341v1)|null|
 |**2021-12-31**|**Mean-field limit of non-exchangeable systems**|Pierre-Emmanuel Jabin et.al.|[2112.15406v4](http://arxiv.org/abs/2112.15406v4)|null|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-03**|**Uncertainty-Aware Label Refinement on Hypergraphs for Personalized Federated Facial Expression Recognition**|Hu Ding et.al.|[2501.01816v1](http://arxiv.org/abs/2501.01816v1)|null|
-|**2025-01-02**|**Denoising Diffused Embeddings: a Generative Approach for Hypergraphs**|Shihao Wu et.al.|[2501.01541v1](http://arxiv.org/abs/2501.01541v1)|null|
-|**2025-01-02**|**Odd Order Genuinely Positive Semi-Definite Tensors and Strongly Positive Semi-Definite Tensors**|Liqun Qi et.al.|[2501.01250v1](http://arxiv.org/abs/2501.01250v1)|null|
-|**2025-01-02**|**Connected ideals of chordal graphs**|Kanoy Kumar Das et.al.|[2501.01112v1](http://arxiv.org/abs/2501.01112v1)|null|
-|**2024-07-19**|**Higher-order triadic percolation on random hypergraphs**|Hanlin Sun et.al.|[2407.14213v2](http://arxiv.org/abs/2407.14213v2)|null|
-|**2024-11-11**|**Phase Transitions via Complex Extensions of Markov Chains**|Jingcheng Liu et.al.|[2411.06857v2](http://arxiv.org/abs/2411.06857v2)|null|
-|**2022-10-17**|**A multidimensional Ramsey Theorem**|António Girão et.al.|[2210.09227v2](http://arxiv.org/abs/2210.09227v2)|null|
-|**2024-12-30**|**Alon-Tarsi for hypergraphs**|Marcin Anholcer et.al.|[2501.00157v1](http://arxiv.org/abs/2501.00157v1)|null|
-|**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
-|**2024-12-30**|**Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction**|Ching-Feng Kung et.al.|[2412.21118v1](http://arxiv.org/abs/2412.21118v1)|null|
-|**2024-12-29**|**On Extremal Properties of k-CNF: Capturing Threshold Functions**|Mohit Gurumukhani et.al.|[2412.20493v1](http://arxiv.org/abs/2412.20493v1)|null|
-|**2023-07-07**|**Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs**|Tiehua Zhang et.al.|[2307.03411v3](http://arxiv.org/abs/2307.03411v3)|[link](https://github.com/papercodeeric/lfh)|
-|**2024-12-29**|**Hypergraph-Based Dynamic Graph Node Classification**|Xiaoxu Ma et.al.|[2412.20321v1](http://arxiv.org/abs/2412.20321v1)|null|
-|**2023-12-23**|**Robust Hamiltonicity**|Felix Joos et.al.|[2312.15262v2](http://arxiv.org/abs/2312.15262v2)|null|
-|**2024-12-28**|**Random unconditional convergence of Rademacher chaos in $L_\infty$ and sharp estimates for discrepancy of weighted graphs and hypergraphs**|Sergey V. Astashkin et.al.|[2412.20107v1](http://arxiv.org/abs/2412.20107v1)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -117,6 +96,25 @@
 
 ## Embedding
 
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v1](http://arxiv.org/abs/2412.19637v1)|null|
+|**2024-12-17**|**TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis**|Jiexi Liu et.al.|[2412.12886v1](http://arxiv.org/abs/2412.12886v1)|null|
+|**2024-12-13**|**Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**|Dong Hoon Lee et.al.|[2412.10569v1](http://arxiv.org/abs/2412.10569v1)|[link](https://github.com/movinghoon/dtem)|
+|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
+|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v3](http://arxiv.org/abs/2403.12820v3)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
+|**2024-12-02**|**Memory-Efficient Training for Deep Speaker Embedding Learning in Speaker Verification**|Bei Liu et.al.|[2412.01195v1](http://arxiv.org/abs/2412.01195v1)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v2](http://arxiv.org/abs/2411.18207v2)|[link](https://github.com/343gltysprk/ovow)|
+|**2024-07-15**|**Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v2](http://arxiv.org/abs/2407.10649v2)|null|
+|**2024-11-25**|**HiCat: A Semi-Supervised Approach for Cell Type Annotation**|Chang Bi et.al.|[2412.06805v1](http://arxiv.org/abs/2412.06805v1)|null|
+|**2024-11-06**|**SEGMN: A Structure-Enhanced Graph Matching Network for Graph Similarity Learning**|Wenjun Wang et.al.|[2411.03624v1](http://arxiv.org/abs/2411.03624v1)|null|
+|**2024-07-21**|**Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning**|Shuai Wang et.al.|[2407.15188v2](http://arxiv.org/abs/2407.15188v2)|null|
+|**2023-06-23**|**Network community detection via neural embeddings**|Sadamori Kojaku et.al.|[2306.13400v2](http://arxiv.org/abs/2306.13400v2)|null|
+|**2024-10-14**|**A Simple Baseline for Predicting Events with Auto-Regressive Tabular Transformers**|Alex Stein et.al.|[2410.10648v3](http://arxiv.org/abs/2410.10648v3)|[link](https://github.com/alexstein0/event_prediction_step)|
+|**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v3](http://arxiv.org/abs/2310.17712v3)|null|
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -136,21 +134,23 @@
 |**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801v1](http://arxiv.org/abs/2412.14801v1)|null|
 |**2024-12-17**|**Two Layer Walk: A Community-Aware Graph Embedding**|He Yu et.al.|[2412.12933v2](http://arxiv.org/abs/2412.12933v2)|[link](https://github.com/leonyuhe/tlwalk)|
 
-### Embedding Learning
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v1](http://arxiv.org/abs/2412.19637v1)|null|
-|**2024-12-17**|**TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis**|Jiexi Liu et.al.|[2412.12886v1](http://arxiv.org/abs/2412.12886v1)|null|
-|**2024-12-13**|**Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**|Dong Hoon Lee et.al.|[2412.10569v1](http://arxiv.org/abs/2412.10569v1)|[link](https://github.com/movinghoon/dtem)|
-|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
-|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v3](http://arxiv.org/abs/2403.12820v3)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
-|**2024-12-02**|**Memory-Efficient Training for Deep Speaker Embedding Learning in Speaker Verification**|Bei Liu et.al.|[2412.01195v1](http://arxiv.org/abs/2412.01195v1)|null|
-|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v2](http://arxiv.org/abs/2411.18207v2)|[link](https://github.com/343gltysprk/ovow)|
-|**2024-07-15**|**Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v2](http://arxiv.org/abs/2407.10649v2)|null|
-|**2024-11-25**|**HiCat: A Semi-Supervised Approach for Cell Type Annotation**|Chang Bi et.al.|[2412.06805v1](http://arxiv.org/abs/2412.06805v1)|null|
-|**2024-11-06**|**SEGMN: A Structure-Enhanced Graph Matching Network for Graph Similarity Learning**|Wenjun Wang et.al.|[2411.03624v1](http://arxiv.org/abs/2411.03624v1)|null|
-|**2024-07-21**|**Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning**|Shuai Wang et.al.|[2407.15188v2](http://arxiv.org/abs/2407.15188v2)|null|
-|**2023-06-23**|**Network community detection via neural embeddings**|Sadamori Kojaku et.al.|[2306.13400v2](http://arxiv.org/abs/2306.13400v2)|null|
-|**2024-10-14**|**A Simple Baseline for Predicting Events with Auto-Regressive Tabular Transformers**|Alex Stein et.al.|[2410.10648v3](http://arxiv.org/abs/2410.10648v3)|[link](https://github.com/alexstein0/event_prediction_step)|
-|**2023-10-26**|**Community Detection Guarantees Using Embeddings Learned by Node2Vec**|Andrew Davison et.al.|[2310.17712v3](http://arxiv.org/abs/2310.17712v3)|null|
+|**2024-12-30**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149v2](http://arxiv.org/abs/2501.00149v2)|null|
+|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336v3](http://arxiv.org/abs/2307.07336v3)|null|
+|**2025-01-04**|**Sparsity learning via structured functional factor augmentation**|Hanteng Ma et.al.|[2501.02244v1](http://arxiv.org/abs/2501.02244v1)|null|
+|**2024-10-03**|**Fast spatio-temporally varying coefficient modeling with reluctant interaction selection**|Daisuke Murakami et.al.|[2410.07229v2](http://arxiv.org/abs/2410.07229v2)|null|
+|**2024-06-21**|**Thermodynamic modeling of the LiCl-KCl-LaCl$_3$ system with Bayesian model selection and uncertainty quantification**|Rushi Gong et.al.|[2406.15223v2](http://arxiv.org/abs/2406.15223v2)|null|
+|**2024-09-07**|**Triple equivalence for the emergence of biological intelligence**|Takuya Isomura et.al.|[2409.04928v3](http://arxiv.org/abs/2409.04928v3)|null|
+|**2023-07-14**|**Sparsified Simultaneous Confidence Intervals for High-Dimensional Linear Models**|Xiaorui Zhu et.al.|[2307.07574v2](http://arxiv.org/abs/2307.07574v2)|null|
+|**2025-01-02**|**Penalized Quasi-likelihood for High-dimensional Longitudinal Data via Within-cluster Resampling**|Yue Ma et.al.|[2501.01021v1](http://arxiv.org/abs/2501.01021v1)|null|
+|**2025-01-01**|**Sparse identification of evolution equations via Bayesian model selection**|Tim W. Kroll et.al.|[2501.01476v1](http://arxiv.org/abs/2501.01476v1)|null|
+|**2025-01-01**|**A Graphical Approach to State Variable Selection in Off-policy Learning**|Joakim Blach Andersen et.al.|[2501.00854v1](http://arxiv.org/abs/2501.00854v1)|null|
+|**2025-01-01**|**Penalized weighted GEEs for high-dimensional longitudinal data with informative cluter size**|Yue Ma et.al.|[2501.00839v1](http://arxiv.org/abs/2501.00839v1)|null|
+|**2024-12-31**|**Compositional Covariate Importance Testing via Partial Conjunction of Bivariate Hypotheses**|Ritwik Bhaduri et.al.|[2501.00566v1](http://arxiv.org/abs/2501.00566v1)|null|
+|**2024-12-31**|**Variability-Aware Machine Learning Model Selection: Feature Modeling, Instantiation, and Experimental Case Study**|Cristina Tavares et.al.|[2501.00532v1](http://arxiv.org/abs/2501.00532v1)|null|
+|**2024-12-30**|**An Unsupervised Anomaly Detection in Electricity Consumption Using Reinforcement Learning and Time Series Forest Based Framework**|Jihan Ghanim et.al.|[2501.00107v1](http://arxiv.org/abs/2501.00107v1)|null|
+|**2021-10-07**|**A Model Selection Approach for Corruption Robust Reinforcement Learning**|Chen-Yu Wei et.al.|[2110.03580v2](http://arxiv.org/abs/2110.03580v2)|null|
