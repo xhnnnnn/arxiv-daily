@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-18 07:25:18 Asia/Shanghai
+ Automated deployment @ 2025-01-18 19:21:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,25 +36,6 @@
 |**2024-01-27**|**SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks**|Azmine Toushik Wasi et.al.|[2401.15299v3](http://arxiv.org/abs/2401.15299v3)|[link](https://github.com/ciol-researchlab/SupplyGraph)|
 
 ## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé-Pi et.al.|[2401.00665v4](http://arxiv.org/abs/2401.00665v4)|null|
-|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v2](http://arxiv.org/abs/2307.02324v2)|null|
-|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v1](http://arxiv.org/abs/2412.19352v1)|null|
-|**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
-|**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
-|**2020-11-05**|**Motif Estimation via Subgraph Sampling: The Fourth Moment Phenomenon**|Bhaswar B. Bhattacharya et.al.|[2011.03026v2](http://arxiv.org/abs/2011.03026v2)|null|
-|**2024-06-26**|**An application-oriented framework for continuum modeling of opinion dynamics on a network**|Gianluca Favre et.al.|[2406.18076v2](http://arxiv.org/abs/2406.18076v2)|null|
-|**2024-12-04**|**Constrained portfolio game with heterogeneous agents**|Zongxia Liang et.al.|[2412.03070v1](http://arxiv.org/abs/2412.03070v1)|null|
-|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v2](http://arxiv.org/abs/2409.16903v2)|null|
-|**2024-11-20**|**Graphon-Theoretic Approach to Central Limit Theorems for $ε$-Independence**|Guillaume Cébron et.al.|[2411.13062v2](http://arxiv.org/abs/2411.13062v2)|null|
-|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v5](http://arxiv.org/abs/2201.12272v5)|null|
-|**2024-11-28**|**A Partial Characterization of Robinsonian $L^p$ Graphons**|Teddy Mishura et.al.|[2411.18886v1](http://arxiv.org/abs/2411.18886v1)|null|
-|**2024-11-20**|**On cospectral graphons**|Jan Hladký et.al.|[2411.13229v1](http://arxiv.org/abs/2411.13229v1)|null|
-|**2024-11-08**|**Stochastic Graphon Games with Memory**|Eyal Neuman et.al.|[2411.05896v1](http://arxiv.org/abs/2411.05896v1)|null|
-|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,6 +74,25 @@
 |**2025-01-13**|**HyperQuery: Beyond Binary Link Prediction**|Sepideh Maleki et.al.|[2501.07731v1](http://arxiv.org/abs/2501.07731v1)|null|
 |**2025-01-13**|**A rainbow Dirac theorem for loose Hamilton cycles in hypergraphs**|Amarja Kathapurkar et.al.|[2501.07644v1](http://arxiv.org/abs/2501.07644v1)|null|
 |**2024-12-11**|**MHSA: A Multi-scale Hypergraph Network for Mild Cognitive Impairment Detection via Synchronous and Attentive Fusion**|Manman Yuan et.al.|[2412.12149v2](http://arxiv.org/abs/2412.12149v2)|[link](https://github.com/jia-weiming/mhsa)|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé-Pi et.al.|[2401.00665v4](http://arxiv.org/abs/2401.00665v4)|null|
+|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v2](http://arxiv.org/abs/2307.02324v2)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v1](http://arxiv.org/abs/2412.19352v1)|null|
+|**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
+|**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
+|**2020-11-05**|**Motif Estimation via Subgraph Sampling: The Fourth Moment Phenomenon**|Bhaswar B. Bhattacharya et.al.|[2011.03026v2](http://arxiv.org/abs/2011.03026v2)|null|
+|**2024-06-26**|**An application-oriented framework for continuum modeling of opinion dynamics on a network**|Gianluca Favre et.al.|[2406.18076v2](http://arxiv.org/abs/2406.18076v2)|null|
+|**2024-12-04**|**Constrained portfolio game with heterogeneous agents**|Zongxia Liang et.al.|[2412.03070v1](http://arxiv.org/abs/2412.03070v1)|null|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v2](http://arxiv.org/abs/2409.16903v2)|null|
+|**2024-11-20**|**Graphon-Theoretic Approach to Central Limit Theorems for $ε$-Independence**|Guillaume Cébron et.al.|[2411.13062v2](http://arxiv.org/abs/2411.13062v2)|null|
+|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v5](http://arxiv.org/abs/2201.12272v5)|null|
+|**2024-11-28**|**A Partial Characterization of Robinsonian $L^p$ Graphons**|Teddy Mishura et.al.|[2411.18886v1](http://arxiv.org/abs/2411.18886v1)|null|
+|**2024-11-20**|**On cospectral graphons**|Jan Hladký et.al.|[2411.13229v1](http://arxiv.org/abs/2411.13229v1)|null|
+|**2024-11-08**|**Stochastic Graphon Games with Memory**|Eyal Neuman et.al.|[2411.05896v1](http://arxiv.org/abs/2411.05896v1)|null|
+|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
 
 ## Embedding
 
