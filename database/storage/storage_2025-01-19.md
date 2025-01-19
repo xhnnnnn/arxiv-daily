@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 07:25:13 Asia/Shanghai
+ Automated deployment @ 2025-01-19 19:21:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -77,6 +77,25 @@
 
 ## Graph Model
 
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic et.al.|[2501.09637v1](http://arxiv.org/abs/2501.09637v1)|null|
+|**2025-01-16**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622v1](http://arxiv.org/abs/2501.09622v1)|null|
+|**2024-06-13**|**Multiplexed Quantum Communication with Surface and Hypergraph Product Codes**|Shin Nishio et.al.|[2406.08832v2](http://arxiv.org/abs/2406.08832v2)|[link](https://github.com/parton-quark/multiplexed_toric)|
+|**2024-10-30**|**HGPflow: Extending Hypergraph Particle Flow to Collider Event Reconstruction**|Nilotpal Kakati et.al.|[2410.23236v2](http://arxiv.org/abs/2410.23236v2)|null|
+|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290v1](http://arxiv.org/abs/2501.09290v1)|null|
+|**2025-01-15**|**SHYI: Action Support for Contrastive Learning in High-Fidelity Text-to-Image Generation**|Tianxiang Xia et.al.|[2501.09055v1](http://arxiv.org/abs/2501.09055v1)|null|
+|**2021-11-26**|**Hypergraph Representation via Axis-Aligned Point-Subspace Cover**|Oksana Firman et.al.|[2111.13555v3](http://arxiv.org/abs/2111.13555v3)|null|
+|**2025-01-15**|**Multi-view Correlation-aware Network Traffic Detection on Flow Hypergraph**|Jiajun Zhou et.al.|[2501.08610v1](http://arxiv.org/abs/2501.08610v1)|null|
+|**2025-01-14**|**Polynomial Threshold Functions of Bounded Tree-Width: Some Explainability and Complexity Aspects**|Karine Chubarian et.al.|[2501.08297v1](http://arxiv.org/abs/2501.08297v1)|null|
+|**2023-12-19**|**A Stochastic Block Hypergraph model**|Alexis Pister et.al.|[2312.12536v2](http://arxiv.org/abs/2312.12536v2)|[link](https://github.com/alexispister/hysbm)|
+|**2025-01-14**|**Uniform Membership for Hyperedge Replacement Grammars and Related Decision Problems**|Tikhon Pshenitsyn et.al.|[2501.08082v1](http://arxiv.org/abs/2501.08082v1)|null|
+|**2023-04-04**|**A canonical Ramsey theorem with list constraints in random (hyper-)graphs**|José D. Alvarado et.al.|[2304.01846v2](http://arxiv.org/abs/2304.01846v2)|null|
+|**2025-01-13**|**HyperQuery: Beyond Binary Link Prediction**|Sepideh Maleki et.al.|[2501.07731v1](http://arxiv.org/abs/2501.07731v1)|null|
+|**2025-01-13**|**A rainbow Dirac theorem for loose Hamilton cycles in hypergraphs**|Amarja Kathapurkar et.al.|[2501.07644v1](http://arxiv.org/abs/2501.07644v1)|null|
+|**2024-12-11**|**MHSA: A Multi-scale Hypergraph Network for Mild Cognitive Impairment Detection via Synchronous and Attentive Fusion**|Manman Yuan et.al.|[2412.12149v2](http://arxiv.org/abs/2412.12149v2)|[link](https://github.com/jia-weiming/mhsa)|
+
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -114,25 +133,6 @@
 |**2025-01-03**|**Adaptive Homophily Clustering: Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image**|Yao Ding et.al.|[2501.01595v2](http://arxiv.org/abs/2501.01595v2)|null|
 |**2025-01-07**|**Structure-Preference Enabled Graph Embedding Generation under Differential Privacy**|Sen Zhang et.al.|[2501.03451v1](http://arxiv.org/abs/2501.03451v1)|[link](https://github.com/sunnerzs/seprivgemb)|
 |**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644v1](http://arxiv.org/abs/2501.01644v1)|[link](https://github.com/hysonlab/biomedkg)|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic et.al.|[2501.09637v1](http://arxiv.org/abs/2501.09637v1)|null|
-|**2025-01-16**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622v1](http://arxiv.org/abs/2501.09622v1)|null|
-|**2024-06-13**|**Multiplexed Quantum Communication with Surface and Hypergraph Product Codes**|Shin Nishio et.al.|[2406.08832v2](http://arxiv.org/abs/2406.08832v2)|[link](https://github.com/parton-quark/multiplexed_toric)|
-|**2024-10-30**|**HGPflow: Extending Hypergraph Particle Flow to Collider Event Reconstruction**|Nilotpal Kakati et.al.|[2410.23236v2](http://arxiv.org/abs/2410.23236v2)|null|
-|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290v1](http://arxiv.org/abs/2501.09290v1)|null|
-|**2025-01-15**|**SHYI: Action Support for Contrastive Learning in High-Fidelity Text-to-Image Generation**|Tianxiang Xia et.al.|[2501.09055v1](http://arxiv.org/abs/2501.09055v1)|null|
-|**2021-11-26**|**Hypergraph Representation via Axis-Aligned Point-Subspace Cover**|Oksana Firman et.al.|[2111.13555v3](http://arxiv.org/abs/2111.13555v3)|null|
-|**2025-01-15**|**Multi-view Correlation-aware Network Traffic Detection on Flow Hypergraph**|Jiajun Zhou et.al.|[2501.08610v1](http://arxiv.org/abs/2501.08610v1)|null|
-|**2025-01-14**|**Polynomial Threshold Functions of Bounded Tree-Width: Some Explainability and Complexity Aspects**|Karine Chubarian et.al.|[2501.08297v1](http://arxiv.org/abs/2501.08297v1)|null|
-|**2023-12-19**|**A Stochastic Block Hypergraph model**|Alexis Pister et.al.|[2312.12536v2](http://arxiv.org/abs/2312.12536v2)|[link](https://github.com/alexispister/hysbm)|
-|**2025-01-14**|**Uniform Membership for Hyperedge Replacement Grammars and Related Decision Problems**|Tikhon Pshenitsyn et.al.|[2501.08082v1](http://arxiv.org/abs/2501.08082v1)|null|
-|**2023-04-04**|**A canonical Ramsey theorem with list constraints in random (hyper-)graphs**|José D. Alvarado et.al.|[2304.01846v2](http://arxiv.org/abs/2304.01846v2)|null|
-|**2025-01-13**|**HyperQuery: Beyond Binary Link Prediction**|Sepideh Maleki et.al.|[2501.07731v1](http://arxiv.org/abs/2501.07731v1)|null|
-|**2025-01-13**|**A rainbow Dirac theorem for loose Hamilton cycles in hypergraphs**|Amarja Kathapurkar et.al.|[2501.07644v1](http://arxiv.org/abs/2501.07644v1)|null|
-|**2024-12-11**|**MHSA: A Multi-scale Hypergraph Network for Mild Cognitive Impairment Detection via Synchronous and Attentive Fusion**|Manman Yuan et.al.|[2412.12149v2](http://arxiv.org/abs/2412.12149v2)|[link](https://github.com/jia-weiming/mhsa)|
 
 ## Variable Selection
 
