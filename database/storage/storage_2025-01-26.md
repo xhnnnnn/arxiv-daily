@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-26 07:24:51 Asia/Shanghai
+ Automated deployment @ 2025-01-26 19:20:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,66 +35,26 @@
 |**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857v1](http://arxiv.org/abs/2501.12857v1)|null|
 |**2025-01-22**|**GRAMA: Adaptive Graph Autoregressive Moving Average Models**|Moshe Eliasof et.al.|[2501.12732v1](http://arxiv.org/abs/2501.12732v1)|null|
 
-## Embedding
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208v1](http://arxiv.org/abs/2501.12208v1)|null|
-|**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
-|**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
-|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
-|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v1](http://arxiv.org/abs/2501.08796v1)|null|
-|**2024-01-30**|**Knowledge Problems in Protocol Analysis: Extending the Notion of Subterm Convergent**|Carter Bunch et.al.|[2401.17226v2](http://arxiv.org/abs/2401.17226v2)|null|
-|**2024-12-19**|**Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups**|Martin J. A. Schuetz et.al.|[2412.14976v2](http://arxiv.org/abs/2412.14976v2)|null|
-|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v2](http://arxiv.org/abs/2411.11531v2)|null|
-|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
-|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
-|**2025-01-13**|**State-space reduction techniques exploiting specific constraints for quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
-|**2024-12-18**|**Cross-Attention Graph Neural Networks for Inferring Gene Regulatory Networks with Skewed Degree Distribution**|Jiaqi Xiong et.al.|[2412.16220v3](http://arxiv.org/abs/2412.16220v3)|[link](https://github.com/kikixiong/xatgrn)|
-|**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613v1](http://arxiv.org/abs/2501.04613v1)|[link](https://github.com/yuhebai/sem-kge)|
-|**2025-01-08**|**Multivariate Exploration of Metric Dilation**|Aritra Banik et.al.|[2501.04555v1](http://arxiv.org/abs/2501.04555v1)|null|
-|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161v1](http://arxiv.org/abs/2501.04161v1)|null|
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-22**|**Learning Graph Node Embeddings by Smooth Pair Sampling**|Konstantin Kutzkov et.al.|[2501.12884v1](http://arxiv.org/abs/2501.12884v1)|[link](https://github.com/konstantinkutzkov/smooth_pair_sampling)|
-|**2025-01-22**|**Efficient Implementation of LinearUCB through Algorithmic Improvements and Vector Computing Acceleration for Embedded Learning Systems**|Marco Angioli et.al.|[2501.13139v1](http://arxiv.org/abs/2501.13139v1)|null|
-|**2025-01-22**|**Hybrid Losses for Hierarchical Embedding Learning**|Haokun Tian et.al.|[2501.12796v1](http://arxiv.org/abs/2501.12796v1)|[link](https://github.com/tiianhk/label-metric)|
-|**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309v1](http://arxiv.org/abs/2501.12309v1)|null|
-|**2025-01-16**|**Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning**|Donghuo Zeng et.al.|[2501.09608v1](http://arxiv.org/abs/2501.09608v1)|null|
-|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969v1](http://arxiv.org/abs/2501.04969v1)|[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)|
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v1](http://arxiv.org/abs/2412.19637v1)|null|
-|**2024-12-17**|**TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis**|Jiexi Liu et.al.|[2412.12886v1](http://arxiv.org/abs/2412.12886v1)|null|
-|**2024-12-13**|**Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**|Dong Hoon Lee et.al.|[2412.10569v1](http://arxiv.org/abs/2412.10569v1)|[link](https://github.com/movinghoon/dtem)|
-|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
-|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v3](http://arxiv.org/abs/2403.12820v3)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
-|**2024-12-02**|**Memory-Efficient Training for Deep Speaker Embedding Learning in Speaker Verification**|Bei Liu et.al.|[2412.01195v1](http://arxiv.org/abs/2412.01195v1)|null|
-|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v2](http://arxiv.org/abs/2411.18207v2)|[link](https://github.com/343gltysprk/ovow)|
-|**2024-07-15**|**Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v2](http://arxiv.org/abs/2407.10649v2)|null|
-
 ## Graph Model
 
-### Graph Embedding
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208v1](http://arxiv.org/abs/2501.12208v1)|null|
-|**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
-|**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
-|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
-|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v1](http://arxiv.org/abs/2501.08796v1)|null|
-|**2024-01-30**|**Knowledge Problems in Protocol Analysis: Extending the Notion of Subterm Convergent**|Carter Bunch et.al.|[2401.17226v2](http://arxiv.org/abs/2401.17226v2)|null|
-|**2024-12-19**|**Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups**|Martin J. A. Schuetz et.al.|[2412.14976v2](http://arxiv.org/abs/2412.14976v2)|null|
-|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v2](http://arxiv.org/abs/2411.11531v2)|null|
-|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
-|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
-|**2025-01-13**|**State-space reduction techniques exploiting specific constraints for quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
-|**2024-12-18**|**Cross-Attention Graph Neural Networks for Inferring Gene Regulatory Networks with Skewed Degree Distribution**|Jiaqi Xiong et.al.|[2412.16220v3](http://arxiv.org/abs/2412.16220v3)|[link](https://github.com/kikixiong/xatgrn)|
-|**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613v1](http://arxiv.org/abs/2501.04613v1)|[link](https://github.com/yuhebai/sem-kge)|
-|**2025-01-08**|**Multivariate Exploration of Metric Dilation**|Aritra Banik et.al.|[2501.04555v1](http://arxiv.org/abs/2501.04555v1)|null|
-|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161v1](http://arxiv.org/abs/2501.04161v1)|null|
+|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595v1](http://arxiv.org/abs/2501.12595v1)|[link](https://github.com/yongduosui/uil)|
+|**2024-12-18**|**Functional Central limit theorems for microscopic and macroscopic functionals of inhomogeneous random graphs**|Shankar Bhamidi et.al.|[2412.13672v2](http://arxiv.org/abs/2412.13672v2)|null|
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé-Pi et.al.|[2401.00665v4](http://arxiv.org/abs/2401.00665v4)|null|
+|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v2](http://arxiv.org/abs/2307.02324v2)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v1](http://arxiv.org/abs/2412.19352v1)|null|
+|**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
+|**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
+|**2020-11-05**|**Motif Estimation via Subgraph Sampling: The Fourth Moment Phenomenon**|Bhaswar B. Bhattacharya et.al.|[2011.03026v2](http://arxiv.org/abs/2011.03026v2)|null|
+|**2024-06-26**|**An application-oriented framework for continuum modeling of opinion dynamics on a network**|Gianluca Favre et.al.|[2406.18076v2](http://arxiv.org/abs/2406.18076v2)|null|
+|**2024-12-04**|**Constrained portfolio game with heterogeneous agents**|Zongxia Liang et.al.|[2412.03070v1](http://arxiv.org/abs/2412.03070v1)|null|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v2](http://arxiv.org/abs/2409.16903v2)|null|
+|**2024-11-20**|**Graphon-Theoretic Approach to Central Limit Theorems for $ε$-Independence**|Guillaume Cébron et.al.|[2411.13062v2](http://arxiv.org/abs/2411.13062v2)|null|
+|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v5](http://arxiv.org/abs/2201.12272v5)|null|
+|**2024-11-28**|**A Partial Characterization of Robinsonian $L^p$ Graphons**|Teddy Mishura et.al.|[2411.18886v1](http://arxiv.org/abs/2411.18886v1)|null|
+|**2024-11-20**|**On cospectral graphons**|Jan Hladký et.al.|[2411.13229v1](http://arxiv.org/abs/2411.13229v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -115,24 +75,64 @@
 |**2024-04-22**|**Cycles in graphs and in hypergraphs: towards homology theory**|A. Miroshnikov et.al.|[2406.16705v2](http://arxiv.org/abs/2406.16705v2)|null|
 |**2025-01-16**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622v2](http://arxiv.org/abs/2501.09622v2)|null|
 
-### Graphon
+### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595v1](http://arxiv.org/abs/2501.12595v1)|[link](https://github.com/yongduosui/uil)|
-|**2024-12-18**|**Functional Central limit theorems for microscopic and macroscopic functionals of inhomogeneous random graphs**|Shankar Bhamidi et.al.|[2412.13672v2](http://arxiv.org/abs/2412.13672v2)|null|
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé-Pi et.al.|[2401.00665v4](http://arxiv.org/abs/2401.00665v4)|null|
-|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v2](http://arxiv.org/abs/2307.02324v2)|null|
-|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v1](http://arxiv.org/abs/2412.19352v1)|null|
-|**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
-|**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
-|**2020-11-05**|**Motif Estimation via Subgraph Sampling: The Fourth Moment Phenomenon**|Bhaswar B. Bhattacharya et.al.|[2011.03026v2](http://arxiv.org/abs/2011.03026v2)|null|
-|**2024-06-26**|**An application-oriented framework for continuum modeling of opinion dynamics on a network**|Gianluca Favre et.al.|[2406.18076v2](http://arxiv.org/abs/2406.18076v2)|null|
-|**2024-12-04**|**Constrained portfolio game with heterogeneous agents**|Zongxia Liang et.al.|[2412.03070v1](http://arxiv.org/abs/2412.03070v1)|null|
-|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903v2](http://arxiv.org/abs/2409.16903v2)|null|
-|**2024-11-20**|**Graphon-Theoretic Approach to Central Limit Theorems for $ε$-Independence**|Guillaume Cébron et.al.|[2411.13062v2](http://arxiv.org/abs/2411.13062v2)|null|
-|**2022-01-28**|**From flip processes to dynamical systems on graphons**|Frederik Garbe et.al.|[2201.12272v5](http://arxiv.org/abs/2201.12272v5)|null|
-|**2024-11-28**|**A Partial Characterization of Robinsonian $L^p$ Graphons**|Teddy Mishura et.al.|[2411.18886v1](http://arxiv.org/abs/2411.18886v1)|null|
-|**2024-11-20**|**On cospectral graphons**|Jan Hladký et.al.|[2411.13229v1](http://arxiv.org/abs/2411.13229v1)|null|
+|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208v1](http://arxiv.org/abs/2501.12208v1)|null|
+|**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
+|**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
+|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
+|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v1](http://arxiv.org/abs/2501.08796v1)|null|
+|**2024-01-30**|**Knowledge Problems in Protocol Analysis: Extending the Notion of Subterm Convergent**|Carter Bunch et.al.|[2401.17226v2](http://arxiv.org/abs/2401.17226v2)|null|
+|**2024-12-19**|**Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups**|Martin J. A. Schuetz et.al.|[2412.14976v2](http://arxiv.org/abs/2412.14976v2)|null|
+|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v2](http://arxiv.org/abs/2411.11531v2)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
+|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
+|**2025-01-13**|**State-space reduction techniques exploiting specific constraints for quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
+|**2024-12-18**|**Cross-Attention Graph Neural Networks for Inferring Gene Regulatory Networks with Skewed Degree Distribution**|Jiaqi Xiong et.al.|[2412.16220v3](http://arxiv.org/abs/2412.16220v3)|[link](https://github.com/kikixiong/xatgrn)|
+|**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613v1](http://arxiv.org/abs/2501.04613v1)|[link](https://github.com/yuhebai/sem-kge)|
+|**2025-01-08**|**Multivariate Exploration of Metric Dilation**|Aritra Banik et.al.|[2501.04555v1](http://arxiv.org/abs/2501.04555v1)|null|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161v1](http://arxiv.org/abs/2501.04161v1)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-22**|**Learning Graph Node Embeddings by Smooth Pair Sampling**|Konstantin Kutzkov et.al.|[2501.12884v1](http://arxiv.org/abs/2501.12884v1)|[link](https://github.com/konstantinkutzkov/smooth_pair_sampling)|
+|**2025-01-22**|**Efficient Implementation of LinearUCB through Algorithmic Improvements and Vector Computing Acceleration for Embedded Learning Systems**|Marco Angioli et.al.|[2501.13139v1](http://arxiv.org/abs/2501.13139v1)|null|
+|**2025-01-22**|**Hybrid Losses for Hierarchical Embedding Learning**|Haokun Tian et.al.|[2501.12796v1](http://arxiv.org/abs/2501.12796v1)|[link](https://github.com/tiianhk/label-metric)|
+|**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309v1](http://arxiv.org/abs/2501.12309v1)|null|
+|**2025-01-16**|**Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning**|Donghuo Zeng et.al.|[2501.09608v1](http://arxiv.org/abs/2501.09608v1)|null|
+|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969v1](http://arxiv.org/abs/2501.04969v1)|[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v1](http://arxiv.org/abs/2412.19637v1)|null|
+|**2024-12-17**|**TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis**|Jiexi Liu et.al.|[2412.12886v1](http://arxiv.org/abs/2412.12886v1)|null|
+|**2024-12-13**|**Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**|Dong Hoon Lee et.al.|[2412.10569v1](http://arxiv.org/abs/2412.10569v1)|[link](https://github.com/movinghoon/dtem)|
+|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
+|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v3](http://arxiv.org/abs/2403.12820v3)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
+|**2024-12-02**|**Memory-Efficient Training for Deep Speaker Embedding Learning in Speaker Verification**|Bei Liu et.al.|[2412.01195v1](http://arxiv.org/abs/2412.01195v1)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v2](http://arxiv.org/abs/2411.18207v2)|[link](https://github.com/343gltysprk/ovow)|
+|**2024-07-15**|**Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v2](http://arxiv.org/abs/2407.10649v2)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208v1](http://arxiv.org/abs/2501.12208v1)|null|
+|**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
+|**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
+|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
+|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v1](http://arxiv.org/abs/2501.08796v1)|null|
+|**2024-01-30**|**Knowledge Problems in Protocol Analysis: Extending the Notion of Subterm Convergent**|Carter Bunch et.al.|[2401.17226v2](http://arxiv.org/abs/2401.17226v2)|null|
+|**2024-12-19**|**Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups**|Martin J. A. Schuetz et.al.|[2412.14976v2](http://arxiv.org/abs/2412.14976v2)|null|
+|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v2](http://arxiv.org/abs/2411.11531v2)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
+|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
+|**2025-01-13**|**State-space reduction techniques exploiting specific constraints for quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
+|**2024-12-18**|**Cross-Attention Graph Neural Networks for Inferring Gene Regulatory Networks with Skewed Degree Distribution**|Jiaqi Xiong et.al.|[2412.16220v3](http://arxiv.org/abs/2412.16220v3)|[link](https://github.com/kikixiong/xatgrn)|
+|**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613v1](http://arxiv.org/abs/2501.04613v1)|[link](https://github.com/yuhebai/sem-kge)|
+|**2025-01-08**|**Multivariate Exploration of Metric Dilation**|Aritra Banik et.al.|[2501.04555v1](http://arxiv.org/abs/2501.04555v1)|null|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161v1](http://arxiv.org/abs/2501.04161v1)|null|
 
 ## Variable Selection
 
