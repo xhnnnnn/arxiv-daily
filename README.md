@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-02 07:24:07 Asia/Shanghai
+ Automated deployment @ 2025-02-02 19:21:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -37,25 +37,6 @@
 
 ## Graph Model
 
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549v1](http://arxiv.org/abs/2501.17549v1)|null|
-|**2025-01-29**|**A Geometric Perspective for High-Dimensional Multiplex Graphs**|Kamel Abdous et.al.|[2501.17374v1](http://arxiv.org/abs/2501.17374v1)|[link](https://github.com/abdouskamel/hyper-mge)|
-|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688v1](http://arxiv.org/abs/2501.15688v1)|null|
-|**2024-08-15**|**Conformalized Answer Set Prediction for Knowledge Graph Embedding**|Yuqicheng Zhu et.al.|[2408.08248v3](http://arxiv.org/abs/2408.08248v3)|null|
-|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208v1](http://arxiv.org/abs/2501.12208v1)|null|
-|**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
-|**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
-|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
-|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v1](http://arxiv.org/abs/2501.08796v1)|null|
-|**2024-01-30**|**Knowledge Problems in Protocol Analysis: Extending the Notion of Subterm Convergent**|Carter Bunch et.al.|[2401.17226v2](http://arxiv.org/abs/2401.17226v2)|null|
-|**2024-12-19**|**Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups**|Martin J. A. Schuetz et.al.|[2412.14976v2](http://arxiv.org/abs/2412.14976v2)|null|
-|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v2](http://arxiv.org/abs/2411.11531v2)|null|
-|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
-|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
-|**2025-01-13**|**State-space reduction techniques exploiting specific constraints for quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
-
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -74,6 +55,25 @@
 |**2025-01-22**|**Generalization Performance of Hypergraph Neural Networks**|Yifan Wang et.al.|[2501.12554v2](http://arxiv.org/abs/2501.12554v2)|[link](https://github.com/yifanwang123/Generalization-Performance-of-Hypergraph-Neural-Networks)|
 |**2025-01-24**|**Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion**|Darnbi Sakong et.al.|[2501.14399v1](http://arxiv.org/abs/2501.14399v1)|null|
 |**2025-01-23**|**A Comprehensive Survey on Spectral Clustering with Graph Structure Learning**|Kamal Berahmand et.al.|[2501.13597v2](http://arxiv.org/abs/2501.13597v2)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549v1](http://arxiv.org/abs/2501.17549v1)|null|
+|**2025-01-29**|**A Geometric Perspective for High-Dimensional Multiplex Graphs**|Kamel Abdous et.al.|[2501.17374v1](http://arxiv.org/abs/2501.17374v1)|[link](https://github.com/abdouskamel/hyper-mge)|
+|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688v1](http://arxiv.org/abs/2501.15688v1)|null|
+|**2024-08-15**|**Conformalized Answer Set Prediction for Knowledge Graph Embedding**|Yuqicheng Zhu et.al.|[2408.08248v3](http://arxiv.org/abs/2408.08248v3)|null|
+|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208v1](http://arxiv.org/abs/2501.12208v1)|null|
+|**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
+|**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
+|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
+|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v1](http://arxiv.org/abs/2501.08796v1)|null|
+|**2024-01-30**|**Knowledge Problems in Protocol Analysis: Extending the Notion of Subterm Convergent**|Carter Bunch et.al.|[2401.17226v2](http://arxiv.org/abs/2401.17226v2)|null|
+|**2024-12-19**|**Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups**|Martin J. A. Schuetz et.al.|[2412.14976v2](http://arxiv.org/abs/2412.14976v2)|null|
+|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v2](http://arxiv.org/abs/2411.11531v2)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
+|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
+|**2025-01-13**|**State-space reduction techniques exploiting specific constraints for quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
