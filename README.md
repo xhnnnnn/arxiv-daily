@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-09 07:26:53 Asia/Shanghai
+ Automated deployment @ 2025-02-09 19:21:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,6 +36,27 @@
 |**2024-12-21**|**MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights**|Jingjing Hu et.al.|[2412.16483v2](http://arxiv.org/abs/2412.16483v2)|[link](https://github.com/xian-sh/mol-mamba)|
 |**2025-02-06**|**On the Expressive Power of Subgraph Graph Neural Networks for Graphs with Bounded Cycles**|Ziang Chen et.al.|[2502.03703v1](http://arxiv.org/abs/2502.03703v1)|null|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**Negative Moment Bounds for Sample Autocovariance Matrices of Stationary Processes Driven by Conditional Heteroscedastic Errors and Their Applications**|Hsueh-Han Huang et.al.|[2301.07476v3](http://arxiv.org/abs/2301.07476v3)|null|
+|**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities**|Yanis Lalou et.al.|[2407.11676v2](http://arxiv.org/abs/2407.11676v2)|[link](https://github.com/scikit-adaptation/skada-bench)|
+|**2025-01-13**|**A Beta Cauchy-Cauchy (BECCA) shrinkage prior for Bayesian variable selection**|Linduni M. Rodrigo et.al.|[2501.07061v2](http://arxiv.org/abs/2501.07061v2)|null|
+|**2025-02-06**|**Consistent model selection in a collection of stochastic block models**|Lucie Arts et.al.|[2502.03848v1](http://arxiv.org/abs/2502.03848v1)|null|
+|**2025-02-06**|**On the limits of some Bayesian model evaluation statistics**|Hien Duy Nguyen et.al.|[2502.03846v1](http://arxiv.org/abs/2502.03846v1)|null|
+|**2025-02-06**|**Optimizing Bayesian model selection for equation of state of cold neutron stars**|Rahul Kashyap et.al.|[2502.03831v1](http://arxiv.org/abs/2502.03831v1)|null|
+|**2025-02-04**|**The Morphology of Dwarf Galaxies Hosting Variable Active Galactic Nuclei**|Erin Kimbro et.al.|[2502.02751v1](http://arxiv.org/abs/2502.02751v1)|null|
+|**2025-02-04**|**Practically Effective Adjustment Variable Selection in Causal Inference**|Atsushi Noda et.al.|[2502.02701v1](http://arxiv.org/abs/2502.02701v1)|null|
+|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|null|
+|**2025-02-04**|**Sampling models for selective inference**|Daniel García Rasines et.al.|[2502.02213v1](http://arxiv.org/abs/2502.02213v1)|null|
+|**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v2](http://arxiv.org/abs/2409.19689v2)|null|
+|**2025-02-04**|**Heteroscedastic Double Bayesian Elastic Net**|Masanari Kimura et.al.|[2502.02032v1](http://arxiv.org/abs/2502.02032v1)|null|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v2](http://arxiv.org/abs/2501.08945v2)|[link](https://github.com/yiliu1998/coadvise)|
+|**2025-02-01**|**Less is More: Simplifying Network Traffic Classification Leveraging RFCs**|Nimesha Wickramasinghe et.al.|[2502.00586v2](http://arxiv.org/abs/2502.00586v2)|[link](https://github.com/nime-sha256/LiM)|
+|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v2](http://arxiv.org/abs/2403.01723v2)|null|
+
 ## Graph Model
 
 ### Graphon
@@ -57,25 +78,6 @@
 |**2020-11-05**|**Motif Estimation via Subgraph Sampling: The Fourth Moment Phenomenon**|Bhaswar B. Bhattacharya et.al.|[2011.03026v2](http://arxiv.org/abs/2011.03026v2)|null|
 |**2024-06-26**|**An application-oriented framework for continuum modeling of opinion dynamics on a network**|Gianluca Favre et.al.|[2406.18076v2](http://arxiv.org/abs/2406.18076v2)|null|
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v5](http://arxiv.org/abs/2405.15429v5)|[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)|
-|**2025-02-05**|**Higher-order shortest paths in hypergraphs**|Berné L. Nortier et.al.|[2502.03020v2](http://arxiv.org/abs/2502.03020v2)|null|
-|**2025-02-05**|**Near-optimal Linear Sketches and Fully-Dynamic Algorithms for Hypergraph Spectral Sparsification**|Sanjeev Khanna et.al.|[2502.03313v2](http://arxiv.org/abs/2502.03313v2)|null|
-|**2025-02-05**|**Turán densities for matroid basis hypergraphs**|Jorn van der Pol et.al.|[2502.03673v1](http://arxiv.org/abs/2502.03673v1)|null|
-|**2024-03-04**|**Spectral bipartite Turan problems on linear hypergraphs**|Chuan-Ming She et.al.|[2403.02064v2](http://arxiv.org/abs/2403.02064v2)|null|
-|**2025-02-04**|**Near-Feasible Solutions to Complex Stable Matching Problems**|Gergely Csáji et.al.|[2502.02503v1](http://arxiv.org/abs/2502.02503v1)|null|
-|**2025-02-04**|**Hypergraph Link Prediction via Hyperedge Copying**|Xie He et.al.|[2502.02386v1](http://arxiv.org/abs/2502.02386v1)|null|
-|**2025-02-04**|**Nonclassical Nullifiers for Quantum Hypergraph States**|Abhijith Ravikumar et.al.|[2502.02226v1](http://arxiv.org/abs/2502.02226v1)|null|
-|**2025-02-03**|**Fully Dynamic Spectral Sparsification of Hypergraphs**|Gramoz Goranci et.al.|[2502.01421v1](http://arxiv.org/abs/2502.01421v1)|null|
-|**2025-01-19**|**HFGCN:Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition**|Pengcheng Dong et.al.|[2501.11007v3](http://arxiv.org/abs/2501.11007v3)|null|
-|**2025-01-18**|**Neural Algorithmic Reasoning for Hypergraphs with Looped Transformers**|Xiaoyu Li et.al.|[2501.10688v2](http://arxiv.org/abs/2501.10688v2)|null|
-|**2025-02-02**|**Partitions of an Eulerian Digraph into Circuits**|Joshua Cooper et.al.|[2502.00867v1](http://arxiv.org/abs/2502.00867v1)|null|
-|**2024-11-06**|**Characteristic Polynomials and Hypergraph Generating Functions via Heaps of Pieces**|Joshua Cooper et.al.|[2411.03567v3](http://arxiv.org/abs/2411.03567v3)|null|
-|**2025-01-25**|**Chromatic Quantum Contextuality**|Karl Svozil et.al.|[2501.15261v2](http://arxiv.org/abs/2501.15261v2)|null|
-|**2023-08-07**|**Polyadic Opinion Formation: The Adaptive Voter Model on a Hypergraph**|Anastasia Golovin et.al.|[2308.03640v2](http://arxiv.org/abs/2308.03640v2)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -95,26 +97,24 @@
 |**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
 |**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
 
-## Variable Selection
-
-### Variable selection
+### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-01-18**|**Negative Moment Bounds for Sample Autocovariance Matrices of Stationary Processes Driven by Conditional Heteroscedastic Errors and Their Applications**|Hsueh-Han Huang et.al.|[2301.07476v3](http://arxiv.org/abs/2301.07476v3)|null|
-|**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities**|Yanis Lalou et.al.|[2407.11676v2](http://arxiv.org/abs/2407.11676v2)|[link](https://github.com/scikit-adaptation/skada-bench)|
-|**2025-01-13**|**A Beta Cauchy-Cauchy (BECCA) shrinkage prior for Bayesian variable selection**|Linduni M. Rodrigo et.al.|[2501.07061v2](http://arxiv.org/abs/2501.07061v2)|null|
-|**2025-02-06**|**Consistent model selection in a collection of stochastic block models**|Lucie Arts et.al.|[2502.03848v1](http://arxiv.org/abs/2502.03848v1)|null|
-|**2025-02-06**|**On the limits of some Bayesian model evaluation statistics**|Hien Duy Nguyen et.al.|[2502.03846v1](http://arxiv.org/abs/2502.03846v1)|null|
-|**2025-02-06**|**Optimizing Bayesian model selection for equation of state of cold neutron stars**|Rahul Kashyap et.al.|[2502.03831v1](http://arxiv.org/abs/2502.03831v1)|null|
-|**2025-02-04**|**The Morphology of Dwarf Galaxies Hosting Variable Active Galactic Nuclei**|Erin Kimbro et.al.|[2502.02751v1](http://arxiv.org/abs/2502.02751v1)|null|
-|**2025-02-04**|**Practically Effective Adjustment Variable Selection in Causal Inference**|Atsushi Noda et.al.|[2502.02701v1](http://arxiv.org/abs/2502.02701v1)|null|
-|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|null|
-|**2025-02-04**|**Sampling models for selective inference**|Daniel García Rasines et.al.|[2502.02213v1](http://arxiv.org/abs/2502.02213v1)|null|
-|**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v2](http://arxiv.org/abs/2409.19689v2)|null|
-|**2025-02-04**|**Heteroscedastic Double Bayesian Elastic Net**|Masanari Kimura et.al.|[2502.02032v1](http://arxiv.org/abs/2502.02032v1)|null|
-|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v2](http://arxiv.org/abs/2501.08945v2)|[link](https://github.com/yiliu1998/coadvise)|
-|**2025-02-01**|**Less is More: Simplifying Network Traffic Classification Leveraging RFCs**|Nimesha Wickramasinghe et.al.|[2502.00586v2](http://arxiv.org/abs/2502.00586v2)|[link](https://github.com/nime-sha256/LiM)|
-|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v2](http://arxiv.org/abs/2403.01723v2)|null|
+|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v5](http://arxiv.org/abs/2405.15429v5)|[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)|
+|**2025-02-05**|**Higher-order shortest paths in hypergraphs**|Berné L. Nortier et.al.|[2502.03020v2](http://arxiv.org/abs/2502.03020v2)|null|
+|**2025-02-05**|**Near-optimal Linear Sketches and Fully-Dynamic Algorithms for Hypergraph Spectral Sparsification**|Sanjeev Khanna et.al.|[2502.03313v2](http://arxiv.org/abs/2502.03313v2)|null|
+|**2025-02-05**|**Turán densities for matroid basis hypergraphs**|Jorn van der Pol et.al.|[2502.03673v1](http://arxiv.org/abs/2502.03673v1)|null|
+|**2024-03-04**|**Spectral bipartite Turan problems on linear hypergraphs**|Chuan-Ming She et.al.|[2403.02064v2](http://arxiv.org/abs/2403.02064v2)|null|
+|**2025-02-04**|**Near-Feasible Solutions to Complex Stable Matching Problems**|Gergely Csáji et.al.|[2502.02503v1](http://arxiv.org/abs/2502.02503v1)|null|
+|**2025-02-04**|**Hypergraph Link Prediction via Hyperedge Copying**|Xie He et.al.|[2502.02386v1](http://arxiv.org/abs/2502.02386v1)|null|
+|**2025-02-04**|**Nonclassical Nullifiers for Quantum Hypergraph States**|Abhijith Ravikumar et.al.|[2502.02226v1](http://arxiv.org/abs/2502.02226v1)|null|
+|**2025-02-03**|**Fully Dynamic Spectral Sparsification of Hypergraphs**|Gramoz Goranci et.al.|[2502.01421v1](http://arxiv.org/abs/2502.01421v1)|null|
+|**2025-01-19**|**HFGCN:Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition**|Pengcheng Dong et.al.|[2501.11007v3](http://arxiv.org/abs/2501.11007v3)|null|
+|**2025-01-18**|**Neural Algorithmic Reasoning for Hypergraphs with Looped Transformers**|Xiaoyu Li et.al.|[2501.10688v2](http://arxiv.org/abs/2501.10688v2)|null|
+|**2025-02-02**|**Partitions of an Eulerian Digraph into Circuits**|Joshua Cooper et.al.|[2502.00867v1](http://arxiv.org/abs/2502.00867v1)|null|
+|**2024-11-06**|**Characteristic Polynomials and Hypergraph Generating Functions via Heaps of Pieces**|Joshua Cooper et.al.|[2411.03567v3](http://arxiv.org/abs/2411.03567v3)|null|
+|**2025-01-25**|**Chromatic Quantum Contextuality**|Karl Svozil et.al.|[2501.15261v2](http://arxiv.org/abs/2501.15261v2)|null|
+|**2023-08-07**|**Polyadic Opinion Formation: The Adaptive Voter Model on a Hypergraph**|Anastasia Golovin et.al.|[2308.03640v2](http://arxiv.org/abs/2308.03640v2)|null|
 
 ## Embedding
 
