@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-15 07:25:20 Asia/Shanghai
+ Automated deployment @ 2025-02-15 19:21:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -38,25 +38,6 @@
 
 ## Graph Model
 
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-03**|**Mixed-curvature decision trees and random forests**|Philippe Chlenski et.al.|[2410.13879v2](http://arxiv.org/abs/2410.13879v2)|null|
-|**2023-03-03**|**Multi-modal Multi-kernel Graph Learning for Autism Prediction and Biomarker Discovery**|Jin Liu et.al.|[2303.03388v3](http://arxiv.org/abs/2303.03388v3)|null|
-|**2025-02-12**|**Spectral Journey: How Transformers Predict the Shortest Path**|Andrew Cohen et.al.|[2502.08794v1](http://arxiv.org/abs/2502.08794v1)|null|
-|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706v2](http://arxiv.org/abs/2308.15706v2)|[link](https://github.com/sabsconstantino/emb-comp-aps)|
-|**2024-10-21**|**Robust Visual Representation Learning with Multi-modal Prior Knowledge for Image Classification Under Distribution Shift**|Hongkuan Zhou et.al.|[2410.15981v2](http://arxiv.org/abs/2410.15981v2)|null|
-|**2025-02-12**|**Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features**|Ugochukwu Orji et.al.|[2502.08376v1](http://arxiv.org/abs/2502.08376v1)|null|
-|**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
-|**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v1](http://arxiv.org/abs/2502.07498v1)|null|
-|**2024-10-15**|**GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v2](http://arxiv.org/abs/2410.11235v2)|null|
-|**2025-02-10**|**Revisiting Dynamic Graph Clustering via Matrix Factorization**|Dongyuan Li et.al.|[2502.06117v1](http://arxiv.org/abs/2502.06117v1)|null|
-|**2024-09-07**|**GRVFL-MV: Graph Random Vector Functional Link Based on Multi-View Learning**|M. Tanveer et.al.|[2409.04743v3](http://arxiv.org/abs/2409.04743v3)|null|
-|**2024-12-09**|**Hyperbolic embedding of brain networks can predict the surgery outcome in temporal lobe epilepsy**|Martin Guillemaud et.al.|[2412.17820v2](http://arxiv.org/abs/2412.17820v2)|null|
-|**2024-11-01**|**Domain-Informed Negative Sampling Strategies for Dynamic Graph Embedding in Meme Stock-Related Social Networks**|Yunming Hui et.al.|[2411.00606v2](http://arxiv.org/abs/2411.00606v2)|null|
-|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v2](http://arxiv.org/abs/2410.14571v2)|null|
-|**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v3](http://arxiv.org/abs/2406.10965v3)|null|
-
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -94,6 +75,25 @@
 |**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
 |**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
 |**2020-11-05**|**Motif Estimation via Subgraph Sampling: The Fourth Moment Phenomenon**|Bhaswar B. Bhattacharya et.al.|[2011.03026v2](http://arxiv.org/abs/2011.03026v2)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Mixed-curvature decision trees and random forests**|Philippe Chlenski et.al.|[2410.13879v2](http://arxiv.org/abs/2410.13879v2)|null|
+|**2023-03-03**|**Multi-modal Multi-kernel Graph Learning for Autism Prediction and Biomarker Discovery**|Jin Liu et.al.|[2303.03388v3](http://arxiv.org/abs/2303.03388v3)|null|
+|**2025-02-12**|**Spectral Journey: How Transformers Predict the Shortest Path**|Andrew Cohen et.al.|[2502.08794v1](http://arxiv.org/abs/2502.08794v1)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706v2](http://arxiv.org/abs/2308.15706v2)|[link](https://github.com/sabsconstantino/emb-comp-aps)|
+|**2024-10-21**|**Robust Visual Representation Learning with Multi-modal Prior Knowledge for Image Classification Under Distribution Shift**|Hongkuan Zhou et.al.|[2410.15981v2](http://arxiv.org/abs/2410.15981v2)|null|
+|**2025-02-12**|**Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features**|Ugochukwu Orji et.al.|[2502.08376v1](http://arxiv.org/abs/2502.08376v1)|null|
+|**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
+|**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v1](http://arxiv.org/abs/2502.07498v1)|null|
+|**2024-10-15**|**GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v2](http://arxiv.org/abs/2410.11235v2)|null|
+|**2025-02-10**|**Revisiting Dynamic Graph Clustering via Matrix Factorization**|Dongyuan Li et.al.|[2502.06117v1](http://arxiv.org/abs/2502.06117v1)|null|
+|**2024-09-07**|**GRVFL-MV: Graph Random Vector Functional Link Based on Multi-View Learning**|M. Tanveer et.al.|[2409.04743v3](http://arxiv.org/abs/2409.04743v3)|null|
+|**2024-12-09**|**Hyperbolic embedding of brain networks can predict the surgery outcome in temporal lobe epilepsy**|Martin Guillemaud et.al.|[2412.17820v2](http://arxiv.org/abs/2412.17820v2)|null|
+|**2024-11-01**|**Domain-Informed Negative Sampling Strategies for Dynamic Graph Embedding in Meme Stock-Related Social Networks**|Yunming Hui et.al.|[2411.00606v2](http://arxiv.org/abs/2411.00606v2)|null|
+|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v2](http://arxiv.org/abs/2410.14571v2)|null|
+|**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v3](http://arxiv.org/abs/2406.10965v3)|null|
 
 ## Embedding
 
