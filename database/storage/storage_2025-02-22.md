@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-22 07:26:24 Asia/Shanghai
+ Automated deployment @ 2025-02-22 19:21:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,26 +36,7 @@
 |**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769v3](http://arxiv.org/abs/2409.07769v3)|null|
 |**2024-12-04**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967v3](http://arxiv.org/abs/2412.02967v3)|[link](https://github.com/rfjd/gns-dispersedsystems)|
 
-## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-20**|**On the $H$-property for Step-graphons: Residual Case**|Wanting Gao et.al.|[2502.14853v1](http://arxiv.org/abs/2502.14853v1)|null|
-|**2025-02-08**|**Consistent sampling of Paley-Wiener functions on graphons**|Hartmut Führ et.al.|[2502.05691v1](http://arxiv.org/abs/2502.05691v1)|null|
-|**2025-02-06**|**Mean-Field Analysis of Latent Variable Process Models on Dynamically Evolving Graphs with Feedback Effects**|Ankan Ganguly et.al.|[2502.04280v1](http://arxiv.org/abs/2502.04280v1)|null|
-|**2025-02-06**|**Stochastic SIR model with individual heterogeneity and infection-age dependent infectivity on large non-homogeneous random graphs**|Guodong Pang et.al.|[2502.04225v1](http://arxiv.org/abs/2502.04225v1)|null|
-|**2025-01-30**|**Low-Rank Approaches to Graphon Learning in Networks**|Xinyuan Fan et.al.|[2501.18785v1](http://arxiv.org/abs/2501.18785v1)|null|
-|**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816v1](http://arxiv.org/abs/2501.17816v1)|null|
-|**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079v1](http://arxiv.org/abs/2501.17079v1)|null|
-|**2025-01-27**|**Eigenvector fluctuations and limit results for random graphs with infinite rank kernels**|Minh Tang et.al.|[2501.15725v1](http://arxiv.org/abs/2501.15725v1)|null|
-|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595v1](http://arxiv.org/abs/2501.12595v1)|[link](https://github.com/yongduosui/uil)|
-|**2024-12-18**|**Functional Central limit theorems for microscopic and macroscopic functionals of inhomogeneous random graphs**|Shankar Bhamidi et.al.|[2412.13672v2](http://arxiv.org/abs/2412.13672v2)|null|
-|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé-Pi et.al.|[2401.00665v4](http://arxiv.org/abs/2401.00665v4)|null|
-|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v2](http://arxiv.org/abs/2307.02324v2)|null|
-|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v1](http://arxiv.org/abs/2412.19352v1)|null|
-|**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
-|**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
+## Embedding
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,27 +56,6 @@
 |**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
 |**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v1](http://arxiv.org/abs/2502.07498v1)|null|
 |**2024-10-15**|**GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v2](http://arxiv.org/abs/2410.11235v2)|null|
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-20**|**Adaptive Syndrome Extraction**|Noah Berthusen et.al.|[2502.14835v1](http://arxiv.org/abs/2502.14835v1)|null|
-|**2025-02-20**|**Enumerating minimal dominating sets and variants in chordal bipartite graphs**|Emanuel Castelo et.al.|[2502.14611v1](http://arxiv.org/abs/2502.14611v1)|null|
-|**2023-11-03**|**Ramsey properties of randomly perturbed hypergraphs**|Elad Aigner-Horev et.al.|[2311.01750v2](http://arxiv.org/abs/2311.01750v2)|null|
-|**2023-04-29**|**Spatially-Coupled QDLPC Codes**|Siyi Yang et.al.|[2305.00137v4](http://arxiv.org/abs/2305.00137v4)|null|
-|**2023-09-14**|**Random Turán and counting results for general position sets over finite fields**|Yaobin Chen et.al.|[2309.07744v3](http://arxiv.org/abs/2309.07744v3)|null|
-|**2025-02-19**|**Semi-Streaming Algorithms for Hypergraph Matching**|Henrik Reinstädtler et.al.|[2502.13636v1](http://arxiv.org/abs/2502.13636v1)|null|
-|**2025-02-18**|**HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views**|Khaled Mohammed Saifuddin et.al.|[2502.13277v1](http://arxiv.org/abs/2502.13277v1)|null|
-|**2025-02-18**|**Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**|Alex Crane et.al.|[2502.13000v1](http://arxiv.org/abs/2502.13000v1)|null|
-|**2025-02-09**|**HyGEN: Regularizing Negative Hyperedge Generation for Accurate Hyperedge Prediction**|Song Kyung Yu et.al.|[2502.05827v2](http://arxiv.org/abs/2502.05827v2)|null|
-|**2024-03-28**|**Topological Optimal Transport for Geometric Cycle Matching**|Stephen Y Zhang et.al.|[2403.19097v2](http://arxiv.org/abs/2403.19097v2)|[link](https://github.com/zsteve/tpot)|
-|**2025-02-18**|**Cohesive Subgraph Discovery in Hypergraphs: A Locality-Driven Indexing Framework**|Song Kim et.al.|[2502.12523v1](http://arxiv.org/abs/2502.12523v1)|null|
-|**2024-01-16**|**A Survey on Hypergraph Mining: Patterns, Tools, and Generators**|Geon Lee et.al.|[2401.08878v2](http://arxiv.org/abs/2401.08878v2)|null|
-|**2024-08-11**|**Helly type problems in convexity spaces**|Andreas F. Holmsen et.al.|[2408.05871v4](http://arxiv.org/abs/2408.05871v4)|null|
-|**2025-02-17**|**On the $\mathcal{F}$-multicolor Turán number of hypergraph graphs**|Ping Li et.al.|[2502.11869v1](http://arxiv.org/abs/2502.11869v1)|null|
-|**2025-02-17**|**An Efficiently Computable Lower Bound for the Independence Number of Hypergraphs**|Marco Aldi et.al.|[2502.11814v1](http://arxiv.org/abs/2502.11814v1)|null|
-
-## Embedding
 
 ### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
@@ -116,6 +76,8 @@
 |**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
 |**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
 
+## Graph Model
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -134,6 +96,44 @@
 |**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
 |**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v1](http://arxiv.org/abs/2502.07498v1)|null|
 |**2024-10-15**|**GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v2](http://arxiv.org/abs/2410.11235v2)|null|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-20**|**On the $H$-property for Step-graphons: Residual Case**|Wanting Gao et.al.|[2502.14853v1](http://arxiv.org/abs/2502.14853v1)|null|
+|**2025-02-08**|**Consistent sampling of Paley-Wiener functions on graphons**|Hartmut Führ et.al.|[2502.05691v1](http://arxiv.org/abs/2502.05691v1)|null|
+|**2025-02-06**|**Mean-Field Analysis of Latent Variable Process Models on Dynamically Evolving Graphs with Feedback Effects**|Ankan Ganguly et.al.|[2502.04280v1](http://arxiv.org/abs/2502.04280v1)|null|
+|**2025-02-06**|**Stochastic SIR model with individual heterogeneity and infection-age dependent infectivity on large non-homogeneous random graphs**|Guodong Pang et.al.|[2502.04225v1](http://arxiv.org/abs/2502.04225v1)|null|
+|**2025-01-30**|**Low-Rank Approaches to Graphon Learning in Networks**|Xinyuan Fan et.al.|[2501.18785v1](http://arxiv.org/abs/2501.18785v1)|null|
+|**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816v1](http://arxiv.org/abs/2501.17816v1)|null|
+|**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079v1](http://arxiv.org/abs/2501.17079v1)|null|
+|**2025-01-27**|**Eigenvector fluctuations and limit results for random graphs with infinite rank kernels**|Minh Tang et.al.|[2501.15725v1](http://arxiv.org/abs/2501.15725v1)|null|
+|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595v1](http://arxiv.org/abs/2501.12595v1)|[link](https://github.com/yongduosui/uil)|
+|**2024-12-18**|**Functional Central limit theorems for microscopic and macroscopic functionals of inhomogeneous random graphs**|Shankar Bhamidi et.al.|[2412.13672v2](http://arxiv.org/abs/2412.13672v2)|null|
+|**2024-01-01**|**An algorithm for estimating the crossing number of dense graphs, and continuous analogs of the crossing and rectilinear crossing numbers**|Oriol Solé-Pi et.al.|[2401.00665v4](http://arxiv.org/abs/2401.00665v4)|null|
+|**2023-07-05**|**Large deviation principle for the norm of the Laplacian matrix of inhomogeneous Erdős-Rényi random graphs**|Rajat Subhra Hazra et.al.|[2307.02324v2](http://arxiv.org/abs/2307.02324v2)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v1](http://arxiv.org/abs/2412.19352v1)|null|
+|**2024-12-26**|**Social Optima in Linear Quadratic Graphon Field Control: Analysis via Infinite Dimensional Approach**|De-xuan Xu et.al.|[2412.19082v1](http://arxiv.org/abs/2412.19082v1)|null|
+|**2024-11-21**|**Emergence in graphs with near-extreme constraints**|Charles Radin et.al.|[2411.14556v2](http://arxiv.org/abs/2411.14556v2)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-20**|**Adaptive Syndrome Extraction**|Noah Berthusen et.al.|[2502.14835v1](http://arxiv.org/abs/2502.14835v1)|null|
+|**2025-02-20**|**Enumerating minimal dominating sets and variants in chordal bipartite graphs**|Emanuel Castelo et.al.|[2502.14611v1](http://arxiv.org/abs/2502.14611v1)|null|
+|**2023-11-03**|**Ramsey properties of randomly perturbed hypergraphs**|Elad Aigner-Horev et.al.|[2311.01750v2](http://arxiv.org/abs/2311.01750v2)|null|
+|**2023-04-29**|**Spatially-Coupled QDLPC Codes**|Siyi Yang et.al.|[2305.00137v4](http://arxiv.org/abs/2305.00137v4)|null|
+|**2023-09-14**|**Random Turán and counting results for general position sets over finite fields**|Yaobin Chen et.al.|[2309.07744v3](http://arxiv.org/abs/2309.07744v3)|null|
+|**2025-02-19**|**Semi-Streaming Algorithms for Hypergraph Matching**|Henrik Reinstädtler et.al.|[2502.13636v1](http://arxiv.org/abs/2502.13636v1)|null|
+|**2025-02-18**|**HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views**|Khaled Mohammed Saifuddin et.al.|[2502.13277v1](http://arxiv.org/abs/2502.13277v1)|null|
+|**2025-02-18**|**Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**|Alex Crane et.al.|[2502.13000v1](http://arxiv.org/abs/2502.13000v1)|null|
+|**2025-02-09**|**HyGEN: Regularizing Negative Hyperedge Generation for Accurate Hyperedge Prediction**|Song Kyung Yu et.al.|[2502.05827v2](http://arxiv.org/abs/2502.05827v2)|null|
+|**2024-03-28**|**Topological Optimal Transport for Geometric Cycle Matching**|Stephen Y Zhang et.al.|[2403.19097v2](http://arxiv.org/abs/2403.19097v2)|[link](https://github.com/zsteve/tpot)|
+|**2025-02-18**|**Cohesive Subgraph Discovery in Hypergraphs: A Locality-Driven Indexing Framework**|Song Kim et.al.|[2502.12523v1](http://arxiv.org/abs/2502.12523v1)|null|
+|**2024-01-16**|**A Survey on Hypergraph Mining: Patterns, Tools, and Generators**|Geon Lee et.al.|[2401.08878v2](http://arxiv.org/abs/2401.08878v2)|null|
+|**2024-08-11**|**Helly type problems in convexity spaces**|Andreas F. Holmsen et.al.|[2408.05871v4](http://arxiv.org/abs/2408.05871v4)|null|
+|**2025-02-17**|**On the $\mathcal{F}$-multicolor Turán number of hypergraph graphs**|Ping Li et.al.|[2502.11869v1](http://arxiv.org/abs/2502.11869v1)|null|
+|**2025-02-17**|**An Efficiently Computable Lower Bound for the Independence Number of Hypergraphs**|Marco Aldi et.al.|[2502.11814v1](http://arxiv.org/abs/2502.11814v1)|null|
 
 ## Variable Selection
 
