@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-23 07:24:30 Asia/Shanghai
+ Automated deployment @ 2025-02-23 19:22:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,46 +35,6 @@
 |**2024-03-19**|**Dynamic Gradient Influencing for Viral Marketing Using Graph Neural Networks**|Saurabh Sharma et.al.|[2403.12399v2](http://arxiv.org/abs/2403.12399v2)|null|
 |**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769v3](http://arxiv.org/abs/2409.07769v3)|null|
 |**2024-12-04**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967v3](http://arxiv.org/abs/2412.02967v3)|[link](https://github.com/rfjd/gns-dispersedsystems)|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
-|**2025-02-11**|**Deep Semantic Graph Learning via LLM based Node Enhancement**|Chuanqi Shi et.al.|[2502.07982v1](http://arxiv.org/abs/2502.07982v1)|null|
-|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v2](http://arxiv.org/abs/2412.19637v2)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
-|**2025-01-27**|**MultiPDENet: PDE-embedded Learning with Multi-time-stepping for Accelerated Flow Simulation**|Qi Wang et.al.|[2501.15987v1](http://arxiv.org/abs/2501.15987v1)|null|
-|**2025-01-22**|**Learning Graph Node Embeddings by Smooth Pair Sampling**|Konstantin Kutzkov et.al.|[2501.12884v1](http://arxiv.org/abs/2501.12884v1)|[link](https://github.com/konstantinkutzkov/smooth_pair_sampling)|
-|**2025-01-22**|**Efficient Implementation of LinearUCB through Algorithmic Improvements and Vector Computing Acceleration for Embedded Learning Systems**|Marco Angioli et.al.|[2501.13139v1](http://arxiv.org/abs/2501.13139v1)|null|
-|**2025-01-22**|**Hybrid Losses for Hierarchical Embedding Learning**|Haokun Tian et.al.|[2501.12796v1](http://arxiv.org/abs/2501.12796v1)|[link](https://github.com/tiianhk/label-metric)|
-|**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309v1](http://arxiv.org/abs/2501.12309v1)|null|
-|**2025-01-16**|**Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning**|Donghuo Zeng et.al.|[2501.09608v1](http://arxiv.org/abs/2501.09608v1)|null|
-|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969v1](http://arxiv.org/abs/2501.04969v1)|[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)|
-|**2024-12-17**|**TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis**|Jiexi Liu et.al.|[2412.12886v1](http://arxiv.org/abs/2412.12886v1)|null|
-|**2024-12-13**|**Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**|Dong Hoon Lee et.al.|[2412.10569v1](http://arxiv.org/abs/2412.10569v1)|[link](https://github.com/movinghoon/dtem)|
-|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v1](http://arxiv.org/abs/2502.13763v1)|[link](https://github.com/dbis-uibk/gcnext)|
-|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155v2](http://arxiv.org/abs/2404.09155v2)|[link](https://github.com/dellixx/tkbc-lie)|
-|**2025-02-18**|**$k$-Graph: A Graph Embedding for Interpretable Time Series Clustering**|Paul Boniol et.al.|[2502.13049v1](http://arxiv.org/abs/2502.13049v1)|[link](https://github.com/boniolp/kGraph)|
-|**2024-07-24**|**Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs**|Elisavet Koutsiana et.al.|[2407.18278v2](http://arxiv.org/abs/2407.18278v2)|null|
-|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v2](http://arxiv.org/abs/2501.08796v2)|null|
-|**2025-02-14**|**Recent Advances in Malware Detection: Graph Learning and Explainability**|Hossein Shokouhinejad et.al.|[2502.10556v1](http://arxiv.org/abs/2502.10556v1)|null|
-|**2024-10-03**|**Mixed-curvature decision trees and random forests**|Philippe Chlenski et.al.|[2410.13879v2](http://arxiv.org/abs/2410.13879v2)|[link](https://github.com/pchlenski/manify)|
-|**2023-03-03**|**Multi-modal Multi-kernel Graph Learning for Autism Prediction and Biomarker Discovery**|Jin Liu et.al.|[2303.03388v3](http://arxiv.org/abs/2303.03388v3)|null|
-|**2025-02-12**|**Spectral Journey: How Transformers Predict the Shortest Path**|Andrew Cohen et.al.|[2502.08794v1](http://arxiv.org/abs/2502.08794v1)|null|
-|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706v2](http://arxiv.org/abs/2308.15706v2)|[link](https://github.com/sabsconstantino/emb-comp-aps)|
-|**2024-10-21**|**Robust Visual Representation Learning with Multi-modal Prior Knowledge for Image Classification Under Distribution Shift**|Hongkuan Zhou et.al.|[2410.15981v2](http://arxiv.org/abs/2410.15981v2)|null|
-|**2025-02-12**|**Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features**|Ugochukwu Orji et.al.|[2502.08376v1](http://arxiv.org/abs/2502.08376v1)|[link](https://github.com/ugoorji12/Load-Forecasting-using-GAT-LSTM)|
-|**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
-|**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v1](http://arxiv.org/abs/2502.07498v1)|null|
-|**2024-10-15**|**GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v2](http://arxiv.org/abs/2410.11235v2)|null|
 
 ## Graph Model
 
@@ -115,6 +75,46 @@
 |**2024-08-11**|**Helly type problems in convexity spaces**|Andreas F. Holmsen et.al.|[2408.05871v4](http://arxiv.org/abs/2408.05871v4)|null|
 |**2025-02-17**|**On the $\mathcal{F}$-multicolor Turán number of hypergraph graphs**|Ping Li et.al.|[2502.11869v1](http://arxiv.org/abs/2502.11869v1)|null|
 |**2025-02-17**|**An Efficiently Computable Lower Bound for the Independence Number of Hypergraphs**|Marco Aldi et.al.|[2502.11814v1](http://arxiv.org/abs/2502.11814v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v1](http://arxiv.org/abs/2502.13763v1)|[link](https://github.com/dbis-uibk/gcnext)|
+|**2024-04-14**|**Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding**|Jiang Li et.al.|[2404.09155v2](http://arxiv.org/abs/2404.09155v2)|[link](https://github.com/dellixx/tkbc-lie)|
+|**2025-02-18**|**$k$-Graph: A Graph Embedding for Interpretable Time Series Clustering**|Paul Boniol et.al.|[2502.13049v1](http://arxiv.org/abs/2502.13049v1)|[link](https://github.com/boniolp/kGraph)|
+|**2024-07-24**|**Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs**|Elisavet Koutsiana et.al.|[2407.18278v2](http://arxiv.org/abs/2407.18278v2)|null|
+|**2025-01-15**|**The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs**|Matthew Baker et.al.|[2501.08796v2](http://arxiv.org/abs/2501.08796v2)|null|
+|**2025-02-14**|**Recent Advances in Malware Detection: Graph Learning and Explainability**|Hossein Shokouhinejad et.al.|[2502.10556v1](http://arxiv.org/abs/2502.10556v1)|null|
+|**2024-10-03**|**Mixed-curvature decision trees and random forests**|Philippe Chlenski et.al.|[2410.13879v2](http://arxiv.org/abs/2410.13879v2)|[link](https://github.com/pchlenski/manify)|
+|**2023-03-03**|**Multi-modal Multi-kernel Graph Learning for Autism Prediction and Biomarker Discovery**|Jin Liu et.al.|[2303.03388v3](http://arxiv.org/abs/2303.03388v3)|null|
+|**2025-02-12**|**Spectral Journey: How Transformers Predict the Shortest Path**|Andrew Cohen et.al.|[2502.08794v1](http://arxiv.org/abs/2502.08794v1)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706v2](http://arxiv.org/abs/2308.15706v2)|[link](https://github.com/sabsconstantino/emb-comp-aps)|
+|**2024-10-21**|**Robust Visual Representation Learning with Multi-modal Prior Knowledge for Image Classification Under Distribution Shift**|Hongkuan Zhou et.al.|[2410.15981v2](http://arxiv.org/abs/2410.15981v2)|null|
+|**2025-02-12**|**Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features**|Ugochukwu Orji et.al.|[2502.08376v1](http://arxiv.org/abs/2502.08376v1)|[link](https://github.com/ugoorji12/Load-Forecasting-using-GAT-LSTM)|
+|**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
+|**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v1](http://arxiv.org/abs/2502.07498v1)|null|
+|**2024-10-15**|**GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data**|Jiacheng Lin et.al.|[2410.11235v2](http://arxiv.org/abs/2410.11235v2)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
+|**2025-02-11**|**Deep Semantic Graph Learning via LLM based Node Enhancement**|Chuanqi Shi et.al.|[2502.07982v1](http://arxiv.org/abs/2502.07982v1)|null|
+|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v2](http://arxiv.org/abs/2412.19637v2)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
+|**2025-01-27**|**MultiPDENet: PDE-embedded Learning with Multi-time-stepping for Accelerated Flow Simulation**|Qi Wang et.al.|[2501.15987v1](http://arxiv.org/abs/2501.15987v1)|null|
+|**2025-01-22**|**Learning Graph Node Embeddings by Smooth Pair Sampling**|Konstantin Kutzkov et.al.|[2501.12884v1](http://arxiv.org/abs/2501.12884v1)|[link](https://github.com/konstantinkutzkov/smooth_pair_sampling)|
+|**2025-01-22**|**Efficient Implementation of LinearUCB through Algorithmic Improvements and Vector Computing Acceleration for Embedded Learning Systems**|Marco Angioli et.al.|[2501.13139v1](http://arxiv.org/abs/2501.13139v1)|null|
+|**2025-01-22**|**Hybrid Losses for Hierarchical Embedding Learning**|Haokun Tian et.al.|[2501.12796v1](http://arxiv.org/abs/2501.12796v1)|[link](https://github.com/tiianhk/label-metric)|
+|**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309v1](http://arxiv.org/abs/2501.12309v1)|null|
+|**2025-01-16**|**Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning**|Donghuo Zeng et.al.|[2501.09608v1](http://arxiv.org/abs/2501.09608v1)|null|
+|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969v1](http://arxiv.org/abs/2501.04969v1)|[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)|
+|**2024-12-17**|**TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis**|Jiexi Liu et.al.|[2412.12886v1](http://arxiv.org/abs/2412.12886v1)|null|
+|**2024-12-13**|**Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**|Dong Hoon Lee et.al.|[2412.10569v1](http://arxiv.org/abs/2412.10569v1)|[link](https://github.com/movinghoon/dtem)|
+|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
