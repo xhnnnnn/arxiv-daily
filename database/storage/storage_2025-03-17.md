@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-17 07:28:42 Asia/Shanghai
+ Automated deployment @ 2025-03-17 19:24:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -20,23 +20,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612v1](http://arxiv.org/abs/2503.11612v1)|null|
+|**2024-10-23**|**Proteome-wide prediction of mode of inheritance and molecular mechanism underlying genetic diseases using structural interactomics**|Ali Saadat et.al.|[2410.17708v2](http://arxiv.org/abs/2410.17708v2)|[link](https://github.com/alisaadatv/structural-interactomics)|
+|**2025-03-12**|**Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v2](http://arxiv.org/abs/2503.09401v2)|null|
+|**2025-03-14**|**GNNs as Predictors of Agentic Workflow Performances**|Yuanshuo Zhang et.al.|[2503.11301v1](http://arxiv.org/abs/2503.11301v1)|null|
+|**2024-12-30**|**FastCHGNet: Training one Universal Interatomic Potential to 1.5 Hours with 32 GPUs**|Yuanchang Zhou et.al.|[2412.20796v2](http://arxiv.org/abs/2412.20796v2)|null|
+|**2025-03-14**|**Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization**|Abrar Hossain et.al.|[2503.11011v1](http://arxiv.org/abs/2503.11011v1)|null|
+|**2025-03-13**|**PolyRoof: Precision Roof Polygonization in Urban Residential Building with Graph Neural Networks**|Chaikal Amrullah et.al.|[2503.10913v1](http://arxiv.org/abs/2503.10913v1)|null|
+|**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317v2](http://arxiv.org/abs/2502.21317v2)|null|
 |**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|null|
 |**2024-10-07**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks**|Viet-Hoang Tran et.al.|[2410.04692v2](http://arxiv.org/abs/2410.04692v2)|null|
 |**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365v3](http://arxiv.org/abs/2404.17365v3)|[link](https://github.com/fhendriks11/simegnn)|
 |**2023-06-14**|**Uncertainty-Aware Robust Learning on Noisy Graphs**|Shuyi Chen et.al.|[2306.08210v2](http://arxiv.org/abs/2306.08210v2)|null|
 |**2025-03-13**|**AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation**|Zeyi Xu et.al.|[2503.10257v1](http://arxiv.org/abs/2503.10257v1)|null|
+|**2025-03-13**|**TacticExpert: Spatial-Temporal Graph Language Model for Basketball Tactics**|Xu Lingrui et.al.|[2503.10722v1](http://arxiv.org/abs/2503.10722v1)|null|
 |**2024-10-07**|**Accelerating Flood Warnings by 10 Hours: The Power of River Network Topology in AI-enhanced Flood Forecasting**|Hongjun Wang et.al.|[2410.05536v3](http://arxiv.org/abs/2410.05536v3)|null|
-|**2025-03-12**|**Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis**|Chenjun Li et.al.|[2503.09808v1](http://arxiv.org/abs/2503.09808v1)|null|
-|**2025-03-12**|**How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?**|Mir Imtiaz Mostafiz et.al.|[2503.09726v1](http://arxiv.org/abs/2503.09726v1)|null|
-|**2023-07-03**|**Data-driven decoding of quantum error correcting codes using graph neural networks**|Moritz Lange et.al.|[2307.01241v2](http://arxiv.org/abs/2307.01241v2)|null|
-|**2024-09-20**|**A Generative Framework for Predictive Modeling of Multiple Chronic Conditions Using Graph Variational Autoencoder and Bandit-Optimized Graph Neural Network**|Julian Carvajal Rico et.al.|[2409.13671v2](http://arxiv.org/abs/2409.13671v2)|null|
-|**2025-03-12**|**Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v1](http://arxiv.org/abs/2503.09401v1)|null|
-|**2022-03-28**|**Discovering dynamic laws from observations: the case of self-propelled, interacting colloids**|Miguel Ruiz-Garcia et.al.|[2203.14846v5](http://arxiv.org/abs/2203.14846v5)|null|
-|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366v1](http://arxiv.org/abs/2503.09366v1)|null|
-|**2025-03-12**|**Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**|Yu Bu et.al.|[2503.09281v1](http://arxiv.org/abs/2503.09281v1)|null|
-|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251v1](http://arxiv.org/abs/2503.09251v1)|[link](https://github.com/yigang-chen/scope-dti)|
 
 ## Graph Model
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v3](http://arxiv.org/abs/2302.01856v3)|null|
+|**2025-03-12**|**Low-Rank Graphon Estimation: Theory and Applications to Graphon Games**|Olga Klopp et.al.|[2503.09299v1](http://arxiv.org/abs/2503.09299v1)|null|
+|**2025-03-12**|**Modeling of Rumor Propagation in Large Populations with Network via Graphon Games**|Huaning Liu et.al.|[2503.09107v1](http://arxiv.org/abs/2503.09107v1)|null|
+|**2025-03-04**|**Generating Networks to Target Assortativity via Archimedean Copula Graphons**|Victory Idowu et.al.|[2503.03061v1](http://arxiv.org/abs/2503.03061v1)|[link](https://github.com/videovic/gencg)|
+|**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v1](http://arxiv.org/abs/2503.03047v1)|null|
+|**2021-11-03**|**Geodesic Length Distribution in Sparse Network Ensembles**|Sahil Loomba et.al.|[2111.02330v2](http://arxiv.org/abs/2111.02330v2)|null|
+|**2025-03-03**|**Capturing the critical coupling of large random Kuramoto networks with graphons**|Jason Bramburger et.al.|[2503.01589v1](http://arxiv.org/abs/2503.01589v1)|null|
+|**2025-02-06**|**Mean-Field Analysis of Latent Variable Process Models on Dynamically Evolving Graphs with Feedback Effects**|Ankan Ganguly et.al.|[2502.04280v2](http://arxiv.org/abs/2502.04280v2)|null|
+|**2025-02-21**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
+|**2025-02-21**|**The dual Cheeger-Buser inequality for graphons**|Mugdha Mahesh Pokharanakar et.al.|[2502.15213v1](http://arxiv.org/abs/2502.15213v1)|null|
+|**2024-07-03**|**Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization**|Yan Chen et.al.|[2407.02765v2](http://arxiv.org/abs/2407.02765v2)|null|
+|**2024-05-27**|**Graphon Particle Systems, Part I: Spatio-Temporal Approximation and Law of Large Numbers**|Yan Chen et.al.|[2405.16760v3](http://arxiv.org/abs/2405.16760v3)|null|
+|**2025-02-20**|**On the $H$-property for Step-graphons: Residual Case**|Wanting Gao et.al.|[2502.14853v1](http://arxiv.org/abs/2502.14853v1)|null|
+|**2025-02-08**|**Consistent sampling of Paley-Wiener functions on graphons**|Hartmut Führ et.al.|[2502.05691v1](http://arxiv.org/abs/2502.05691v1)|null|
+|**2025-02-06**|**Stochastic SIR model with individual heterogeneity and infection-age dependent infectivity on large non-homogeneous random graphs**|Guodong Pang et.al.|[2502.04225v1](http://arxiv.org/abs/2502.04225v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,25 +94,6 @@
 |**2023-10-27**|**Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning**|Yifei Zhang et.al.|[2310.18209v2](http://arxiv.org/abs/2310.18209v2)|null|
 |**2025-02-22**|**FHGE: A Fast Heterogeneous Graph Embedding with Ad-hoc Meta-paths**|Xuqi Mao et.al.|[2502.16281v1](http://arxiv.org/abs/2502.16281v1)|null|
 |**2025-02-21**|**Constructing a Tutte polynomial for graphs embedded in surfaces**|Iain Moffatt et.al.|[2502.15318v1](http://arxiv.org/abs/2502.15318v1)|null|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v3](http://arxiv.org/abs/2302.01856v3)|null|
-|**2025-03-12**|**Low-Rank Graphon Estimation: Theory and Applications to Graphon Games**|Olga Klopp et.al.|[2503.09299v1](http://arxiv.org/abs/2503.09299v1)|null|
-|**2025-03-12**|**Modeling of Rumor Propagation in Large Populations with Network via Graphon Games**|Huaning Liu et.al.|[2503.09107v1](http://arxiv.org/abs/2503.09107v1)|null|
-|**2025-03-04**|**Generating Networks to Target Assortativity via Archimedean Copula Graphons**|Victory Idowu et.al.|[2503.03061v1](http://arxiv.org/abs/2503.03061v1)|[link](https://github.com/videovic/gencg)|
-|**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v1](http://arxiv.org/abs/2503.03047v1)|null|
-|**2021-11-03**|**Geodesic Length Distribution in Sparse Network Ensembles**|Sahil Loomba et.al.|[2111.02330v2](http://arxiv.org/abs/2111.02330v2)|null|
-|**2025-03-03**|**Capturing the critical coupling of large random Kuramoto networks with graphons**|Jason Bramburger et.al.|[2503.01589v1](http://arxiv.org/abs/2503.01589v1)|null|
-|**2025-02-06**|**Mean-Field Analysis of Latent Variable Process Models on Dynamically Evolving Graphs with Feedback Effects**|Ankan Ganguly et.al.|[2502.04280v2](http://arxiv.org/abs/2502.04280v2)|null|
-|**2025-02-21**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
-|**2025-02-21**|**The dual Cheeger-Buser inequality for graphons**|Mugdha Mahesh Pokharanakar et.al.|[2502.15213v1](http://arxiv.org/abs/2502.15213v1)|null|
-|**2024-07-03**|**Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization**|Yan Chen et.al.|[2407.02765v2](http://arxiv.org/abs/2407.02765v2)|null|
-|**2024-05-27**|**Graphon Particle Systems, Part I: Spatio-Temporal Approximation and Law of Large Numbers**|Yan Chen et.al.|[2405.16760v3](http://arxiv.org/abs/2405.16760v3)|null|
-|**2025-02-20**|**On the $H$-property for Step-graphons: Residual Case**|Wanting Gao et.al.|[2502.14853v1](http://arxiv.org/abs/2502.14853v1)|null|
-|**2025-02-08**|**Consistent sampling of Paley-Wiener functions on graphons**|Hartmut Führ et.al.|[2502.05691v1](http://arxiv.org/abs/2502.05691v1)|null|
-|**2025-02-06**|**Stochastic SIR model with individual heterogeneity and infection-age dependent infectivity on large non-homogeneous random graphs**|Guodong Pang et.al.|[2502.04225v1](http://arxiv.org/abs/2502.04225v1)|null|
 
 ## Embedding
 
@@ -140,8 +140,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-14**|**Factors affecting power in stepped wedge trials when the treatment effect varies with time**|Avi Kenny et.al.|[2503.11472v1](http://arxiv.org/abs/2503.11472v1)|null|
 |**2025-03-13**|**A Neumann-Neumann Acceleration with Coarse Space for Domain Decomposition of Extreme Learning Machines**|Chang-Ock Lee et.al.|[2503.10032v1](http://arxiv.org/abs/2503.10032v1)|null|
 |**2025-03-12**|**Unreflected Use of Tabular Data Repositories Can Undermine Research Quality**|Andrej Tschalzev et.al.|[2503.09159v1](http://arxiv.org/abs/2503.09159v1)|null|
+|**2025-03-11**|**MaskAttn-UNet: A Mask Attention-Driven Framework for Universal Low-Resolution Image Segmentation**|Anzhe Cheng et.al.|[2503.10686v1](http://arxiv.org/abs/2503.10686v1)|null|
 |**2025-03-11**|**Questioning Normality: A study of wavelet leaders distribution**|Wejdene Ben Nasr et.al.|[2503.08821v1](http://arxiv.org/abs/2503.08821v1)|null|
 |**2025-03-07**|**Model-based bi-clustering using multivariate Poisson-lognormal with general block-diagonal covariance matrix and its applications**|Caitlin Kral et.al.|[2503.05961v2](http://arxiv.org/abs/2503.05961v2)|null|
 |**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634v1](http://arxiv.org/abs/2503.08634v1)|null|
@@ -153,5 +155,3 @@
 |**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v3](http://arxiv.org/abs/2406.05612v3)|[link](https://github.com/pranavphoenix/Backbones)|
 |**2025-02-24**|**Towards Typologically Aware Rescoring to Mitigate Unfaithfulness in Lower-Resource Languages**|Tsan Tsai Chan et.al.|[2502.17664v2](http://arxiv.org/abs/2502.17664v2)|null|
 |**2025-03-09**|**Bayesian Synthetic Control with a Soft Simplex Constraint**|Yihong Xu et.al.|[2503.06454v1](http://arxiv.org/abs/2503.06454v1)|null|
-|**2025-03-09**|**fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses**|Alexander Coulter et.al.|[2503.06401v1](http://arxiv.org/abs/2503.06401v1)|null|
-|**2025-03-09**|**Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds (DAVOS): Properties of Variability-Selected AGNs in the Dark Energy Survey Deep Fields**|Yichen Liu et.al.|[2503.06372v1](http://arxiv.org/abs/2503.06372v1)|null|
