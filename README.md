@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-23 07:26:18 Asia/Shanghai
+ Automated deployment @ 2025-03-23 19:24:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,67 +35,6 @@
 |**2025-03-19**|**PEnGUiN: Partially Equivariant Graph NeUral Networks for Sample Efficient MARL**|Joshua McClellan et.al.|[2503.15615v1](http://arxiv.org/abs/2503.15615v1)|null|
 |**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391v1](http://arxiv.org/abs/2503.15391v1)|null|
 |**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360v1](http://arxiv.org/abs/2503.15360v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-09-24**|**Comparison study of variable selection procedures in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v3](http://arxiv.org/abs/2109.12006v3)|null|
-|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146v4](http://arxiv.org/abs/2411.19146v4)|null|
-|**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010v1](http://arxiv.org/abs/2503.16010v1)|null|
-|**2025-03-16**|**KDSelector: A Knowledge-Enhanced and Data-Efficient Model Selector Learning Framework for Time Series Anomaly Detection**|Zhiyu Liang et.al.|[2503.12478v2](http://arxiv.org/abs/2503.12478v2)|[link](https://github.com/chenyuanTKCY/KDSelector)|
-|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v2](http://arxiv.org/abs/2503.07459v2)|[link](https://github.com/gersteinlab/medagents-benchmark)|
-|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v2](http://arxiv.org/abs/2411.08205v2)|null|
-|**2025-03-19**|**A Precision Trial Case Study for Heterogeneous Treatment Effects in Obstructive Sleep Apnea**|Lara Maleyeff et.al.|[2503.15455v1](http://arxiv.org/abs/2503.15455v1)|null|
-|**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v1](http://arxiv.org/abs/2503.15169v1)|null|
-|**2025-03-18**|**Sepsyn-OLCP: An Online Learning-based Framework for Early Sepsis Prediction with Uncertainty Quantification using Conformal Prediction**|Anni Zhou et.al.|[2503.14663v1](http://arxiv.org/abs/2503.14663v1)|null|
-|**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150v1](http://arxiv.org/abs/2503.14150v1)|[link](https://github.com/yng314/xai_for_wildfire)|
-|**2025-03-18**|**Bayesian high-dimensional biological pathway-guided mediation analysis with application to metabolomics**|Yuzi Zhang et.al.|[2503.13894v1](http://arxiv.org/abs/2503.13894v1)|null|
-|**2025-03-17**|**Minnesota BART**|Pedro A. Lima et.al.|[2503.13759v1](http://arxiv.org/abs/2503.13759v1)|null|
-|**2025-03-17**|**fkbma: An R Package for Detecting Tailoring Variables with Free-Knot B-Splines and Bayesian Model Averaging**|Lara Maleyeff et.al.|[2503.13297v1](http://arxiv.org/abs/2503.13297v1)|null|
-|**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v4](http://arxiv.org/abs/2407.04194v4)|null|
-|**2025-03-17**|**Bayesian Cox model with graph-structured variable selection priors for multi-omics biomarker identification**|Tobias Østmo Hermansen et.al.|[2503.13078v1](http://arxiv.org/abs/2503.13078v1)|[link](https://github.com/tobiasoh/master_thesis)|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-19**|**Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**|Yang Liu et.al.|[2503.14953v1](http://arxiv.org/abs/2503.14953v1)|null|
-|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|null|
-|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v2](http://arxiv.org/abs/2402.09769v2)|null|
-|**2025-03-08**|**Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education**|Yuansong Xu et.al.|[2503.06099v1](http://arxiv.org/abs/2503.06099v1)|null|
-|**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060v1](http://arxiv.org/abs/2503.06060v1)|null|
-|**2024-06-11**|**Towards Continuous Reuse of Graph Models via Holistic Memory Diversification**|Ziyue Qiao et.al.|[2406.07413v2](http://arxiv.org/abs/2406.07413v2)|null|
-|**2025-02-23**|**To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders**|Guillaume Salha-Galvan et.al.|[2502.16724v1](http://arxiv.org/abs/2502.16724v1)|[link](https://github.com/kiboryoku/ws_vgae)|
-|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
-|**2025-02-11**|**Deep Semantic Graph Learning via LLM based Node Enhancement**|Chuanqi Shi et.al.|[2502.07982v1](http://arxiv.org/abs/2502.07982v1)|null|
-|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v2](http://arxiv.org/abs/2412.19637v2)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
-|**2025-01-27**|**MultiPDENet: PDE-embedded Learning with Multi-time-stepping for Accelerated Flow Simulation**|Qi Wang et.al.|[2501.15987v1](http://arxiv.org/abs/2501.15987v1)|null|
-|**2025-01-22**|**Learning Graph Node Embeddings by Smooth Pair Sampling**|Konstantin Kutzkov et.al.|[2501.12884v1](http://arxiv.org/abs/2501.12884v1)|[link](https://github.com/konstantinkutzkov/smooth_pair_sampling)|
-|**2025-01-22**|**Efficient Implementation of LinearUCB through Algorithmic Improvements and Vector Computing Acceleration for Embedded Learning Systems**|Marco Angioli et.al.|[2501.13139v1](http://arxiv.org/abs/2501.13139v1)|null|
-|**2025-01-22**|**Hybrid Losses for Hierarchical Embedding Learning**|Haokun Tian et.al.|[2501.12796v1](http://arxiv.org/abs/2501.12796v1)|[link](https://github.com/tiianhk/label-metric)|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-25**|**The critical group of a combinatorial map**|Criel Merino et.al.|[2308.13342v2](http://arxiv.org/abs/2308.13342v2)|null|
-|**2025-03-17**|**Conversation-Based Multimodal Abuse Detection Through Text and Graph Embeddings**|Noé Cecillon et.al.|[2503.12994v1](http://arxiv.org/abs/2503.12994v1)|[link](https://github.com/CompNet/AlertEmbeddings)|
-|**2023-07-31**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137v3](http://arxiv.org/abs/2308.00137v3)|null|
-|**2025-03-12**|**How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?**|Mir Imtiaz Mostafiz et.al.|[2503.09726v1](http://arxiv.org/abs/2503.09726v1)|null|
-|**2025-03-12**|**Face covers and rooted minors in bounded genus graphs**|Samuel Fiorini et.al.|[2503.09230v1](http://arxiv.org/abs/2503.09230v1)|null|
-|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v2](http://arxiv.org/abs/2502.13763v2)|[link](https://github.com/dbis-uibk/gcnext)|
-|**2025-03-11**|**GraphSense: Graph Embedding Based Code Suggestion Framework**|H. R Navod Thisura Peiris et.al.|[2503.08648v1](http://arxiv.org/abs/2503.08648v1)|[link](https://github.com/NavodPeiris/graphsense)|
-|**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189v1](http://arxiv.org/abs/2503.08189v1)|null|
-|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|null|
-|**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635v1](http://arxiv.org/abs/2503.06635v1)|null|
-|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305v1](http://arxiv.org/abs/2502.19305v1)|[link](https://github.com/wangskyGit/KeHGN-R)|
-|**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949v2](http://arxiv.org/abs/2502.16949v2)|null|
-|**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973v1](http://arxiv.org/abs/2502.17973v1)|null|
-|**2025-02-23**|**MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation**|Xuqi Mao et.al.|[2502.16454v1](http://arxiv.org/abs/2502.16454v1)|null|
-|**2023-10-27**|**Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning**|Yifei Zhang et.al.|[2310.18209v2](http://arxiv.org/abs/2310.18209v2)|null|
 
 ## Graph Model
 
@@ -155,3 +94,64 @@
 |**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973v1](http://arxiv.org/abs/2502.17973v1)|null|
 |**2025-02-23**|**MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation**|Xuqi Mao et.al.|[2502.16454v1](http://arxiv.org/abs/2502.16454v1)|null|
 |**2023-10-27**|**Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning**|Yifei Zhang et.al.|[2310.18209v2](http://arxiv.org/abs/2310.18209v2)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-19**|**Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**|Yang Liu et.al.|[2503.14953v1](http://arxiv.org/abs/2503.14953v1)|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|null|
+|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v2](http://arxiv.org/abs/2402.09769v2)|null|
+|**2025-03-08**|**Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education**|Yuansong Xu et.al.|[2503.06099v1](http://arxiv.org/abs/2503.06099v1)|null|
+|**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060v1](http://arxiv.org/abs/2503.06060v1)|null|
+|**2024-06-11**|**Towards Continuous Reuse of Graph Models via Holistic Memory Diversification**|Ziyue Qiao et.al.|[2406.07413v2](http://arxiv.org/abs/2406.07413v2)|null|
+|**2025-02-23**|**To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders**|Guillaume Salha-Galvan et.al.|[2502.16724v1](http://arxiv.org/abs/2502.16724v1)|[link](https://github.com/kiboryoku/ws_vgae)|
+|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
+|**2025-02-11**|**Deep Semantic Graph Learning via LLM based Node Enhancement**|Chuanqi Shi et.al.|[2502.07982v1](http://arxiv.org/abs/2502.07982v1)|null|
+|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v2](http://arxiv.org/abs/2412.19637v2)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
+|**2025-01-27**|**MultiPDENet: PDE-embedded Learning with Multi-time-stepping for Accelerated Flow Simulation**|Qi Wang et.al.|[2501.15987v1](http://arxiv.org/abs/2501.15987v1)|null|
+|**2025-01-22**|**Learning Graph Node Embeddings by Smooth Pair Sampling**|Konstantin Kutzkov et.al.|[2501.12884v1](http://arxiv.org/abs/2501.12884v1)|[link](https://github.com/konstantinkutzkov/smooth_pair_sampling)|
+|**2025-01-22**|**Efficient Implementation of LinearUCB through Algorithmic Improvements and Vector Computing Acceleration for Embedded Learning Systems**|Marco Angioli et.al.|[2501.13139v1](http://arxiv.org/abs/2501.13139v1)|null|
+|**2025-01-22**|**Hybrid Losses for Hierarchical Embedding Learning**|Haokun Tian et.al.|[2501.12796v1](http://arxiv.org/abs/2501.12796v1)|[link](https://github.com/tiianhk/label-metric)|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**The critical group of a combinatorial map**|Criel Merino et.al.|[2308.13342v2](http://arxiv.org/abs/2308.13342v2)|null|
+|**2025-03-17**|**Conversation-Based Multimodal Abuse Detection Through Text and Graph Embeddings**|Noé Cecillon et.al.|[2503.12994v1](http://arxiv.org/abs/2503.12994v1)|[link](https://github.com/CompNet/AlertEmbeddings)|
+|**2023-07-31**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137v3](http://arxiv.org/abs/2308.00137v3)|null|
+|**2025-03-12**|**How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?**|Mir Imtiaz Mostafiz et.al.|[2503.09726v1](http://arxiv.org/abs/2503.09726v1)|null|
+|**2025-03-12**|**Face covers and rooted minors in bounded genus graphs**|Samuel Fiorini et.al.|[2503.09230v1](http://arxiv.org/abs/2503.09230v1)|null|
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v2](http://arxiv.org/abs/2502.13763v2)|[link](https://github.com/dbis-uibk/gcnext)|
+|**2025-03-11**|**GraphSense: Graph Embedding Based Code Suggestion Framework**|H. R Navod Thisura Peiris et.al.|[2503.08648v1](http://arxiv.org/abs/2503.08648v1)|[link](https://github.com/NavodPeiris/graphsense)|
+|**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189v1](http://arxiv.org/abs/2503.08189v1)|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|null|
+|**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635v1](http://arxiv.org/abs/2503.06635v1)|null|
+|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305v1](http://arxiv.org/abs/2502.19305v1)|[link](https://github.com/wangskyGit/KeHGN-R)|
+|**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949v2](http://arxiv.org/abs/2502.16949v2)|null|
+|**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973v1](http://arxiv.org/abs/2502.17973v1)|null|
+|**2025-02-23**|**MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation**|Xuqi Mao et.al.|[2502.16454v1](http://arxiv.org/abs/2502.16454v1)|null|
+|**2023-10-27**|**Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning**|Yifei Zhang et.al.|[2310.18209v2](http://arxiv.org/abs/2310.18209v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-09-24**|**Comparison study of variable selection procedures in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v3](http://arxiv.org/abs/2109.12006v3)|null|
+|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146v4](http://arxiv.org/abs/2411.19146v4)|null|
+|**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010v1](http://arxiv.org/abs/2503.16010v1)|null|
+|**2025-03-16**|**KDSelector: A Knowledge-Enhanced and Data-Efficient Model Selector Learning Framework for Time Series Anomaly Detection**|Zhiyu Liang et.al.|[2503.12478v2](http://arxiv.org/abs/2503.12478v2)|[link](https://github.com/chenyuanTKCY/KDSelector)|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v2](http://arxiv.org/abs/2503.07459v2)|[link](https://github.com/gersteinlab/medagents-benchmark)|
+|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v2](http://arxiv.org/abs/2411.08205v2)|null|
+|**2025-03-19**|**A Precision Trial Case Study for Heterogeneous Treatment Effects in Obstructive Sleep Apnea**|Lara Maleyeff et.al.|[2503.15455v1](http://arxiv.org/abs/2503.15455v1)|null|
+|**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v1](http://arxiv.org/abs/2503.15169v1)|null|
+|**2025-03-18**|**Sepsyn-OLCP: An Online Learning-based Framework for Early Sepsis Prediction with Uncertainty Quantification using Conformal Prediction**|Anni Zhou et.al.|[2503.14663v1](http://arxiv.org/abs/2503.14663v1)|null|
+|**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150v1](http://arxiv.org/abs/2503.14150v1)|[link](https://github.com/yng314/xai_for_wildfire)|
+|**2025-03-18**|**Bayesian high-dimensional biological pathway-guided mediation analysis with application to metabolomics**|Yuzi Zhang et.al.|[2503.13894v1](http://arxiv.org/abs/2503.13894v1)|null|
+|**2025-03-17**|**Minnesota BART**|Pedro A. Lima et.al.|[2503.13759v1](http://arxiv.org/abs/2503.13759v1)|null|
+|**2025-03-17**|**fkbma: An R Package for Detecting Tailoring Variables with Free-Knot B-Splines and Bayesian Model Averaging**|Lara Maleyeff et.al.|[2503.13297v1](http://arxiv.org/abs/2503.13297v1)|null|
+|**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v4](http://arxiv.org/abs/2407.04194v4)|null|
+|**2025-03-17**|**Bayesian Cox model with graph-structured variable selection priors for multi-omics biomarker identification**|Tobias Østmo Hermansen et.al.|[2503.13078v1](http://arxiv.org/abs/2503.13078v1)|[link](https://github.com/tobiasoh/master_thesis)|
