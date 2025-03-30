@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-30 07:26:06 Asia/Shanghai
+ Automated deployment @ 2025-03-30 19:24:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -28,7 +28,7 @@
 |**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|[link](https://github.com/trantin84/wigcn)|
 |**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|null|
 |**2024-04-30**|**A Logic for Reasoning About Aggregate-Combine Graph Neural Networks**|Pierre Nunn et.al.|[2405.00205v2](http://arxiv.org/abs/2405.00205v2)|null|
-|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105v1](http://arxiv.org/abs/2503.21105v1)|null|
+|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105v1](http://arxiv.org/abs/2503.21105v1)|[link](https://github.com/snudatalab/AugWard)|
 |**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316v2](http://arxiv.org/abs/2503.19316v2)|null|
 |**2024-12-01**|**MCBLT: Multi-Camera Multi-Object 3D Tracking in Long Videos**|Yizhou Wang et.al.|[2412.00692v3](http://arxiv.org/abs/2412.00692v3)|null|
 |**2025-03-26**|**BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology**|Amaya Gallagher-Syed et.al.|[2503.20880v1](http://arxiv.org/abs/2503.20880v1)|[link](https://github.com/amayags/biox-cpath)|
@@ -37,25 +37,6 @@
 |**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666v2](http://arxiv.org/abs/2503.19666v2)|null|
 
 ## Graph Model
-
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Hypergraphic zonotopes and acyclohedra**|Cosmin Pohoata et.al.|[2503.21752v1](http://arxiv.org/abs/2503.21752v1)|null|
-|**2025-03-27**|**The Avoider-Enforcer game on hypergraphs of rank 3**|Florian Galliot et.al.|[2503.21672v1](http://arxiv.org/abs/2503.21672v1)|null|
-|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|null|
-|**2025-03-27**|**Theory of phase reduction for systems with higher-order interactions: a route to Kuramoto models on hypergraphs**|Iván León et.al.|[2503.21587v1](http://arxiv.org/abs/2503.21587v1)|null|
-|**2025-03-24**|**A Multilevel Framework for Partitioning Quantum Circuits**|Felix Burt et.al.|[2503.19082v2](http://arxiv.org/abs/2503.19082v2)|null|
-|**2025-03-27**|**Unveiling Latent Information in Transaction Hashes: Hypergraph Learning for Ethereum Ponzi Scheme Detection**|Junhao Wu et.al.|[2503.21463v1](http://arxiv.org/abs/2503.21463v1)|null|
-|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322v1](http://arxiv.org/abs/2503.21322v1)|[link](https://github.com/LHRLAB/HyperGraphRAG)|
-|**2025-03-27**|**On Supports for graphs of bounded genus**|Rajiv Raman et.al.|[2503.21287v1](http://arxiv.org/abs/2503.21287v1)|null|
-|**2025-03-27**|**On the second-largest modulus among the eigenvalues of a power hypergraph**|Changjiang Bu et.al.|[2503.21174v1](http://arxiv.org/abs/2503.21174v1)|null|
-|**2025-03-26**|**Disperse Hypergraphs**|Lior Gishboliner et.al.|[2503.21052v1](http://arxiv.org/abs/2503.21052v1)|null|
-|**2025-03-26**|**Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning**|Gongzhu Yin et.al.|[2503.20676v1](http://arxiv.org/abs/2503.20676v1)|[link](https://github.com/yin-gz/nary-inductive-subgraph)|
-|**2024-09-20**|**Hamiltonian control to desynchronize Kuramoto oscillators with higher-order interactions**|Martin Moriamé et.al.|[2409.13578v2](http://arxiv.org/abs/2409.13578v2)|null|
-|**2025-03-24**|**ε-Cost Sharding: Scaling Hypergraph-Based Static Functions and Filters to Trillions of Keys**|Sebastiano Vigna et.al.|[2503.18397v2](http://arxiv.org/abs/2503.18397v2)|null|
-|**2025-03-26**|**Topological Structures of Sets and their Subsets**|Fei Ma et.al.|[2503.20167v1](http://arxiv.org/abs/2503.20167v1)|null|
-|**2025-01-10**|**A quantitative improvement on the hypergraph Balog-Szemerédi-Gowers theorem**|Hyunwoo Lee et.al.|[2501.06131v2](http://arxiv.org/abs/2501.06131v2)|null|
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,6 +75,25 @@
 |**2025-02-21**|**The dual Cheeger-Buser inequality for graphons**|Mugdha Mahesh Pokharanakar et.al.|[2502.15213v1](http://arxiv.org/abs/2502.15213v1)|null|
 |**2024-07-03**|**Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization**|Yan Chen et.al.|[2407.02765v2](http://arxiv.org/abs/2407.02765v2)|null|
 |**2024-05-27**|**Graphon Particle Systems, Part I: Spatio-Temporal Approximation and Law of Large Numbers**|Yan Chen et.al.|[2405.16760v3](http://arxiv.org/abs/2405.16760v3)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-27**|**Hypergraphic zonotopes and acyclohedra**|Cosmin Pohoata et.al.|[2503.21752v1](http://arxiv.org/abs/2503.21752v1)|null|
+|**2025-03-27**|**The Avoider-Enforcer game on hypergraphs of rank 3**|Florian Galliot et.al.|[2503.21672v1](http://arxiv.org/abs/2503.21672v1)|null|
+|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|null|
+|**2025-03-27**|**Theory of phase reduction for systems with higher-order interactions: a route to Kuramoto models on hypergraphs**|Iván León et.al.|[2503.21587v1](http://arxiv.org/abs/2503.21587v1)|null|
+|**2025-03-24**|**A Multilevel Framework for Partitioning Quantum Circuits**|Felix Burt et.al.|[2503.19082v2](http://arxiv.org/abs/2503.19082v2)|null|
+|**2025-03-27**|**Unveiling Latent Information in Transaction Hashes: Hypergraph Learning for Ethereum Ponzi Scheme Detection**|Junhao Wu et.al.|[2503.21463v1](http://arxiv.org/abs/2503.21463v1)|null|
+|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322v1](http://arxiv.org/abs/2503.21322v1)|[link](https://github.com/LHRLAB/HyperGraphRAG)|
+|**2025-03-27**|**On Supports for graphs of bounded genus**|Rajiv Raman et.al.|[2503.21287v1](http://arxiv.org/abs/2503.21287v1)|null|
+|**2025-03-27**|**On the second-largest modulus among the eigenvalues of a power hypergraph**|Changjiang Bu et.al.|[2503.21174v1](http://arxiv.org/abs/2503.21174v1)|null|
+|**2025-03-26**|**Disperse Hypergraphs**|Lior Gishboliner et.al.|[2503.21052v1](http://arxiv.org/abs/2503.21052v1)|null|
+|**2025-03-26**|**Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning**|Gongzhu Yin et.al.|[2503.20676v1](http://arxiv.org/abs/2503.20676v1)|[link](https://github.com/yin-gz/nary-inductive-subgraph)|
+|**2024-09-20**|**Hamiltonian control to desynchronize Kuramoto oscillators with higher-order interactions**|Martin Moriamé et.al.|[2409.13578v2](http://arxiv.org/abs/2409.13578v2)|null|
+|**2025-03-24**|**ε-Cost Sharding: Scaling Hypergraph-Based Static Functions and Filters to Trillions of Keys**|Sebastiano Vigna et.al.|[2503.18397v2](http://arxiv.org/abs/2503.18397v2)|null|
+|**2025-03-26**|**Topological Structures of Sets and their Subsets**|Fei Ma et.al.|[2503.20167v1](http://arxiv.org/abs/2503.20167v1)|null|
+|**2025-01-10**|**A quantitative improvement on the hypergraph Balog-Szemerédi-Gowers theorem**|Hyunwoo Lee et.al.|[2501.06131v2](http://arxiv.org/abs/2501.06131v2)|null|
 
 ## Embedding
 
@@ -145,6 +145,7 @@
 |**2025-03-27**|**Simulation-based assessment of a Bayesian survival model with flexible baseline hazard and time-dependent effects**|Iain R. Timmins et.al.|[2503.21388v1](http://arxiv.org/abs/2503.21388v1)|null|
 |**2025-03-27**|**Variable selection via thresholding**|Ka Long Keith Ho et.al.|[2503.21137v1](http://arxiv.org/abs/2503.21137v1)|null|
 |**2025-03-26**|**Estimation and variable selection in nonlinear mixed-effects models**|Antoine Caillebotte et.al.|[2503.20401v1](http://arxiv.org/abs/2503.20401v1)|null|
+|**2019-05-27**|**A Geometric Modeling of Occam's Razor in Deep Learning**|Ke Sun et.al.|[1905.11027v8](http://arxiv.org/abs/1905.11027v8)|null|
 |**2025-03-26**|**Advancements in Natural Language Processing: Exploring Transformer-Based Architectures for Text Understanding**|Tianhao Wu et.al.|[2503.20227v1](http://arxiv.org/abs/2503.20227v1)|null|
 |**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump model subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v4](http://arxiv.org/abs/2406.19787v4)|[link](https://github.com/a-ceccarelli/distributions_n-state_VJ_model)|
 |**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v2](http://arxiv.org/abs/2410.17108v2)|[link](https://github.com/vshirvaikar/MPmodel)|
@@ -154,4 +155,3 @@
 |**2025-03-24**|**Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking**|Sheikh Muhammad Farjad et.al.|[2503.18857v1](http://arxiv.org/abs/2503.18857v1)|null|
 |**2025-03-24**|**Confidence set for mixture order selection**|Alessandro Casa et.al.|[2503.18790v1](http://arxiv.org/abs/2503.18790v1)|null|
 |**2025-03-24**|**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**|Yunhong Lu et.al.|[2503.18454v1](http://arxiv.org/abs/2503.18454v1)|[link](https://github.com/JaydenLyh/InPO)|
-|**2025-03-22**|**Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A minireview**|Dilshod Nematov et.al.|[2503.18975v1](http://arxiv.org/abs/2503.18975v1)|null|
