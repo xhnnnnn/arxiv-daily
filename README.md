@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-02 07:28:24 Asia/Shanghai
+ Automated deployment @ 2025-04-02 19:25:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,9 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305v1](http://arxiv.org/abs/2503.24305v1)|[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)|
+|**2024-11-26**|**GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser**|Yilin Lu et.al.|[2411.17849v3](http://arxiv.org/abs/2411.17849v3)|null|
+|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305v2](http://arxiv.org/abs/2503.24305v2)|[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)|
+|**2022-03-08**|**Designing Heterogeneous GNNs with Desired Permutation Properties for Wireless Resource Allocation**|Jianyu Zhao et.al.|[2203.03906v3](http://arxiv.org/abs/2203.03906v3)|null|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259v1](http://arxiv.org/abs/2503.24259v1)|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203v1](http://arxiv.org/abs/2503.24203v1)|null|
 |**2024-07-03**|**Backdoor Graph Condensation**|Jiahao Wu et.al.|[2407.11025v4](http://arxiv.org/abs/2407.11025v4)|[link](https://github.com/jiahaowugit/bgc)|
@@ -33,29 +35,29 @@
 |**2025-03-31**|**Predicting the von Neumann Entanglement Entropy Using a Graph Neural Network**|Anas Saleh et.al.|[2503.23635v1](http://arxiv.org/abs/2503.23635v1)|null|
 |**2025-03-02**|**Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction**|Qia Hu et.al.|[2503.00860v5](http://arxiv.org/abs/2503.00860v5)|[link](https://github.com/huqiachn/his-gcn)|
 |**2025-03-30**|**Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting**|Fan-Keng Sun et.al.|[2503.23621v1](http://arxiv.org/abs/2503.23621v1)|null|
-|**2025-03-30**|**Graph-Eq: Discovering Mathematical Equations using Graph Generative Models**|Nisal Ranasinghe et.al.|[2503.23617v1](http://arxiv.org/abs/2503.23617v1)|null|
-|**2024-07-18**|**Krait: A Backdoor Attack Against Graph Prompt Tuning**|Ying Song et.al.|[2407.13068v2](http://arxiv.org/abs/2407.13068v2)|null|
 
-## Graph Model
+## Variable Selection
 
-### Hypergraph
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-27**|**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**|Trong-Thuan Nguyen et.al.|[2411.18042v2](http://arxiv.org/abs/2411.18042v2)|null|
-|**2025-03-30**|**Hypergraphs of arbitrary uniformity with vanishing codegree Turán density**|James Sarkies et.al.|[2503.23591v1](http://arxiv.org/abs/2503.23591v1)|null|
-|**2022-06-20**|**A hypergraph Heilmann--Lieb theorem**|Jiang-Chao Wan et.al.|[2206.09558v3](http://arxiv.org/abs/2206.09558v3)|null|
-|**2025-03-29**|**Steiner triple systems with high discrepancy**|Lior Gishboliner et.al.|[2503.23252v1](http://arxiv.org/abs/2503.23252v1)|null|
-|**2024-11-27**|**Hypergraphs and Lotka-Volterra systems with linear Darboux polynomials**|Peter H. van der Kamp et.al.|[2411.18264v3](http://arxiv.org/abs/2411.18264v3)|null|
-|**2025-03-28**|**Polychromatic Coloring of Tuples in Hypergraphs**|Ahmad Biniaz et.al.|[2503.22449v1](http://arxiv.org/abs/2503.22449v1)|null|
-|**2025-03-12**|**DeepInnovation AI: A Global Dataset Mapping the AI innovation from Academic Research to Industrial Patents**|Haixing Gong et.al.|[2503.09257v4](http://arxiv.org/abs/2503.09257v4)|null|
-|**2024-09-03**|**The complexity of recognizing $ABAB$-free hypergraphs**|Gábor Damásdi et.al.|[2409.01680v2](http://arxiv.org/abs/2409.01680v2)|null|
-|**2025-03-27**|**HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next POI Recommendation**|Jinze Wang et.al.|[2503.22049v1](http://arxiv.org/abs/2503.22049v1)|[link](https://github.com/ICME-2025/HyperMAN)|
-|**2025-03-27**|**Hypergraphic zonotopes and acyclohedra**|Cosmin Pohoata et.al.|[2503.21752v1](http://arxiv.org/abs/2503.21752v1)|null|
-|**2025-03-27**|**The Avoider-Enforcer game on hypergraphs of rank 3**|Florian Galliot et.al.|[2503.21672v1](http://arxiv.org/abs/2503.21672v1)|null|
-|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|null|
-|**2025-03-27**|**Theory of phase reduction for systems with higher-order interactions: a route to Kuramoto models on hypergraphs**|Iván León et.al.|[2503.21587v1](http://arxiv.org/abs/2503.21587v1)|null|
-|**2025-03-24**|**A Multilevel Framework for Partitioning Quantum Circuits**|Felix Burt et.al.|[2503.19082v2](http://arxiv.org/abs/2503.19082v2)|null|
-|**2025-03-27**|**Unveiling Latent Information in Transaction Hashes: Hypergraph Learning for Ethereum Ponzi Scheme Detection**|Junhao Wu et.al.|[2503.21463v1](http://arxiv.org/abs/2503.21463v1)|null|
+|**2025-02-17**|**On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series**|Kausik Lakkaraju et.al.|[2502.12226v2](http://arxiv.org/abs/2502.12226v2)|null|
+|**2023-03-31**|**Variable selection in balance regression with applications to microbiome compositional data**|Jing Ma et.al.|[2304.00143v2](http://arxiv.org/abs/2304.00143v2)|[link](https://github.com/drjingma/slr)|
+|**2023-12-29**|**Detection of evolutionary shifts in variance under an Ornsten-Uhlenbeck model**|Wensha Zhang et.al.|[2312.17480v2](http://arxiv.org/abs/2312.17480v2)|[link](https://github.com/wenshaz/shiva)|
+|**2025-03-31**|**AutoML Algorithms for Online Generalized Additive Model Selection: Application to Electricity Demand Forecasting**|Keshav Das et.al.|[2503.24019v1](http://arxiv.org/abs/2503.24019v1)|null|
+|**2025-02-16**|**Quantifying the Capability Boundary of DeepSeek Models: An Application-Driven Performance Analysis**|Kaikai Zhao et.al.|[2502.11164v4](http://arxiv.org/abs/2502.11164v4)|null|
+|**2023-12-27**|**Model Selection for Inverse Reinforcement Learning via Structural Risk Minimization**|Chendi Qu et.al.|[2312.16566v2](http://arxiv.org/abs/2312.16566v2)|null|
+|**2025-03-29**|**Neural Bayes inference for complex bivariate extremal dependence models**|Lídia M. André et.al.|[2503.23156v1](http://arxiv.org/abs/2503.23156v1)|null|
+|**2025-02-21**|**Improving variable selection properties by leveraging external data**|Paul Rognon-Vael et.al.|[2502.15584v2](http://arxiv.org/abs/2502.15584v2)|null|
+|**2025-03-29**|**Likelihood Level Adapted Estimation of Marginal Likelihood for Bayesian Model Selection**|Subhayan De et.al.|[2503.23018v1](http://arxiv.org/abs/2503.23018v1)|null|
+|**2025-03-28**|**A Unified Approach for Estimating Various Treatment Effects in Causal Inference**|Kuan-Hsun Wu et.al.|[2503.22616v1](http://arxiv.org/abs/2503.22616v1)|null|
+|**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595v1](http://arxiv.org/abs/2503.22595v1)|null|
+|**2025-03-27**|**Nearest Neighbour Equilibrium Clustering**|David P. Hofmeyr et.al.|[2503.21431v2](http://arxiv.org/abs/2503.21431v2)|[link](https://github.com/davidhofmeyr/nnec)|
+|**2025-03-28**|**Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation**|Grayson W. White et.al.|[2503.22103v1](http://arxiv.org/abs/2503.22103v1)|null|
+|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720v1](http://arxiv.org/abs/2503.21720v1)|null|
+|**2025-03-27**|**Simulation-based assessment of a Bayesian survival model with flexible baseline hazard and time-dependent effects**|Iain R. Timmins et.al.|[2503.21388v1](http://arxiv.org/abs/2503.21388v1)|null|
+
+## Graph Model
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,6 +81,7 @@
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v2](http://arxiv.org/abs/2409.06325v2)|null|
 |**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
 |**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
 |**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
@@ -93,7 +96,25 @@
 |**2025-03-03**|**Capturing the critical coupling of large random Kuramoto networks with graphons**|Jason Bramburger et.al.|[2503.01589v1](http://arxiv.org/abs/2503.01589v1)|null|
 |**2025-02-06**|**Mean-Field Analysis of Latent Variable Process Models on Dynamically Evolving Graphs with Feedback Effects**|Ankan Ganguly et.al.|[2502.04280v2](http://arxiv.org/abs/2502.04280v2)|null|
 |**2025-02-21**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
-|**2025-02-21**|**The dual Cheeger-Buser inequality for graphons**|Mugdha Mahesh Pokharanakar et.al.|[2502.15213v1](http://arxiv.org/abs/2502.15213v1)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-23**|**Group Testing with General Correlation Using Hypergraphs**|Hesam Nikpey et.al.|[2412.17751v2](http://arxiv.org/abs/2412.17751v2)|null|
+|**2025-02-17**|**On $\mathcal{F}$-multicolor Turán number of hypergraph graphs**|Ping Li et.al.|[2502.11869v2](http://arxiv.org/abs/2502.11869v2)|null|
+|**2025-03-25**|**Higher-order Interaction Matters: Dynamic Hypergraph Neural Networks for Epidemic Modeling**|Songyuan Liu et.al.|[2503.20114v2](http://arxiv.org/abs/2503.20114v2)|null|
+|**2024-11-27**|**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**|Trong-Thuan Nguyen et.al.|[2411.18042v2](http://arxiv.org/abs/2411.18042v2)|null|
+|**2025-03-30**|**Hypergraphs of arbitrary uniformity with vanishing codegree Turán density**|James Sarkies et.al.|[2503.23591v1](http://arxiv.org/abs/2503.23591v1)|null|
+|**2022-06-20**|**A hypergraph Heilmann--Lieb theorem**|Jiang-Chao Wan et.al.|[2206.09558v3](http://arxiv.org/abs/2206.09558v3)|null|
+|**2025-03-29**|**Steiner triple systems with high discrepancy**|Lior Gishboliner et.al.|[2503.23252v1](http://arxiv.org/abs/2503.23252v1)|null|
+|**2024-11-27**|**Hypergraphs and Lotka-Volterra systems with linear Darboux polynomials**|Peter H. van der Kamp et.al.|[2411.18264v3](http://arxiv.org/abs/2411.18264v3)|null|
+|**2025-03-28**|**Polychromatic Coloring of Tuples in Hypergraphs**|Ahmad Biniaz et.al.|[2503.22449v1](http://arxiv.org/abs/2503.22449v1)|null|
+|**2025-03-12**|**DeepInnovation AI: A Global Dataset Mapping the AI innovation from Academic Research to Industrial Patents**|Haixing Gong et.al.|[2503.09257v4](http://arxiv.org/abs/2503.09257v4)|null|
+|**2024-09-03**|**The complexity of recognizing $ABAB$-free hypergraphs**|Gábor Damásdi et.al.|[2409.01680v2](http://arxiv.org/abs/2409.01680v2)|null|
+|**2025-03-27**|**HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next POI Recommendation**|Jinze Wang et.al.|[2503.22049v1](http://arxiv.org/abs/2503.22049v1)|[link](https://github.com/ICME-2025/HyperMAN)|
+|**2025-03-27**|**Hypergraphic zonotopes and acyclohedra**|Cosmin Pohoata et.al.|[2503.21752v1](http://arxiv.org/abs/2503.21752v1)|null|
+|**2025-03-27**|**The Avoider-Enforcer game on hypergraphs of rank 3**|Florian Galliot et.al.|[2503.21672v1](http://arxiv.org/abs/2503.21672v1)|null|
+|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|null|
 
 ## Embedding
 
@@ -134,24 +155,3 @@
 |**2025-03-12**|**How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?**|Mir Imtiaz Mostafiz et.al.|[2503.09726v1](http://arxiv.org/abs/2503.09726v1)|null|
 |**2025-03-12**|**Face covers and rooted minors in bounded genus graphs**|Samuel Fiorini et.al.|[2503.09230v1](http://arxiv.org/abs/2503.09230v1)|null|
 |**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v2](http://arxiv.org/abs/2502.13763v2)|[link](https://github.com/dbis-uibk/gcnext)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-31**|**AutoML Algorithms for Online Generalized Additive Model Selection: Application to Electricity Demand Forecasting**|Keshav Das et.al.|[2503.24019v1](http://arxiv.org/abs/2503.24019v1)|null|
-|**2025-02-16**|**Quantifying the Capability Boundary of DeepSeek Models: An Application-Driven Performance Analysis**|Kaikai Zhao et.al.|[2502.11164v4](http://arxiv.org/abs/2502.11164v4)|null|
-|**2023-12-27**|**Model Selection for Inverse Reinforcement Learning via Structural Risk Minimization**|Chendi Qu et.al.|[2312.16566v2](http://arxiv.org/abs/2312.16566v2)|null|
-|**2025-03-29**|**Neural Bayes inference for complex bivariate extremal dependence models**|Lídia M. André et.al.|[2503.23156v1](http://arxiv.org/abs/2503.23156v1)|null|
-|**2025-02-21**|**Improving variable selection properties by leveraging external data**|Paul Rognon-Vael et.al.|[2502.15584v2](http://arxiv.org/abs/2502.15584v2)|null|
-|**2025-03-29**|**Likelihood Level Adapted Estimation of Marginal Likelihood for Bayesian Model Selection**|Subhayan De et.al.|[2503.23018v1](http://arxiv.org/abs/2503.23018v1)|null|
-|**2025-03-28**|**A Unified Approach for Estimating Various Treatment Effects in Causal Inference**|Kuan-Hsun Wu et.al.|[2503.22616v1](http://arxiv.org/abs/2503.22616v1)|null|
-|**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595v1](http://arxiv.org/abs/2503.22595v1)|null|
-|**2025-03-27**|**Nearest Neighbour Equilibrium Clustering**|David P. Hofmeyr et.al.|[2503.21431v2](http://arxiv.org/abs/2503.21431v2)|[link](https://github.com/davidhofmeyr/nnec)|
-|**2025-03-28**|**Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation**|Grayson W. White et.al.|[2503.22103v1](http://arxiv.org/abs/2503.22103v1)|null|
-|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720v1](http://arxiv.org/abs/2503.21720v1)|null|
-|**2025-03-27**|**Simulation-based assessment of a Bayesian survival model with flexible baseline hazard and time-dependent effects**|Iain R. Timmins et.al.|[2503.21388v1](http://arxiv.org/abs/2503.21388v1)|null|
-|**2025-03-27**|**Variable selection via thresholding**|Ka Long Keith Ho et.al.|[2503.21137v1](http://arxiv.org/abs/2503.21137v1)|[link](https://github.com/karfho/Threshold_IC)|
-|**2025-03-26**|**Estimation and variable selection in nonlinear mixed-effects models**|Antoine Caillebotte et.al.|[2503.20401v1](http://arxiv.org/abs/2503.20401v1)|null|
-|**2019-05-27**|**A Geometric Modeling of Occam's Razor in Deep Learning**|Ke Sun et.al.|[1905.11027v8](http://arxiv.org/abs/1905.11027v8)|null|
