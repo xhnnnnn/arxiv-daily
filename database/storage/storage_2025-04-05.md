@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-05 07:26:57 Asia/Shanghai
+ Automated deployment @ 2025-04-05 19:23:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -56,46 +56,6 @@
 |**2025-04-01**|**Efficient computation of high-dimensional penalized piecewise constant hazard random effects models**|Hillary M. Heiling et.al.|[2504.00755v1](http://arxiv.org/abs/2504.00755v1)|null|
 |**2025-04-01**|**Discovering universal temperature regulation dynamics in animals**|Cody E. FitzGerald et.al.|[2504.00359v1](http://arxiv.org/abs/2504.00359v1)|null|
 |**2025-02-17**|**On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series**|Kausik Lakkaraju et.al.|[2502.12226v2](http://arxiv.org/abs/2502.12226v2)|null|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-01**|**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**|Rui Wang et.al.|[2504.00660v1](http://arxiv.org/abs/2504.00660v1)|null|
-|**2025-03-29**|**Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context**|Jianfang Chen et.al.|[2503.23205v1](http://arxiv.org/abs/2503.23205v1)|null|
-|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|[link](https://github.com/hmchuong/CoLLM)|
-|**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899v1](http://arxiv.org/abs/2503.17899v1)|null|
-|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v3](http://arxiv.org/abs/2411.18207v3)|[link](https://github.com/343gltysprk/ovow)|
-|**2025-03-19**|**Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**|Yang Liu et.al.|[2503.14953v1](http://arxiv.org/abs/2503.14953v1)|null|
-|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|null|
-|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v2](http://arxiv.org/abs/2402.09769v2)|null|
-|**2025-03-08**|**Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education**|Yuansong Xu et.al.|[2503.06099v1](http://arxiv.org/abs/2503.06099v1)|null|
-|**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060v1](http://arxiv.org/abs/2503.06060v1)|null|
-|**2024-06-11**|**Towards Continuous Reuse of Graph Models via Holistic Memory Diversification**|Ziyue Qiao et.al.|[2406.07413v2](http://arxiv.org/abs/2406.07413v2)|null|
-|**2025-02-23**|**To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders**|Guillaume Salha-Galvan et.al.|[2502.16724v1](http://arxiv.org/abs/2502.16724v1)|[link](https://github.com/kiboryoku/ws_vgae)|
-|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
-|**2025-02-11**|**Deep Semantic Graph Learning via LLM based Node Enhancement**|Chuanqi Shi et.al.|[2502.07982v1](http://arxiv.org/abs/2502.07982v1)|null|
-|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-03**|**SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions**|Shengrui XU et.al.|[2504.02698v1](http://arxiv.org/abs/2504.02698v1)|null|
-|**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598v1](http://arxiv.org/abs/2504.02598v1)|null|
-|**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977v2](http://arxiv.org/abs/2406.14977v2)|[link](https://github.com/yaolab-fantastic/tmm)|
-|**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852v1](http://arxiv.org/abs/2504.00852v1)|null|
-|**2025-03-25**|**Comparison of Metadata Representation Models for Knowledge Graph Embeddings**|Shusaku Egami et.al.|[2503.21804v2](http://arxiv.org/abs/2503.21804v2)|null|
-|**2025-03-23**|**Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding**|Thomas Dagès et.al.|[2503.18010v2](http://arxiv.org/abs/2503.18010v2)|null|
-|**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635v2](http://arxiv.org/abs/2503.06635v2)|null|
-|**2025-03-27**|**AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model**|Sen Zhang et.al.|[2503.21426v1](http://arxiv.org/abs/2503.21426v1)|[link](https://github.com/sunnerzs/AdvSGM)|
-|**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v2](http://arxiv.org/abs/2502.07498v2)|null|
-|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400v1](http://arxiv.org/abs/2503.20400v1)|[link](https://github.com/ritatsousa/expressionKGplus)|
-|**2025-03-25**|**The scaling limit of random 2-connected series-parallel maps**|Daniel Amankwah et.al.|[2503.19705v1](http://arxiv.org/abs/2503.19705v1)|null|
-|**2025-03-24**|**DiffMove: Group Mobility Tendency Enhanced Trajectory Recovery via Diffusion Model**|Qingyue Long et.al.|[2503.18302v1](http://arxiv.org/abs/2503.18302v1)|null|
-|**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733v2](http://arxiv.org/abs/2410.14733v2)|null|
-|**2023-08-25**|**The critical group of a combinatorial map**|Criel Merino et.al.|[2308.13342v2](http://arxiv.org/abs/2308.13342v2)|null|
-|**2025-03-17**|**Conversation-Based Multimodal Abuse Detection Through Text and Graph Embeddings**|Noé Cecillon et.al.|[2503.12994v1](http://arxiv.org/abs/2503.12994v1)|[link](https://github.com/CompNet/AlertEmbeddings)|
 
 ## Graph Model
 
@@ -155,3 +115,43 @@
 |**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v1](http://arxiv.org/abs/2503.03047v1)|null|
 |**2021-11-03**|**Geodesic Length Distribution in Sparse Network Ensembles**|Sahil Loomba et.al.|[2111.02330v2](http://arxiv.org/abs/2111.02330v2)|null|
 |**2025-03-03**|**Capturing the critical coupling of large random Kuramoto networks with graphons**|Jason Bramburger et.al.|[2503.01589v1](http://arxiv.org/abs/2503.01589v1)|null|
+
+## Embedding
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-01**|**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**|Rui Wang et.al.|[2504.00660v1](http://arxiv.org/abs/2504.00660v1)|null|
+|**2025-03-29**|**Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context**|Jianfang Chen et.al.|[2503.23205v1](http://arxiv.org/abs/2503.23205v1)|null|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|[link](https://github.com/hmchuong/CoLLM)|
+|**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899v1](http://arxiv.org/abs/2503.17899v1)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v3](http://arxiv.org/abs/2411.18207v3)|[link](https://github.com/343gltysprk/ovow)|
+|**2025-03-19**|**Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**|Yang Liu et.al.|[2503.14953v1](http://arxiv.org/abs/2503.14953v1)|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|null|
+|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v2](http://arxiv.org/abs/2402.09769v2)|null|
+|**2025-03-08**|**Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education**|Yuansong Xu et.al.|[2503.06099v1](http://arxiv.org/abs/2503.06099v1)|null|
+|**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060v1](http://arxiv.org/abs/2503.06060v1)|null|
+|**2024-06-11**|**Towards Continuous Reuse of Graph Models via Holistic Memory Diversification**|Ziyue Qiao et.al.|[2406.07413v2](http://arxiv.org/abs/2406.07413v2)|null|
+|**2025-02-23**|**To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders**|Guillaume Salha-Galvan et.al.|[2502.16724v1](http://arxiv.org/abs/2502.16724v1)|[link](https://github.com/kiboryoku/ws_vgae)|
+|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
+|**2025-02-11**|**Deep Semantic Graph Learning via LLM based Node Enhancement**|Chuanqi Shi et.al.|[2502.07982v1](http://arxiv.org/abs/2502.07982v1)|null|
+|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-03**|**SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions**|Shengrui XU et.al.|[2504.02698v1](http://arxiv.org/abs/2504.02698v1)|null|
+|**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598v1](http://arxiv.org/abs/2504.02598v1)|null|
+|**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977v2](http://arxiv.org/abs/2406.14977v2)|[link](https://github.com/yaolab-fantastic/tmm)|
+|**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852v1](http://arxiv.org/abs/2504.00852v1)|null|
+|**2025-03-25**|**Comparison of Metadata Representation Models for Knowledge Graph Embeddings**|Shusaku Egami et.al.|[2503.21804v2](http://arxiv.org/abs/2503.21804v2)|null|
+|**2025-03-23**|**Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding**|Thomas Dagès et.al.|[2503.18010v2](http://arxiv.org/abs/2503.18010v2)|null|
+|**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635v2](http://arxiv.org/abs/2503.06635v2)|null|
+|**2025-03-27**|**AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model**|Sen Zhang et.al.|[2503.21426v1](http://arxiv.org/abs/2503.21426v1)|[link](https://github.com/sunnerzs/AdvSGM)|
+|**2025-02-11**|**Decentralized Entropy-Driven Ransomware Detection Using Autonomous Neural Graph Embeddings**|Ekaterina Starchenko et.al.|[2502.07498v2](http://arxiv.org/abs/2502.07498v2)|null|
+|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400v1](http://arxiv.org/abs/2503.20400v1)|[link](https://github.com/ritatsousa/expressionKGplus)|
+|**2025-03-25**|**The scaling limit of random 2-connected series-parallel maps**|Daniel Amankwah et.al.|[2503.19705v1](http://arxiv.org/abs/2503.19705v1)|null|
+|**2025-03-24**|**DiffMove: Group Mobility Tendency Enhanced Trajectory Recovery via Diffusion Model**|Qingyue Long et.al.|[2503.18302v1](http://arxiv.org/abs/2503.18302v1)|null|
+|**2024-10-16**|**Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties**|Guanglin Niu et.al.|[2410.14733v2](http://arxiv.org/abs/2410.14733v2)|null|
+|**2023-08-25**|**The critical group of a combinatorial map**|Criel Merino et.al.|[2308.13342v2](http://arxiv.org/abs/2308.13342v2)|null|
+|**2025-03-17**|**Conversation-Based Multimodal Abuse Detection Through Text and Graph Embeddings**|Noé Cecillon et.al.|[2503.12994v1](http://arxiv.org/abs/2503.12994v1)|[link](https://github.com/CompNet/AlertEmbeddings)|
