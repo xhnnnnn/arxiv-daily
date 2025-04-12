@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-12 07:27:20 Asia/Shanghai
+ Automated deployment @ 2025-04-12 19:22:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,47 +36,7 @@
 |**2024-12-30**|**Exploring DHCAL design and performance with Graph Neural Networks**|M. Borysova et.al.|[2501.00128v3](http://arxiv.org/abs/2501.00128v3)|null|
 |**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972v2](http://arxiv.org/abs/2410.07972v2)|null|
 
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-10**|**What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks**|Pavel Chizhov et.al.|[2504.07825v1](http://arxiv.org/abs/2504.07825v1)|null|
-|**2025-04-10**|**Penalized Linear Models for Highly Correlated High-Dimensional Immunophenotyping Data**|Xiaoru Dong et.al.|[2504.07771v1](http://arxiv.org/abs/2504.07771v1)|null|
-|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v2](http://arxiv.org/abs/2408.04359v2)|null|
-|**2025-04-10**|**Robust Social Planning**|Florian Mudekereza et.al.|[2504.07401v1](http://arxiv.org/abs/2504.07401v1)|null|
-|**2025-04-10**|**A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data**|Guilherme Pumi et.al.|[2504.07351v1](http://arxiv.org/abs/2504.07351v1)|null|
-|**2024-11-09**|**UQ of 2D Slab Burner DNS: Surrogates, Uncertainty Propagation, and Parameter Calibration**|Georgios Georgalis et.al.|[2411.16693v2](http://arxiv.org/abs/2411.16693v2)|null|
-|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v1](http://arxiv.org/abs/2504.07197v1)|null|
-|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v1](http://arxiv.org/abs/2504.06984v1)|null|
-|**2025-04-09**|**Network Cross-Validation and Model Selection via Subsampling**|Sayan Chakrabarty et.al.|[2504.06903v1](http://arxiv.org/abs/2504.06903v1)|null|
-|**2025-04-08**|**LassoRNet: Accurate dim-light melatonin onset time prediction from multiple blood tissue samples**|Michael T. Gorczyca et.al.|[2504.06494v1](http://arxiv.org/abs/2504.06494v1)|null|
-|**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
-|**2023-11-22**|**Penalty-Induced Basis Exploration for Bayesian Splines**|Sunwoo Lim et.al.|[2311.13481v3](http://arxiv.org/abs/2311.13481v3)|null|
-|**2025-04-08**|**Dynamical Dark Energy in light of the DESI DR2 Baryonic Acoustic Oscillations Measurements**|Gan Gu et.al.|[2504.06118v1](http://arxiv.org/abs/2504.06118v1)|null|
-|**2025-03-07**|**Rediscovering Hyperelasticity by Deep Symbolic Regression**|Rasul Abdusalamov et.al.|[2503.05387v2](http://arxiv.org/abs/2503.05387v2)|null|
-|**2025-02-19**|**DeepSeek-V3, GPT-4, Phi-4, and LLaMA-3.3 generate correct code for LoRaWAN-related engineering tasks**|Daniel Fernandes et.al.|[2502.14926v3](http://arxiv.org/abs/2502.14926v3)|null|
-
 ## Graph Model
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
-|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
-|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v3](http://arxiv.org/abs/2409.06325v3)|null|
-|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|null|
-|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|null|
-|**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
-|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
-|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
-|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
-|**2025-03-12**|**Modeling of Rumor Propagation in Large Populations with Network via Graphon Games**|Huaning Liu et.al.|[2503.09107v2](http://arxiv.org/abs/2503.09107v2)|null|
-|**2024-06-10**|**Unified Fourier bases for signals on random graphs with group symmetries**|Mahya Ghandehari et.al.|[2406.06306v2](http://arxiv.org/abs/2406.06306v2)|null|
-|**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v3](http://arxiv.org/abs/2302.01856v3)|null|
-|**2025-03-12**|**Low-Rank Graphon Estimation: Theory and Applications to Graphon Games**|Olga Klopp et.al.|[2503.09299v1](http://arxiv.org/abs/2503.09299v1)|null|
-|**2025-03-04**|**Generating Networks to Target Assortativity via Archimedean Copula Graphons**|Victory Idowu et.al.|[2503.03061v1](http://arxiv.org/abs/2503.03061v1)|[link](https://github.com/videovic/gencg)|
-|**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v1](http://arxiv.org/abs/2503.03047v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -97,6 +57,25 @@
 |**2024-09-11**|**Improved Hardness and Approximations for Cardinality-Based Minimum $s$-$t$ Cuts Problems in Hypergraphs**|Florian Adriaens et.al.|[2409.07201v3](http://arxiv.org/abs/2409.07201v3)|null|
 |**2024-11-19**|**Hypergraph $p$-Laplacian equations for data interpolation and semi-supervised learning**|Kehan Shi et.al.|[2411.12601v2](http://arxiv.org/abs/2411.12601v2)|null|
 
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
+|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v3](http://arxiv.org/abs/2409.06325v3)|null|
+|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|null|
+|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|null|
+|**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
+|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
+|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
+|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
+|**2025-03-12**|**Modeling of Rumor Propagation in Large Populations with Network via Graphon Games**|Huaning Liu et.al.|[2503.09107v2](http://arxiv.org/abs/2503.09107v2)|null|
+|**2024-06-10**|**Unified Fourier bases for signals on random graphs with group symmetries**|Mahya Ghandehari et.al.|[2406.06306v2](http://arxiv.org/abs/2406.06306v2)|null|
+|**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v3](http://arxiv.org/abs/2302.01856v3)|null|
+|**2025-03-12**|**Low-Rank Graphon Estimation: Theory and Applications to Graphon Games**|Olga Klopp et.al.|[2503.09299v1](http://arxiv.org/abs/2503.09299v1)|null|
+|**2025-03-04**|**Generating Networks to Target Assortativity via Archimedean Copula Graphons**|Victory Idowu et.al.|[2503.03061v1](http://arxiv.org/abs/2503.03061v1)|[link](https://github.com/videovic/gencg)|
+|**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v1](http://arxiv.org/abs/2503.03047v1)|null|
+
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -115,6 +94,27 @@
 |**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852v1](http://arxiv.org/abs/2504.00852v1)|null|
 |**2025-03-25**|**Comparison of Metadata Representation Models for Knowledge Graph Embeddings**|Shusaku Egami et.al.|[2503.21804v2](http://arxiv.org/abs/2503.21804v2)|null|
 |**2025-03-23**|**Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding**|Thomas Dagès et.al.|[2503.18010v2](http://arxiv.org/abs/2503.18010v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-10**|**What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks**|Pavel Chizhov et.al.|[2504.07825v1](http://arxiv.org/abs/2504.07825v1)|null|
+|**2025-04-10**|**Penalized Linear Models for Highly Correlated High-Dimensional Immunophenotyping Data**|Xiaoru Dong et.al.|[2504.07771v1](http://arxiv.org/abs/2504.07771v1)|null|
+|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v2](http://arxiv.org/abs/2408.04359v2)|null|
+|**2025-04-10**|**Robust Social Planning**|Florian Mudekereza et.al.|[2504.07401v1](http://arxiv.org/abs/2504.07401v1)|null|
+|**2025-04-10**|**A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data**|Guilherme Pumi et.al.|[2504.07351v1](http://arxiv.org/abs/2504.07351v1)|null|
+|**2024-11-09**|**UQ of 2D Slab Burner DNS: Surrogates, Uncertainty Propagation, and Parameter Calibration**|Georgios Georgalis et.al.|[2411.16693v2](http://arxiv.org/abs/2411.16693v2)|null|
+|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v1](http://arxiv.org/abs/2504.07197v1)|null|
+|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v1](http://arxiv.org/abs/2504.06984v1)|null|
+|**2025-04-09**|**Network Cross-Validation and Model Selection via Subsampling**|Sayan Chakrabarty et.al.|[2504.06903v1](http://arxiv.org/abs/2504.06903v1)|null|
+|**2025-04-08**|**LassoRNet: Accurate dim-light melatonin onset time prediction from multiple blood tissue samples**|Michael T. Gorczyca et.al.|[2504.06494v1](http://arxiv.org/abs/2504.06494v1)|null|
+|**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
+|**2023-11-22**|**Penalty-Induced Basis Exploration for Bayesian Splines**|Sunwoo Lim et.al.|[2311.13481v3](http://arxiv.org/abs/2311.13481v3)|null|
+|**2025-04-08**|**Dynamical Dark Energy in light of the DESI DR2 Baryonic Acoustic Oscillations Measurements**|Gan Gu et.al.|[2504.06118v1](http://arxiv.org/abs/2504.06118v1)|null|
+|**2025-03-07**|**Rediscovering Hyperelasticity by Deep Symbolic Regression**|Rasul Abdusalamov et.al.|[2503.05387v2](http://arxiv.org/abs/2503.05387v2)|null|
+|**2025-02-19**|**DeepSeek-V3, GPT-4, Phi-4, and LLaMA-3.3 generate correct code for LoRaWAN-related engineering tasks**|Daniel Fernandes et.al.|[2502.14926v3](http://arxiv.org/abs/2502.14926v3)|null|
 
 ## Embedding
 
