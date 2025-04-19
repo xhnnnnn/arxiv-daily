@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-19 07:27:55 Asia/Shanghai
+ Automated deployment @ 2025-04-19 19:24:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -57,25 +57,6 @@
 |**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327v1](http://arxiv.org/abs/2504.03327v1)|[link](https://github.com/nec-research/emu-kg)|
 |**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598v2](http://arxiv.org/abs/2504.02598v2)|null|
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-16**|**Scalable Multi-Robot Motion Planning Using Guidance-Informed Hypergraphs**|Courtney McBeth et.al.|[2311.10176v3](http://arxiv.org/abs/2311.10176v3)|null|
-|**2024-12-04**|**Governance as a complex, networked, democratic, satisfiability problem**|Laurent Hébert-Dufresne et.al.|[2412.03421v2](http://arxiv.org/abs/2412.03421v2)|null|
-|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704v1](http://arxiv.org/abs/2504.12704v1)|null|
-|**2024-02-15**|**HyperMagNet: A Magnetic Laplacian based Hypergraph Neural Network**|Tatyana Benko et.al.|[2402.09676v2](http://arxiv.org/abs/2402.09676v2)|null|
-|**2025-04-16**|**Fractional hypergraph coloring**|Margarita Akhmejanova et.al.|[2504.12430v1](http://arxiv.org/abs/2504.12430v1)|null|
-|**2025-04-16**|**Loose paths in random ordered hypergraphs**|Andrzej Dudek et.al.|[2504.12196v1](http://arxiv.org/abs/2504.12196v1)|null|
-|**2025-04-16**|**Deterministic Parallel High-Quality Hypergraph Partitioning**|Robert Krause et.al.|[2504.12013v1](http://arxiv.org/abs/2504.12013v1)|null|
-|**2025-04-16**|**Admissible matchings and the Castelnuovo-Mumford regularity of square-free powers**|Trung Chau et.al.|[2504.11941v1](http://arxiv.org/abs/2504.11941v1)|null|
-|**2025-04-16**|**HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems**|Qiyue Chen et.al.|[2504.11885v1](http://arxiv.org/abs/2504.11885v1)|null|
-|**2025-04-16**|**The Topological Structures of the Orders of Hypergraphs**|Robert E. Green et.al.|[2504.11760v1](http://arxiv.org/abs/2504.11760v1)|null|
-|**2025-04-15**|**Obtuse almost-equiangular sets**|Christine Bachoc et.al.|[2504.11086v1](http://arxiv.org/abs/2504.11086v1)|null|
-|**2025-04-15**|**Full Cooperation in Repeated Multi-Player Games on Hypergraphs**|Juyi Li et.al.|[2504.10910v1](http://arxiv.org/abs/2504.10910v1)|null|
-|**2025-04-14**|**Re-imagining Spectral Graph Theory**|Sinan G. Aksoy et.al.|[2504.10624v1](http://arxiv.org/abs/2504.10624v1)|null|
-|**2025-04-14**|**Finding Pathways in Reaction Networks guided by Energy Barriers using Integer Linear Programming**|Adittya Pal et.al.|[2504.10609v1](http://arxiv.org/abs/2504.10609v1)|null|
-|**2025-03-19**|**Intersecting hypergraphs with large cover number**|Matija Bucić et.al.|[2503.14918v2](http://arxiv.org/abs/2503.14918v2)|null|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -94,6 +75,25 @@
 |**2025-03-12**|**Modeling of Rumor Propagation in Large Populations with Network via Graphon Games**|Huaning Liu et.al.|[2503.09107v2](http://arxiv.org/abs/2503.09107v2)|null|
 |**2024-06-10**|**Unified Fourier bases for signals on random graphs with group symmetries**|Mahya Ghandehari et.al.|[2406.06306v2](http://arxiv.org/abs/2406.06306v2)|null|
 |**2023-02-03**|**Entropy of Exchangeable Random Graphs**|Anda Skeja et.al.|[2302.01856v3](http://arxiv.org/abs/2302.01856v3)|null|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-16**|**Scalable Multi-Robot Motion Planning Using Guidance-Informed Hypergraphs**|Courtney McBeth et.al.|[2311.10176v3](http://arxiv.org/abs/2311.10176v3)|null|
+|**2024-12-04**|**Governance as a complex, networked, democratic, satisfiability problem**|Laurent Hébert-Dufresne et.al.|[2412.03421v2](http://arxiv.org/abs/2412.03421v2)|null|
+|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704v1](http://arxiv.org/abs/2504.12704v1)|null|
+|**2024-02-15**|**HyperMagNet: A Magnetic Laplacian based Hypergraph Neural Network**|Tatyana Benko et.al.|[2402.09676v2](http://arxiv.org/abs/2402.09676v2)|null|
+|**2025-04-16**|**Fractional hypergraph coloring**|Margarita Akhmejanova et.al.|[2504.12430v1](http://arxiv.org/abs/2504.12430v1)|null|
+|**2025-04-16**|**Loose paths in random ordered hypergraphs**|Andrzej Dudek et.al.|[2504.12196v1](http://arxiv.org/abs/2504.12196v1)|null|
+|**2025-04-16**|**Deterministic Parallel High-Quality Hypergraph Partitioning**|Robert Krause et.al.|[2504.12013v1](http://arxiv.org/abs/2504.12013v1)|null|
+|**2025-04-16**|**Admissible matchings and the Castelnuovo-Mumford regularity of square-free powers**|Trung Chau et.al.|[2504.11941v1](http://arxiv.org/abs/2504.11941v1)|null|
+|**2025-04-16**|**HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems**|Qiyue Chen et.al.|[2504.11885v1](http://arxiv.org/abs/2504.11885v1)|null|
+|**2025-04-16**|**The Topological Structures of the Orders of Hypergraphs**|Robert E. Green et.al.|[2504.11760v1](http://arxiv.org/abs/2504.11760v1)|null|
+|**2025-04-15**|**Obtuse almost-equiangular sets**|Christine Bachoc et.al.|[2504.11086v1](http://arxiv.org/abs/2504.11086v1)|null|
+|**2025-04-15**|**Full Cooperation in Repeated Multi-Player Games on Hypergraphs**|Juyi Li et.al.|[2504.10910v1](http://arxiv.org/abs/2504.10910v1)|null|
+|**2025-04-14**|**Re-imagining Spectral Graph Theory**|Sinan G. Aksoy et.al.|[2504.10624v1](http://arxiv.org/abs/2504.10624v1)|null|
+|**2025-04-14**|**Finding Pathways in Reaction Networks guided by Energy Barriers using Integer Linear Programming**|Adittya Pal et.al.|[2504.10609v1](http://arxiv.org/abs/2504.10609v1)|null|
+|**2025-03-19**|**Intersecting hypergraphs with large cover number**|Matija Bucić et.al.|[2503.14918v2](http://arxiv.org/abs/2503.14918v2)|null|
 
 ## Embedding
 
