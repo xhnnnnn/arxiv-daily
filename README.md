@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-10 07:27:17 Asia/Shanghai
+ Automated deployment @ 2025-05-10 19:25:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -38,25 +38,6 @@
 
 ## Graph Model
 
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-07**|**Opinion Dynamics on Signed Graphs and Graphons**|Raoul Prisant et.al.|[2505.04472v1](http://arxiv.org/abs/2505.04472v1)|null|
-|**2023-11-11**|**Large deviation principles for graphon sampling**|Jan Grebík et.al.|[2311.06531v3](http://arxiv.org/abs/2311.06531v3)|null|
-|**2025-04-24**|**Graph Quasirandomness for Hypothesis Testing of Stochastic Block Models**|Kiril Bangachev et.al.|[2504.17202v1](http://arxiv.org/abs/2504.17202v1)|null|
-|**2023-10-31**|**Continuum graph dynamics via population dynamics: well-posedness, duality and equilibria**|Andreas Greven et.al.|[2311.00173v2](http://arxiv.org/abs/2311.00173v2)|null|
-|**2025-04-14**|**Central limit theorem for $ε$-independent products and higher-order tensors**|Guillaume Cébron et.al.|[2504.10059v1](http://arxiv.org/abs/2504.10059v1)|null|
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v3](http://arxiv.org/abs/2310.11705v3)|null|
-|**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
-|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
-|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v3](http://arxiv.org/abs/2409.06325v3)|null|
-|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|null|
-|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|null|
-|**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
-|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
-|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
-|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -94,6 +75,25 @@
 |**2024-01-01**|**Inference and Visualization of Community Structure in Attributed Hypergraphs Using Mixed-Membership Stochastic Block Models**|Kazuki Nakajima et.al.|[2401.00688v2](http://arxiv.org/abs/2401.00688v2)|[link](https://github.com/kazuibasou/hyperneo)|
 |**2025-05-04**|**Exact Set Packing in Multimodal Transportation with Ridesharing System for First/Last Mile**|Qian-Ping Gu et.al.|[2505.01989v1](http://arxiv.org/abs/2505.01989v1)|null|
 |**2024-04-22**|**Cycles in graphs and in hypergraphs: towards homology theory**|A. Miroshnikov et.al.|[2406.16705v3](http://arxiv.org/abs/2406.16705v3)|null|
+
+### Graphon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-07**|**Opinion Dynamics on Signed Graphs and Graphons**|Raoul Prisant et.al.|[2505.04472v1](http://arxiv.org/abs/2505.04472v1)|null|
+|**2023-11-11**|**Large deviation principles for graphon sampling**|Jan Grebík et.al.|[2311.06531v3](http://arxiv.org/abs/2311.06531v3)|null|
+|**2025-04-24**|**Graph Quasirandomness for Hypothesis Testing of Stochastic Block Models**|Kiril Bangachev et.al.|[2504.17202v1](http://arxiv.org/abs/2504.17202v1)|null|
+|**2023-10-31**|**Continuum graph dynamics via population dynamics: well-posedness, duality and equilibria**|Andreas Greven et.al.|[2311.00173v2](http://arxiv.org/abs/2311.00173v2)|null|
+|**2025-04-14**|**Central limit theorem for $ε$-independent products and higher-order tensors**|Guillaume Cébron et.al.|[2504.10059v1](http://arxiv.org/abs/2504.10059v1)|null|
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v3](http://arxiv.org/abs/2310.11705v3)|null|
+|**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
+|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v3](http://arxiv.org/abs/2409.06325v3)|null|
+|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|null|
+|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|null|
+|**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
+|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
+|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
+|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
 
 ## Embedding
 
