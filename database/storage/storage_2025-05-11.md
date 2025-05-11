@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-11 07:26:44 Asia/Shanghai
+ Automated deployment @ 2025-05-11 19:23:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,28 +36,26 @@
 |**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550v2](http://arxiv.org/abs/2410.19550v2)|null|
 |**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083v1](http://arxiv.org/abs/2505.04083v1)|null|
 
-## Variable Selection
+## Graph Model
 
-### Variable selection
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416v1](http://arxiv.org/abs/2505.05416v1)|null|
-|**2025-03-19**|**Benchmarking Open-Source Large Language Models on Healthcare Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v2](http://arxiv.org/abs/2503.15169v2)|null|
-|**2025-05-08**|**Model Selection for Unit-root Time Series with Many Predictors**|Shuo-Chieh Huang et.al.|[2505.04884v1](http://arxiv.org/abs/2505.04884v1)|null|
-|**2025-03-11**|**MaskAttn-UNet: A Mask Attention-Driven Framework for Universal Low-Resolution Image Segmentation**|Anzhe Cheng et.al.|[2503.10686v2](http://arxiv.org/abs/2503.10686v2)|null|
-|**2025-05-07**|**A data-driven approach for star formation parameterization using symbolic regression**|Diane M. Salim et.al.|[2505.04681v1](http://arxiv.org/abs/2505.04681v1)|null|
-|**2025-01-30**|**Vision-Language Model Selection and Reuse for Downstream Adaptation**|Hao-Zhe Tan et.al.|[2501.18271v2](http://arxiv.org/abs/2501.18271v2)|null|
-|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v2](http://arxiv.org/abs/2401.12697v2)|[link](https://github.com/marcoelba/selectiveinference)|
-|**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
-|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|null|
-|**2025-05-06**|**Machine Learning: a Lecture Note**|Kyunghyun Cho et.al.|[2505.03861v1](http://arxiv.org/abs/2505.03861v1)|null|
-|**2025-05-06**|**CUI-MET: Clinical Utility Index Dose Optimization Approach for Multiple-Dose, Multiple-Outcome Randomized Trial Designs**|Fanni Zhang et.al.|[2505.03633v1](http://arxiv.org/abs/2505.03633v1)|null|
-|**2024-05-31**|**Sparse-Group Boosting with Balanced Selection Frequencies: A Simulation-Based Approach and R Implementation**|Fabian Obster et.al.|[2405.21037v2](http://arxiv.org/abs/2405.21037v2)|[link](https://github.com/FabianObster/sgboost-introduction)|
-|**2025-05-06**|**Solar Flare Forecast: A Comparative Analysis of Machine Learning Algorithms for Solar Flare Class Prediction**|Julia Bringewald et.al.|[2505.03385v1](http://arxiv.org/abs/2505.03385v1)|[link](https://github.com/juliabringewald/Solar-Flare-Forecast)|
-|**2025-05-06**|**A Symbolic and Statistical Learning Framework to Discover Bioprocessing Regulatory Mechanism: Cell Culture Example**|Keilung Choy et.al.|[2505.03177v1](http://arxiv.org/abs/2505.03177v1)|null|
-|**2025-05-06**|**Nonparametric learning of covariate-based Markov jump processes using RKHS techniques**|Yuchen Han et.al.|[2505.03119v1](http://arxiv.org/abs/2505.03119v1)|null|
-
-## Graph Model
+|**2025-05-07**|**Opinion Dynamics on Signed Graphs and Graphons**|Raoul Prisant et.al.|[2505.04472v1](http://arxiv.org/abs/2505.04472v1)|null|
+|**2023-11-11**|**Large deviation principles for graphon sampling**|Jan Grebík et.al.|[2311.06531v3](http://arxiv.org/abs/2311.06531v3)|null|
+|**2025-04-24**|**Graph Quasirandomness for Hypothesis Testing of Stochastic Block Models**|Kiril Bangachev et.al.|[2504.17202v1](http://arxiv.org/abs/2504.17202v1)|null|
+|**2023-10-31**|**Continuum graph dynamics via population dynamics: well-posedness, duality and equilibria**|Andreas Greven et.al.|[2311.00173v2](http://arxiv.org/abs/2311.00173v2)|null|
+|**2025-04-14**|**Central limit theorem for $ε$-independent products and higher-order tensors**|Guillaume Cébron et.al.|[2504.10059v1](http://arxiv.org/abs/2504.10059v1)|null|
+|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v3](http://arxiv.org/abs/2310.11705v3)|null|
+|**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
+|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v3](http://arxiv.org/abs/2409.06325v3)|null|
+|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|null|
+|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|null|
+|**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
+|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
+|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
+|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
@@ -96,25 +94,6 @@
 |**2025-04-19**|**CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective**|Ze Zhao et.al.|[2504.14282v1](http://arxiv.org/abs/2504.14282v1)|null|
 |**2025-04-18**|**QuatE-D: A Distance-Based Quaternion Model for Knowledge Graph Embedding**|Hamideh-Sadat Fazael-Ardakani et.al.|[2504.13983v1](http://arxiv.org/abs/2504.13983v1)|null|
 |**2025-04-16**|**Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**|Heesoo Jung et.al.|[2504.12011v1](http://arxiv.org/abs/2504.12011v1)|[link](https://github.com/steve30572/bsg)|
-
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-07**|**Opinion Dynamics on Signed Graphs and Graphons**|Raoul Prisant et.al.|[2505.04472v1](http://arxiv.org/abs/2505.04472v1)|null|
-|**2023-11-11**|**Large deviation principles for graphon sampling**|Jan Grebík et.al.|[2311.06531v3](http://arxiv.org/abs/2311.06531v3)|null|
-|**2025-04-24**|**Graph Quasirandomness for Hypothesis Testing of Stochastic Block Models**|Kiril Bangachev et.al.|[2504.17202v1](http://arxiv.org/abs/2504.17202v1)|null|
-|**2023-10-31**|**Continuum graph dynamics via population dynamics: well-posedness, duality and equilibria**|Andreas Greven et.al.|[2311.00173v2](http://arxiv.org/abs/2311.00173v2)|null|
-|**2025-04-14**|**Central limit theorem for $ε$-independent products and higher-order tensors**|Guillaume Cébron et.al.|[2504.10059v1](http://arxiv.org/abs/2504.10059v1)|null|
-|**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v3](http://arxiv.org/abs/2310.11705v3)|null|
-|**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
-|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
-|**2024-09-10**|**Dense networks of integrate-and-fire neurons: Spatially-extended mean-field limit of the empirical measure**|Pierre-Emmanuel Jabin et.al.|[2409.06325v3](http://arxiv.org/abs/2409.06325v3)|null|
-|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|null|
-|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|null|
-|**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025v1](http://arxiv.org/abs/2503.24025v1)|null|
-|**2023-05-31**|**Characterization of flip process rules with the same trajectories**|Eng Keat Hng et.al.|[2305.19925v2](http://arxiv.org/abs/2305.19925v2)|null|
-|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|null|
-|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
 
 ## Embedding
 
@@ -155,3 +134,24 @@
 |**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v2](http://arxiv.org/abs/2402.09769v2)|null|
 |**2025-03-08**|**Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education**|Yuansong Xu et.al.|[2503.06099v1](http://arxiv.org/abs/2503.06099v1)|null|
 |**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060v1](http://arxiv.org/abs/2503.06060v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416v1](http://arxiv.org/abs/2505.05416v1)|null|
+|**2025-03-19**|**Benchmarking Open-Source Large Language Models on Healthcare Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v2](http://arxiv.org/abs/2503.15169v2)|null|
+|**2025-05-08**|**Model Selection for Unit-root Time Series with Many Predictors**|Shuo-Chieh Huang et.al.|[2505.04884v1](http://arxiv.org/abs/2505.04884v1)|null|
+|**2025-03-11**|**MaskAttn-UNet: A Mask Attention-Driven Framework for Universal Low-Resolution Image Segmentation**|Anzhe Cheng et.al.|[2503.10686v2](http://arxiv.org/abs/2503.10686v2)|null|
+|**2025-05-07**|**A data-driven approach for star formation parameterization using symbolic regression**|Diane M. Salim et.al.|[2505.04681v1](http://arxiv.org/abs/2505.04681v1)|null|
+|**2025-01-30**|**Vision-Language Model Selection and Reuse for Downstream Adaptation**|Hao-Zhe Tan et.al.|[2501.18271v2](http://arxiv.org/abs/2501.18271v2)|null|
+|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v2](http://arxiv.org/abs/2401.12697v2)|[link](https://github.com/marcoelba/selectiveinference)|
+|**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
+|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|null|
+|**2025-05-06**|**Machine Learning: a Lecture Note**|Kyunghyun Cho et.al.|[2505.03861v1](http://arxiv.org/abs/2505.03861v1)|null|
+|**2025-05-06**|**CUI-MET: Clinical Utility Index Dose Optimization Approach for Multiple-Dose, Multiple-Outcome Randomized Trial Designs**|Fanni Zhang et.al.|[2505.03633v1](http://arxiv.org/abs/2505.03633v1)|null|
+|**2024-05-31**|**Sparse-Group Boosting with Balanced Selection Frequencies: A Simulation-Based Approach and R Implementation**|Fabian Obster et.al.|[2405.21037v2](http://arxiv.org/abs/2405.21037v2)|[link](https://github.com/FabianObster/sgboost-introduction)|
+|**2025-05-06**|**Solar Flare Forecast: A Comparative Analysis of Machine Learning Algorithms for Solar Flare Class Prediction**|Julia Bringewald et.al.|[2505.03385v1](http://arxiv.org/abs/2505.03385v1)|[link](https://github.com/juliabringewald/Solar-Flare-Forecast)|
+|**2025-05-06**|**A Symbolic and Statistical Learning Framework to Discover Bioprocessing Regulatory Mechanism: Cell Culture Example**|Keilung Choy et.al.|[2505.03177v1](http://arxiv.org/abs/2505.03177v1)|null|
+|**2025-05-06**|**Nonparametric learning of covariate-based Markov jump processes using RKHS techniques**|Yuchen Han et.al.|[2505.03119v1](http://arxiv.org/abs/2505.03119v1)|null|
