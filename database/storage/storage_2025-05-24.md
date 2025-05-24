@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-24 07:29:16 Asia/Shanghai
+ Automated deployment @ 2025-05-24 19:23:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -78,25 +78,6 @@
 
 ## Graph Model
 
-### Hypergraph
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322v2](http://arxiv.org/abs/2503.21322v2)|[link](https://github.com/LHRLAB/HyperGraphRAG)|
-|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|null|
-|**2023-09-29**|**Pólya urns on hypergraphs**|Pedro Alves et.al.|[2310.00159v2](http://arxiv.org/abs/2310.00159v2)|null|
-|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746v1](http://arxiv.org/abs/2505.15746v1)|null|
-|**2025-05-21**|**A packing lemma for VCN${}_k$-dimension and learning high-dimensional data**|Leonardo N. Coregliano et.al.|[2505.15688v1](http://arxiv.org/abs/2505.15688v1)|null|
-|**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325v1](http://arxiv.org/abs/2505.15325v1)|[link](https://github.com/Mengqi-Lei/SoftHGNN)|
-|**2025-05-21**|**AutoData: A Multi-Agent System for Open Web Data Collection**|Tianyi Ma et.al.|[2505.15859v1](http://arxiv.org/abs/2505.15859v1)|null|
-|**2025-05-21**|**An ideal-sparse generalized moment problem reformulation for completely positive tensor decomposition exploiting maximal cliques of multi-hypergraphs**|Pengfei Huang et.al.|[2505.15056v1](http://arxiv.org/abs/2505.15056v1)|null|
-|**2025-05-20**|**Characteristic scales and adaptation in higher-order contagions**|Giulio Burgio et.al.|[2505.14930v1](http://arxiv.org/abs/2505.14930v1)|null|
-|**2022-07-13**|**Structured Decompositions: Structural and Algorithmic Compositionality**|Benjamin Merlin Bumpus et.al.|[2207.06091v7](http://arxiv.org/abs/2207.06091v7)|null|
-|**2024-06-22**|**Equivalence Hypergraphs: DPO Rewriting for Monoidal E-Graphs**|Aleksei Tiurin et.al.|[2406.15882v2](http://arxiv.org/abs/2406.15882v2)|null|
-|**2025-05-20**|**Lifting a CSS code via its handlebody realization**|Virgile Guemard et.al.|[2505.14327v1](http://arxiv.org/abs/2505.14327v1)|null|
-|**2025-05-20**|**On problems in extremal multigraph theory**|Victor Falgas-Ravry et.al.|[2505.14281v1](http://arxiv.org/abs/2505.14281v1)|null|
-|**2025-05-17**|**Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance**|Mingcheng Qu et.al.|[2505.11997v2](http://arxiv.org/abs/2505.11997v2)|null|
-|**2025-05-20**|**The Saxl hypergraph of a permutation group**|Melissa Lee et.al.|[2505.13849v1](http://arxiv.org/abs/2505.13849v1)|null|
-
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -134,6 +115,25 @@
 |**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949v3](http://arxiv.org/abs/2502.16949v3)|[link](https://github.com/hipgraph/sptransx)|
 |**2024-04-28**|**Graph Attention Reinforcement Learning for Multicast Routing and Age-Optimal Scheduling**|Yanning Zhang et.al.|[2404.18084v6](http://arxiv.org/abs/2404.18084v6)|null|
 |**2025-04-26**|**Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems**|Zhongqi Wei et.al.|[2504.18899v2](http://arxiv.org/abs/2504.18899v2)|[link](https://github.com/intelligent-control-lab/Task_Motion_Planning_with_HLTL_and_GCS)|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322v2](http://arxiv.org/abs/2503.21322v2)|[link](https://github.com/LHRLAB/HyperGraphRAG)|
+|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|null|
+|**2023-09-29**|**Pólya urns on hypergraphs**|Pedro Alves et.al.|[2310.00159v2](http://arxiv.org/abs/2310.00159v2)|null|
+|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746v1](http://arxiv.org/abs/2505.15746v1)|null|
+|**2025-05-21**|**A packing lemma for VCN${}_k$-dimension and learning high-dimensional data**|Leonardo N. Coregliano et.al.|[2505.15688v1](http://arxiv.org/abs/2505.15688v1)|null|
+|**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325v1](http://arxiv.org/abs/2505.15325v1)|[link](https://github.com/Mengqi-Lei/SoftHGNN)|
+|**2025-05-21**|**AutoData: A Multi-Agent System for Open Web Data Collection**|Tianyi Ma et.al.|[2505.15859v1](http://arxiv.org/abs/2505.15859v1)|null|
+|**2025-05-21**|**An ideal-sparse generalized moment problem reformulation for completely positive tensor decomposition exploiting maximal cliques of multi-hypergraphs**|Pengfei Huang et.al.|[2505.15056v1](http://arxiv.org/abs/2505.15056v1)|null|
+|**2025-05-20**|**Characteristic scales and adaptation in higher-order contagions**|Giulio Burgio et.al.|[2505.14930v1](http://arxiv.org/abs/2505.14930v1)|null|
+|**2022-07-13**|**Structured Decompositions: Structural and Algorithmic Compositionality**|Benjamin Merlin Bumpus et.al.|[2207.06091v7](http://arxiv.org/abs/2207.06091v7)|null|
+|**2024-06-22**|**Equivalence Hypergraphs: DPO Rewriting for Monoidal E-Graphs**|Aleksei Tiurin et.al.|[2406.15882v2](http://arxiv.org/abs/2406.15882v2)|null|
+|**2025-05-20**|**Lifting a CSS code via its handlebody realization**|Virgile Guemard et.al.|[2505.14327v1](http://arxiv.org/abs/2505.14327v1)|null|
+|**2025-05-20**|**On problems in extremal multigraph theory**|Victor Falgas-Ravry et.al.|[2505.14281v1](http://arxiv.org/abs/2505.14281v1)|null|
+|**2025-05-17**|**Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance**|Mingcheng Qu et.al.|[2505.11997v2](http://arxiv.org/abs/2505.11997v2)|null|
+|**2025-05-20**|**The Saxl hypergraph of a permutation group**|Melissa Lee et.al.|[2505.13849v1](http://arxiv.org/abs/2505.13849v1)|null|
 
 ## Variable Selection
 
