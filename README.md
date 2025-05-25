@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-25 07:27:40 Asia/Shanghai
+ Automated deployment @ 2025-05-25 19:24:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -36,26 +36,28 @@
 |**2025-05-22**|**Conf-GNNRec: Quantifying and Calibrating the Prediction Confidence for GNN-based Recommendation Methods**|Meng Yan et.al.|[2505.16466v1](http://arxiv.org/abs/2505.16466v1)|null|
 |**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371v1](http://arxiv.org/abs/2505.16371v1)|null|
 
-## Graph Model
+## Variable Selection
 
-### Hypergraph
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322v2](http://arxiv.org/abs/2503.21322v2)|[link](https://github.com/LHRLAB/HyperGraphRAG)|
-|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|null|
-|**2023-09-29**|**Pólya urns on hypergraphs**|Pedro Alves et.al.|[2310.00159v2](http://arxiv.org/abs/2310.00159v2)|null|
-|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746v1](http://arxiv.org/abs/2505.15746v1)|null|
-|**2025-05-21**|**A packing lemma for VCN${}_k$-dimension and learning high-dimensional data**|Leonardo N. Coregliano et.al.|[2505.15688v1](http://arxiv.org/abs/2505.15688v1)|null|
-|**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325v1](http://arxiv.org/abs/2505.15325v1)|[link](https://github.com/Mengqi-Lei/SoftHGNN)|
-|**2025-05-21**|**AutoData: A Multi-Agent System for Open Web Data Collection**|Tianyi Ma et.al.|[2505.15859v1](http://arxiv.org/abs/2505.15859v1)|null|
-|**2025-05-21**|**An ideal-sparse generalized moment problem reformulation for completely positive tensor decomposition exploiting maximal cliques of multi-hypergraphs**|Pengfei Huang et.al.|[2505.15056v1](http://arxiv.org/abs/2505.15056v1)|null|
-|**2025-05-20**|**Characteristic scales and adaptation in higher-order contagions**|Giulio Burgio et.al.|[2505.14930v1](http://arxiv.org/abs/2505.14930v1)|null|
-|**2022-07-13**|**Structured Decompositions: Structural and Algorithmic Compositionality**|Benjamin Merlin Bumpus et.al.|[2207.06091v7](http://arxiv.org/abs/2207.06091v7)|null|
-|**2024-06-22**|**Equivalence Hypergraphs: DPO Rewriting for Monoidal E-Graphs**|Aleksei Tiurin et.al.|[2406.15882v2](http://arxiv.org/abs/2406.15882v2)|null|
-|**2025-05-20**|**Lifting a CSS code via its handlebody realization**|Virgile Guemard et.al.|[2505.14327v1](http://arxiv.org/abs/2505.14327v1)|null|
-|**2025-05-20**|**On problems in extremal multigraph theory**|Victor Falgas-Ravry et.al.|[2505.14281v1](http://arxiv.org/abs/2505.14281v1)|null|
-|**2025-05-17**|**Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance**|Mingcheng Qu et.al.|[2505.11997v2](http://arxiv.org/abs/2505.11997v2)|null|
-|**2025-05-20**|**The Saxl hypergraph of a permutation group**|Melissa Lee et.al.|[2505.13849v1](http://arxiv.org/abs/2505.13849v1)|null|
+|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|null|
+|**2023-10-22**|**Variable Selection and Minimax Prediction in High-dimensional Functional Linear Model**|Xingche Guo et.al.|[2310.14419v4](http://arxiv.org/abs/2310.14419v4)|null|
+|**2025-05-22**|**Periodic Variability in Space Photometry of 181 New Supermassive Black Hole Binary Candidates**|Pablo Huijse et.al.|[2505.16884v1](http://arxiv.org/abs/2505.16884v1)|null|
+|**2025-05-22**|**Multi-Output Gaussian Processes for Graph-Structured Data**|Ayano Nakai-Kasai et.al.|[2505.16755v1](http://arxiv.org/abs/2505.16755v1)|null|
+|**2024-10-14**|**A Unified Approach to Routing and Cascading for LLMs**|Jasper Dekoninck et.al.|[2410.10347v3](http://arxiv.org/abs/2410.10347v3)|null|
+|**2025-05-22**|**Selection of Dwarf Galaxies Hosting AGNs: A Measure of Bias and Contamination using Unsupervised Machine Learning Techniques**|Sogol Sanjaripour et.al.|[2505.16509v1](http://arxiv.org/abs/2505.16509v1)|null|
+|**2025-05-16**|**Supervised Models Can Generalize Also When Trained on Random Labels**|Oskar Allerbo et.al.|[2505.11006v2](http://arxiv.org/abs/2505.11006v2)|[link](https://github.com/allerbo/training_without_y)|
+|**2025-02-18**|**SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models**|Seanie Lee et.al.|[2502.12464v5](http://arxiv.org/abs/2502.12464v5)|[link](https://github.com/seanie12/safe-route)|
+|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v2](http://arxiv.org/abs/2504.07197v2)|null|
+|**2025-05-21**|**Quantile Predictions for Equity Premium using Penalized Quantile Regression with Consistent Variable Selection across Multiple Quantiles**|Shaobo Li et.al.|[2505.16019v1](http://arxiv.org/abs/2505.16019v1)|null|
+|**2025-05-21**|**LCDB 1.1: A Database Illustrating Learning Curves Are More Ill-Behaved Than Previously Thought**|Cheng Yan et.al.|[2505.15657v1](http://arxiv.org/abs/2505.15657v1)|[link](https://github.com/learning-curve-research/LCDB-1.1)|
+|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|null|
+|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v2](http://arxiv.org/abs/2504.13057v2)|null|
+|**2025-05-21**|**Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One**|Yiwen Song et.al.|[2505.15306v1](http://arxiv.org/abs/2505.15306v1)|null|
+|**2025-05-20**|**An Asymptotic Equation Linking WAIC and WBIC in Singular Models**|Naoki Hayashi et.al.|[2505.13902v2](http://arxiv.org/abs/2505.13902v2)|null|
+
+## Graph Model
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,6 +77,25 @@
 |**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949v3](http://arxiv.org/abs/2502.16949v3)|[link](https://github.com/hipgraph/sptransx)|
 |**2024-04-28**|**Graph Attention Reinforcement Learning for Multicast Routing and Age-Optimal Scheduling**|Yanning Zhang et.al.|[2404.18084v6](http://arxiv.org/abs/2404.18084v6)|null|
 |**2025-04-26**|**Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems**|Zhongqi Wei et.al.|[2504.18899v2](http://arxiv.org/abs/2504.18899v2)|[link](https://github.com/intelligent-control-lab/Task_Motion_Planning_with_HLTL_and_GCS)|
+
+### Hypergraph
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322v2](http://arxiv.org/abs/2503.21322v2)|[link](https://github.com/LHRLAB/HyperGraphRAG)|
+|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|null|
+|**2022-02-09**|**On the Keevash-Knox-Mycroft Conjecture**|Luyining Gan et.al.|[2202.04246v4](http://arxiv.org/abs/2202.04246v4)|null|
+|**2023-09-29**|**Pólya urns on hypergraphs**|Pedro Alves et.al.|[2310.00159v2](http://arxiv.org/abs/2310.00159v2)|null|
+|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746v1](http://arxiv.org/abs/2505.15746v1)|null|
+|**2025-05-21**|**A packing lemma for VCN${}_k$-dimension and learning high-dimensional data**|Leonardo N. Coregliano et.al.|[2505.15688v1](http://arxiv.org/abs/2505.15688v1)|null|
+|**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325v1](http://arxiv.org/abs/2505.15325v1)|[link](https://github.com/Mengqi-Lei/SoftHGNN)|
+|**2025-05-21**|**AutoData: A Multi-Agent System for Open Web Data Collection**|Tianyi Ma et.al.|[2505.15859v1](http://arxiv.org/abs/2505.15859v1)|null|
+|**2025-05-21**|**An ideal-sparse generalized moment problem reformulation for completely positive tensor decomposition exploiting maximal cliques of multi-hypergraphs**|Pengfei Huang et.al.|[2505.15056v1](http://arxiv.org/abs/2505.15056v1)|null|
+|**2025-05-20**|**Characteristic scales and adaptation in higher-order contagions**|Giulio Burgio et.al.|[2505.14930v1](http://arxiv.org/abs/2505.14930v1)|null|
+|**2022-07-13**|**Structured Decompositions: Structural and Algorithmic Compositionality**|Benjamin Merlin Bumpus et.al.|[2207.06091v7](http://arxiv.org/abs/2207.06091v7)|null|
+|**2024-06-22**|**Equivalence Hypergraphs: DPO Rewriting for Monoidal E-Graphs**|Aleksei Tiurin et.al.|[2406.15882v2](http://arxiv.org/abs/2406.15882v2)|null|
+|**2025-05-20**|**Lifting a CSS code via its handlebody realization**|Virgile Guemard et.al.|[2505.14327v1](http://arxiv.org/abs/2505.14327v1)|null|
+|**2025-05-20**|**On problems in extremal multigraph theory**|Victor Falgas-Ravry et.al.|[2505.14281v1](http://arxiv.org/abs/2505.14281v1)|null|
+|**2025-05-17**|**Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance**|Mingcheng Qu et.al.|[2505.11997v2](http://arxiv.org/abs/2505.11997v2)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -134,24 +155,3 @@
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899v1](http://arxiv.org/abs/2503.17899v1)|null|
 |**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207v3](http://arxiv.org/abs/2411.18207v3)|[link](https://github.com/343gltysprk/ovow)|
 |**2025-03-19**|**Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**|Yang Liu et.al.|[2503.14953v1](http://arxiv.org/abs/2503.14953v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|null|
-|**2023-10-22**|**Variable Selection and Minimax Prediction in High-dimensional Functional Linear Model**|Xingche Guo et.al.|[2310.14419v4](http://arxiv.org/abs/2310.14419v4)|null|
-|**2025-05-22**|**Periodic Variability in Space Photometry of 181 New Supermassive Black Hole Binary Candidates**|Pablo Huijse et.al.|[2505.16884v1](http://arxiv.org/abs/2505.16884v1)|null|
-|**2025-05-22**|**Multi-Output Gaussian Processes for Graph-Structured Data**|Ayano Nakai-Kasai et.al.|[2505.16755v1](http://arxiv.org/abs/2505.16755v1)|null|
-|**2024-10-14**|**A Unified Approach to Routing and Cascading for LLMs**|Jasper Dekoninck et.al.|[2410.10347v3](http://arxiv.org/abs/2410.10347v3)|null|
-|**2025-05-22**|**Selection of Dwarf Galaxies Hosting AGNs: A Measure of Bias and Contamination using Unsupervised Machine Learning Techniques**|Sogol Sanjaripour et.al.|[2505.16509v1](http://arxiv.org/abs/2505.16509v1)|null|
-|**2025-05-16**|**Supervised Models Can Generalize Also When Trained on Random Labels**|Oskar Allerbo et.al.|[2505.11006v2](http://arxiv.org/abs/2505.11006v2)|[link](https://github.com/allerbo/training_without_y)|
-|**2025-02-18**|**SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models**|Seanie Lee et.al.|[2502.12464v5](http://arxiv.org/abs/2502.12464v5)|[link](https://github.com/seanie12/safe-route)|
-|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v2](http://arxiv.org/abs/2504.07197v2)|null|
-|**2025-05-21**|**Quantile Predictions for Equity Premium using Penalized Quantile Regression with Consistent Variable Selection across Multiple Quantiles**|Shaobo Li et.al.|[2505.16019v1](http://arxiv.org/abs/2505.16019v1)|null|
-|**2025-05-21**|**LCDB 1.1: A Database Illustrating Learning Curves Are More Ill-Behaved Than Previously Thought**|Cheng Yan et.al.|[2505.15657v1](http://arxiv.org/abs/2505.15657v1)|[link](https://github.com/learning-curve-research/LCDB-1.1)|
-|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|null|
-|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v2](http://arxiv.org/abs/2504.13057v2)|null|
-|**2025-05-21**|**Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One**|Yiwen Song et.al.|[2505.15306v1](http://arxiv.org/abs/2505.15306v1)|null|
-|**2025-05-20**|**An Asymptotic Equation Linking WAIC and WBIC in Singular Models**|Naoki Hayashi et.al.|[2505.13902v2](http://arxiv.org/abs/2505.13902v2)|null|
