@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-31 07:28:59 Asia/Shanghai
+ Automated deployment @ 2025-05-31 19:24:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,46 @@
 |**2024-12-15**|**TINED: GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation**|Ziang Zhou et.al.|[2412.11180v3](http://arxiv.org/abs/2412.11180v3)|null|
 |**2024-11-30**|**One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**|Jingzhe Liu et.al.|[2412.00315v2](http://arxiv.org/abs/2412.00315v2)|null|
 |**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034v1](http://arxiv.org/abs/2505.23034v1)|null|
+
+## Embedding
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-29**|**The Generalized Skew Spectrum of Graphs**|Armando Bellante et.al.|[2505.23609v1](http://arxiv.org/abs/2505.23609v1)|null|
+|**2025-05-28**|**Tensor product formulas for the Bollobás-Riordan and Krushkal polynomials**|Iain Moffatt et.al.|[2505.22570v1](http://arxiv.org/abs/2505.22570v1)|null|
+|**2025-05-27**|**RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph**|Junsik Kim et.al.|[2505.20813v2](http://arxiv.org/abs/2505.20813v2)|null|
+|**2025-05-27**|**Efficient Identity and Position Graph Embedding via Spectral-Based Random Feature Aggregation**|Meng Qin et.al.|[2505.20992v1](http://arxiv.org/abs/2505.20992v1)|null|
+|**2025-05-26**|**Signed Angle Rigid Graphs for Network Localization and Formation Control**|Jinpeng Huang et.al.|[2505.19945v1](http://arxiv.org/abs/2505.19945v1)|null|
+|**2025-05-23**|**Dynamic Graph Embedding through Hub-aware Random Walks**|Aleksandar Tomčić et.al.|[2505.17764v1](http://arxiv.org/abs/2505.17764v1)|null|
+|**2025-05-22**|**Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2505.16877v1](http://arxiv.org/abs/2505.16877v1)|null|
+|**2025-05-16**|**Fractal Graph Contrastive Learning**|Nero Z. Li et.al.|[2505.11356v2](http://arxiv.org/abs/2505.11356v2)|null|
+|**2025-05-17**|**Lightweight Spatio-Temporal Attention Network with Graph Embedding and Rotational Position Encoding for Traffic Forecasting**|Xiao Wang et.al.|[2505.12136v1](http://arxiv.org/abs/2505.12136v1)|null|
+|**2025-05-14**|**Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration**|Zhonggen Li et.al.|[2505.09258v2](http://arxiv.org/abs/2505.09258v2)|[link](https://github.com/zju-daily/legend)|
+|**2025-05-14**|**Robust Knowledge Graph Embedding via Denoising**|Tengwei Song et.al.|[2505.18171v1](http://arxiv.org/abs/2505.18171v1)|null|
+|**2025-05-13**|**DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update**|Bizhan Alipour Pijan et.al.|[2505.09017v1](http://arxiv.org/abs/2505.09017v1)|null|
+|**2024-12-15**|**A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers**|Ashish Parmanand Pandey et.al.|[2412.11293v2](http://arxiv.org/abs/2412.11293v2)|null|
+|**2025-05-12**|**Injecting Knowledge Graphs into Large Language Models**|Erica Coppolillo et.al.|[2505.07554v1](http://arxiv.org/abs/2505.07554v1)|null|
+|**2025-05-11**|**Three-edge-coloring (Tait coloring) cubic graphs on the torus: A proof of Grünbaum's conjecture**|Yuta Inoue et.al.|[2505.07002v1](http://arxiv.org/abs/2505.07002v1)|null|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-28**|**Let's Predict Sentence by Sentence**|Hyeonbin Hwang et.al.|[2505.22202v1](http://arxiv.org/abs/2505.22202v1)|null|
+|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135v2](http://arxiv.org/abs/2505.17135v2)|null|
+|**2025-05-22**|**HPP-Voice: A Large-Scale Evaluation of Speech Embeddings for Multi-Phenotypic Classification**|David Krongauz et.al.|[2505.16490v2](http://arxiv.org/abs/2505.16490v2)|null|
+|**2025-05-25**|**Aligning LLM with human travel choices: a persona-based embedding learning approach**|Tianming Liu et.al.|[2505.19003v1](http://arxiv.org/abs/2505.19003v1)|null|
+|**2025-05-22**|**Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization**|Robbert Reijnen et.al.|[2505.16471v2](http://arxiv.org/abs/2505.16471v2)|[link](https://github.com/robbertreijnen/gs-modac)|
+|**2025-05-20**|**GSDFuse: Capturing Cognitive Inconsistencies from Multi-Dimensional Weak Signals in Social Media Steganalysis**|Kaibo Huang et.al.|[2505.17085v1](http://arxiv.org/abs/2505.17085v1)|[link](https://github.com/nebulaemmazh/gsdfuse)|
+|**2025-05-16**|**Continuous Optimization for Feature Selection with Permutation-Invariant Embedding and Policy-Guided Search**|Rui Liu et.al.|[2505.11601v1](http://arxiv.org/abs/2505.11601v1)|null|
+|**2025-05-16**|**Embedding-to-Prefix: Parameter-Efficient Personalization for Pre-Trained Large Language Models**|Bernd Huber et.al.|[2505.17051v1](http://arxiv.org/abs/2505.17051v1)|null|
+|**2025-05-06**|**Attention-aggregated Attack for Boosting the Transferability of Facial Adversarial Examples**|Jian-Wei Li et.al.|[2505.03383v1](http://arxiv.org/abs/2505.03383v1)|null|
+|**2025-05-05**|**Cooperative ISAC Network for Off-Grid Imaging-based Low-Altitude Surveillance**|Yixuan Huang et.al.|[2505.02440v1](http://arxiv.org/abs/2505.02440v1)|null|
+|**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101v1](http://arxiv.org/abs/2504.19101v1)|null|
+|**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432v1](http://arxiv.org/abs/2504.17432v1)|null|
+|**2025-04-14**|**Distinct hydrologic response patterns and trends worldwide revealed by physics-embedded learning**|Haoyu Ji et.al.|[2504.10707v2](http://arxiv.org/abs/2504.10707v2)|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v2](http://arxiv.org/abs/2503.07202v2)|null|
+|**2025-04-01**|**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**|Rui Wang et.al.|[2504.00660v1](http://arxiv.org/abs/2504.00660v1)|null|
 
 ## Graph Model
 
@@ -94,46 +134,6 @@
 |**2023-10-18**|**Random minimum spanning tree and dense graph limits**|Jan Hladký et.al.|[2310.11705v3](http://arxiv.org/abs/2310.11705v3)|null|
 |**2025-04-08**|**Co-evolving vertex and edge dynamics in dense graphs**|Siva Athreya et.al.|[2504.06493v1](http://arxiv.org/abs/2504.06493v1)|null|
 |**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352v2](http://arxiv.org/abs/2412.19352v2)|null|
-
-## Embedding
-
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-28**|**Let's Predict Sentence by Sentence**|Hyeonbin Hwang et.al.|[2505.22202v1](http://arxiv.org/abs/2505.22202v1)|null|
-|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135v2](http://arxiv.org/abs/2505.17135v2)|null|
-|**2025-05-22**|**HPP-Voice: A Large-Scale Evaluation of Speech Embeddings for Multi-Phenotypic Classification**|David Krongauz et.al.|[2505.16490v2](http://arxiv.org/abs/2505.16490v2)|null|
-|**2025-05-25**|**Aligning LLM with human travel choices: a persona-based embedding learning approach**|Tianming Liu et.al.|[2505.19003v1](http://arxiv.org/abs/2505.19003v1)|null|
-|**2025-05-22**|**Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization**|Robbert Reijnen et.al.|[2505.16471v2](http://arxiv.org/abs/2505.16471v2)|[link](https://github.com/robbertreijnen/gs-modac)|
-|**2025-05-20**|**GSDFuse: Capturing Cognitive Inconsistencies from Multi-Dimensional Weak Signals in Social Media Steganalysis**|Kaibo Huang et.al.|[2505.17085v1](http://arxiv.org/abs/2505.17085v1)|[link](https://github.com/nebulaemmazh/gsdfuse)|
-|**2025-05-16**|**Continuous Optimization for Feature Selection with Permutation-Invariant Embedding and Policy-Guided Search**|Rui Liu et.al.|[2505.11601v1](http://arxiv.org/abs/2505.11601v1)|null|
-|**2025-05-16**|**Embedding-to-Prefix: Parameter-Efficient Personalization for Pre-Trained Large Language Models**|Bernd Huber et.al.|[2505.17051v1](http://arxiv.org/abs/2505.17051v1)|null|
-|**2025-05-06**|**Attention-aggregated Attack for Boosting the Transferability of Facial Adversarial Examples**|Jian-Wei Li et.al.|[2505.03383v1](http://arxiv.org/abs/2505.03383v1)|null|
-|**2025-05-05**|**Cooperative ISAC Network for Off-Grid Imaging-based Low-Altitude Surveillance**|Yixuan Huang et.al.|[2505.02440v1](http://arxiv.org/abs/2505.02440v1)|null|
-|**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101v1](http://arxiv.org/abs/2504.19101v1)|null|
-|**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432v1](http://arxiv.org/abs/2504.17432v1)|null|
-|**2025-04-14**|**Distinct hydrologic response patterns and trends worldwide revealed by physics-embedded learning**|Haoyu Ji et.al.|[2504.10707v2](http://arxiv.org/abs/2504.10707v2)|null|
-|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v2](http://arxiv.org/abs/2503.07202v2)|null|
-|**2025-04-01**|**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**|Rui Wang et.al.|[2504.00660v1](http://arxiv.org/abs/2504.00660v1)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**The Generalized Skew Spectrum of Graphs**|Armando Bellante et.al.|[2505.23609v1](http://arxiv.org/abs/2505.23609v1)|null|
-|**2025-05-28**|**Tensor product formulas for the Bollobás-Riordan and Krushkal polynomials**|Iain Moffatt et.al.|[2505.22570v1](http://arxiv.org/abs/2505.22570v1)|null|
-|**2025-05-27**|**RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph**|Junsik Kim et.al.|[2505.20813v2](http://arxiv.org/abs/2505.20813v2)|null|
-|**2025-05-27**|**Efficient Identity and Position Graph Embedding via Spectral-Based Random Feature Aggregation**|Meng Qin et.al.|[2505.20992v1](http://arxiv.org/abs/2505.20992v1)|null|
-|**2025-05-26**|**Signed Angle Rigid Graphs for Network Localization and Formation Control**|Jinpeng Huang et.al.|[2505.19945v1](http://arxiv.org/abs/2505.19945v1)|null|
-|**2025-05-23**|**Dynamic Graph Embedding through Hub-aware Random Walks**|Aleksandar Tomčić et.al.|[2505.17764v1](http://arxiv.org/abs/2505.17764v1)|null|
-|**2025-05-22**|**Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2505.16877v1](http://arxiv.org/abs/2505.16877v1)|null|
-|**2025-05-16**|**Fractal Graph Contrastive Learning**|Nero Z. Li et.al.|[2505.11356v2](http://arxiv.org/abs/2505.11356v2)|null|
-|**2025-05-17**|**Lightweight Spatio-Temporal Attention Network with Graph Embedding and Rotational Position Encoding for Traffic Forecasting**|Xiao Wang et.al.|[2505.12136v1](http://arxiv.org/abs/2505.12136v1)|null|
-|**2025-05-14**|**Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration**|Zhonggen Li et.al.|[2505.09258v2](http://arxiv.org/abs/2505.09258v2)|[link](https://github.com/zju-daily/legend)|
-|**2025-05-14**|**Robust Knowledge Graph Embedding via Denoising**|Tengwei Song et.al.|[2505.18171v1](http://arxiv.org/abs/2505.18171v1)|null|
-|**2025-05-13**|**DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update**|Bizhan Alipour Pijan et.al.|[2505.09017v1](http://arxiv.org/abs/2505.09017v1)|null|
-|**2024-12-15**|**A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers**|Ashish Parmanand Pandey et.al.|[2412.11293v2](http://arxiv.org/abs/2412.11293v2)|null|
-|**2025-05-12**|**Injecting Knowledge Graphs into Large Language Models**|Erica Coppolillo et.al.|[2505.07554v1](http://arxiv.org/abs/2505.07554v1)|null|
-|**2025-05-11**|**Three-edge-coloring (Tait coloring) cubic graphs on the torus: A proof of Grünbaum's conjecture**|Yuta Inoue et.al.|[2505.07002v1](http://arxiv.org/abs/2505.07002v1)|null|
 
 ## Variable Selection
 
