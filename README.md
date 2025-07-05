@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-05 07:29:03 Asia/Shanghai
+ Automated deployment @ 2025-07-05 19:25:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,27 @@
 |**2025-07-02**|**MILP-SAT-GNN: Yet Another Neural SAT Solver**|Franco Alberto Cardillo et.al.|[2507.01825v1](http://arxiv.org/abs/2507.01825v1)|null|
 |**2024-02-19**|**Vehicle-group-based Crash Risk Prediction and Interpretation on Highways**|Tianheng Zhu et.al.|[2402.12415v3](http://arxiv.org/abs/2402.12415v3)|null|
 |**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937v1](http://arxiv.org/abs/2507.00937v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-03**|**Strategies and statistical evaluation of Italy's regional model for COVID-19 restrictions**|Giuseppe Drago et.al.|[2507.02504v1](http://arxiv.org/abs/2507.02504v1)|null|
+|**2024-08-13**|**Conformal prediction after data-dependent model selection**|Ruiting Liang et.al.|[2408.07066v3](http://arxiv.org/abs/2408.07066v3)|null|
+|**2024-11-05**|**GeMID: Generalizable Models for IoT Device Identification**|Kahraman Kostas et.al.|[2411.14441v2](http://arxiv.org/abs/2411.14441v2)|[link](https://github.com/kahramankostas/GeMID)|
+|**2024-11-06**|**Adaptive exact recovery in sparse nonparametric models**|Natalia Stepanova et.al.|[2411.04320v2](http://arxiv.org/abs/2411.04320v2)|null|
+|**2025-06-02**|**Quantum Machine Learning for Predicting Anastomotic Leak: A Clinical Study**|Vojtěch Novák et.al.|[2506.01708v2](http://arxiv.org/abs/2506.01708v2)|null|
+|**2025-07-02**|**Gold after Randomized Sand: Model-X Split Knockoffs for Controlled Transformation Selection**|Yang Cao et.al.|[2507.01732v1](http://arxiv.org/abs/2507.01732v1)|null|
+|**2025-07-02**|**Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities**|Yingqiang Gao et.al.|[2507.01479v1](http://arxiv.org/abs/2507.01479v1)|null|
+|**2022-02-11**|**Fitting Sparse Markov Models to Categorical Time Series Using Convex Clustering**|Tuhin Majumder et.al.|[2202.05485v2](http://arxiv.org/abs/2202.05485v2)|null|
+|**2025-07-01**|**AI Analyst: Framework and Comprehensive Evaluation of Large Language Models for Financial Time Series Report Generation**|Elizabeth Fons et.al.|[2507.00718v1](http://arxiv.org/abs/2507.00718v1)|null|
+|**2024-06-27**|**Comparing Lasso and Adaptive Lasso in High-Dimensional Data: A Genetic Survival Analysis in Triple-Negative Breast Cancer**|Pilar González-Barquero et.al.|[2406.19213v2](http://arxiv.org/abs/2406.19213v2)|[link](https://github.com/pilargonzalezbarquero/penalized_cox)|
+|**2025-07-01**|**GANs Secretly Perform Approximate Bayesian Model Selection**|Maurizio Filippone et.al.|[2507.00651v1](http://arxiv.org/abs/2507.00651v1)|null|
+|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v6](http://arxiv.org/abs/2401.14359v6)|null|
+|**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190v1](http://arxiv.org/abs/2507.00190v1)|null|
+|**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106v1](http://arxiv.org/abs/2506.24106v1)|null|
+|**2025-01-12**|**Semiparametric Double Reinforcement Learning with Applications to Long-Term Causal Inference**|Lars van der Laan et.al.|[2501.06926v3](http://arxiv.org/abs/2501.06926v3)|null|
 
 ## Graph Model
 
@@ -97,25 +118,6 @@
 
 ## Embedding
 
-### Embedding Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**Interact2Vec -- An efficient neural network-based model for simultaneously learning users and items embeddings in recommender systems**|Pedro R. Pires et.al.|[2506.22648v2](http://arxiv.org/abs/2506.22648v2)|null|
-|**2024-03-16**|**Object Retrieval for Visual Question Answering with Outside Knowledge**|Shichao Kan et.al.|[2403.10798v2](http://arxiv.org/abs/2403.10798v2)|[link](https://github.com/dengyuhai/ms-ugcml)|
-|**2025-06-30**|**Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**|Dewen Zeng et.al.|[2506.23460v1](http://arxiv.org/abs/2506.23460v1)|null|
-|**2025-06-27**|**A features-embedded-learning immersed boundary model for large-eddy simulation of turbulent flows with complex boundaries**|Zhideng Zhou et.al.|[2506.21985v1](http://arxiv.org/abs/2506.21985v1)|null|
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v3](http://arxiv.org/abs/2412.19637v3)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
-|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135v4](http://arxiv.org/abs/2505.17135v4)|null|
-|**2025-06-17**|**Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size**|Soufiane Hayou et.al.|[2506.15025v1](http://arxiv.org/abs/2506.15025v1)|null|
-|**2025-06-17**|**Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places**|Xinglei Wang et.al.|[2506.14070v1](http://arxiv.org/abs/2506.14070v1)|[link](https://github.com/xlwang233/into-the-unknown)|
-|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307v1](http://arxiv.org/abs/2506.13307v1)|null|
-|**2025-06-12**|**Context-Adaptive Graph Neural Networks for Next POI Recommendation**|Yu Lei et.al.|[2506.10329v1](http://arxiv.org/abs/2506.10329v1)|null|
-|**2025-06-11**|**Probabilistic Variational Contrastive Learning**|Minoh Jeong et.al.|[2506.10159v1](http://arxiv.org/abs/2506.10159v1)|null|
-|**2025-06-09**|**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**|Yixuan Huang et.al.|[2506.07799v1](http://arxiv.org/abs/2506.07799v1)|[link](https://github.com/kiwi1944/LAEImager)|
-|**2025-06-08**|**Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment**|Pengfei Zhao et.al.|[2506.06970v1](http://arxiv.org/abs/2506.06970v1)|null|
-|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v3](http://arxiv.org/abs/2402.09769v3)|null|
-|**2024-03-03**|**DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes**|Zhende Song et.al.|[2403.01422v3](http://arxiv.org/abs/2403.01422v3)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -135,23 +137,21 @@
 |**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488v1](http://arxiv.org/abs/2506.14488v1)|null|
 |**2025-06-16**|**Rydberg blockade mechanism through the lens of graph theory: characterization and applications**|Elie Bermot et.al.|[2506.13228v1](http://arxiv.org/abs/2506.13228v1)|null|
 
-## Variable Selection
-
-### Variable selection
+### Embedding Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-03**|**Strategies and statistical evaluation of Italy's regional model for COVID-19 restrictions**|Giuseppe Drago et.al.|[2507.02504v1](http://arxiv.org/abs/2507.02504v1)|null|
-|**2024-08-13**|**Conformal prediction after data-dependent model selection**|Ruiting Liang et.al.|[2408.07066v3](http://arxiv.org/abs/2408.07066v3)|null|
-|**2024-11-05**|**GeMID: Generalizable Models for IoT Device Identification**|Kahraman Kostas et.al.|[2411.14441v2](http://arxiv.org/abs/2411.14441v2)|[link](https://github.com/kahramankostas/GeMID)|
-|**2024-11-06**|**Adaptive exact recovery in sparse nonparametric models**|Natalia Stepanova et.al.|[2411.04320v2](http://arxiv.org/abs/2411.04320v2)|null|
-|**2025-06-02**|**Quantum Machine Learning for Predicting Anastomotic Leak: A Clinical Study**|Vojtěch Novák et.al.|[2506.01708v2](http://arxiv.org/abs/2506.01708v2)|null|
-|**2025-07-02**|**Gold after Randomized Sand: Model-X Split Knockoffs for Controlled Transformation Selection**|Yang Cao et.al.|[2507.01732v1](http://arxiv.org/abs/2507.01732v1)|null|
-|**2025-07-02**|**Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities**|Yingqiang Gao et.al.|[2507.01479v1](http://arxiv.org/abs/2507.01479v1)|null|
-|**2022-02-11**|**Fitting Sparse Markov Models to Categorical Time Series Using Convex Clustering**|Tuhin Majumder et.al.|[2202.05485v2](http://arxiv.org/abs/2202.05485v2)|null|
-|**2025-07-01**|**AI Analyst: Framework and Comprehensive Evaluation of Large Language Models for Financial Time Series Report Generation**|Elizabeth Fons et.al.|[2507.00718v1](http://arxiv.org/abs/2507.00718v1)|null|
-|**2024-06-27**|**Comparing Lasso and Adaptive Lasso in High-Dimensional Data: A Genetic Survival Analysis in Triple-Negative Breast Cancer**|Pilar González-Barquero et.al.|[2406.19213v2](http://arxiv.org/abs/2406.19213v2)|[link](https://github.com/pilargonzalezbarquero/penalized_cox)|
-|**2025-07-01**|**GANs Secretly Perform Approximate Bayesian Model Selection**|Maurizio Filippone et.al.|[2507.00651v1](http://arxiv.org/abs/2507.00651v1)|null|
-|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v6](http://arxiv.org/abs/2401.14359v6)|null|
-|**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190v1](http://arxiv.org/abs/2507.00190v1)|null|
-|**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106v1](http://arxiv.org/abs/2506.24106v1)|null|
-|**2025-01-12**|**Semiparametric Double Reinforcement Learning with Applications to Long-Term Causal Inference**|Lars van der Laan et.al.|[2501.06926v3](http://arxiv.org/abs/2501.06926v3)|null|
+|**2025-06-27**|**Interact2Vec -- An efficient neural network-based model for simultaneously learning users and items embeddings in recommender systems**|Pedro R. Pires et.al.|[2506.22648v2](http://arxiv.org/abs/2506.22648v2)|null|
+|**2024-03-16**|**Object Retrieval for Visual Question Answering with Outside Knowledge**|Shichao Kan et.al.|[2403.10798v2](http://arxiv.org/abs/2403.10798v2)|[link](https://github.com/dengyuhai/ms-ugcml)|
+|**2025-06-30**|**Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**|Dewen Zeng et.al.|[2506.23460v1](http://arxiv.org/abs/2506.23460v1)|null|
+|**2025-06-27**|**A features-embedded-learning immersed boundary model for large-eddy simulation of turbulent flows with complex boundaries**|Zhideng Zhou et.al.|[2506.21985v1](http://arxiv.org/abs/2506.21985v1)|null|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v3](http://arxiv.org/abs/2412.19637v3)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
+|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135v4](http://arxiv.org/abs/2505.17135v4)|null|
+|**2025-06-17**|**Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size**|Soufiane Hayou et.al.|[2506.15025v1](http://arxiv.org/abs/2506.15025v1)|null|
+|**2025-06-17**|**Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places**|Xinglei Wang et.al.|[2506.14070v1](http://arxiv.org/abs/2506.14070v1)|[link](https://github.com/xlwang233/into-the-unknown)|
+|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307v1](http://arxiv.org/abs/2506.13307v1)|null|
+|**2025-06-12**|**Context-Adaptive Graph Neural Networks for Next POI Recommendation**|Yu Lei et.al.|[2506.10329v1](http://arxiv.org/abs/2506.10329v1)|null|
+|**2025-06-11**|**Probabilistic Variational Contrastive Learning**|Minoh Jeong et.al.|[2506.10159v1](http://arxiv.org/abs/2506.10159v1)|null|
+|**2025-06-09**|**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**|Yixuan Huang et.al.|[2506.07799v1](http://arxiv.org/abs/2506.07799v1)|[link](https://github.com/kiwi1944/LAEImager)|
+|**2025-06-08**|**Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment**|Pengfei Zhao et.al.|[2506.06970v1](http://arxiv.org/abs/2506.06970v1)|null|
+|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v3](http://arxiv.org/abs/2402.09769v3)|null|
+|**2024-03-03**|**DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes**|Zhende Song et.al.|[2403.01422v3](http://arxiv.org/abs/2403.01422v3)|null|
