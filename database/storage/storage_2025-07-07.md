@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-07 07:29:25 Asia/Shanghai
+ Automated deployment @ 2025-07-07 19:27:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -59,25 +59,6 @@
 
 ## Graph Model
 
-### Graphon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v4](http://arxiv.org/abs/2401.09030v4)|null|
-|**2025-07-01**|**Minority Representation in Network Rankings: Methods for Estimation, Testing, and Fairness**|Hui Shen et.al.|[2507.01136v1](http://arxiv.org/abs/2507.01136v1)|null|
-|**2025-07-01**|**Stochastic Graphon Games with Interventions**|Eyal Neuman et.al.|[2507.00561v1](http://arxiv.org/abs/2507.00561v1)|null|
-|**2023-04-08**|**Stochastic Graphon Games with Jumps and Approximate Nash Equilibria**|Hamed Amini et.al.|[2304.04112v2](http://arxiv.org/abs/2304.04112v2)|null|
-|**2025-06-17**|**The Shortest-Path distance on graphons**|Cédric Simal et.al.|[2506.14353v1](http://arxiv.org/abs/2506.14353v1)|null|
-|**2025-06-17**|**Network Cross-Validation for Nested Models by Edge-Sampling: Selection Consistency**|Bokai Yang et.al.|[2506.14244v1](http://arxiv.org/abs/2506.14244v1)|null|
-|**2025-06-16**|**Non-exchangeable mean-field theory for adaptive weights: propagation of chaos and graphon sampling lemma**|Datong Zhou et.al.|[2506.13587v1](http://arxiv.org/abs/2506.13587v1)|null|
-|**2025-06-13**|**Graphon Quantum Filtering Systems**|Hamed Amini et.al.|[2506.12249v1](http://arxiv.org/abs/2506.12249v1)|null|
-|**2025-06-13**|**Linear-quadratic stochastic nonzero-sum differential games between graphon teams**|De-xuan Xu et.al.|[2506.11468v1](http://arxiv.org/abs/2506.11468v1)|null|
-|**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v2](http://arxiv.org/abs/2503.03047v2)|null|
-|**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333v1](http://arxiv.org/abs/2506.08333v1)|null|
-|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212v1](http://arxiv.org/abs/2506.06212v1)|null|
-|**2025-06-06**|**Policy Optimization for Continuous-time Linear-Quadratic Graphon Mean Field Games**|Philipp Plank et.al.|[2506.05894v1](http://arxiv.org/abs/2506.05894v1)|null|
-|**2025-06-04**|**Convergence of spectra of digraph limits**|Jan Grebík et.al.|[2506.04426v1](http://arxiv.org/abs/2506.04426v1)|null|
-|**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206v1](http://arxiv.org/abs/2506.04206v1)|null|
-
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -116,26 +97,26 @@
 |**2025-06-24**|**Improved energy barrier in higher-dimensional hypergraph product codes**|Guangqi Zhao et.al.|[2506.19219v2](http://arxiv.org/abs/2506.19219v2)|null|
 |**2024-08-20**|**Colour-bias perfect matchings in hypergraphs**|Hiêp Hàn et.al.|[2408.11016v2](http://arxiv.org/abs/2408.11016v2)|null|
 
-## Embedding
-
-### Embedding Learning
+### Graphon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**Interact2Vec -- An efficient neural network-based model for simultaneously learning users and items embeddings in recommender systems**|Pedro R. Pires et.al.|[2506.22648v2](http://arxiv.org/abs/2506.22648v2)|null|
-|**2024-03-16**|**Object Retrieval for Visual Question Answering with Outside Knowledge**|Shichao Kan et.al.|[2403.10798v2](http://arxiv.org/abs/2403.10798v2)|[link](https://github.com/dengyuhai/ms-ugcml)|
-|**2025-06-30**|**Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**|Dewen Zeng et.al.|[2506.23460v1](http://arxiv.org/abs/2506.23460v1)|null|
-|**2025-06-27**|**A features-embedded-learning immersed boundary model for large-eddy simulation of turbulent flows with complex boundaries**|Zhideng Zhou et.al.|[2506.21985v1](http://arxiv.org/abs/2506.21985v1)|null|
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v3](http://arxiv.org/abs/2412.19637v3)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
-|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135v4](http://arxiv.org/abs/2505.17135v4)|null|
-|**2025-06-17**|**Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size**|Soufiane Hayou et.al.|[2506.15025v1](http://arxiv.org/abs/2506.15025v1)|null|
-|**2025-06-17**|**Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places**|Xinglei Wang et.al.|[2506.14070v1](http://arxiv.org/abs/2506.14070v1)|[link](https://github.com/xlwang233/into-the-unknown)|
-|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307v1](http://arxiv.org/abs/2506.13307v1)|null|
-|**2025-06-12**|**Context-Adaptive Graph Neural Networks for Next POI Recommendation**|Yu Lei et.al.|[2506.10329v1](http://arxiv.org/abs/2506.10329v1)|null|
-|**2025-06-11**|**Probabilistic Variational Contrastive Learning**|Minoh Jeong et.al.|[2506.10159v1](http://arxiv.org/abs/2506.10159v1)|null|
-|**2025-06-09**|**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**|Yixuan Huang et.al.|[2506.07799v1](http://arxiv.org/abs/2506.07799v1)|[link](https://github.com/kiwi1944/LAEImager)|
-|**2025-06-08**|**Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment**|Pengfei Zhao et.al.|[2506.06970v1](http://arxiv.org/abs/2506.06970v1)|null|
-|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v3](http://arxiv.org/abs/2402.09769v3)|null|
-|**2024-03-03**|**DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes**|Zhende Song et.al.|[2403.01422v3](http://arxiv.org/abs/2403.01422v3)|null|
+|**2024-01-17**|**Linear-Quadratic Graphon Mean Field Games with Common Noise**|De-xuan Xu et.al.|[2401.09030v4](http://arxiv.org/abs/2401.09030v4)|null|
+|**2025-07-01**|**Minority Representation in Network Rankings: Methods for Estimation, Testing, and Fairness**|Hui Shen et.al.|[2507.01136v1](http://arxiv.org/abs/2507.01136v1)|null|
+|**2025-07-01**|**Stochastic Graphon Games with Interventions**|Eyal Neuman et.al.|[2507.00561v1](http://arxiv.org/abs/2507.00561v1)|null|
+|**2023-04-08**|**Stochastic Graphon Games with Jumps and Approximate Nash Equilibria**|Hamed Amini et.al.|[2304.04112v2](http://arxiv.org/abs/2304.04112v2)|null|
+|**2025-06-17**|**The Shortest-Path distance on graphons**|Cédric Simal et.al.|[2506.14353v1](http://arxiv.org/abs/2506.14353v1)|null|
+|**2025-06-17**|**Network Cross-Validation for Nested Models by Edge-Sampling: Selection Consistency**|Bokai Yang et.al.|[2506.14244v1](http://arxiv.org/abs/2506.14244v1)|null|
+|**2025-06-16**|**Non-exchangeable mean-field theory for adaptive weights: propagation of chaos and graphon sampling lemma**|Datong Zhou et.al.|[2506.13587v1](http://arxiv.org/abs/2506.13587v1)|null|
+|**2025-06-13**|**Graphon Quantum Filtering Systems**|Hamed Amini et.al.|[2506.12249v1](http://arxiv.org/abs/2506.12249v1)|null|
+|**2025-06-13**|**Linear-quadratic stochastic nonzero-sum differential games between graphon teams**|De-xuan Xu et.al.|[2506.11468v1](http://arxiv.org/abs/2506.11468v1)|null|
+|**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v2](http://arxiv.org/abs/2503.03047v2)|null|
+|**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333v1](http://arxiv.org/abs/2506.08333v1)|null|
+|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212v1](http://arxiv.org/abs/2506.06212v1)|null|
+|**2025-06-06**|**Policy Optimization for Continuous-time Linear-Quadratic Graphon Mean Field Games**|Philipp Plank et.al.|[2506.05894v1](http://arxiv.org/abs/2506.05894v1)|null|
+|**2025-06-04**|**Convergence of spectra of digraph limits**|Jan Grebík et.al.|[2506.04426v1](http://arxiv.org/abs/2506.04426v1)|null|
+|**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206v1](http://arxiv.org/abs/2506.04206v1)|null|
+
+## Embedding
 
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
@@ -155,3 +136,22 @@
 |**2025-06-20**|**Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding**|Jongmin Park et.al.|[2506.16754v1](http://arxiv.org/abs/2506.16754v1)|null|
 |**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488v1](http://arxiv.org/abs/2506.14488v1)|null|
 |**2025-06-16**|**Rydberg blockade mechanism through the lens of graph theory: characterization and applications**|Elie Bermot et.al.|[2506.13228v1](http://arxiv.org/abs/2506.13228v1)|null|
+
+### Embedding Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**Interact2Vec -- An efficient neural network-based model for simultaneously learning users and items embeddings in recommender systems**|Pedro R. Pires et.al.|[2506.22648v2](http://arxiv.org/abs/2506.22648v2)|null|
+|**2024-03-16**|**Object Retrieval for Visual Question Answering with Outside Knowledge**|Shichao Kan et.al.|[2403.10798v2](http://arxiv.org/abs/2403.10798v2)|[link](https://github.com/dengyuhai/ms-ugcml)|
+|**2025-06-30**|**Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**|Dewen Zeng et.al.|[2506.23460v1](http://arxiv.org/abs/2506.23460v1)|null|
+|**2025-06-27**|**A features-embedded-learning immersed boundary model for large-eddy simulation of turbulent flows with complex boundaries**|Zhideng Zhou et.al.|[2506.21985v1](http://arxiv.org/abs/2506.21985v1)|null|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v3](http://arxiv.org/abs/2412.19637v3)|[link](https://github.com/AMD-AIG-AIMA/ReNeg)|
+|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135v4](http://arxiv.org/abs/2505.17135v4)|null|
+|**2025-06-17**|**Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size**|Soufiane Hayou et.al.|[2506.15025v1](http://arxiv.org/abs/2506.15025v1)|null|
+|**2025-06-17**|**Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places**|Xinglei Wang et.al.|[2506.14070v1](http://arxiv.org/abs/2506.14070v1)|[link](https://github.com/xlwang233/into-the-unknown)|
+|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307v1](http://arxiv.org/abs/2506.13307v1)|null|
+|**2025-06-12**|**Context-Adaptive Graph Neural Networks for Next POI Recommendation**|Yu Lei et.al.|[2506.10329v1](http://arxiv.org/abs/2506.10329v1)|null|
+|**2025-06-11**|**Probabilistic Variational Contrastive Learning**|Minoh Jeong et.al.|[2506.10159v1](http://arxiv.org/abs/2506.10159v1)|null|
+|**2025-06-09**|**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**|Yixuan Huang et.al.|[2506.07799v1](http://arxiv.org/abs/2506.07799v1)|[link](https://github.com/kiwi1944/LAEImager)|
+|**2025-06-08**|**Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment**|Pengfei Zhao et.al.|[2506.06970v1](http://arxiv.org/abs/2506.06970v1)|null|
+|**2024-02-15**|**Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v3](http://arxiv.org/abs/2402.09769v3)|null|
+|**2024-03-03**|**DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes**|Zhende Song et.al.|[2403.01422v3](http://arxiv.org/abs/2403.01422v3)|null|
