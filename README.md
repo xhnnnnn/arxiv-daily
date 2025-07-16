@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-16 07:30:09 Asia/Shanghai
+ Automated deployment @ 2025-07-16 19:29:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/xhnnnnn/arxiv-daily/blob/main/database/storage).
 
@@ -20,27 +20,54 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360v1](http://arxiv.org/abs/2507.10360v1)|null|
-|**2025-07-08**|**DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning**|Kaixiang Zhao et.al.|[2507.05649v2](http://arxiv.org/abs/2507.05649v2)|null|
-|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183v1](http://arxiv.org/abs/2507.10183v1)|null|
-|**2025-07-10**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541v2](http://arxiv.org/abs/2507.07541v2)|null|
-|**2024-08-27**|**Graph and Sequential Neural Networks in Session-based Recommendation: A Survey**|Zihao Li et.al.|[2408.14851v2](http://arxiv.org/abs/2408.14851v2)|null|
-|**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014v1](http://arxiv.org/abs/2507.10014v1)|null|
-|**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005v1](http://arxiv.org/abs/2507.10005v1)|null|
-|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890v1](http://arxiv.org/abs/2507.09890v1)|null|
-|**2024-11-21**|**Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference**|Yunhui Liu et.al.|[2411.14035v2](http://arxiv.org/abs/2411.14035v2)|[link](https://github.com/cloudy1225/hg2m)|
-|**2025-06-26**|**HaQGNN: Hardware-Aware Quantum Kernel Design Based on Graph Neural Networks**|Yuxiang Liu et.al.|[2506.21161v2](http://arxiv.org/abs/2506.21161v2)|null|
-|**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797v1](http://arxiv.org/abs/2507.09797v1)|null|
-|**2025-07-13**|**Do we need equivariant models for molecule generation?**|Ewa M. Nowara et.al.|[2507.09753v1](http://arxiv.org/abs/2507.09753v1)|null|
-|**2025-07-12**|**Joint Access Point Activation and Power Allocation for Cell-Free Massive MIMO Aided ISAC Systems**|Nguyen Xuan Tung et.al.|[2507.09425v1](http://arxiv.org/abs/2507.09425v1)|null|
-|**2025-07-12**|**Lightweight Graph Neural Networks for Enhanced 5G NR Channel Estimation**|Sajedeh Norouzi et.al.|[2507.09408v1](http://arxiv.org/abs/2507.09408v1)|null|
-|**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391v1](http://arxiv.org/abs/2507.09391v1)|null|
+|**2024-11-07**|**ComFairGNN: Community Fair Graph Neural Network**|Yonas Sium et.al.|[2411.04371v3](http://arxiv.org/abs/2411.04371v3)|null|
+|**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236v2](http://arxiv.org/abs/2505.01236v2)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467v1](http://arxiv.org/abs/2507.11467v1)|null|
+|**2025-01-15**|**Joint Detection and Decoding: A Graph Neural Network Approach**|Jannis Clausius et.al.|[2501.08871v3](http://arxiv.org/abs/2501.08871v3)|null|
+|**2024-02-20**|**TorchCP: A Python Library for Conformal Prediction**|Jianguo Huang et.al.|[2402.12683v3](http://arxiv.org/abs/2402.12683v3)|[link](https://github.com/ml-stat-sustech/torchcp)|
+|**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867v3](http://arxiv.org/abs/2407.10867v3)|[link](https://github.com/saper0/qpcert)|
+|**2025-07-04**|**AoI-Energy-Spectrum Optimization in Post-Disaster Powered Communication Intelligent Network via Hierarchical Heterogeneous Graph Neural Network**|Hanjian Liu et.al.|[2507.03401v2](http://arxiv.org/abs/2507.03401v2)|null|
+|**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399v3](http://arxiv.org/abs/2310.03399v3)|[link](https://github.com/dfdazac/grapes)|
+|**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057v1](http://arxiv.org/abs/2507.11057v1)|null|
+|**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053v1](http://arxiv.org/abs/2507.11053v1)|null|
+|**2025-03-12**|**Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v3](http://arxiv.org/abs/2503.09401v3)|null|
+|**2025-07-15**|**Graph-based Fingerprint Update Using Unlabelled WiFi Signals**|Ka Ho Chiu et.al.|[2507.11038v1](http://arxiv.org/abs/2507.11038v1)|null|
+|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790v2](http://arxiv.org/abs/2506.16790v2)|null|
+|**2024-08-17**|**SA-GDA: Spectral Augmentation for Graph Domain Adaptation**|Jinhui Pang et.al.|[2408.09189v2](http://arxiv.org/abs/2408.09189v2)|null|
+|**2025-07-15**|**GALDS: A Graph-Autoencoder-based Latent Dynamics Surrogate model to predict neurite material transport**|Tsung Yeh Hsieh et.al.|[2507.10871v1](http://arxiv.org/abs/2507.10871v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**Bayesian Model Selection and Uncertainty Propagation for Beam Energy Scan Heavy-Ion Collisions**|Syed Afrid Jahan et.al.|[2507.11394v1](http://arxiv.org/abs/2507.11394v1)|null|
+|**2025-07-15**|**How to rank imputation methods?**|Jeffrey Näf et.al.|[2507.11297v1](http://arxiv.org/abs/2507.11297v1)|null|
+|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v2](http://arxiv.org/abs/2506.18629v2)|null|
+|**2025-07-15**|**Can SMEFT discover New Physics?**|Martin Hirsch et.al.|[2507.11109v1](http://arxiv.org/abs/2507.11109v1)|null|
+|**2025-07-14**|**Constructing Confidence Intervals for Infinite-Dimensional Functional Prameters by Highly Adaptive Lasso**|Wenxin Zhang et.al.|[2507.10511v2](http://arxiv.org/abs/2507.10511v2)|null|
+|**2025-07-14**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015v2](http://arxiv.org/abs/2507.10015v2)|null|
+|**2024-08-05**|**Constraining viscous fluid models in $f(Q)$ gravity with data**|Shambel Sahlu et.al.|[2408.02775v4](http://arxiv.org/abs/2408.02775v4)|null|
+|**2025-01-09**|**Nullstrap: A Simple, High-Power, and Fast Framework for FDR Control in Variable Selection for Diverse High-Dimensional Models**|Changhu Wang et.al.|[2501.05012v2](http://arxiv.org/abs/2501.05012v2)|null|
+|**2025-07-15**|**Robust Bayesian high-dimensional variable selection and inference with the horseshoe family of priors**|Kun Fan et.al.|[2507.10975v1](http://arxiv.org/abs/2507.10975v1)|null|
+|**2023-11-13**|**High Dimensional Binary Choice Model with Unknown Heteroskedasticity or Instrumental Variables**|Fu Ouyang et.al.|[2311.07067v2](http://arxiv.org/abs/2311.07067v2)|null|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v3](http://arxiv.org/abs/2408.02060v3)|null|
+|**2025-07-13**|**Disentanglement and Assessment of Shortcuts in Ophthalmological Retinal Imaging Exams**|Leonor Fernandes et.al.|[2507.09640v1](http://arxiv.org/abs/2507.09640v1)|null|
+|**2025-07-13**|**Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring**|Noah Marchal et.al.|[2507.09460v1](http://arxiv.org/abs/2507.09460v1)|null|
+|**2023-02-09**|**An Epistemic and Aleatoric Decomposition of Arbitrariness to Constrain the Set of Good Models**|Falaah Arif Khan et.al.|[2302.04525v2](http://arxiv.org/abs/2302.04525v2)|null|
+|**2025-07-12**|**A General, Automated Method for Building Structural Tensors of Arbitrary Order for Anisotropic Function Representations**|Ravi G. Patel et.al.|[2507.09088v1](http://arxiv.org/abs/2507.09088v1)|null|
 
 ## Graph Model
 
 ### Hypergraph
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**HIF: The hypergraph interchange format for higher-order networks**|Martín Coll et.al.|[2507.11520v1](http://arxiv.org/abs/2507.11520v1)|null|
+|**2025-07-15**|**Perfect Matchings in Random Sparsifications of Dense Hypergraphs**|Jie Han et.al.|[2507.11359v1](http://arxiv.org/abs/2507.11359v1)|null|
+|**2022-07-21**|**Entropy-based models to randomize real-world hypergraphs**|Fabio Saracco et.al.|[2207.12123v3](http://arxiv.org/abs/2207.12123v3)|null|
+|**2025-07-15**|**FPT Parameterisations of Fractional and Generalised Hypertree Width**|Matthias Lanzinger et.al.|[2507.11080v1](http://arxiv.org/abs/2507.11080v1)|null|
+|**2025-06-26**|**Infinitely many counterexamples to a conjecture of Lovász**|Aida Abiad et.al.|[2506.21286v2](http://arxiv.org/abs/2506.21286v2)|null|
+|**2025-07-14**|**A Fast Coloring Oracle for Average Case Hypergraphs**|Cassandra Marcussen et.al.|[2507.10691v1](http://arxiv.org/abs/2507.10691v1)|null|
 |**2025-07-08**|**Hypergraphs without complete partite subgraphs**|Dhruv Mubayi et.al.|[2507.06390v2](http://arxiv.org/abs/2507.06390v2)|null|
 |**2023-09-09**|**A Sharp Ramsey Theorem for Ordered Hypergraph Matchings**|Lisa Sauermann et.al.|[2309.04813v3](http://arxiv.org/abs/2309.04813v3)|null|
 |**2025-07-14**|**p-Laplacians for Manifold-valued Hypergraphs**|Jo Andersson Stokke et.al.|[2507.10335v1](http://arxiv.org/abs/2507.10335v1)|null|
@@ -50,12 +77,25 @@
 |**2025-07-13**|**Polynomial-to-exponential transition in 3-uniform Ramsey numbers**|Ruben Ascoli et.al.|[2507.09434v1](http://arxiv.org/abs/2507.09434v1)|null|
 |**2025-07-11**|**Hypergraph Overlapping Community Detection for Brain Networks**|Duc Vu et.al.|[2507.08999v1](http://arxiv.org/abs/2507.08999v1)|null|
 |**2025-04-25**|**Tight Lower Bound for Multicolor Discrepancy**|Pasin Manurangsi et.al.|[2504.18489v2](http://arxiv.org/abs/2504.18489v2)|null|
-|**2025-07-11**|**Uncovering High-Order Cohesive Structures: Efficient (k,g)-Core Computation and Decomposition for Large Hypergraphs**|Dahee Kim et.al.|[2507.08328v1](http://arxiv.org/abs/2507.08328v1)|null|
-|**2025-07-11**|**Degree conditions for spanning expansion hypertrees**|Mengjiao Rao et.al.|[2507.08324v1](http://arxiv.org/abs/2507.08324v1)|null|
-|**2024-11-07**|**Finite models for positive combinatorial and exponential algebra**|Tumadhir Alsulami et.al.|[2411.05101v2](http://arxiv.org/abs/2411.05101v2)|null|
-|**2025-07-10**|**On the Complexity of Hyperpath and Minimal Separator Enumeration in Directed Hypergraphs**|Kazuhiro Kurita et.al.|[2507.07528v1](http://arxiv.org/abs/2507.07528v1)|null|
-|**2025-07-09**|**A simple proof of a $(p,2)$-theorem for non-piercing regions**|Chaya Keller et.al.|[2507.07269v1](http://arxiv.org/abs/2507.07269v1)|null|
-|**2023-11-21**|**Power saving for the Brown-Erdős-Sós problem**|Oliver Janzer et.al.|[2311.12765v2](http://arxiv.org/abs/2311.12765v2)|null|
+
+### Graph Embedding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057v1](http://arxiv.org/abs/2507.11057v1)|null|
+|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790v2](http://arxiv.org/abs/2506.16790v2)|null|
+|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890v1](http://arxiv.org/abs/2507.09890v1)|null|
+|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v2](http://arxiv.org/abs/2411.10000v2)|null|
+|**2025-07-10**|**Efficient and Adaptive Estimation of Local Triadic Coefficients**|Ilie Sarpe et.al.|[2507.07536v1](http://arxiv.org/abs/2507.07536v1)|null|
+|**2024-11-06**|**Stochastic homogenization of dynamical discrete optimal transport**|Peter Gladbach et.al.|[2411.04157v3](http://arxiv.org/abs/2411.04157v3)|null|
+|**2025-07-07**|**Verified Language Processing with Hybrid Explainability: A Technical Report**|Oliver Robert Fox et.al.|[2507.05017v1](http://arxiv.org/abs/2507.05017v1)|null|
+|**2025-07-04**|**Robustness of the Sauer-Spencer Theorem**|Peter Allen et.al.|[2507.03676v1](http://arxiv.org/abs/2507.03676v1)|null|
+|**2025-07-03**|**Fast variational knowledge graph embedding**|Pulak Ranjan Giri et.al.|[2507.02472v1](http://arxiv.org/abs/2507.02472v1)|null|
+|**2025-07-02**|**Embedding a Praeger-Xu graph into a surface**|Zhaochen Ding et.al.|[2507.01716v1](http://arxiv.org/abs/2507.01716v1)|null|
+|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064v3](http://arxiv.org/abs/2506.17064v3)|[link](https://github.com/adityasengar/ld-fpg)|
+|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644v2](http://arxiv.org/abs/2501.01644v2)|[link](https://github.com/hysonlab/biomedkg)|
+|**2024-05-30**|**Katsura-Exel-Pardo self-similar actions, Putnam's binary factors and their limit spaces**|Jeremy B. Hume et.al.|[2405.19863v2](http://arxiv.org/abs/2405.19863v2)|null|
+|**2024-12-06**|**Stochastic homogenisation of nonlinear minimum-cost flow problems**|Peter Gladbach et.al.|[2412.05217v3](http://arxiv.org/abs/2412.05217v3)|null|
+|**2024-10-29**|**Interplay of Cubic Graphs and Simplicial Surfaces**|Meike Weiß et.al.|[2410.22137v2](http://arxiv.org/abs/2410.22137v2)|null|
 
 ### Graphon
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,46 +115,6 @@
 |**2025-06-13**|**Linear-quadratic stochastic nonzero-sum differential games between graphon teams**|De-xuan Xu et.al.|[2506.11468v1](http://arxiv.org/abs/2506.11468v1)|null|
 |**2025-03-04**|**Stochastic block models with many communities and the Kesten--Stigum bound**|Byron Chin et.al.|[2503.03047v2](http://arxiv.org/abs/2503.03047v2)|null|
 |**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333v1](http://arxiv.org/abs/2506.08333v1)|null|
-
-### Graph Embedding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890v1](http://arxiv.org/abs/2507.09890v1)|null|
-|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v2](http://arxiv.org/abs/2411.10000v2)|null|
-|**2025-07-10**|**Efficient and Adaptive Estimation of Local Triadic Coefficients**|Ilie Sarpe et.al.|[2507.07536v1](http://arxiv.org/abs/2507.07536v1)|null|
-|**2024-11-06**|**Stochastic homogenization of dynamical discrete optimal transport**|Peter Gladbach et.al.|[2411.04157v3](http://arxiv.org/abs/2411.04157v3)|null|
-|**2025-07-07**|**Verified Language Processing with Hybrid Explainability: A Technical Report**|Oliver Robert Fox et.al.|[2507.05017v1](http://arxiv.org/abs/2507.05017v1)|null|
-|**2025-07-04**|**Robustness of the Sauer-Spencer Theorem**|Peter Allen et.al.|[2507.03676v1](http://arxiv.org/abs/2507.03676v1)|null|
-|**2025-07-03**|**Fast variational knowledge graph embedding**|Pulak Ranjan Giri et.al.|[2507.02472v1](http://arxiv.org/abs/2507.02472v1)|null|
-|**2025-07-02**|**Embedding a Praeger-Xu graph into a surface**|Zhaochen Ding et.al.|[2507.01716v1](http://arxiv.org/abs/2507.01716v1)|null|
-|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064v3](http://arxiv.org/abs/2506.17064v3)|[link](https://github.com/adityasengar/ld-fpg)|
-|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644v2](http://arxiv.org/abs/2501.01644v2)|[link](https://github.com/hysonlab/biomedkg)|
-|**2024-05-30**|**Katsura-Exel-Pardo self-similar actions, Putnam's binary factors and their limit spaces**|Jeremy B. Hume et.al.|[2405.19863v2](http://arxiv.org/abs/2405.19863v2)|null|
-|**2024-12-06**|**Stochastic homogenisation of nonlinear minimum-cost flow problems**|Peter Gladbach et.al.|[2412.05217v3](http://arxiv.org/abs/2412.05217v3)|null|
-|**2024-10-29**|**Interplay of Cubic Graphs and Simplicial Surfaces**|Meike Weiß et.al.|[2410.22137v2](http://arxiv.org/abs/2410.22137v2)|null|
-|**2025-06-25**|**OAK -- Onboarding with Actionable Knowledge**|Steve Devènes et.al.|[2507.02914v1](http://arxiv.org/abs/2507.02914v1)|null|
-|**2025-06-24**|**The Origami flip graph of the $2\times n$ Miura-ori**|Lumi Christensen et.al.|[2506.19700v1](http://arxiv.org/abs/2506.19700v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-14**|**Constructing Confidence Intervals for Infinite-Dimensional Functional Prameters by Highly Adaptive Lasso**|Wenxin Zhang et.al.|[2507.10511v1](http://arxiv.org/abs/2507.10511v1)|null|
-|**2025-07-14**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015v1](http://arxiv.org/abs/2507.10015v1)|null|
-|**2023-11-13**|**High Dimensional Binary Choice Model with Unknown Heteroskedasticity or Instrumental Variables**|Fu Ouyang et.al.|[2311.07067v2](http://arxiv.org/abs/2311.07067v2)|null|
-|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v3](http://arxiv.org/abs/2408.02060v3)|null|
-|**2025-07-13**|**Disentanglement and Assessment of Shortcuts in Ophthalmological Retinal Imaging Exams**|Leonor Fernandes et.al.|[2507.09640v1](http://arxiv.org/abs/2507.09640v1)|null|
-|**2025-07-13**|**Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring**|Noah Marchal et.al.|[2507.09460v1](http://arxiv.org/abs/2507.09460v1)|null|
-|**2025-07-12**|**A General, Automated Method for Building Structural Tensors of Arbitrary Order for Anisotropic Function Representations**|Ravi G. Patel et.al.|[2507.09088v1](http://arxiv.org/abs/2507.09088v1)|null|
-|**2025-07-11**|**Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation**|Paul Bastide et.al.|[2507.08734v1](http://arxiv.org/abs/2507.08734v1)|null|
-|**2025-04-14**|**Eigengap Sparsity for Covariance Parsimony**|Tom Szwagier et.al.|[2504.10110v2](http://arxiv.org/abs/2504.10110v2)|[link](https://github.com/tomszwagier/eigengap-sparsity)|
-|**2025-01-09**|**An Instrumental Variables Approach to Testing Firm Conduct under a Bertrand-Nash Framework**|Youngjin Hong et.al.|[2501.05022v4](http://arxiv.org/abs/2501.05022v4)|null|
-|**2025-07-11**|**RTNinja: a generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices**|Anirudh Varanasi et.al.|[2507.08424v1](http://arxiv.org/abs/2507.08424v1)|null|
-|**2025-07-10**|**Simultaneous Estimation and Model Choice for Big Discrete Time-to-Event Data with Additive Predictors**|Benjamin Müller et.al.|[2507.08099v1](http://arxiv.org/abs/2507.08099v1)|null|
-|**2025-07-10**|**Not All Preferences are What You Need for Post-Training: Selective Alignment Strategy for Preference Optimization**|Zhijin Dong et.al.|[2507.07725v1](http://arxiv.org/abs/2507.07725v1)|null|
-|**2025-07-09**|**Bayesian Double Descent**|Nick Polson et.al.|[2507.07338v1](http://arxiv.org/abs/2507.07338v1)|null|
-|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735v2](http://arxiv.org/abs/2410.01735v2)|[link](https://github.com/duykhuongnguyen/laser-mab)|
 
 ## Embedding
 
@@ -140,6 +140,8 @@
 ### Graph Embedding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057v1](http://arxiv.org/abs/2507.11057v1)|null|
+|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790v2](http://arxiv.org/abs/2506.16790v2)|null|
 |**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890v1](http://arxiv.org/abs/2507.09890v1)|null|
 |**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v2](http://arxiv.org/abs/2411.10000v2)|null|
 |**2025-07-10**|**Efficient and Adaptive Estimation of Local Triadic Coefficients**|Ilie Sarpe et.al.|[2507.07536v1](http://arxiv.org/abs/2507.07536v1)|null|
@@ -153,5 +155,3 @@
 |**2024-05-30**|**Katsura-Exel-Pardo self-similar actions, Putnam's binary factors and their limit spaces**|Jeremy B. Hume et.al.|[2405.19863v2](http://arxiv.org/abs/2405.19863v2)|null|
 |**2024-12-06**|**Stochastic homogenisation of nonlinear minimum-cost flow problems**|Peter Gladbach et.al.|[2412.05217v3](http://arxiv.org/abs/2412.05217v3)|null|
 |**2024-10-29**|**Interplay of Cubic Graphs and Simplicial Surfaces**|Meike Weiß et.al.|[2410.22137v2](http://arxiv.org/abs/2410.22137v2)|null|
-|**2025-06-25**|**OAK -- Onboarding with Actionable Knowledge**|Steve Devènes et.al.|[2507.02914v1](http://arxiv.org/abs/2507.02914v1)|null|
-|**2025-06-24**|**The Origami flip graph of the $2\times n$ Miura-ori**|Lumi Christensen et.al.|[2506.19700v1](http://arxiv.org/abs/2506.19700v1)|null|
