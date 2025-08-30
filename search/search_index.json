@@ -1,0 +1,1 @@
+{"config":{"lang":["en","ja"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"arxiv-daily","text":"<p>Automated deployment @ 2025-08-30 19:22:43 Asia/Shanghai</p> <p>Welcome to contribute! Add your topics and keywords in <code>topic.yml</code>. You can also view historical data through the storage.</p>"}]}
